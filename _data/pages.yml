@@ -1,5 +1,9 @@
 l:
   en:
+    home:
+      title: "Home"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/"
     about:
       title: "About"
       alt: "Lorem ipsum dolor sit amut."
@@ -12,15 +16,15 @@ l:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
       url: "/downloads/"
-    home:
-      title: "Home"
-      alt: "Lorem ipsum dolor sit amut."
-      url: "/"
     imprint:
       title: "Imprint"
       alt: "Lorem ipsum dolor sit amut."
       url: "/imprint/"
   de:
+    home:
+      title: "Startseite"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/startseite/"
     about:
       title: "Über uns"
       alt: "Lorem ipsum dolor sit amut."
@@ -33,10 +37,6 @@ l:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
       url: "/downloads_de/"
-    home:
-      title: "Startseite"
-      alt: "Lorem ipsum dolor sit amut."
-      url: "/startseite/"
     imprint:
       title: "Impressum"
       alt: "Lorem ipsum dolor sit amut."
