@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Home
 layout: default
 lang: en
 ref: index
