@@ -1,0 +1,43 @@
+l:
+  en:
+    about:
+      title: "About"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/about/"
+    contact:
+      title: "Contact"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/contact/"
+    downloads:
+      title: "Downloads"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/downloads/"
+    home:
+      title: "Home"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/"
+    imprint:
+      title: "Imprint"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/imprint/"
+  de:
+    about:
+      title: "Über uns"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/uber_uns/"
+    contact:
+      title: "Kontakt"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/kontakt/"
+    downloads:
+      title: "Downloads"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/downloads_de/"
+    home:
+      title: "Startseite"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/startseite/"
+    imprint:
+      title: "Impressum"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/impressum/"
