@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to *metrics!"
 date:   2017-03-02 13:14:10 +0100
 categories: test

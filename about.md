@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amut.
+(About) Lorem ipsum dolor sit amut.

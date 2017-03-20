@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$test: #f9f9f9;
+
+body {
+    background-color: $test;
+}
