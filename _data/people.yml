@@ -1,3 +1,9 @@
 - name: Lorem
+  url: http://sub.uni-goettingen.de
+  img:
+  mail: test@example.com
 
-- name: ipsum
+- name: Ipsum
+  url: http://sub.uni-goettingen.de
+  img:
+  mail: test@example.com
