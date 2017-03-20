@@ -5,5 +5,8 @@ permalink: /imprint/
 lang: en
 ref: imprint
 ---
-
-(Imprint) Lorem ipsum dolor sit amut.
+<ul>
+    {% for contact in site.data.people %}
+    <li>{{ contact.name }}<br><a href="mailto:{{ contact.mail }}">{{ contact.mail }}</a></li>
+    {% endfor %}
+</ul>
