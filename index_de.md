@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Index
-layout: default
-lang: en
+title: Startseite
+permalink: /startseite/
+lang: de
 ref: index
 ---
 (Index) Lorem ipsum dolor sit amut.
@@ -15,6 +15,8 @@ ref: index
     </li>
 {% endfor %}
 </ul>
+
+<hr>
 
 <ul>
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}

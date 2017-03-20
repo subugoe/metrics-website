@@ -1,0 +1,18 @@
+<a href="/">Home</a> | {{ page.title }}
+<nav>
+    <ul>
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+        <li>
+            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang | upcase }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+<nav>
+    <ul>
+        {% for menu in site.data.lang.t[page.lang] %}
+        <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>

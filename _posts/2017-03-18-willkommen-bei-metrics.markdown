@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Welcome to *metrics!"
+title:  "Willkommen bei *metrics!"
 date:   2017-03-02 13:14:10 +0100
 categories: test
-lang: en
+lang: de
 ref: welcome
 ---
 Lorem ipsum dolor sit amut.

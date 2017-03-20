@@ -1,0 +1,15 @@
+t:
+    en:
+        home:
+            name: "Home"
+            url: "/"
+        imprint:
+            name: "Imprint"
+            url: "/imprint/"
+    de:
+        home:
+            name: "Startseite"
+            url: "/startseite/"
+        imprint:
+            name: "Impressum"
+            url: "/impressum/"
