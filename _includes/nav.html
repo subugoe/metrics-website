@@ -1,18 +1,20 @@
-<a href="/">Home</a> | {{ page.title }}
+<a href="{{ site.baseurl }}{{ site.data.pages.l[page.lang].home.url }}" alt="{{ site.data.pages.l[page.lang].home.alt }}">{{ site.data.pages.l[page.lang].home.title }}</a>
 <nav>
     <ul>
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
         <li>
-            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang | upcase }}</a>
+            <a href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang | upcase }}</a>
         </li>
         {% endfor %}
     </ul>
 </nav>
+<h1>{{ page.title }}</h1>
+
 <nav>
     <ul>
-        {% for menu in site.data.lang.t[page.lang] %}
-        <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+        {% for menu in site.data.pages.l[page.lang] %}
+        <li><a href="{{ site.baseurl }}{{ menu[1].url }}" alt="{{ menu[1].alt }}">{{ menu[1].title }}</a></li>
         {% endfor %}
     </ul>
 </nav>
