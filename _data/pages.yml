@@ -20,6 +20,10 @@ l:
       title: "Imprint"
       alt: "Lorem ipsum dolor sit amut."
       url: "/imprint/"
+    news:
+      title: "News"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/news/"
   de:
     home:
       title: "Startseite"
@@ -41,3 +45,7 @@ l:
       title: "Impressum"
       alt: "Lorem ipsum dolor sit amut."
       url: "/impressum/"
+    news:
+      title: "Meldungen"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/meldungen/"

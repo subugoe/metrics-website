@@ -5,24 +5,9 @@ permalink: /startseite/
 lang: de
 ref: index
 ---
-(Index) Lorem ipsum dolor sit amut.
 
-{% assign posts=site.posts | where:"lang", page.lang %}
-<ul>
-{% for post in posts %}
-    <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+# &#42;metrics
 
-<hr>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<ul>
-{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-{% for post in posts %}
-  <li>
-    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-  </li>
-{% endfor %}
-</ul>
+{% include latest_news_index.html %}
