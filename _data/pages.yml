@@ -24,6 +24,10 @@ l:
       title: "News"
       alt: "Lorem ipsum dolor sit amut."
       url: "/news/"
+    registry:
+      title: "Registry"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/registry/"
   de:
     home:
       title: "Startseite"
@@ -49,3 +53,7 @@ l:
       title: "Meldungen"
       alt: "Lorem ipsum dolor sit amut."
       url: "/meldungen/"
+    registry:
+      title: "Registry"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/registry_de/"

@@ -1,0 +1,18 @@
+<table class="table">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>URL</td>
+            <td>Text</td>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in site.data.registry %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.url }}</td>
+            <td>{{ item.text[page.lang] }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+- name: "test 1"
+  url: "http://example.com/1"
+  text:
+    en: "(en) Lorem ipsum dolor sit amut."
+    de:  "(de) Lorem ipsum dolor sit amut."
+- name: "test 2"
+  url: "http://example.com/2"
+  text:
+    en: "(en) Lorem ipsum dolor sit amut."
+    de:  "(de) Lorem ipsum dolor sit amut."
+- name: "test 3"
+  url: "http://example.com/3"
+  text:
+    en: "(en) Lorem ipsum dolor sit amut."
+    de:  "(de) Lorem ipsum dolor sit amut."
