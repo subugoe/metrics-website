@@ -3,6 +3,7 @@ layout: post
 title: "Willkommen bei *metrics!"
 date: 2017-03-02 13:14:10 +0100
 categories: meldungen
+permalink: 2017-willkommen-bei-metrics.html
 lang: de
 ref: welcome
 date: 2017-03-18 16:16:01 +0100

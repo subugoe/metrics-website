@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Meldungen
-permalink: /meldungen/
-lang: de
+title: News
+permalink: /news.html
+lang: en
 ref: news
 ---
 {% include list_all_news.html %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Registry
-permalink: /registry/
+permalink: /registry.html
 lang: en
 ref: registry
 ---

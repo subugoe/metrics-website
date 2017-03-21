@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Impressum
-permalink: /impressum/
+permalink: /impressum.html
 lang: de
 ref: imprint
 ---

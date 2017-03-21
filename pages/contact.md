@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Kontakt
+title: Contact
+permalink: /contact.html
 layout: default
-lang: de
-permalink: /kontakt/
+lang: en
 ref: contact
 ---
 Lorem ipsum dolor sit amut.

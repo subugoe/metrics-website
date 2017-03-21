@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imprint
-permalink: /imprint/
+permalink: /imprint.html
 lang: en
 ref: imprint
 ---

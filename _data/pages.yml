@@ -1,59 +1,59 @@
 l:
   en:
-    home:
+    index:
       title: "Home"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/"
+      url: "/index.html"
     about:
       title: "About"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/about/"
+      url: "/about.html"
     contact:
       title: "Contact"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/contact/"
+      url: "/contact.html"
     downloads:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/downloads/"
+      url: "/downloads.html"
     imprint:
       title: "Imprint"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/imprint/"
+      url: "/imprint.html"
     news:
       title: "News"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/news/"
+      url: "/news.html"
     registry:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/registry/"
+      url: "/registry.html"
   de:
-    home:
+    index:
       title: "Startseite"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/startseite/"
+      url: "/startseite.html"
     about:
       title: "Über uns"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/uber_uns/"
+      url: "/uber_uns.html"
     contact:
       title: "Kontakt"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/kontakt/"
+      url: "/kontakt.html"
     downloads:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/downloads_de/"
+      url: "/downloads_de.html"
     imprint:
       title: "Impressum"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/impressum/"
+      url: "/impressum.html"
     news:
       title: "Meldungen"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/meldungen/"
+      url: "/meldungen.html"
     registry:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
-      url: "/registry_de/"
+      url: "/registry_de.html"
