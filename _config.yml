@@ -12,5 +12,9 @@ markdown: kramdown
 gems:
   - jekyll-feed
 exclude:
+  - node_modules
+  - package.json
+  - .editorconfig
+  - README.md
   - Gemfile
   - Gemfile.lock
