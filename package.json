@@ -1,0 +1,16 @@
+{
+  "name": "metrics",
+  "version": "0.0.1",
+  "description": "Lorem ipsum dolor sit amut.",
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "node-sass": "^4.5.1",
+    "postcss": "^5.2.16",
+    "postcss-cli": "^3.0.0"
+  },
+  "scripts": {
+    "css": "node-sass --output-style compressed --source-map-embed ~/dev/sub/metrics/_scss/style.scss > ~/dev/sub/metrics/css/style.css",
+    "prefix": "postcss --use autoprefixer -b 'last 2 versions' < ~/dev/sub/metrics/css/style.css | postcss --use cssnano > ~/dev/sub/metrics/css/style.min.css",
+    "build": "npm run css && npm run prefix"
+  }
+}
