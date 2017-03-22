@@ -4,38 +4,47 @@ l:
       title: "Home"
       alt: "Lorem ipsum dolor sit amut."
       url: "/index.html"
+      position:
     about:
       title: "About"
       alt: "Lorem ipsum dolor sit amut."
       url: "/about.html"
+      position: top
     contact:
       title: "Contact"
       alt: "Lorem ipsum dolor sit amut."
       url: "/contact.html"
+      position: bottom
     downloads:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
       url: "/downloads.html"
+      position: top
     imprint:
       title: "Imprint"
       alt: "Lorem ipsum dolor sit amut."
       url: "/imprint.html"
+      position: bottom
     news:
       title: "News"
       alt: "Lorem ipsum dolor sit amut."
       url: "/news.html"
+      position: top
     registry:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
       url: "/registry.html"
+      position: top
     workshops:
       title: "Workshops"
       alt: "Lorem ipsum dolor sit amut."
       url: "/workshops.html"
+      position: top
     sitemap:
       title: "Sitemap"
       alt: "Lorem ipsum dolor sit amut."
       url: "/sitemap.html"
+      position: bottom
   de:
     index:
       title: "Startseite"
@@ -45,31 +54,39 @@ l:
       title: "Über uns"
       alt: "Lorem ipsum dolor sit amut."
       url: "/uber_uns.html"
+      position: top
     contact:
       title: "Kontakt"
       alt: "Lorem ipsum dolor sit amut."
       url: "/kontakt.html"
+      position: bottom
     downloads:
       title: "Downloads"
       alt: "Lorem ipsum dolor sit amut."
       url: "/downloads_de.html"
+      position: top
     imprint:
       title: "Impressum"
       alt: "Lorem ipsum dolor sit amut."
       url: "/impressum.html"
+      position: bottom
     news:
       title: "Meldungen"
       alt: "Lorem ipsum dolor sit amut."
       url: "/meldungen.html"
+      position: top
     registry:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
       url: "/registry_de.html"
+      position: top
     workshops:
       title: "Workshops"
       alt: "Lorem ipsum dolor sit amut."
       url: "/workshops_de.html"
+      position: top
     sitemap:
       title: "Sitemap"
       alt: "Lorem ipsum dolor sit amut."
       url: "/sitemap_de.html"
+      position: bottom

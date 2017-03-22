@@ -1,5 +1,13 @@
-<div class="navbar text-right bg-primary mt-3">
-    <span class="text-small" style="color: white">
-        {{ site.data.lang.l[page.lang].copyright }}
-    </span>
-</div>
+<nav class="navbar navbar-toggleable-md navbar-inverse bg-primary mt-3">
+    <div class="navbar-collapse">
+        <ul class="navbar-nav">
+            {% for menu in site.data.pages.l[page.lang] %}
+            {% if menu[1].position == "bottom" %}
+            <li class="nav-item">
+                <a href="{{ site.baseurl }}{{ menu[1].url }}" alt="{{ menu[1].alt }}" class="nav-link">{{ menu[1].title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>
