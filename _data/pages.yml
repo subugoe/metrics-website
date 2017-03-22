@@ -32,6 +32,10 @@ l:
       title: "Workshops"
       alt: "Lorem ipsum dolor sit amut."
       url: "/workshops.html"
+    sitemap:
+      title: "Sitemap"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/sitemap.html"
   de:
     index:
       title: "Startseite"
@@ -65,3 +69,7 @@ l:
       title: "Workshops"
       alt: "Lorem ipsum dolor sit amut."
       url: "/workshops_de.html"
+    sitemap:
+      title: "Sitemap"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/sitemap_de.html"
