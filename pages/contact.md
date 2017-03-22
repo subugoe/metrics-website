@@ -6,4 +6,4 @@ layout: default
 lang: en
 ref: contact
 ---
-Lorem ipsum dolor sit amut.
+Kontakte: Projektadresse, Personen mit Email-Adresse und Bild

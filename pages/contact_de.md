@@ -6,4 +6,4 @@ lang: de
 permalink: /kontakt.html
 ref: contact
 ---
-Lorem ipsum dolor sit amut.
+Kontakte: Projektadresse, Personen mit Email-Adresse und Bild
