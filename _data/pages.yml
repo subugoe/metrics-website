@@ -28,6 +28,10 @@ l:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
       url: "/registry.html"
+    workshops:
+      title: "Workshops"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/workshops.html"
   de:
     index:
       title: "Startseite"
@@ -57,3 +61,7 @@ l:
       title: "Registry"
       alt: "Lorem ipsum dolor sit amut."
       url: "/registry_de.html"
+    workshops:
+      title: "Workshops"
+      alt: "Lorem ipsum dolor sit amut."
+      url: "/workshops_de.html"
