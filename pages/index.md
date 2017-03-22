@@ -4,6 +4,7 @@ title: Index
 permalink: /index.html
 lang: en
 ref: index
+comments: false
 ---
 
 # &#42;metrics

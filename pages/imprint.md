@@ -4,6 +4,7 @@ title: Imprint
 permalink: /imprint.html
 lang: en
 ref: imprint
+comments: false
 ---
 <ul>
     {% for contact in site.data.people %}

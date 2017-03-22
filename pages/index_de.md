@@ -4,6 +4,7 @@ title: Startseite
 permalink: /startseite.html
 lang: de
 ref: index
+comments: false
 ---
 
 # &#42;metrics
