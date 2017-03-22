@@ -6,5 +6,4 @@ lang: de
 ref: about
 comments: false
 ---
-
 (Über uns) Lorem ipsum dolor sit amut.
