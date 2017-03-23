@@ -1,5 +1,5 @@
 {% assign current_lang=page.lang %}
-
+{% assign pages=site.pages | where:"lang", page.lang %}
 <nav class="navbar navbar-toggleable-sm navbar-inverse bg-primary mb-4">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -11,11 +11,11 @@
     {% endif %}
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            {% for menu in site.data.pages.l[page.lang] %}
-            {% if menu[1].position == "top" %}
-            <li class="nav-item {% if menu[1].title == page.title %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ menu[1].url }}" alt="{{ menu[1].alt }}" class="nav-link ">{{ menu[1].title }}</a>
-            </li>
+            {% for item in pages %}
+            {% if item.position == "top" %}
+                <li class="nav-item {% if item.title == page.title %}active{% endif %}">
+                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="nav-link ">{{ item.title }}</a>
+                </li>
             {% endif %}
             {% endfor %}
         </ul>

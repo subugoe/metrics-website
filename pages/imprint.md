@@ -5,6 +5,8 @@ permalink: /imprint.html
 lang: en
 ref: imprint
 comments: false
+position: bottom
+alt: "Lorem ipsum dolor sit amut."
 ---
 <ul>
     {% for contact in site.data.people %}
