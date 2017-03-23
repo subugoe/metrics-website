@@ -1,13 +1,11 @@
 l:
   en:
     contact: "Contact"
-    copyright: "copyright (en)"
     home: "Home"
     imprint: "Imprint"
     news: "News"
   de:
     contact: "Kontakt"
-    copyright: "copyright (de)"
     home: "Startseite"
     imprint: "Impressum"
     news: "Meldungen"
