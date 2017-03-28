@@ -9,7 +9,7 @@ insert_final_newline = true
 [*.html]
 indent_size = 4
 
-[*.{json,yml,yaml}]
+[*.{json,yml,yaml,sass,scss}]
 indent_size = 2
 
 [*.{md,markdown}]
