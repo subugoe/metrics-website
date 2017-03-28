@@ -19,7 +19,7 @@
     "prefix": "postcss --use autoprefixer -b 'last 2 versions' < ~/dev/sub/metrics/css/style.css | postcss --use cssnano > ~/dev/sub/metrics/css/style.min.css",
     "watch:css": "nodemon -e scss -x \"npm run build:css\"",
     "build:css": "npm run sass && npm run prefix",
-    "watch:jekyll": "bundle exec jekyll b -w -I",
+    "watch:jekyll": "bundle exec jekyll b -w",
     "build:jekyll": "bundle exec jekyll b",
     "serve": "live-server --watch=$(PWD) --browser='Google Chrome' --open='/-metrics'",
     "all": "concurrently --kill-others \"npm run watch:css\" \"npm run watch:jekyll\" \"npm run serve\""
