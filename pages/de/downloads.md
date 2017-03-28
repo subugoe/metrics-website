@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Downloads
-permalink: /downloads_de.html
+permalink: /de/downloads/
 lang: de
 ref: downloads
 comments: false

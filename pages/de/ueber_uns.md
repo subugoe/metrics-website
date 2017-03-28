@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Über uns"
-permalink: /uber_uns.html
+permalink: /de/uber_uns/
 lang: de
 ref: about
 comments: false

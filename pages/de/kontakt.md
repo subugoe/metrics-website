@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Contact
-permalink: /contact.html
+title: Kontakt
 layout: default
-lang: en
+lang: de
+permalink: /de/kontakt/
 ref: contact
 comments: false
 position: bottom

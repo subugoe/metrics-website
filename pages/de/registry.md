@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Registry
-permalink: /registry.html
-lang: en
+permalink: /de/registry/
+lang: de
 ref: registry
 comments: false
 position: top

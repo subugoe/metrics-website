@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Sitemap
-permalink: /sitemap.html
-lang: en
+permalink: /de/sitemap/
+lang: de
 ref: sitemap
 comments: false
 position: bottom

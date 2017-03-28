@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshops
-permalink: /workshops.html
+permalink: /en/workshops/
 lang: en
 ref: workshops
 comments: false

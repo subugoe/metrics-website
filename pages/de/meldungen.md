@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meldungen
-permalink: /meldungen.html
+permalink: /de/meldungen/
 lang: de
 ref: news
 comments: false

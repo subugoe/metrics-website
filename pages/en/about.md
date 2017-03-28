@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about.html
+permalink: /en/about/
 lang: en
 ref: about
 comments: false

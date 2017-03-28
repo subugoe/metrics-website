@@ -3,7 +3,7 @@ layout: post
 title: "Test News"
 date: 2017-03-19 13:14:10 +0100
 categories: news
-permalink: 2017-test-news.html
+permalink: /en/news/2017-test-news/
 lang: en
 ref: test
 date: 2017-03-19 16:16:01 +0100
