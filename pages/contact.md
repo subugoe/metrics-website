@@ -5,7 +5,7 @@ permalink: /contact.html
 layout: default
 lang: en
 ref: contact
-comments: true
+comments: false
 position: bottom
 alt: "Lorem ipsum dolor sit amut."
 ---
