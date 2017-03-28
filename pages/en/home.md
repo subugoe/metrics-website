@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Startseite
-permalink: /de/startseite/
-lang: de
+title: Home
+permalink: /index.html
+lang: en
 ref: index
 comments: false
 position: 

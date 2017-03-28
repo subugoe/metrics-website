@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Workshops
-permalink: /de/workshops/
-lang: de
-ref: workshops
+title: Events
+permalink: /en/events/
+lang: en
+ref: events
 comments: false
 position: top
 alt: "Lorem ipsum dolor sit amut."

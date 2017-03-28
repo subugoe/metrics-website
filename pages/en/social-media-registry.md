@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Registry
-permalink: /en/registry/
+title: Social Media Registry
+permalink: /en/social-media-registry/
 lang: en
-ref: registry
+ref: social-media-registry
 comments: false
 position: top
 alt: "Lorem ipsum dolor sit amut."

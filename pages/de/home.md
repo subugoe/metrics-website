@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Index
-permalink: /index.html
-lang: en
+title: Home
+permalink: /de/home/
+lang: de
 ref: index
 comments: false
 position: 
