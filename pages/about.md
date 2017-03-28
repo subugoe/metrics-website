@@ -4,7 +4,7 @@ title: About
 permalink: /about.html
 lang: en
 ref: about
-comments: false
+comments: true
 position: top
 alt: "Lorem ipsum dolor sit amut."
 ---
