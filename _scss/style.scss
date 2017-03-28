@@ -1,11 +1,63 @@
+/* metrics */
 $metrics-orange: #ec6236;
 $metrics-purple: #3d325e;
 $metrics-blue: #449dd7;
 $metrics-grey: #9a9b9b;
-$spacer: 2rem;
-$font-weight-base: 1.25rem;
-$headings-color: #3d325e;
-$brand-primary: #3d325e;
-$link-color: $metrics-blue;
 
-@import "bootstrap";
+/* framework */
+// $spacer: 2rem;
+// $font-weight-base: 1.25rem;
+// $headings-color: #3d325e;
+// $brand-primary: #3d325e;
+// $link-color: $metrics-blue;
+
+$global-font-size: 20px;
+$global-lineheight: 1.75;
+// $primary-color: $metrics-purple;
+
+@import "../node_modules/foundation-sites/scss/foundation.scss";
+
+@include foundation-everything;
+
+// .n-mb-1 {
+//   margin-bottom: $global-margin;
+// }
+//
+// .n-mb-2 {
+//   margin-bottom: $global-margin * 1.5;
+// }
+
+.no-js {
+  @include breakpoint(small only) {
+    .top-bar {
+      display: none;
+    }
+  }
+
+  @include breakpoint(medium) {
+    .title-bar {
+      display: none;
+    }
+  }
+}
+
+$listName: 1, 2, 3, 4, 5, 6;
+$listSizes: 0.5, 1, 1.5, 2, 2.5, 3;
+
+@each $name in $listName {
+  .#{"n-mt-"}#{$name} {
+    #{"margin-top"}: #{nth($listSizes, $name) + "rem"};
+  }
+
+  .#{"n-mb-"}#{$name} {
+    #{"margin-bottom"}: #{nth($listSizes, $name) + "rem"};
+  }
+
+  .#{"n-pt-"}#{$name} {
+    #{"padding-top"}: #{nth($listSizes, $name) + "rem"};
+  }
+
+  .#{"n-pb-"}#{$name} {
+    #{"padding-bottom"}: #{nth($listSizes, $name) + "rem"};
+  }
+}

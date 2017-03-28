@@ -1,31 +1,38 @@
 {% assign current_lang=page.lang %}
-{% assign pages=site.pages | where:"lang", page.lang %}
-<nav class="navbar navbar-toggleable-sm navbar-inverse bg-primary mb-4">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    {% if page.lang == "de" %}
-    <a class="navbar-brand" href="{{ page.baseurl }}startseite.html">*metrics</a>
-    {% else %}
-    <a class="navbar-brand" href="{{ page.baseurl }}index.html">*metrics</a>
-    {% endif %}
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+
+<div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
+  <button class="menu-icon" type="button" data-toggle="example-menu"></button>
+  <div class="title-bar-title">Menu</div>
+</div>
+
+<div class="top-bar" id="example-menu">
+    <div class="top-bar-title">
+        {% if page.lang == "de" %}
+        <a class="" href="{{ page.baseurl }}startseite.html">*metrics</a>
+        {% else %}
+        <a class="" href="{{ page.baseurl }}index.html">*metrics</a>
+        {% endif %}
+    </div>
+    <nav class="top-bar-left">
+        <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
+            {% assign pages=site.pages | where:"lang", page.lang %}
             {% for item in pages %}
             {% if item.position == "top" %}
-                <li class="nav-item {% if item.title == page.title %}active{% endif %}">
-                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="nav-link ">{{ item.title }}</a>
-                </li>
+            <li class="{% if item.title == page.title %}active{% endif %}">
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="">{{ item.title }}</a>
+            </li>
             {% endif %}
             {% endfor %}
         </ul>
-        <ul class="navbar-nav">
+    </nav>
+    <nav class="top-bar-right">
+        <ul class="menu">
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in pages %}
-            <li class="nav-item">
-                <a href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }} nav-link {% if current_lang == page.lang %}active {% endif %}">{{ page.lang | upcase }}</a>
+            <li class="{% if current_lang == page.lang %}active{% endif %}">
+                <a href="{{ site.baseurl }}{{ page.url }}" class="">{{ page.lang | upcase }}</a>
             </li>
             {% endfor %}
         </ul>
-    </div>
-</nav>
+    </nav>
+</div>
