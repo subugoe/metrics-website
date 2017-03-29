@@ -20,8 +20,10 @@
     "watch:css": "nodemon -e scss -x \"npm run build:css\"",
     "build:css": "npm run sass && npm run prefix",
     "watch:jekyll": "bundle exec jekyll b -w",
-    "build:jekyll": "bundle exec jekyll b",
-    "serve": "live-server --watch=$(PWD) --browser='Google Chrome' --open='/-metrics'",
-    "all": "concurrently --kill-others --prefix \"[{name}]\" --names \"CSS,JEKYLL,SERVE\" \"npm run watch:css\" \"npm run watch:jekyll\" \"npm run serve\""
+    "build:jekyll": "bundle exec jekyll b -I",
+    "serve": "live-server --watch=$(PWD)/-metrics --browser='Google Chrome' --open='/-metrics'",
+    "run:css": "nodemon -e scss -x \"npm run build:css && npm run build:jekyll\"",
+    "run:jekyll": "nodemon -e md,html,markdown --delay 2 --ignore -metrics -x \"npm run build:jekyll\"",
+    "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"SERVE,SASS,JEKYLL\" \"npm run serve\" \"npm run run:css\" \"npm run run:jekyll\""
   }
 }
