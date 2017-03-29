@@ -19,14 +19,6 @@ $global-lineheight: 1.75;
 
 @include foundation-everything;
 
-// .n-mb-1 {
-//   margin-bottom: $global-margin;
-// }
-//
-// .n-mb-2 {
-//   margin-bottom: $global-margin * 1.5;
-// }
-
 .no-js {
   @include breakpoint(small only) {
     .top-bar {
