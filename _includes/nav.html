@@ -20,6 +20,14 @@
             {% if item.position == "top" %}
             <li class="{% if item.title == page.title %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="">{{ item.title }}</a>
+                {% if item.children %}
+                {% assign children=site.pages | where:"parent", item.ref %}
+                <ul class="menu vertical">
+                    {% for child in children %}
+                        <li><a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
             </li>
             {% endif %}
             {% endfor %}
