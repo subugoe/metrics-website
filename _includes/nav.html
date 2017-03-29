@@ -17,13 +17,15 @@
         <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" %}
             {% for item in pages %}
-            <li class="{% if item.title == page.title %}active{% endif %}">
+            <li class="{% if item.ref == page.ref or item.ref == page.parent %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="">{{ item.title }}</a>
                 {% if item.children %}
-                {% assign children=site.pages | where:"parent", item.ref %}
+                {% assign children=site.pages | where:"parent", item.ref | where:"lang", page.lang%}
                 <ul class="menu vertical">
                     {% for child in children %}
-                        <li><a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a></li>
+                        <li class="{% if child.ref == page.ref %}active{% endif %}">
+                            <a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a>
+                        </li>
                     {% endfor %}
                 </ul>
                 {% endif %}
