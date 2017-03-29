@@ -2,12 +2,12 @@
 <footer class="row columns expanded n-mt-4">
     <nav>
         <ul class="menu vertical medium-horizontal">
-                {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
-                {% for item in pages %}
-                <li class="{% if item.title == page.title %}active{% endif %}">
-                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
-                </li>
-                {% endfor %}
+            {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
+            {% for item in pages %}
+            <li class="{% if item.title == page.title %}active{% endif %}">
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
+            </li>
+            {% endfor %}
         </ul>
     </nav>
 </footer>
