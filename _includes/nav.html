@@ -15,9 +15,8 @@
     </div>
     <nav class="top-bar-left">
         <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
-            {% assign pages=site.pages | where:"lang", page.lang %}
+            {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" %}
             {% for item in pages %}
-            {% if item.position == "top" %}
             <li class="{% if item.title == page.title %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="">{{ item.title }}</a>
                 {% if item.children %}
@@ -29,7 +28,6 @@
                 </ul>
                 {% endif %}
             </li>
-            {% endif %}
             {% endfor %}
         </ul>
     </nav>
