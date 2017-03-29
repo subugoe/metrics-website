@@ -43,21 +43,15 @@ $header-color: $metrics-purple;
 
 $listName: 1, 2, 3, 4, 5, 6;
 $listSizes: 0.5, 1, 1.5, 2, 2.5, 3;
+$listAttr: "margin", "padding";
+$listDir: "top", "bottom", "left", "right";
 
-@each $name in $listName {
-  .#{"n-mt-"}#{$name} {
-    #{"margin-top"}: #{nth($listSizes, $name) + "rem"};
-  }
-
-  .#{"n-mb-"}#{$name} {
-    #{"margin-bottom"}: #{nth($listSizes, $name) + "rem"};
-  }
-
-  .#{"n-pt-"}#{$name} {
-    #{"padding-top"}: #{nth($listSizes, $name) + "rem"};
-  }
-
-  .#{"n-pb-"}#{$name} {
-    #{"padding-bottom"}: #{nth($listSizes, $name) + "rem"};
+@each $attr in $listAttr {
+  @each $name in $listName {
+    @each $dir in $listDir {
+      .#{$attr}#{"-"}#{$dir}#{"-"}#{$name} {
+        #{$attr}#{"-"}#{$dir}: #{nth($listSizes, $name) + "rem"};
+      }
+    }
   }
 }
