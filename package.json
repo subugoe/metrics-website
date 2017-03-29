@@ -22,6 +22,6 @@
     "watch:jekyll": "bundle exec jekyll b -w",
     "build:jekyll": "bundle exec jekyll b",
     "serve": "live-server --watch=$(PWD) --browser='Google Chrome' --open='/-metrics'",
-    "all": "concurrently --kill-others \"npm run watch:css\" \"npm run watch:jekyll\" \"npm run serve\""
+    "all": "concurrently --kill-others --prefix \"[{name}]\" --names \"CSS,JEKYLL,SERVE\" \"npm run watch:css\" \"npm run watch:jekyll\" \"npm run serve\""
   }
 }
