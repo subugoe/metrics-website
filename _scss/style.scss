@@ -13,7 +13,15 @@ $metrics-grey: #9a9b9b;
 
 $global-font-size: 20px;
 $global-lineheight: 1.75;
-// $primary-color: $metrics-purple;
+$foundation-palette: (
+  primary: $metrics-purple,
+  secondary: $metrics-orange,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+);
+
+$header-color: $metrics-purple;
 
 @import "../node_modules/foundation-sites/scss/foundation.scss";
 
