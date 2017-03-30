@@ -6,6 +6,7 @@ lang: en
 ref: about
 comments: false
 position: top
+order: 6
 alt: "Lorem ipsum dolor sit amut."
 ---
 (About) Lorem ipsum dolor sit amut.

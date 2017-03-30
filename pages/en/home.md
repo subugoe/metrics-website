@@ -5,7 +5,8 @@ permalink: /index.html
 lang: en
 ref: index
 comments: false
-position: 
+position: top
+order: 1
 alt: "Lorem ipsum dolor sit amut."
 ---
 # &#42;metrics
