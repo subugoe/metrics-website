@@ -35,7 +35,7 @@
     </nav>
     <nav class="top-bar-right">
         <ul class="menu">
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
             {% for page in pages %}
             <li class="{% if current_lang == page.lang %}active{% endif %}">
                 <a href="{{ site.baseurl }}{{ page.url }}" class="">{{ page.lang | upcase }}</a>
