@@ -63,3 +63,9 @@ $listDir: "top", "bottom", "left", "right";
     }
   }
 }
+
+table.small-stack {
+  @include breakpoint(small only) {
+    @include table-stack;
+  }
+}
