@@ -6,14 +6,7 @@
 </div>
 
 <div class="top-bar" id="example-menu">
-    <div class="top-bar-title">
-        {% if page.lang == "de" %}
-        <a class="" href="{{ site.baseurl }}/de/home/">*metrics</a>
-        {% else %}
-        <a class="" href="{{ site.baseurl }}/">*metrics</a>
-        {% endif %}
-    </div>
-    <nav class="top-bar-left">
+    <nav class="row columns">
         <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
             {% for item in pages %}
@@ -29,16 +22,6 @@
                     {% endfor %}
                 </ul>
                 {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
-    <nav class="top-bar-right">
-        <ul class="menu">
-            {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
-            {% for page in pages %}
-            <li class="{% if current_lang == page.lang %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ page.url }}" class="">{{ page.lang | upcase }}</a>
             </li>
             {% endfor %}
         </ul>

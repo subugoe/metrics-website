@@ -1,4 +1,53 @@
 {% include page_start.html %}
+
+{% assign current_lang = page.lang %}
+
+{% if page.ref == "index" %}
+{% assign is_home = "active" %}
+{% endif %}
+
+<div class="top-bar">
+    <div class="row columns">
+        <div class="top-bar-left">
+            <ul class="menu">
+                {% if page.lang == "de" %}
+                <li class="{{ is_home }}"><a href="{{ site.baseurl }}/de/home/" alt="">Startseite</a></li>
+                {% else %}
+                <li class="{{ is_home }}"><a href="{{ site.baseurl }}/" alt="">Home</a></li>
+                {% endif %}
+            </ul>
+        </div>
+        <div class="top-bar-right">
+            <ul class="menu">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+                {% for item in pages %}
+
+                    {% comment %}
+                        take care about which language link has to be displayed as active
+                    {% endcomment %}
+                    {% assign active_class = "" %}
+                    {% if current_lang == item.lang %}
+                        {% assign active_class = "active" %}
+                    {% endif %}
+
+                <li class="{{ active_class }}">
+                    <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
+                </li>
+
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row columns">
+    <h1 class="margin-top-2 margin-bottom-1">
+        {% if page.lang == "de" %}
+        <a class="" href="{{ site.baseurl }}/de/home/">{{ site.title }}</a>
+        {% else %}
+        <a class="" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        {% endif %}
+    </h1>
+</div>
 {% include nav.html %}
 <main class="row columns">
     <h1 class="margin-top-2">{{ page.title }}</h1>
