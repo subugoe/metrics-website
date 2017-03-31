@@ -1,6 +1,6 @@
 {% assign current_lang=page.lang %}
-<footer class="row columns margin-top-4">
-    <nav>
+<footer class="top-bar margin-top-4">
+    <nav class="row columns text-center">
         <ul class="menu vertical medium-horizontal">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
             {% for item in pages %}
