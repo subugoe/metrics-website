@@ -8,6 +8,13 @@
 <div class="top-bar" id="example-menu">
     <nav class="row columns">
         <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
+            <li class="{{ is_home }} show-for-small-only">
+                {% if page.lang == "de" %}
+                <a href="{{ site.baseurl }}/de/home/" alt="">Startseite</a></li>
+                {% else %}
+                <a href="{{ site.baseurl }}/" alt="">Home</a>
+                {% endif %}
+            </li>
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
             {% for item in pages %}
             <li class="{% if item.ref == page.ref or item.ref == page.parent %}active{% endif %}">
@@ -23,6 +30,24 @@
                 </ul>
                 {% endif %}
             </li>
+            {% endfor %}
+        </ul>
+        <ul class="menu show-for-small-only">
+            {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+            {% for item in pages %}
+
+                {% comment %}
+                    take care about which language link has to be displayed as active
+                {% endcomment %}
+                {% assign active_class = "" %}
+                {% if current_lang == item.lang %}
+                    {% assign active_class = "active" %}
+                {% endif %}
+
+            <li class="{{ active_class }} show-for-small-only">
+                <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
+            </li>
+
             {% endfor %}
         </ul>
     </nav>
