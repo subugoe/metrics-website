@@ -5,6 +5,7 @@ date: 2017-03-02 13:14:10 +0100
 categories: news
 permalink: /en/news/2017-welcome-to-metrics/
 lang: en
+parent: news
 ref: welcome
 date: 2017-03-18 16:16:01 +0100
 ---
