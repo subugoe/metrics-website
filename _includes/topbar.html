@@ -1,0 +1,33 @@
+<div class="top-bar show-for-medium">
+    <div class="row columns">
+        <div class="clearfix">
+            <ul class="menu float-left">
+                <li class="{{ is_home }}">
+                    {% if page.lang == "de" %}
+                    <a href="{{ site.baseurl }}/de/home/" alt="">Startseite</a>
+                    {% else %}
+                    <a href="{{ site.baseurl }}/" alt="">Home</a>
+                    {% endif %}
+                </li>
+            </ul>
+            <ul class="menu float-right">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+                {% for item in pages %}
+
+                    {% comment %}
+                        take care about which language link has to be displayed as active
+                    {% endcomment %}
+                    {% assign active_class = "" %}
+                    {% if current_lang == item.lang %}
+                        {% assign active_class = "active" %}
+                    {% endif %}
+
+                <li class="{{ active_class }}">
+                    <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
+                </li>
+
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
