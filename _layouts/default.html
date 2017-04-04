@@ -33,20 +33,12 @@
                 <li class="{{ active_class }}">
                     <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
                 </li>
+{% include hero.html %}
 
                 {% endfor %}
             </ul>
         </div>
     </div>
-</div>
-<div class="row columns">
-    <h1 class="margin-top-2 margin-bottom-1">
-        {% if page.lang == "de" %}
-        <a class="" href="{{ site.baseurl }}/de/home/">{{ site.title }}</a>
-        {% else %}
-        <a class="" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        {% endif %}
-    </h1>
 </div>
 {% include nav.html %}
 <main class="row columns">
