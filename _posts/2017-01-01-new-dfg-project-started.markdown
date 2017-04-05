@@ -14,7 +14,7 @@ On 1 January 2017 the DFG-funded project *metrics - MEasuring The Reliability an
 ![Gruppenfoto](/img/gruppenfoto.png "Gruppenfoto"){: style="min-width: 100%" }
 
 <div class="callout" markdown="1">
-### Fakten
+## Fakten
 Status: active  
 Laufzeit: 01.01.2017 - 31.12.2018  
 Schlagwörter: Electronic Publishing, Open Access, Metrics  
