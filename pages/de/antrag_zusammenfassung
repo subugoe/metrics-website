@@ -1,3 +1,14 @@
+---
+layout: default
+title: "Projektantrag"
+permalink: /de/uber_uns/antrag
+lang: de
+ref: antrag
+comments: false
+position: top
+order: 1
+alt: "Zusammenfassung des Projektantrages"
+---
 
 Das Hauptanliegen des Projektvorhabens ist es, ein tieferes
 Verständnis von *metrics zu entwickeln, insbesondere im Hinblick auf
