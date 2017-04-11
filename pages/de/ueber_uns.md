@@ -4,6 +4,7 @@ title: "Über uns"
 permalink: /de/uber_uns/
 lang: de
 ref: about
+children: true
 comments: false
 position: top
 order: 6
