@@ -4,6 +4,7 @@ title: About
 permalink: /en/about/
 lang: en
 ref: about
+children: true
 comments: false
 position: top
 order: 6
