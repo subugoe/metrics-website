@@ -12,18 +12,26 @@
     "live-server": "^1.2.0",
     "node-sass": "^4.5.1",
     "postcss": "^5.2.16",
-    "postcss-cli": "^3.0.0"
+    "postcss-cli": "^3.0.0",
+    "pretty-exceptions": "^1.1.2"
   },
   "scripts": {
     "sass": "node-sass --output-style compressed --source-map-embed ~/dev/sub/metrics/_scss/style.scss > ~/dev/sub/metrics/css/style.css",
     "prefix": "postcss --use autoprefixer -b 'last 2 versions' < ~/dev/sub/metrics/css/style.css | postcss --use cssnano > ~/dev/sub/metrics/css/style.min.css",
+    "sass_build": "node-sass --output-style compressed ~/dev/sub/metrics/_scss/style.scss > ~/dev/sub/metrics/css/style.css",
+    "sass_raw": "node-sass --output-style expanded --source-map-embed ~/dev/sub/metrics/_scss/style.scss > ~/dev/sub/metrics/css/style.css",
+    "prefix_raw": "postcss --use autoprefixer -b 'last 2 versions' < ~/dev/sub/metrics/css/style.min.css",
+    "prefix_build": "postcss --no-map --use autoprefixer -b 'last 2 versions' < ~/dev/sub/metrics/css/style.css | postcss --no-map --use cssnano > ~/dev/sub/metrics/css/style.min.css",
     "watch:css": "nodemon -e scss -x \"npm run build:css\"",
     "build:css": "npm run sass && npm run prefix",
     "watch:jekyll": "bundle exec jekyll b -w",
     "build:jekyll": "bundle exec jekyll b -I",
-    "serve": "live-server --watch=$(PWD)/-metrics --browser='Google Chrome' --open='/-metrics'",
+    "jekyll_build": "bundle exec jekyll b",
+    "serve": "live-server --watch=$(PWD)/metrics-website --browser='Google Chrome' --open='/metrics-website'",
     "run:css": "nodemon -e scss -x \"npm run build:css && npm run build:jekyll\"",
-    "run:jekyll": "nodemon -e md,html,markdown --delay 2 --ignore -metrics -x \"npm run build:jekyll\"",
-    "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"SERVE,SASS,JEKYLL\" \"npm run serve\" \"npm run run:css\" \"npm run run:jekyll\""
+    "run:jekyll": "nodemon -e md,html,markdown --delay 2 --ignore metrics-website -x \"npm run build:jekyll\"",
+    "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"SERVE,SASS,JEKYLL\" \"npm run serve\" \"npm run run:css\" \"npm run run:jekyll\"",
+    "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
+    "cleanup": "trash metrics-website"
   }
 }
