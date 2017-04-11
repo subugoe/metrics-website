@@ -1,17 +1,17 @@
----
+﻿---
 layout: default
-title: About
+title: "About"
 permalink: /en/about/proposal
 lang: en
 parent: about
-ref: proposal_summary
+ref: proposal
 comments: false
-position: top
+position:
 order: 1
 alt: "Proposal Summary"
 ---
 
-## Hier eine Überschrift zweiter Ebene
+## Proposal Summary
 
 The main objective of this project proposal is to develop a deeper
 understanding of *metrics, especially in terms of their general
