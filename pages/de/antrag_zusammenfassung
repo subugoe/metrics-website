@@ -4,6 +4,7 @@ title: "Projektantrag"
 permalink: /de/uber_uns/antrag
 lang: de
 ref: antrag
+parent: about
 comments: false
 position: top
 order: 1
