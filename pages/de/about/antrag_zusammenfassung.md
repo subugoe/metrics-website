@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Projektantrag"
-permalink: /de/uber_uns/antrag
+permalink: /de/uber_uns/antrag/
 lang: de
 parent: about
 ref: proposal

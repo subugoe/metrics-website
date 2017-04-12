@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Team"
-permalink: /de/uber_uns/team
+permalink: /de/uber_uns/team/
 lang: de
 ref: team
 parent: about
