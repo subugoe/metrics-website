@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Proposal summary"
-permalink: /en/about/proposal
+permalink: /en/about/proposal/
 lang: en
 parent: about
 ref: proposal
