@@ -14,6 +14,8 @@ alt: "Vorstellung des Projektteams"
 ## Projektpartner
 ![Logo Gesis]({{ site.url }}/img/logos/logo_gesis.png "Logo Gesis"){: style="min-width: 100%" }
 
+<span>&#8258;</span>
+
 ## MitarbeiterInnen
 
 {% include people.html %}

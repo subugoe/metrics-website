@@ -11,7 +11,7 @@ date: 2017-01-01 00:00:01 +0100
 ---
 On 1 January 2017 the DFG-funded project *metrics - MEasuring The Reliability and Perceptions of Indicators for interactions with sCientific productS has been launched. The partners (Göttingen State and University Library (SUB Göttingen), ZBW – Leibniz Information Centre for Economics, GESIS Leibniz-Institute for the Social Sciences and Verbundzentrale des gemeinsamen Bibliotheksverbunds (VZG) - common library network of seven German federal states) discussed the objectives and activities for the next two years in a kick-off meeting on 1 and 2 February 2017 in Göttingen.
 
-![Gruppenfoto](/img/gruppenfoto.png "Gruppenfoto"){: style="min-width: 100%" }
+![Gruppenfoto](/img/bilder_team/gruppenfoto.png "Gruppenfoto"){: style="min-width: 100%" }
 
 <div class="callout" markdown="1">
 ## Fakten
