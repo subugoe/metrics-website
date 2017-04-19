@@ -1,58 +1,58 @@
 - name: Andreas Krausz
   url: http://www.gbv.de
-  img:
+  img: /img/bilder_team/image_maxie_gottschling.jpg
   mail: Andreas.Krausz@gbv.de
-  
+
 - name: Michael Kusche
   url: http://www.gbv.de
   img:
   mail: michael.kusche@gbv.de
-  
+
 - name: Diana Lindner
   url: http://www.gesis.org
   img:
   mail: diana.lindner@gesis.org
-  
+
 - name: Katrin Weller
   url: http://www.gesis.org
   img:
   mail: Katrin.Weller@gesis.org
-  
+
 - name: Olga Zagovora
   url: http://www.gesis.org
   img:
-  mail: olga.zagovora@gesis.org 	
-  
+  mail: olga.zagovora@gesis.org
+
 - name: Maxie Gottschling
   url: http://sub.uni-goettingen.de
   img:
   mail: gottschling@sub.uni-goettingen.de
-  
+
 - name: Astrid Orth
   url: http://sub.uni-goettingen.de
   img:
   mail: orth@sub.uni-goettingen.de
-  
+
 - name: Daniel Beucke
   url: http://sub.uni-goettingen.de
   img:
   mail: beucke@sub.uni-goettingen.de
-  
+
 - name: Maryam Mehrazar
   url: http://www.zbw.eu
   img:
   mail: m.mehrazar@zbw.eu
-  
+
 - name: Steffen Lemke
   url: http://www.zbw.eu
   img:
   mail: S.Lemke@zbw.eu
-  
+
 - name: Athanasios Mazarakis
   url: http://www.zbw.eu
   img:
   mail: a.mazarakis@zbw.eu
-  
+
 - name: Isabella Peters
   url: http://www.zbw.eu
   img:
