@@ -2,8 +2,8 @@
 layout: post
 title: "*metrics at Open Science Barcamp 2017"
 categories: news
-permalink: /en/news/2017-03-20-metrics-at-ocsibar17/
-lang: en
+permalink: /en/meldungen/2017-03-20-metrics-auf-dem-oscibar17/
+lang: de
 parent: news
 ref: news-oscibar17
 date: 2017-03-20 00:00:01 +0100
