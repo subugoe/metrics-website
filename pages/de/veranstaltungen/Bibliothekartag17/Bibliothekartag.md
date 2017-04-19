@@ -3,11 +3,11 @@ layout: default
 title: "Bibliothekartag 2017"
 permalink: /de/veranstaltungen/bibliothekartag2017/
 lang: de
-ref: bibtag
+ref: bibtag17
 parent: events
 children: true
 comments: false
-position: 
+position:
 order: 2
 alt: "Bibliothekartag 2017"
 ---
