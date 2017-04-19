@@ -12,7 +12,7 @@ alt: "Vorstellung des Projektteams"
 ---
 
 ## Projektpartner
-![Logo Gesis]({{ site.url }}/img/logo_gesis.svg.png "Logo Gesis"){: style="min-width: 100%" }
+![Logo Gesis]({{ site.url }}/img/logos/logo_gesis.svg.png "Logo Gesis"){: style="min-width: 100%" }
 
 ## MitarbeiterInnen
 
