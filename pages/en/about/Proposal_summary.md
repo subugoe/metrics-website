@@ -25,7 +25,7 @@ media platforms and \*metrics, building a "Social Media Registry", which will un
 by the the scientific community in cooperation with the project members. The second approach includes the assessment of \*metrics
 technical foundations, to be carried out in Work Package 2 "Technological Analysis for the Collection and Provision of \*metrics".
 This methodological work will be supported by a scientific committee and accompanied by community building and public relations
-activities, the creation of new links with national and international initiatives (e.g. COAR, NISO) and the establishment of a \*metrics
+activities, the creation of new links with national and international initiatives (e.g. [COAR](https://www.coar-repositories.org/), [NISO](http://www.niso.org/home/)) and the establishment of a \*metrics
 information platform (Work Package 3 "Community Building").
 
 The goal here is to take advantage of the project partners excellent networks in order to enable the early dissemination of project results to community members and hence the gathering of stakeholder feedback.
