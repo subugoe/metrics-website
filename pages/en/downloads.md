@@ -20,13 +20,18 @@ Download (ohne Registrierung): Projektergebnisse und –material z. B. Antrag (g
 * Milestone Report XY (PDF)  
 
 ### Marketing materials  
-* Logo 1  
-* Logo 2  
-* Logo 3  
-* Logo Fact Sheet (PDF)  
-* Brochure "Project Summary"
-* Poster  
-* Flyer  
+* [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
+* [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)  
+* [Logo square (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)  
+* [Logo square (EPS)]({{ site.url }}/downloads/logo_quadratisch.eps)  
+* [Logo greyscale (PDF)]({{ site.url }}/downloads/logo_graustufen.pdf)  
+* [Logo grayscale (EPS)]({{ site.url }}/downloads/logo_graustufen.eps)  
+* [Logo black-and-white (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
+* [Logo black-and-white (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
+* [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
+* [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)  
+* Poster (coming soon)  
+* Flyer (coming soon) 
 
 ### Presentations  
 
