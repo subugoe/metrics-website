@@ -23,7 +23,7 @@ Download (ohne Registrierung): Projektergebnisse und –material z. B. Antrag (g
 * Logovariante 1  
 * Logovariante 2  
 * Logovariante 3  
-* Logo Fact Sheet (PDF)  
+* [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)  
 * Handreichung "Projektzusammenfassung"
 * Poster  
 * Flyer  
