@@ -12,12 +12,7 @@
 
 {% include nav.html %}
 
-<main class="row">
-    <div class="columns large-8 large-centered medium-10 medium-centered">
-        <h1 class="margin-top-2">{{ page.title }}</h1>
-        {{ content }}
-    </div>
-</main>
+{{ content }}
 
 {% if page.comments == true %}
 {% include comments.html %}
