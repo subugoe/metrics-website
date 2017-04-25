@@ -1,15 +1,8 @@
-/* metrics */
+/* metrics CI */
 $metrics-orange: #ec6236;
 $metrics-purple: #3d325e;
 $metrics-blue: #449dd7;
 $metrics-grey: #9a9b9b;
-
-/* framework */
-// $spacer: 2rem;
-// $font-weight-base: 1.25rem;
-// $headings-color: #3d325e;
-// $brand-primary: #3d325e;
-// $link-color: $metrics-blue;
 
 // http://booking.stfi.re/implementing-system-fonts-on-booking-com-a-lesson-learned-bdc984df627f
 $body-font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Roboto, Helvetica, Arial, sans-serif;
@@ -126,8 +119,6 @@ table.small-stack {
     width: 25px;
   }
 
-  // @extend .margin-right-0;
-
   @include breakpoint(medium only) {
     display: block;
     text-align: center;
@@ -143,16 +134,43 @@ table.small-stack {
 .top-bar {
   // border-bottom: 5px solid $metrics-purple;
   padding-bottom: 0;
+  // background-color: $metrics-purple;
+
+  .dropdown {
+    @include breakpoint(medium only) {
+      a {
+        padding: 0 0.5rem;
+      }
+    }
+
+    @include breakpoint(medium) {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: center;
+    }
+  }
 
   nav {
-    border-bottom: 5px solid $metrics-purple;
+
+    // border-bottom: 5px solid $metrics-purple;
 
     .active {
-      // bottom: -5px;
-
       a {
-        border-bottom: 5px solid $metrics-blue;
+        // border-bottom: 5px solid $metrics-blue;
       }
     }
   }
+}
+
+.claim {
+  font-weight: 500;
+  font-size: 1.33rem;
+  line-height: 1.33;
+
+  @extend .margin-top-4;
+}
+
+.menu_title {
+  white-space: nowrap;
+  text-align: center;
 }
