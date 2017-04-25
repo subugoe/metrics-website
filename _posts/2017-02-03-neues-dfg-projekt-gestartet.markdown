@@ -7,7 +7,6 @@ permalink: /de/meldungen/2017-neues-dfg-projekt-gestartet/
 parent: news
 lang: de
 ref: welcome
-date: 2017-02-03 00:00:01 +0200
 ---
 Am 1.1.2017 ist das DFG-geförderte Projekt \*metrics – Measuring The Reliability and perceptions of Indicators for interactions with sCientific productS gestartet. In einem Kick-Off-Meeting am 1. und 2. Februar 2017 in Göttingen haben die Partner (Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutsche Zentralbibliothek für Wirtschaftswissenschaften (ZBW) – LeibnizInformationszentrum Wirtschaft, GESIS Leibniz-Institut für Sozialwissenschaften und die Verbundzentrale des Gemeinsamen Bibliotheksverbunds (VZG) ) die Projektziele und Aktivitäten für die nächsten zwei Jahre besprochen.
 
