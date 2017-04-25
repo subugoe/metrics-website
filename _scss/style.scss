@@ -33,7 +33,8 @@ $breakpoints: (
 
 $grid-row-width: 960px;
 
-$header-color: $metrics-purple;
+// $header-color: $metrics-purple;
+$header-lineheight: 1.1;
 
 @import "../node_modules/foundation-sites/scss/foundation.scss";
 
@@ -50,6 +51,19 @@ $header-color: $metrics-purple;
     .title-bar {
       display: none;
     }
+  }
+}
+
+main {
+  a {
+    color: $metrics-purple;
+    font-weight: 600;
+  }
+
+  a::after {
+    content: "+";
+    vertical-align: super;
+    font-size: 75%;
   }
 }
 
