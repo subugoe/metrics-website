@@ -11,5 +11,4 @@ position:
 order: 2
 alt: "Bibliothekartag 2017"
 ---
-
 \*metrics-Projekt ist auf dem Bibliothekartag 2017 vertreten.

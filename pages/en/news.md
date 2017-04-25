@@ -9,5 +9,4 @@ position: top
 order: 2
 alt: "News about the project."
 ---
-
 {% include list_all_news.html %}

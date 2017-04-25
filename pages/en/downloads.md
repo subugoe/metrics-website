@@ -9,7 +9,6 @@ position: top
 order: 5
 alt: "Download of project-related and subject-related materials."
 ---
-
 ## Project-related materials  
 
 ### Project proposal  

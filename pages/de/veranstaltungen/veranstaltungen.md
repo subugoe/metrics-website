@@ -15,7 +15,6 @@ Auf den folgenden Veranstaltungen ist das \*metrics-Projekt vertreten:
 * International Open Science Conference 2017, Berlin
 * Bibliothekartag 2017 in Frankfurt
 
-
 /* Folgendes sollte eigentlich hierher: (solange keine eigenen Workshops, bessere auf andere Veranstaltungen verlinken)
 
 Unterstützung von 2 Projekt-Workshops: Einladung, Programm, Vorträge, Ergebnisse */

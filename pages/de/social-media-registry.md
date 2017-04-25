@@ -9,17 +9,12 @@ position: top
 order: 40
 alt: "Die Social Media Registry beleuchtet die Funktionalitäten der Social-Media-Dienste, deren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung der Wissenschaftskommunikation."
 ---
-
-
-
-
 Social-Media-Registry: detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und Vergleich der verschiedenen Funktionen (Design, Anbindung und Pflege einer Datenbank)
 
 Ergänzend kommt eine
 Analyse des Status Quo der Social-Media-Plattformen und *metrics hinzu, das sogenannte Social-
 Media-Registry, das die Basis für beide Ansätze bildet und in Kooperation der Projektmitglieder mit der
 wissenschaftlichen Fachcommunity erstellt wird.
-
 
 AP 1.1: Social-Media-Registry für die Wissenschaft erstellen
 Es wird ein zweisprachiges (deutsch/englisch) Social-Media-Registry erstellt, das insbesondere die
