@@ -21,20 +21,9 @@
             {% include comments.html %}
         {% endif %}
 
-        {% if page.parent %}
-        {% assign parentpage = site.pages | where:"ref", page.parent | where:"lang", page.lang %}
-        {% assign children = site.pages | where:"parent", page.parent %}
-        {% assign asdf = children | where:"lang", page.lang %}
-        <h3>Weitere Seiten in "{{ parentpage[0].title }}"</h3>
-        <ul>
-        {% for child in asdf %}
-            {% unless child.title == page.title %}
-                <li><a href="{{ site.baseurl }}{{ child.permalink }}">{{ child.title }}</a></li>
-            {% endunless %}
-        {% endfor %}
-        </ul>
-        {% endif %}
+
     </div>
+    {% include more_pages.html %}
 </main>
 
 {% include footer.html %}
