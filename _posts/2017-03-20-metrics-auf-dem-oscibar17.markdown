@@ -6,8 +6,6 @@ permalink: /en/meldungen/2017-03-20-metrics-auf-dem-oscibar17/
 lang: de
 parent: news
 ref: news-oscibar17
-date: 2017-03-20 00:00:01 +0100
-
 ---
 
 On 20 March 2017 a number of dedicated Open Science enthusiasts assembled at the Wikimedia offices in Berlin. In lively discussions we dealt with topics like MOOCs, Open Educational Ressources, Open Science practices and Alternative/Open Metrics (session list can be found in the master etherpad at https://etherpad.wikimedia.org/p/barcamp_open_science_2017).   
