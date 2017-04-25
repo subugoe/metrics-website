@@ -7,8 +7,7 @@ ref: news
 comments: false
 position: top
 order: 2
-alt: "Lorem ipsum dolor sit amut."
+alt: "Neuigkeiten rund um das Projekt"
 ---
-Blog in Form von unregelmäßigen News-Beiträgen (Experten-Interviews, Neuentwicklungen kommentieren, etc.)
 
 {% include list_all_news.html %}
