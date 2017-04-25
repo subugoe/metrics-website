@@ -31,7 +31,11 @@ $breakpoints: (
   large: 960px
 );
 
+$breakpoint-classes: (small medium large);
+
 $grid-row-width: 960px;
+
+$global-width: rem-calc(960);
 
 // $header-color: $metrics-purple;
 $header-lineheight: 1.1;
@@ -85,5 +89,15 @@ $listDir: "top", "bottom", "left", "right";
 table.small-stack {
   @include breakpoint(small only) {
     @include table-stack;
+  }
+}
+
+.team_member_img {
+  border-bottom: 5px solid $metrics-blue;
+}
+
+.small-centered-text {
+  @include breakpoint(small only) {
+    text-align: center;
   }
 }
