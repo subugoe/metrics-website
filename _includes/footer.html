@@ -1,5 +1,5 @@
 {% assign current_lang=page.lang %}
-<footer class="row text-center">
+<footer class="row margin-top-3">
     <nav class="columns large-6">
         <ul class="menu simple">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
@@ -10,7 +10,7 @@
             {% endfor %}
         </ul>
     </nav>
-    <div class="columns large-6">
+    <div class="columns large-6 text-right">
         <a href="#">Creative Commons 4.0</a>
     </div>
 </footer>
