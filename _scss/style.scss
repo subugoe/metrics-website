@@ -101,3 +101,19 @@ table.small-stack {
     text-align: center;
   }
 }
+
+.active_language {
+  font-weight: 600;
+}
+
+.tools {
+  text-align: right;
+
+  @extend .margin-top-2;
+}
+
+.languageswitch {
+  display: inline;
+
+  @extend .margin-left-2;
+}
