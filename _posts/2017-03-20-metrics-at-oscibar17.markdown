@@ -9,7 +9,6 @@ ref: news-oscibar17
 date: 2017-03-20 00:00:01 +0100
 
 ---
-\*metrics Project attended the Open Science Barcamp 2017
 
 On 20 March 2017 a number of dedicated Open Science enthusiasts assembles at the Wikimedia offices in Berlin. In lively discussions we dealt with topics like MOOCs, Open Educational Ressources, Open Science practices and Alternative/Open Metrics (session list can be found in the master etherpad at https://etherpad.wikimedia.org/p/barcamp_open_science_2017).  
 Astrid Orth held a session about Open Metrics. In short during the discussion we delt with the following topics and ideas:  
