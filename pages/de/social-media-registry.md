@@ -7,7 +7,7 @@ ref: social-media-registry
 comments: false
 position: top
 order: 40
-alt: Die Social Media Registry beleuchtet die Funktionalitäten der Social-Media-Dienste, deren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung der Wissenschaftskommunikation."
+alt: "Die Social Media Registry beleuchtet die Funktionalitäten der Social-Media-Dienste, deren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung der Wissenschaftskommunikation."
 ---
 
 
