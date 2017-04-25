@@ -7,17 +7,13 @@ ref: downloads
 comments: false
 position: top
 order: 5
-alt: "Lorem ipsum dolor sit amut."
+alt: "Download of project-related and subject-related materials."
 ---
-Download (ohne Registrierung): Projektergebnisse und –material z. B. Antrag (gekürzt), Meilensteine (i. d. R. Reports, Guidelines, Handreichungen), Flyer, Logo, Poster, Präsentationen
 
 ## Project-related materials  
 
 ### Project proposal  
 * Description of Work (PDF)   
-
-### Reports  
-* Milestone Report XY (PDF)  
 
 ### Marketing materials  
 * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
@@ -30,10 +26,6 @@ Download (ohne Registrierung): Projektergebnisse und –material z. B. Antrag (g
 * [Logo black-and-white (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
 * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
 * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)  
-* Poster (coming soon)  
-* Flyer (coming soon) 
-
-### Presentations  
 
 ## Subject-related materials
 * [Report of the European Expert Group on Altmetrics (PDF)](https://ec.europa.eu/research/openscience/pdf/report.pdf#view=fit&pagemode=none)
