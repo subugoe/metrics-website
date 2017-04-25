@@ -1,9 +1,32 @@
 <div class="row columns">
-    <h1 class="margin-top-2 margin-bottom-1">
+    <div class="columns large-4">
         {% if page.lang == "de" %}
-        <a class="" href="{{ site.baseurl }}/de/home/">{{ site.title }}</a>
+        <a class="" href="{{ site.baseurl }}/de/home/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% else %}
-        <a class="" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a class="" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% endif %}
-    </h1>
+    </div>
+    <div class="columns large-8">
+        <ul class="menu simple">
+            <li>
+                {% if page.lang == "de" %}
+                <a class="" href="{{ site.baseurl }}/de/home/">HOME</a>
+                {% else %}
+                <a class="" href="{{ site.baseurl }}/">STARTSEITE</a>
+                {% endif %}
+            </li>
+            {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+            {% for item in pages %}
+                {% assign active_class = "" %}
+                {% if current_lang == item.lang %}
+                    {% assign active_class = "active" %}
+                {% endif %}
+            <li class="{{ active_class }}">
+                <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <p>MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
+    </div>
 </div>
