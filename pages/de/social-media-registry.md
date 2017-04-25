@@ -47,5 +47,3 @@ Aggegrationssoftware gibt und aufzeigt, wo *metrische Indikatoren derzeit einges
 Repositorien, Wissenschaftsevaluatoren, Bibliotheken, Lebensläufe). Weiterhin fließen die Ergebnisse
 aus AP 1.1 in die technischen Anpassungen und Weiterentwicklungen der Aggregationssoftware
 (AP 2.1) und der Software zur Ansprache von APIs ein (AP 2.3).
-
-/* {% include registry_table.html %} */
