@@ -9,6 +9,7 @@ comments: false
 position: top
 order: 6
 alt: "Lorem ipsum dolor sit amut."
+symbol: "info-alt"
 ---
 ## Was?
 \*metrics beschäftigt sich mit der Frage, welche Aussagekraft Metriken und Indikatoren haben und wie diese von den Nutzern interpretiert werden (insbes. Zitationen, Nutzungsstatistiken,

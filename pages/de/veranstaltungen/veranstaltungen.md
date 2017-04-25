@@ -9,6 +9,7 @@ position: top
 order: 4
 children: true
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
+symbol: "calendar"
 ---
 Auf den folgenden Veranstaltungen ist das \*metrics-Projekt vertreten:
 

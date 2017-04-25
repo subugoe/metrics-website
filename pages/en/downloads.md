@@ -8,6 +8,7 @@ comments: false
 position: top
 order: 5
 alt: "Download of project-related and subject-related materials."
+symbol: "download"
 ---
 ## Project-related materials  
 
