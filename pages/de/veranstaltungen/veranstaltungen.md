@@ -6,11 +6,12 @@ lang: de
 ref: events
 comments: false
 position: top
-order: 4
+order: 20
 children: true
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
+symbol: "calendar"
 ---
-Auf den folgenden Veranstaltungen ist das &#8270;metrics-Projekt vertreten:
+Auf den folgenden Veranstaltungen ist das &ast;metrics-Projekt vertreten:
 
 *    International Open Science Conference 2017: 20 - 22 March, Berlin
 *    COAR Annual Meeting: 8 - 10 May 2017, Venedig
