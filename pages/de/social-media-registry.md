@@ -7,22 +7,32 @@ ref: social-media-registry
 comments: false
 position: top
 order: 40
-alt: "Die Social Media Registry beleuchtet die Funktionalitäten der Social-Media-Dienste, deren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung der Wissenschaftskommunikation."
-symbol: "files"
+alt: Das Social Media Registry beleuchtet die Funktionalitäten von Social-Media-Diensten, ihren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung von Wissenschaftskommunikation."
 ---
-Social-Media-Registry: detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und Vergleich der verschiedenen Funktionen (Design, Anbindung und Pflege einer Datenbank)
 
-Ergänzend kommt eine
-Analyse des Status Quo der Social-Media-Plattformen und *metrics hinzu, das sogenannte Social-
-Media-Registry, das die Basis für beide Ansätze bildet und in Kooperation der Projektmitglieder mit der
-wissenschaftlichen Fachcommunity erstellt wird.
+## Was ist ein Social Media Registry?
+oder
+## Analyse des Status Quo der Social-Media-Plattformen und \*metrics
 
-AP 1.1: Social-Media-Registry für die Wissenschaft erstellen
-Es wird ein zweisprachiges (deutsch/englisch) Social-Media-Registry erstellt, das insbesondere die
-Funktionalitäten der Social-Media-Dienste beleuchtet (wie z.B. bei Peters & Heise, 2014) sowie deren
-Nutzergruppen erfasst. Die Bereitstellung des Registry erfolgt über die Informationsplattform *metrics
-(vgl. AP 3.1).
-Da sich *metrics immer auf ganz bestimmte Funktionalitäten beziehen (z.B. Retweets) und damit ihre
+An dieser Stelle entsteht eine Auflistung von Social Media Plattformen, die für die Wissenschaftskommunikation genutzt werden. Dabei werden sowohl Plattformen betrachtet, die speziell für wissenschaftliche Zwecke erstellt wurden, als auch solche, die zunächst eine allgemeine Nutzung im Sinn hatten, aber inzwischen häufig von Wissenschaftlern zur Verbreitung ihrer Forschungsergebnisse eingesetzt werden. Alle Dienste werden daraufhin untersucht, in welchem Bereich der Wissenschaftskommunikation sie eingesetzt werden, welche Interaktionen damit möglich sind und welche Aussagekraft Metriken haben können, die auf der Erfassung dieser Interaktionen basieren.
+Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und ein Vergleich der dort ersichtlichen Informationen möglich. Diese Arbeiten unterstützen die beiden wesentlichen anderen Aufgaben des Projektes, in denen
+ - Nutzergruppen von Social Media Diensten untersucht und deren Wahrnehmung und Einschätzung der angebotenen Indikatoren beleuchtet werden, sowie
+ - prototypische Abfrage von Social Media Diensten und Erfassung der möglichen Interaktionen zur Gewinnung von offenen und transparenten Metriken
+
+Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity erstellt. Eine erste Version wird durch das \*metrics Projektteam erstellt und voraussichtlich im September 2017 an dieser Stelle veröffentlicht. Auf Workshops und Veranstaltungen für alle Interessierten wird frühzeitig Feedback dazu eingeholt. Die Registry wird offen sein für Kommentare und Ergänzungen.
+
+
+## Wer kann die Social Media Registry nutzen?
+
+Hier könnten noch die Zielgruppen stehen.
+
+
+
+## Details
+
+Hier ist noch mehr Text, aber es ist wahrscheinlich eh schon zu viel.
+
+Da sich \*metrics immer auf ganz bestimmte Funktionalitäten beziehen (z.B. Retweets) und damit ihre
 Aussagekraft bestimmen, müssen zunächst der Umfang und die zugrundeliegenden Mechanismen der
 Funktionalitäten bekannt sein. Dabei werden auch die Vor- und Nachteile bei der Nutzung der Dienste
 im wissenschaftlichen Kontext sowie die rechtlichen Rahmenbedingungen (auf Basis der Geschäftsbedingungen)
@@ -36,10 +46,6 @@ Tweets; Beurskens, 2014) und ihrer Bereitstellung (im Sinne von Open Metrics).
 Die Arbeiten an dem Registry laufen von Projektbeginn an und müssen durch die aktiven Entwicklungen
 in dem Gebiet fortwährend angepasst werden. Die Arbeiten sollen durch die Community und den
 Beirat kommentiert bzw. ergänzt werden, um Expertise von außerhalb des Projekts einzubeziehen (vgl.
-AP 3.1 und AP 3.2). Neben den direkten Auswirkungen dieses Arbeitspakets auf die weiteren Arbeitspakete
-der Gruppe „Status Quo und explorative Nutzer- und Nutzungsstudien“, bestehen enge Querverbindungen
-zum AP 2.1, welches einen Überblick über die auf dem Markt befindlichen *metrics-
-Aggegrationssoftware gibt und aufzeigt, wo *metrische Indikatoren derzeit eingesetzt werden (z.B. Verlage,
-Repositorien, Wissenschaftsevaluatoren, Bibliotheken, Lebensläufe). Weiterhin fließen die Ergebnisse
-aus AP 1.1 in die technischen Anpassungen und Weiterentwicklungen der Aggregationssoftware
-(AP 2.1) und der Software zur Ansprache von APIs ein (AP 2.3).
+AP 3.1 und AP 3.2).
+
+/* {% include registry_table.html %} */
