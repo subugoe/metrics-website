@@ -13,7 +13,7 @@ symbol: "download"
 ## Project-related materials  
 
 ### Project proposal  
-* Description of Work (PDF)   
+* [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
 
 ### Marketing materials  
 * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  

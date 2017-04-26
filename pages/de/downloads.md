@@ -13,7 +13,7 @@ symbol: "download"
 ## Projektmaterialien  
 
 ### Antrag  
-* Beschreibung des Vorhabens (PDF)   
+* [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
 
 ### Marketingmaterialien  
 * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
