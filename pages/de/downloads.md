@@ -11,7 +11,7 @@ alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
 ## Antrag  
-* [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
+* [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketingmaterialien  
 * [Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)

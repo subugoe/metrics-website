@@ -11,7 +11,7 @@ alt: "Download of project-related materials."
 symbol: "download"
 ---
 ## Project proposal  
-* [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
+* [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketing materials  
 * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
