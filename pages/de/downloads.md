@@ -15,7 +15,6 @@ symbol: "download"
 
 ## Marketingmaterialien
   * [Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
-
   * Logovarianten
   * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)
   * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)
