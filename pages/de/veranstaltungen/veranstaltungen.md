@@ -10,12 +10,9 @@ order: 4
 children: true
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 ---
-Auf den folgenden Veranstaltungen ist das \*metrics-Projekt vertreten:
+Auf den folgenden Veranstaltungen ist das &#8270;metrics-Projekt vertreten:
 
-* International Open Science Conference 2017, Berlin
-* Bibliothekartag 2017 in Frankfurt
-
-
-/* Folgendes sollte eigentlich hierher: (solange keine eigenen Workshops, bessere auf andere Veranstaltungen verlinken)
-
-Unterstützung von 2 Projekt-Workshops: Einladung, Programm, Vorträge, Ergebnisse */
+*    International Open Science Conference 2017: 20 - 22 March, Berlin
+*    COAR Annual Meeting: 8 - 10 May 2017, Venedig
+*    WikiCite: 23-25 May 2017, Vienna
+*    Bibliothekartag: 1 June 2017, Frankfurt
