@@ -49,4 +49,4 @@ in dem Gebiet fortwährend angepasst werden. Die Arbeiten sollen durch die Commu
 Beirat kommentiert bzw. ergänzt werden, um Expertise von außerhalb des Projekts einzubeziehen (vgl.
 AP 3.1 und AP 3.2).
 
-/* {% include registry_table.html %} */
+{% include registry_table.html %}
