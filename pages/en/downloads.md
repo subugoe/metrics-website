@@ -11,18 +11,17 @@ alt: "Download of project-related materials."
 symbol: "download"
 ---
 ## Project proposal  
-    * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
+  * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketing materials  
-    * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
-
-    * Logo in different formats
-    * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
-    * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)  
-    * [Logo square (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)  
-    * [Logo square (EPS)]({{ site.url }}/downloads/logo_quadratisch.eps)  
-    * [Logo greyscale (PDF)]({{ site.url }}/downloads/logo_graustufen.pdf)  
-    * [Logo grayscale (EPS)]({{ site.url }}/downloads/logo_graustufen.eps)  
-    * [Logo black-and-white (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
-    * [Logo black-and-white (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
-    * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
+  * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
+  * Logo in different formats
+  * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
+  * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)  
+  * [Logo square (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)  
+  * [Logo square (EPS)]({{ site.url }}/downloads/logo_quadratisch.eps)  
+  * [Logo greyscale (PDF)]({{ site.url }}/downloads/logo_graustufen.pdf)  
+  * [Logo grayscale (EPS)]({{ site.url }}/downloads/logo_graustufen.eps)  
+  * [Logo black-and-white (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
+  * [Logo black-and-white (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
+  * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
