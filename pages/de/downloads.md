@@ -10,12 +10,10 @@ order: 30
 alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
-
-
-# Antrag  
+## Antrag  
 * [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
 
-# Marketingmaterialien  
+## Marketingmaterialien  
 * [Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
 
 * Logovarianten
