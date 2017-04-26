@@ -9,6 +9,7 @@ comments: false
 position: top
 order: 6
 alt: "Summary of the project content and purpose"
+symbol: "info-alt"
 ---
 ## What are we doing?
 The main objective of the \*metrics project is to develop a deeper understanding of \*metrics (aka altmetrics / social media metrics), in terms of their general significance and their perception amongst stakeholders.  

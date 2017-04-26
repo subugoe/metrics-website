@@ -1,0 +1,22 @@
+{% include page_start.html %}
+
+{% assign current_lang = page.lang %}
+
+{% if page.ref == "index" %}
+{% assign is_home = "active" %}
+{% endif %}
+
+{% include topbar.html %}
+
+{% include hero.html %}
+
+{% include nav.html %}
+
+{{ content }}
+
+{% if page.comments == true %}
+{% include comments.html %}
+{% endif %}
+
+{% include footer.html %}
+{% include page_end.html %}

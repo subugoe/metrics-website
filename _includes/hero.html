@@ -1,32 +1,34 @@
 <div class="row columns">
-    <div class="columns large-4 margin-top-2 margin-bottom-2 text-center">
+    <div class="columns large-4 margin-top-2 margin-bottom-2 text-center medium-3">
         {% if page.lang == "de" %}
         <a class="" href="{{ site.baseurl }}/de/home/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% else %}
         <a class="" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% endif %}
     </div>
-    <div class="columns large-8">
-        <ul class="menu simple margin-top-2">
-            <li>
-                {% if page.lang == "de" %}
-                <a class="" href="{{ site.baseurl }}/de/home/">HOME</a>
-                {% else %}
-                <a class="" href="{{ site.baseurl }}/">STARTSEITE</a>
-                {% endif %}
-            </li>
-            {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
-            {% for item in pages %}
-                {% assign active_class = "" %}
-                {% if current_lang == item.lang %}
-                    {% assign active_class = "active" %}
-                {% endif %}
-            <li class="{{ active_class }}">
-                <a href="{{ site.baseurl }}{{ item.url }}" class="">{{ item.lang | upcase }}</a>
-            </li>
-            {% endfor %}
-        </ul>
+    <div class="columns large-8 medium-9">
+        <div class="tools">
+            {% if page.lang == "de" %}
+            <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
+            {% else %}
+            <a class="" href="{{ site.baseurl }}/">HOME</a>
+            {% endif %}
+            <div class="languageswitch">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+                {% for item in pages %}
 
-        <p>MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
+                    {% assign active_class = "" %}
+                    {% if current_lang == item.lang %}
+                        {% assign active_class = "active_language" %}
+                    {% endif %}
+                    <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
+                    {% unless i == 1 %}
+                    /
+                    {% endunless %}
+                    {% assign i = 1 %}
+                {% endfor %}
+            </div>
+        </div>
+        <p class="claim">MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
     </div>
 </div>

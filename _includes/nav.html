@@ -7,7 +7,7 @@
 
 <div class="top-bar" id="example-menu">
     <nav class="row columns">
-        <ul class="dropdown menu vertical medium-horizontal" data-dropdown-menu>
+        <ul class="dropdown menu" style="margin: 0 auto; width: 92%;" data-dropdown-menu>
             <li class="{{ is_home }} show-for-small-only">
                 {% if page.lang == "de" %}
                 <a href="{{ site.baseurl }}/de/home/" alt="">Startseite</a></li>
@@ -18,7 +18,7 @@
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
             {% for item in pages %}
             <li class="{% if item.ref == page.ref or item.ref == page.parent %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="symbol_nav"><img src="{{ site.baseurl }}/img/{{ item.symbol }}.svg"></span><span class="menu_title">{{ item.title }}</span></a>
                 {% if item.children %}
                 {% assign children=site.pages | where:"parent", item.ref | where:"lang", page.lang | sort:"order" %}
                 <ul class="menu vertical">

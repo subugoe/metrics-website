@@ -8,8 +8,8 @@ comments: false
 position: top
 order: 5
 alt: "Download von projektbezogenen und themenbezogenen Materialien"
+symbol: "download"
 ---
-
 ## Projektmaterialien  
 
 ### Antrag  

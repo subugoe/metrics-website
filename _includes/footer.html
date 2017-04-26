@@ -1,16 +1,16 @@
 {% assign current_lang=page.lang %}
 <footer class="row margin-top-3">
-    <nav class="columns large-6">
+    <nav class="columns medium-6 small-centered-text">
         <ul class="menu simple">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
             {% for item in pages %}
-            <li class="{% if item.title == page.title %}active{% endif %}">
+            <li class="{% if item.title == page.title %}active_footer{% endif %}">
                 <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
             </li>
             {% endfor %}
         </ul>
     </nav>
-    <div class="columns large-6 text-right">
+    <div class="columns medium-6 text-right small-centered-text">
         <a href="#">Creative Commons 4.0</a>
     </div>
 </footer>
