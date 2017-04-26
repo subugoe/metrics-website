@@ -12,6 +12,7 @@ markdown: kramdown
 destination: "metrics-website"
 gems:
 exclude:
+  - npm.log
   - node_modules
   - package.json
   - .editorconfig
