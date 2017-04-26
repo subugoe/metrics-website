@@ -6,17 +6,15 @@ lang: en
 ref: downloads
 comments: false
 position: top
-order: 5
-alt: "Download of project-related and subject-related materials."
+order: 30
+alt: "Download of project-related materials."
 symbol: "download"
 ---
 
-## Project-related materials  
-
-### Project proposal  
+# Project proposal  
 * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
 
-### Marketing materials  
+# Marketing materials  
 * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
 
 * Logo in different formats
@@ -29,7 +27,3 @@ symbol: "download"
   * [Logo black-and-white (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
   * [Logo black-and-white (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
   * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
-
-
-## Subject-related materials
-* [Report of the European Expert Group on Altmetrics (PDF)](https://ec.europa.eu/research/openscience/pdf/report.pdf#view=fit&pagemode=none)

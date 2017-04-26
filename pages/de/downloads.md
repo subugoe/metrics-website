@@ -6,17 +6,16 @@ lang: de
 ref: downloads
 comments: false
 position: top
-order: 5
-alt: "Download von projektbezogenen und themenbezogenen Materialien"
+order: 30
+alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
 
-## Projektmaterialien  
 
-### Antrag  
+# Antrag  
 * [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_gekürzt.pdf)   
 
-### Marketingmaterialien  
+# Marketingmaterialien  
 * [Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
 
 * Logovarianten
@@ -29,7 +28,3 @@ symbol: "download"
   * [Logo Schwarzweiß (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
   * [Logo Schwarzweiß (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
   * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
-
-
-## Themenbezogene Materialien
-* [Bericht der European Expert Group on Altmetrics (PDF)](https://ec.europa.eu/research/openscience/pdf/report.pdf#view=fit&pagemode=none)
