@@ -16,7 +16,6 @@
             <div class="languageswitch">
                 {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
                 {% assign slash = pages | size %}
-                |{{ pages | size }}|
                 {% assign i = 1 %}
                 {% for item in pages %}
                     {% assign active_class = "" %}
