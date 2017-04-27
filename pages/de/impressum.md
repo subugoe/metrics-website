@@ -14,4 +14,4 @@ alt: "Lorem ipsum dolor sit amut."
     {% endfor %}
 </ul>
 
-<iframe style="border: 0; height: 200px; width: 100%;" src="http://piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
