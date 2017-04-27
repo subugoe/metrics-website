@@ -8,12 +8,17 @@ parent: news
 ref: news-oscibar17
 ---
 
-On 20 March 2017 a number of dedicated Open Science enthusiasts assembles at the Wikimedia offices in Berlin. In lively discussions we dealt with topics like MOOCs, Open Educational Ressources, Open Science practices and Alternative/Open Metrics (session list can be found in the [master etherpad](https://etherpad.wikimedia.org/p/barcamp_open_science_2017).  
-Astrid Orth held a session about Open Metrics. In short during the discussion we delt with the following topics and ideas:  
-- Should open metrics complement or substitute traditional metrics and how?  
-- Calculating more numbers is probably not the solution, transparency on the meaning and interpretation of numbers is needed.  
-- New metrics have a number of advantages over traditional, citation based numbers.  
-- Awareness-raising among researchers will also help in adopting open metrics.  
+ZBW organised this year's Open Science Barcamp on 20 March 2017. Nearly hundred open science enthusiasts assembled at Wikimedia offices in Berlin. In lively discussions we dealt with topics like MOOCs, Open Educational Ressources, Open Science practices and Alternative/Open Metrics (session list can be found in the [master etherpad](https://etherpad.wikimedia.org/p/barcamp_open_science_2017).  
 
+\*metrics project manager Astrid Orth held a session on Open Metrics. In short during the discussion we delt with the following topics and ideas:  
+  * Should open metrics complement or substitute traditional metrics and how?  
+  * Calculating more numbers is probably not the solution, transparency on the meaning and interpretation of numbers is needed.  
+  * New metrics have a number of advantages over traditional, citation based numbers.  
+  * Awareness-raising among researchers will also help in adopting open metrics.  
+
+The whole discussion can be found in the [session pad](https://etherpad.wikimedia.org/p/oscibar2017_session6).
 Expect some of answers on this over the next 2 years from the \*metrics project.
-More details can be found in the [session pad](https://etherpad.wikimedia.org/p/oscibar2017_session6)
+
+Here are some pictures from the Barcamp.
+
+The Open Science Radio conducted an <a href="http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/">interview with Astrid Orth</a>.

@@ -8,12 +8,17 @@ parent: news
 ref: news-oscibar17
 ---
 
-On 20 March 2017 a number of dedicated Open Science enthusiasts assembled at the Wikimedia offices in Berlin. In lively discussions we dealt with topics like MOOCs, Open Educational Ressources, Open Science practices and Alternative/Open Metrics (session list can be found in the [master etherpad](https://etherpad.wikimedia.org/p/barcamp_open_science_2017).   
-Astrid Orth held a session about Open Metrics. In short during the discussion we delt with the following topics and ideas:  
-- Should open metrics complement or substitute traditional metrics and how?  
-- Calculating more numbers is probably not the solution, transparency on the meaning and interpretation of numbers is needed.  
-- New metrics have a number of advantages over traditional, citation based numbers.  
-- Awareness-raising among researchers will also help in adopting open metrics.  
+Am 20. März 2017 veranstaltete die ZBW das Open Science Barcamp 2017. Fast hundert Open Science Enthusiasten trafen sich im Berliner Büro von Wikimedia. Bei den lebhaften Diskussionen, die von den Teilnehmern initiiert und moderiert wurden, ging es um Themen wie MOOCs, Open Educational Ressources (OER), Open Science Methoden und Alternative/Offene Metriken. Die Liste der Session gibt es im [Master Etherpad](https://etherpad.wikimedia.org/p/barcamp_open_science_2017).   
 
-Expect some of answers on this over the next 2 years from the \*metrics project.  
-More details can be found in the [session pad](https://etherpad.wikimedia.org/p/oscibar2017_session6)
+\*metrics Projektleiterin Astrid Orth moderierte eine Session zu Open Metrics. Zusammengefasst ging es um die folgenden Themen und Ideen:  
+  * Können oder sollen offene Metriken bisherige Metriken ersetzen oder ergänzen und wenn ja, wie?
+  * Statt immer neuer Kennzahlen ist eher Transparenz über Aussagekraft und Interpretationsmöglichkeiten notwendig
+  * Neue Metriken bieten Vorteile gegenüber traditionellen, zitationsbasierten Metriken
+  * Schärfung der Aufmerksamkeit von Wissenschaftlern erleichtert die Verbreitung offener Metriken
+
+Die gesamte Diskussion kann im dazugehörigen [Etherpad](https://etherpad.wikimedia.org/p/oscibar2017_session6) nachgelesen werden.
+Das \*metrics-Projekt wird in den nächsten zwei Jahren dazu beitragen, Antworten zu diesen Fragen zu liefern.
+
+Hier sind einige Bilder vom Barcamp.  
+
+Im Open Science Radio gibt es ein <a href="http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/">Interview mit Astrid Orth</a>.
