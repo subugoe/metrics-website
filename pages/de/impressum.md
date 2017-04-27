@@ -51,9 +51,9 @@ Alle Inhalte dieser Webseite stehen, soweit nicht anders angegeben, unter der Cr
 
 ## Icons
 
-Es wird Themify Icons - [https://themify.me/themify-icons] - genutzt.
+Es wird Themify Icons - https://themify.me/themify-icons - genutzt.
 
-Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: [https://pixabay.com/de/profil-mann-benutzer-home-42914/]
+Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: https://pixabay.com/de/profil-mann-benutzer-home-42914/  
 
 <ul>
     {% for contact in site.data.people %}
