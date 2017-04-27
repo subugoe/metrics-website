@@ -8,7 +8,7 @@ comments: false
 position: top
 order: 40
 alt: "Das Social Media Registry beleuchtet die Funktionalitäten von Social-Media-Diensten, ihren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung von Wissenschaftskommunikation."
-symbol: "files"
+symbol: "view-grid"
 ---
 ## Was ist ein Social Media Registry?
 oder
