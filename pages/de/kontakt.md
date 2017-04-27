@@ -7,6 +7,16 @@ permalink: /de/kontakt/
 ref: contact
 comments: false
 position: bottom
-alt: "Lorem ipsum dolor sit amut."
+alt: "Kontakt zu den Projektverantwortlichen"
 ---
-Kontakte: Projektadresse, Personen mit Email-Adresse und Bild
+
+Astrid Orth (Projektleitung)
+
+Niedersächsische Staats- und Universitätsbibliothek Göttingen  
+Platz der Göttinger Sieben 1  
+37073 Göttingen  
+
+E-Mail: [metrics-project@sub.uni-goettingen.de](metrics-project@sub.uni-goettingen.de)  
+
+Facebook: [https://www.facebook.com/metricsproject/](https://www.facebook.com/metricsproject/)  
+Twitter: @metrics_project 

@@ -7,6 +7,16 @@ lang: en
 ref: contact
 comments: false
 position: bottom
-alt: "Lorem ipsum dolor sit amut."
+alt: "Contact the project coordinator"
 ---
-Kontakte: Projektadresse, Personen mit Email-Adresse und Bild
+Astrid Orth (project coordinator)
+
+Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen)  
+Platz der Göttinger Sieben 1  
+37073 Göttingen  
+Germany
+
+Email: [metrics-project@sub.uni-goettingen.de](metrics-project@sub.uni-goettingen.de)  
+
+Facebook: [https://www.facebook.com/metricsproject/](https://www.facebook.com/metricsproject/)  
+Twitter: @metrics_project 
