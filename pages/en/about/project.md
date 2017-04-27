@@ -20,4 +20,4 @@ information platform.
 
 Read more about the aims of the project in the [project proposal (in german only)]({{ site.url }}/downloads/projektantrag_kurz.pdf).
 
-![Aims]({{ site.url }}/img/Project_OrgaJ_en.jpg "Aims"){: style="min-width: 100%" }
+![Aims]({{ site.url }}/img/Project_Orga_en.jpg "Aims"){: style="min-width: 100%" }
