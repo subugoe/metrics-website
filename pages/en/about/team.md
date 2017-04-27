@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: team
 title: "Team"
 permalink: /en/uber_uns/team/
 lang: en
