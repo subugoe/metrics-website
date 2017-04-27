@@ -18,4 +18,6 @@ The methodological work will be supported by a scientific committee and accompan
 activities, the creation of new links with national and international initiatives (e.g. [COAR](https://www.coar-repositories.org/), [NISO](http://www.niso.org/home/)) and the establishment of a \*metrics
 information platform.
 
-Read more about the aims of the project in the project proposal.
+Read more about the aims of the project in the [project proposal (in german only)]({{ site.url }}/downloads/projektantrag_kurz.pdf).
+
+![Aims]({{ site.url }}/img/Project_OrgaJ_en.jpg "Aims"){: style="min-width: 100%" }

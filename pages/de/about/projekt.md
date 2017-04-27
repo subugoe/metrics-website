@@ -15,4 +15,6 @@ kommerziellen Anbieter in diesem Bereich in der Regel nicht Fakt ist.
 
 Flankiert werden die methodischen Arbeiten von einem wissenschaftlichen Beirat sowie vom Community-Aufbau, der Öffentlichkeitsarbeit zum Projekt, der Verknüpfung mit (inter-) nationalen Initiativen zu \*metrics (z.B. [COAR](https://www.coar-repositories.org), [NISO](http://www.niso.org/home/)) und dem Aufbau einer Informationsplattform, die alle im Projekt getätigten Aktivitäten bündelt.
 
-Mehr Informationen über das Projekt finden sich im Projektantrag.
+Mehr Informationen über das Projekt finden sich im [Projektantrag]({{ site.url }}/downloads/projektantrag_kurz.pdf).
+
+![Ziele]({{ site.url }}/img/Metrics_Ziele_Alternative.jpg "Ziele"){: style="min-width: 100%" }
