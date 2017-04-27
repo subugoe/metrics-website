@@ -1,12 +1,12 @@
 <div class="row columns">
-    <div class="columns large-4 margin-top-2 margin-bottom-2 text-center medium-3">
+    <div class="columns medium-4 margin-top-2 margin-bottom-2 text-center">
         {% if page.lang == "de" %}
         <a class="" href="{{ site.baseurl }}/de/home/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% else %}
         <a class="" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
         {% endif %}
     </div>
-    <div class="columns large-8 medium-9">
+    <div class="columns medium-8">
         <div class="tools">
             {% if page.lang == "de" %}
             <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
@@ -16,7 +16,6 @@
             <div class="languageswitch">
                 {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
                 {% for item in pages %}
-
                     {% assign active_class = "" %}
                     {% if current_lang == item.lang %}
                         {% assign active_class = "active_language" %}
