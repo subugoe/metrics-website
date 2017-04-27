@@ -49,11 +49,15 @@ Die Anbieter sind nicht für Inhalte fremder Seiten verantwortlich, die über ei
 
 Alle Inhalte dieser Webseite stehen, soweit nicht anders angegeben, unter der Creative Commons Namensnennung 4.0 International Lizenz. Ausgenommen davon sind insbesondere die Logos der unterstützenden Universitäten und anderen Einrichtungen.  
 
+## CSS-Framework  
+
+Es wird Foundation - <http://foundation.zurb.com/get-involved/faq.html> genutzt.
+
 ## Icons
 
-Es wird Themify Icons - https://themify.me/themify-icons - genutzt.
+Es wird Themify Icons - <https://themify.me/themify-icons> - genutzt.  
 
-Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: https://pixabay.com/de/profil-mann-benutzer-home-42914/  
+Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: <https://pixabay.com/de/profil-mann-benutzer-home-42914/>    
 
 <ul>
     {% for contact in site.data.people %}
