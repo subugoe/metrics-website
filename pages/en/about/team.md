@@ -7,7 +7,7 @@ ref: team
 parent: about
 comments: false
 position:
-order: 1
+order: 2
 alt: "introduction of the project team"
 ---
 <main class="row">

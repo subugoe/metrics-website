@@ -7,13 +7,12 @@ ref: about
 children: true
 comments: false
 position: top
-order: 6
-alt: "Lorem ipsum dolor sit amut."
+order: 50
+alt: "Was ist das Projekt *metrics, für wen ist es interessant und welche Arbeitsaufgaben gibt es"
 symbol: "info-alt"
 ---
 ## Was?
-\*metrics beschäftigt sich mit der Frage, welche Aussagekraft Metriken und Indikatoren haben und wie diese von den Nutzern interpretiert werden (insbes. Zitationen, Nutzungsstatistiken,
-Social-Media-Metriken).   
+\*metrics beschäftigt sich mit der Frage, welche Aussagekraft Metriken und Indikatoren haben und wie diese von den Nutzern interpretiert werden (insbes. Zitationen, Nutzungsstatistiken, Social-Media-Metriken).   
 
 ## Warum?  
 Ziel ist es, die Verlässlichkeit und die Wahrnehmung dieser Indikatoren genauer zu bestimmen.
@@ -29,4 +28,4 @@ Die in der Wissenschaft populären Social-Media-Dienste, die Nutzenden und die V
 Auf Grundlage der Daten der explorativen Studien soll die vorhandene \*metrics-Aggregationssoftware gesichtet und evaluiert werden, um eine möglichst vollständige Datengrundlage zu schaffen. Nachdem technische Anpassungen durchgeführt worden sind sollen die \*metrics bereitgestellt und der Abdeckungsgrad und die Ausprägung bei den Aggregatoren geprüft und die Integration bei Content-Partnern getestet werden (Proof-of-Concept).  
 
 ### Community-Vernetzung und Projektmanagement:    
- Die Projektergebnisse sollen in Form eines offenen Diskurses in die deutsche und internationale Bibliotheks-, Repository- und \*metrics-Community kommuniziert werden. Die zentrale Anlaufstelle soll dabei die zweisprachige Informationsplattform \*metrics sein. Zu Beginn und zum Ende der Projektlaufzeit wird das Thema \*metrics mit Interessierten aus Bibliotheken, Forschungseinrichtungen  und der Wissenschaft in Workshops behandelt und Feedback zu Forschungsansätzen und Ergebnissen eingeholt.  
+ Die Projektergebnisse werden in Form eines offenen Diskurses in die deutsche und internationale Bibliotheks-, Repository- und \*metrics-Community kommuniziert. Zentrale Anlaufstelle ist dabei die zweisprachige Informationsplattform <metrics-project.de>. Zu Beginn und zum Ende der Projektlaufzeit wird das Thema \*metrics mit Interessierten aus Bibliotheken, Forschungseinrichtungen  und der Wissenschaft in Workshops behandelt und Feedback zu Forschungsansätzen und Ergebnissen eingeholt.  
