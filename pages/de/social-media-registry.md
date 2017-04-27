@@ -13,13 +13,13 @@ symbol: "view-grid"
 ## Analyse des Status Quo der Social-Media-Plattformen und \*metrics
 
 An dieser Stelle entsteht eine Auflistung von Social Media Plattformen, die für die Wissenschaftskommunikation genutzt werden. Dabei werden sowohl Plattformen betrachtet, die speziell für wissenschaftliche Zwecke erstellt wurden, als auch solche, die zunächst eine allgemeine Nutzung im Sinn hatten, aber inzwischen häufig von Wissenschaftlern zur Verbreitung ihrer Forschungsergebnisse eingesetzt werden. Alle Dienste werden daraufhin untersucht,  
-  * in welchem Bereich der Wissenschaftskommunikation sie eingesetzt werden,
+  * welchen Bereich der Wissenschaftskommunikation sie unterstützen,
   * welche Interaktionen damit möglich sind und
   * welche Aussagekraft Metriken haben können, die auf der Erfassung dieser Interaktionen basieren.
 
-Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und ein Vergleich der dort ersichtlichen Informationen möglich. Diese Arbeiten unterstützen die beiden wesentlichen anderen Aufgaben des Projektes, in denen
-  1. Nutzergruppen von Social Media Diensten untersucht und deren Wahrnehmung und Einschätzung der angebotenen Indikatoren beleuchtet werden, sowie
-  2. prototypische Abfrage von Social Media Diensten und Erfassung der möglichen Interaktionen zur Gewinnung von offenen und transparenten Metriken realisiert werden
+Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und ein Vergleich der dort ersichtlichen Informationen möglich. Diese Arbeiten unterstützen die beiden wesentlichen anderen Aufgaben des Projektes:
+  1. Untersuchung von Nutzergruppen der Social Media Dienste sowie deren Wahrnehmung und Einschätzung der angebotenen Indikatoren, und
+  2. Entwicklung prototypischer Abfragen von Social Media Diensten zur Erfassung der möglichen Interaktionen und Gewinnung von offenen und transparenten Metriken
 
 Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity erstellt. Eine erste Version wird durch das \*metrics Projektteam erstellt und voraussichtlich im September 2017 an dieser Stelle veröffentlicht. Auf Workshops und Veranstaltungen für alle Interessierten wird frühzeitig Feedback dazu eingeholt. Die Registry wird offen sein für Kommentare und Ergänzungen.
 
@@ -47,4 +47,4 @@ in dem Gebiet fortwährend angepasst werden. Die Arbeiten sollen durch die Commu
 Beirat kommentiert bzw. ergänzt werden, um Expertise von außerhalb des Projekts einzubeziehen (vgl.
 AP 3.1 und AP 3.2).
 
-{% include registry_table.html %}
+<!-- {% include registry_table.html %} -->
