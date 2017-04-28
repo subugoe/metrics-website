@@ -4,8 +4,10 @@ l:
     home: "Home"
     imprint: "Imprint"
     news: "News"
+    more: "more…"
   de:
     contact: "Kontakt"
     home: "Startseite"
     imprint: "Impressum"
     news: "Meldungen"
+    more: "mehr…"
