@@ -10,12 +10,12 @@ order: 30
 alt: "Download of project-related materials."
 symbol: "download"
 ---
-## Project proposal  
-  * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
+[Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketing materials  
-  * [Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
-  * Logo in different formats
+[Factsheet "project summary" (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)  
+
+Logo in different formats
   * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)  
   * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)  
   * [Logo square (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)  

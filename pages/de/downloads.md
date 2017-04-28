@@ -10,12 +10,13 @@ order: 30
 alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
-## Antrag  
-  * [Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
+
+[Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketingmaterialien
-  * [Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)
-  * Logovarianten
+[Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)  
+
+Logovarianten
   * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)
   * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)
   * [Logo quadratisch (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)
