@@ -53,6 +53,11 @@ $header-lineheight: 1.1;
 
 @include foundation-everything;
 
+
+nav a {
+  color: #000;
+}
+
 .no-js {
   @include breakpoint(small only) {
     .top-bar {
@@ -181,10 +186,20 @@ table.small-stack {
   font-size: 1.33rem;
   line-height: 1.33;
 
+
+  @include breakpoint(medium only) {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
   @extend .margin-top-4;
 }
 
 .menu_title {
   white-space: nowrap;
   text-align: center;
+}
+
+.timeline-Header-title {
+  display: none;
 }

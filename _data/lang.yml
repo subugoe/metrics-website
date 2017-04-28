@@ -5,9 +5,11 @@ l:
     imprint: "Imprint"
     news: "News"
     more: "more…"
+    events: "Events"
   de:
     contact: "Kontakt"
     home: "Startseite"
     imprint: "Impressum"
     news: "Meldungen"
     more: "mehr…"
+    events: "Veranstaltungen"
