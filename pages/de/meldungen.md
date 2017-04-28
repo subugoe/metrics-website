@@ -6,7 +6,7 @@ lang: de
 ref: news
 comments: false
 position: top
-order: 2
+order: 10
 alt: "Neuigkeiten rund um das Projekt"
 symbol: "pulse"
 ---
