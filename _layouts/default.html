@@ -3,10 +3,11 @@
 {% if page.ref == "index" %}
 {% assign is_home = "active" %}
 {% endif %}
+<div class="sticky-footer-wrap">
 {% include topbar.html %}
 {% include hero.html %}
 {% include nav.html %}
-<main class="row">
+<main class="row margin-bottom-5">
     <div class="columns large-8 medium-10 medium-centered">
         <h1 class="margin-top-3">{{ page.title }}</h1>
         {{ content }}
@@ -16,5 +17,6 @@
     </div>
     {% include more_pages.html %}
 </main>
+</div>
 {% include footer.html %}
 {% include page_end.html %}

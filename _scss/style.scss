@@ -62,14 +62,33 @@ $header-lineheight: 1.1;
 
 @include foundation-everything;
 
-html {
-  background: url(../img/bubbles_bottom.svg) repeat-x bottom left;
+html,
+body {
   height: 100%;
+}
+
+.sticky-footer-wrap {
+  min-height: 100%;
+  margin-bottom: -100px;
+}
+
+.sticky-footer-wrap::after {
+  content: "";
+  display: block;
+}
+
+.sticky-footer,
+.sticky-footer-wrap::after {
+  height: 100px;
+}
+
+.sticky-footer {
+  background: url(../img/bubbles_bottom.svg) repeat-x bottom left;
 }
 
 body {
   background: url(../img/bubbles.svg) repeat-x top left;
-  padding: 4rem 0;
+  padding-top: 4rem;
 }
 
 nav {

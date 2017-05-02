@@ -1,5 +1,6 @@
 {% assign current_lang=page.lang %}
-<footer class="row margin-top-3">
+<div class="sticky-footer">
+<footer class="row">
     <nav class="columns medium-6 small-centered-text">
         <ul class="menu simple">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
@@ -14,7 +15,7 @@
         <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International </a>
     </div>
 </footer>
-
+</div>
 <!-- Piwik -->
 <script type="text/javascript">
     var _paq = _paq || [];

@@ -1,22 +1,16 @@
 {% include page_start.html %}
-
 {% assign current_lang = page.lang %}
-
 {% if page.ref == "index" %}
 {% assign is_home = "active" %}
 {% endif %}
-
+<div class="sticky-footer-wrap">
 {% include topbar.html %}
-
 {% include hero.html %}
-
 {% include nav.html %}
-
 {{ content }}
-
 {% if page.comments == true %}
 {% include comments.html %}
 {% endif %}
-
+</div>
 {% include footer.html %}
 {% include page_end.html %}
