@@ -48,7 +48,7 @@ The information provided on this site has been carefully compiled. However, the 
 
 ## Licensing terms  
 
-Unless otherwise stated, all content on this website is licensed under a Creative Commons 4.0 Attribution International (CC BY 4.0) Licence.  
+Unless otherwise stated, all content on this website is licensed under a [Creative Commons 4.0 Attribution International (CC BY 4.0) Licence](https://creativecommons.org/licenses/by/4.0/).  
 Excepted from this are, in particular, the logos of the universities and other institutions who support \*metrics.  
 
 ## CSS-Framework  

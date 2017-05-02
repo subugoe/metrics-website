@@ -47,7 +47,7 @@ Die Anbieter sind nicht für Inhalte fremder Seiten verantwortlich, die über ei
 
 ## Lizenzbestimmungen
 
-Alle Inhalte dieser Webseite stehen, soweit nicht anders angegeben, unter der Creative Commons Namensnennung 4.0 International Lizenz. Ausgenommen davon sind insbesondere die Logos der unterstützenden Universitäten und anderen Einrichtungen.  
+Alle Inhalte dieser Webseite stehen, soweit nicht anders angegeben, unter der [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/). Ausgenommen davon sind insbesondere die Logos der unterstützenden Universitäten und anderen Einrichtungen.  
 
 ## CSS-Framework  
 
