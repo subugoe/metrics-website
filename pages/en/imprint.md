@@ -65,10 +65,5 @@ The avatar for missing pictures of team members is from: <https://pixabay.com/de
 
 Miriam Geoghegan M.A.  
 
-<ul>
-    {% for contact in site.data.people %}
-    <li>{{ contact.name }}<br><a href="mailto:{{ contact.mail }}">{{ contact.mail }}</a></li>
-    {% endfor %}
-</ul>
 
 <iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
