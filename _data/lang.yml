@@ -6,6 +6,7 @@ l:
     news: "News"
     more: "more…"
     events: "Events"
+    morepages: "More pages in"
   de:
     contact: "Kontakt"
     home: "Startseite"
@@ -13,3 +14,4 @@ l:
     news: "Meldungen"
     more: "mehr…"
     events: "Veranstaltungen"
+    morepages: "Weitere Seiten in"
