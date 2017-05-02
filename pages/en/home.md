@@ -19,7 +19,11 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
     <div class="columns medium-10">
         <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].events }}</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<div class="featurebox__content" markdown="1">
+* Lorem ipsum dolor sit amut.
+* Lorem ipsum dolor sit amut.
+* Lorem ipsum dolor sit amut.
+</div>
     </div>
 </div>
 
@@ -29,7 +33,11 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
     <div class="columns medium-10">
         <h2 class="featurebox__header">Downloads</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<div class="featurebox__content" markdown="1">
+* Lorem ipsum dolor sit amut.
+* Lorem ipsum dolor sit amut.
+* Lorem ipsum dolor sit amut.
+</div>
     </div>
 </div>
 
@@ -39,13 +47,15 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">Twitter</h2>
-    <a 
-        class="twitter-timeline" 
-        data-dnt="true" 
-        data-chrome="noheader noborders nofooter" 
-        data-tweet-limit="3" 
-        href="https://twitter.com/metrics_project"></a>
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div class="featurebox__content">
+        <a 
+            class="twitter-timeline" 
+            data-dnt="true" 
+            data-chrome="noheader noborders nofooter" 
+            data-tweet-limit="3" 
+            href="https://twitter.com/metrics_project"></a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
     </div>
 </div>
 
@@ -55,6 +65,8 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
     <div class="columns medium-10">
         <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].news }}</h2>
-        {% include latest_news_index.html %}
+        <div class="featurebox__content">
+            {% include latest_news_index.html %}
+        </div>
     </div>
 </div>
