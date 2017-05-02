@@ -53,9 +53,13 @@ $header-lineheight: 1.1;
 
 @include foundation-everything;
 
+html {
+  background: url(../img/bubbles_bottom.svg) repeat-x bottom left;
+}
+
 body {
   background: url(../img/bubbles.svg) repeat-x top left;
-  padding-top: 4rem;
+  padding: 4rem 0;
 }
 
 nav {
