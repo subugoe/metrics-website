@@ -1,18 +1,39 @@
 {% assign current_lang=page.lang %}
 <div class="sticky-footer">
-<footer class="row">
-    <nav class="columns medium-6 small-centered-text">
-        <ul class="menu simple">
-            {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
-            {% for item in pages %}
-            <li class="{% if item.title == page.title %}active_footer{% endif %}">
-                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
-    <div class="columns medium-6 text-right small-centered-text">
-        <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International </a>
+<footer class="">
+    <div class="row footer__logos">
+        <div class="columns large-3 text-center">
+            <a href="https://www.sub.uni-goettingen.de"><img src="{{ site.baseurl }}/img/logos/logo_sub_2.svg" alt="" width="80%"></a>
+        </div>
+        <div class="columns large-3 text-center">
+            <a href="http://www.zbw.eu/en/"><img src="{{ site.baseurl }}/img/logos/logo_zbw.svg" alt="" width=""></a>
+        </div>
+        <div class="columns large-3 text-center">
+            <a href="http://www.gesis.org/home/"><img src="{{ site.baseurl }}/img/logos/logo_gesis.svg" alt="" width="50%"></a>
+        </div>
+        <div class="columns large-3 text-center">
+            <a href="https://www.gbv.de/Verbundzentrale"><img src="{{ site.baseurl }}/img/logos/logo_vzg.svg" alt="" width="60%"></a>
+        </div>
+    </div>
+    <div class="row footer__logos">
+        <div class="columns large-3 text-center">
+            <a href="http://www.dfg.de"><img src="{{ site.baseurl }}/img/logos/logo_dfg_2.svg" alt="" width=""></a>
+        </div>
+    </div>
+    <div class="row footer__links">
+        <nav class="columns medium-6 small-centered-text">
+            <ul class="menu simple">
+                {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
+                {% for item in pages %}
+                <li class="{% if item.title == page.title %}active_footer{% endif %}">
+                    <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}">{{ item.title }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+        <div class="columns medium-6 text-right small-centered-text">
+            <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International </a>
+        </div>
     </div>
 </footer>
 </div>

@@ -58,6 +58,8 @@ $global-width: rem-calc(960);
 // $header-color: $metrics-purple;
 $header-lineheight: 1.1;
 
+$sticky-footer-height: 250px;
+
 @import "../node_modules/foundation-sites/scss/foundation.scss";
 
 @include foundation-everything;
@@ -69,7 +71,7 @@ body {
 
 .sticky-footer-wrap {
   min-height: 100%;
-  margin-bottom: -100px;
+  margin-bottom: -$sticky-footer-height;
 }
 
 .sticky-footer-wrap::after {
@@ -79,11 +81,19 @@ body {
 
 .sticky-footer,
 .sticky-footer-wrap::after {
-  height: 100px;
+  height: $sticky-footer-height;
 }
 
 .sticky-footer {
   background: url(../img/bubbles_bottom.svg) repeat-x bottom left;
+}
+
+// .footer__links {
+//
+// }
+
+.footer__logos {
+  @extend .margin-bottom-4;
 }
 
 body {
