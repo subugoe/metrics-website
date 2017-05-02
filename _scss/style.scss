@@ -224,3 +224,7 @@ table.small-stack {
   @extend .padding-bottom-1;
   @extend .padding-left-1;
 }
+
+.featurebox__content {
+  @extend .margin-top-1;
+}
