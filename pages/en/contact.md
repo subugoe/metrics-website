@@ -16,7 +16,7 @@ Platz der Göttinger Sieben 1
 37073 Göttingen  
 Germany
 
-Email: <metrics-project@sub.uni-goettingen.de> 
+Email: <metrics-project@sub.uni-goettingen.de>
 
 Facebook: [https://www.facebook.com/metricsproject/](https://www.facebook.com/metricsproject/)  
-Twitter: @metrics_project
+Twitter: [https://twitter.com/metrics_project](https://twitter.com/metrics_project)
