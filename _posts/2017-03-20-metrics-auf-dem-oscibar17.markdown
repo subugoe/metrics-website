@@ -21,4 +21,4 @@ Das \*metrics-Projekt wird in den nächsten zwei Jahren dazu beitragen, Antworte
 
 Hier sind einige Bilder vom Barcamp.  
 
-Im Open Science Radio gibt es ein <a href="http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/">Interview mit Astrid Orth</a>.
+Im Open Science Radio gibt es ein [Interview mit Astrid Orth](http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/).
