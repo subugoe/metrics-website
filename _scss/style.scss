@@ -22,6 +22,8 @@ nav {
 }
 
 main {
+  @extend .margin-bottom-5;
+
   a {
     color: $metrics-purple;
     font-weight: 600;
