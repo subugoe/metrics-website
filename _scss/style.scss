@@ -5,18 +5,13 @@
 
 @import "utils";
 @import "featurebox";
+@import "nav";
 @import "footer";
 @import "sticky-footer";
 
 body {
   background: url(../img/bubbles.svg) repeat-x top left;
   padding-top: 4rem;
-}
-
-nav {
-  a {
-    color: #000;
-  }
 }
 
 main {
@@ -61,54 +56,6 @@ table.small-stack {
   @extend .margin-left-2;
 }
 
-.symbol_nav {
-  img {
-    width: 25px;
-  }
-
-  @include breakpoint(medium only) {
-    display: block;
-    text-align: center;
-    margin-bottom: 0.5rem;
-  }
-}
-
-.menu .active a {
-  background-color: #fff;
-  color: #000;
-}
-
-.top-bar {
-  // border-bottom: 5px solid $metrics-purple;
-  padding-bottom: 0;
-  // background-color: $metrics-purple;
-
-  .dropdown {
-    @include breakpoint(medium only) {
-      a {
-        padding: 0 0.5rem;
-      }
-    }
-
-    @include breakpoint(medium) {
-      display: flex;
-      flex-wrap: nowrap;
-      justify-content: center;
-    }
-  }
-
-  nav {
-
-    // border-bottom: 5px solid $metrics-purple;
-
-    .active {
-      a {
-        // border-bottom: 5px solid $metrics-blue;
-      }
-    }
-  }
-}
-
 .claim {
   font-weight: 500;
   font-size: 1.33rem;
@@ -120,9 +67,4 @@ table.small-stack {
   }
 
   @extend .margin-top-4;
-}
-
-.menu_title {
-  white-space: nowrap;
-  text-align: center;
 }

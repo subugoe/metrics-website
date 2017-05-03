@@ -1,24 +1,25 @@
 {% assign current_lang=page.lang %}
+<div class="mainmenu__wrap">
 
-<div class="margin-top-1">
-    <nav class="row columns">
-        <ul class="dropdown menu" style="margin: 0 auto; width: 92%;" data-dropdown-menu>
-            {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
-            {% for item in pages %}
-            <li class="{% if item.ref == page.ref or item.ref == page.parent %}active{% endif %}">
-                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="symbol_nav"><img src="{{ site.baseurl }}/img/{{ item.symbol }}.svg"></span><span class="menu_title">{{ item.title }}</span></a>
-                {% if item.children %}
-                {% assign children=site.pages | where:"parent", item.ref | where:"lang", page.lang | sort:"order" %}
-                <ul class="menu vertical">
-                    {% for child in children %}
-                        <li class="{% if child.ref == page.ref %}active{% endif %}">
-                            <a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a>
-                        </li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
-    </nav>
+
+<nav class="mainmenu">
+    <ul class="mainmenu__mainlist dropdown menu" data-dropdown-menu>
+        {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
+        {% for item in pages %}
+        <li class="mainmenu__mainlist__item {% if item.ref == page.ref or item.ref == page.parent %}mainmenu__mainlist__item--active{% endif %}">
+            <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="mainmenu__item-symbol__wrap"><img src="{{ site.baseurl }}/img/{{ item.symbol }}.svg" class="mainmenu__item-symbol"></span><span class="mainmenu__item-title__wrap">{{ item.title }}</span></a>
+            {% if item.children %}
+            {% assign children=site.pages | where:"parent", item.ref | where:"lang", page.lang | sort:"order" %}
+            <ul class="menu vertical">
+                {% for child in children %}
+                    <li class="{% if child.ref == page.ref %}active{% endif %}">
+                        <a href="{{ site.baseurl }}{{ child.permalink }}" alt="{{ child.alt }}">{{ child.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
 </div>
