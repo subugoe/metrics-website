@@ -52,17 +52,17 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     <div class="columns medium-10">
         <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].events }}</h2>
 <div class="featurebox__content" markdown="1">
-* 2017-03-21 | Open Science Conference, Berlin
-* 2017-05-08 | COAR Jahrestagung, Venedig
-* 2017-05-23 | WikiCite, Wien
-* 2017-06-01 | Bibliothekartag, Frankfurt/M
+* 2017-03-21 \| Open Science Conference
+* 2017-05-08 \| COAR Jahrestagung
+* 2017-05-23 \| WikiCite
+* 2017-06-01 \| Bibliothekartag
 </div>
     </div>
 </div>
 
 <div class="columns medium-6">
     <div class="columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/twitter.svg">
+
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">Find us at</h2>
