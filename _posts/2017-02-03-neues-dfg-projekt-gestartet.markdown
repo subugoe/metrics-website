@@ -10,14 +10,17 @@ ref: welcome
 ---
 Am 1.1.2017 ist das DFG-geförderte Projekt \*metrics – Measuring The Reliability and perceptions of Indicators for interactions with sCientific productS gestartet. In einem Kick-Off-Meeting am 1. und 2. Februar 2017 in Göttingen haben die Partner (Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutsche Zentralbibliothek für Wirtschaftswissenschaften (ZBW) – LeibnizInformationszentrum Wirtschaft, GESIS Leibniz-Institut für Sozialwissenschaften und die Verbundzentrale des Gemeinsamen Bibliotheksverbunds (VZG) ) die Projektziele und Aktivitäten für die nächsten zwei Jahre besprochen.
 
+<div class="row">
+<div class="columns medium-6" markdown="1">
 ![Gruppenfoto]({{ site.url }}/img/bilder_team/gruppenfoto.png "Gruppenfoto"){: style="min-width: 100%" }
-
-<div class="callout" markdown="1">
+</div>
+<div class="columns medium-6 callout" markdown="1">
 ### Fakten
 Status: laufend  
 Laufzeit: 01.01.2017 - 31.12.2018  
 Schlagwörter: Elektronisches Publizieren, Open Access, Metriken  
 Förderung: Deutsche Forschungsgemeinschaft (DFG)
+</div>
 </div>
 
 ## Projektziele
