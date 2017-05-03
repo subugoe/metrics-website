@@ -2,7 +2,7 @@
 layout: post
 title: "Bericht der Europäischen Expertengruppe zu Altmetrics veröffentlicht"
 categories: news
-permalink: /en/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/
+permalink: /de/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/
 lang: de
 parent: news
 ref: news-report-eu-experts

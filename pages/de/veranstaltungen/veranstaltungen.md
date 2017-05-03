@@ -7,7 +7,7 @@ ref: events
 comments: false
 position: top
 order: 20
-children: true
+children: false
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
@@ -22,8 +22,11 @@ Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth
 
 ## WikiCite: 23. - 25. Mai 2017, Wien
 
-[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) wird am 23.- 25. Mai 2017 in Wien stattfinden. Das 3-tägige  Gipfeltreffen ist Konferenz und Hack Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, treffen Wikimedia Editoren zusammen mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
+[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) wird am 23.- 25. Mai 2017 in Wien stattfinden. Das 3-tägige Treffen ist Konferenz und Hack-Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, treffen Wikimedia Editoren zusammen mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
 
+Olga Zagovora stellt dort das \*metrics-Projekt und zugleich bereits erste vorläufige Ergebnisse des Projektes vor. Eine hohe Sichtbarkeit in der Wikipedia Community, als einer der Hauptdatenlieferanten für alternative Metriken, dient gleichzeitig der Akzeptanz des Projektes. Darüber hinaus wird der Austausch mit Zitations-Mining-Experten während des Hackathons nützliche Erkenntnisse für die weitere Arbeit des Projektes bringen.  
+
+Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wird die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
 
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 
@@ -37,4 +40,4 @@ werden in einem Etherpad gesammelt und als Ergebnis des Workshops bereitgestellt
 ### International Open Science Conference 2017: 20 - 22 March, Berlin
 
 Die International Open Science Conference vom 21. - 22. März 2017 in Berlin war auch dieses Jahr wieder Anziehungspunkt für ein breites Publikum. Das \*metrics-Projekt war mit drei Team-Mitgliedern vertreten.  
-Bereits am 20. März fand die Sitzung der Open Science Policy Plattform statt, auf der der [Bericht der EU Expertengruppe zu Altmetrics]({{ site.url }}/en/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/) vorgestellt wurde. Isabella Peters und Mitautoren stellten Details des Papiers auf der Konferenz dem Fachpublikum vor. Ebenfalls am Vortag fand das Open Science Barcamp statt. Die [Open Metrics Session]({{ site.url }}/_posts\2017-03-20-metrics-auf-dem-oscibar17)) wurde moderiert von Astrid Orth. Wichtig war auch die Diskussion auf dem Workshop der durch das EU-Projekt OpenUp durchgeführt wurde und bei dem eine weitere Abstimmung und Zusammenarbeit vereinbart wurde.
+Bereits am 20. März fand die Sitzung der Open Science Policy Plattform statt, auf der der [Bericht der EU Expertengruppe zu Altmetrics]({{ site.url }}/en/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/) vorgestellt wurde. Isabella Peters und Mitautoren stellten Details des Papiers auf der Konferenz dem Fachpublikum vor. Ebenfalls am Vortag fand das Open Science Barcamp statt. Die [Open Metrics Session]({{ site.url }}/de/meldungen/2017-03-20-metrics-auf-dem-oscibar17/) wurde moderiert von Astrid Orth. Wichtig war auch die Diskussion auf dem Workshop "Scientific knowledge dissemination and altmetrics" der durch das EU-Projekt OpenUp durchgeführt wurde und bei dem eine weitere Abstimmung und Zusammenarbeit vereinbart wurde.
