@@ -62,12 +62,11 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
 
 <div class="columns medium-6">
     <div class="columns medium-2 featurebox__icon">
-
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">Find us at</h2>
-        <div class="featurebox__content" markdown="1">
-        Twitter and Facebook (icons)
+        <div class="featurebox__content">
+        <a href="https://twitter.com/metrics_project">Twitter</a> and <a href="https://www.facebook.com/metricsproject">Facebook</a>
         </div>
     </div>
 </div>
