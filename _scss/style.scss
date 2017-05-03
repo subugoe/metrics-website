@@ -7,7 +7,19 @@
 @import "sticky-footer";
 
 .footer__logos {
+  @extend .row;
+  @extend .columns;
   @extend .margin-bottom-4;
+
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+
+  a {
+    @extend .margin-left-2;
+    @extend .margin-right-2;
+  }
 }
 
 body {
