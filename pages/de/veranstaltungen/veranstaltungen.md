@@ -31,13 +31,17 @@ Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles abo
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 
 Zum [Bibliothekartag 2017](http://bibliothekartag2017.de/) in Frankfurt moderiert Daniel Beucke den Workshop "Altmetrics und was mache ich damit?" (_am 1. Juni um 13:30 Uhr im Raum Harmonie A_). Nach einer allgemeinen Einführung in das Thema Altmetrics macht Astrid Orth deutlich, wie die Ergebnisse des Projekts \*metrics die interessierte Community unterstützen werden. Zudem werden verschiedene Dienstleister und Tools skizziert. Nach dem Blick auf die nationalen Entwicklungen wird der Fokus international betrachtet. In dem Vortrag von Isabella Peters werden die verschiedenen Arbeitsgruppen und Initiativen kurz vorgestellt, die sich u.a. mit der Standardisierung der alternativen Metriken befassen.  
+
 Ben McLeish schaut auf die deutschlandweite Forschung und beschreibt anhand von Altmetrics die Trends, die anhand dieser Daten ermittelt werden können. Was wird in den Sozialen Medien am meisten besprochen, welche Daten befinden sich in Policies und welche Einrichtung ist am meisten bzw. am wenigsten besprochen? Wie können diese Erfahrungen auf die PR und die Kommunikationsstrategie einer Einrichtung angewandt werden? Christina Lohr zeigt anhand von gesammelten Daten, wie Altmetrics in den Sozial- und Geisteswissenschaften und im Speziellen bei dem Format Bücher angewandt werden können, um Impact in den Sozialen Medien zu zeigen.  
-Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Die Ergebnisse
-werden in einem Etherpad gesammelt und als Ergebnis des Workshops bereitgestellt.  
+
+Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Die Ergebnisse werden in einem Etherpad gesammelt und als Ergebnis des Workshops bereitgestellt.  
 
 ## Vergangene Veranstaltungen
 
 ### International Open Science Conference 2017: 20 - 22 March, Berlin
 
 Die International Open Science Conference vom 21. - 22. März 2017 in Berlin war auch dieses Jahr wieder Anziehungspunkt für ein breites Publikum. Das \*metrics-Projekt war mit drei Team-Mitgliedern vertreten.  
-Bereits am 20. März fand die Sitzung der Open Science Policy Plattform statt, auf der der [Bericht der EU Expertengruppe zu Altmetrics]({{ site.url }}/en/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/) vorgestellt wurde. Isabella Peters und Mitautoren stellten Details des Papiers auf der Konferenz dem Fachpublikum vor. Ebenfalls am Vortag fand das Open Science Barcamp statt. Die [Open Metrics Session]({{ site.url }}/de/meldungen/2017-03-20-metrics-auf-dem-oscibar17/) wurde moderiert von Astrid Orth. Wichtig war auch die Diskussion auf dem Workshop "Scientific knowledge dissemination and altmetrics" der durch das EU-Projekt OpenUp durchgeführt wurde und bei dem eine weitere Abstimmung und Zusammenarbeit vereinbart wurde.
+
+Bereits am 20. März fand die Sitzung der Open Science Policy Plattform statt, auf der der [Bericht der EU Expertengruppe zu Altmetrics]({{ site.url }}/de/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/) vorgestellt wurde. Isabella Peters und Mitautoren stellten Details des Papiers auf der Konferenz dem Fachpublikum vor.  
+
+Ebenfalls am Vortag fand das Open Science Barcamp statt. Die [Open Metrics Session]({{ site.url }}/de/meldungen/2017-03-20-metrics-auf-dem-oscibar17/) wurde moderiert von Astrid Orth. Wichtig war auch die Diskussion auf dem Workshop "Scientific knowledge dissemination and altmetrics" der durch das EU-Projekt OpenUp durchgeführt wurde und bei dem eine weitere Abstimmung und Zusammenarbeit vereinbart wurde.

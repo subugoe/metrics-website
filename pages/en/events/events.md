@@ -16,13 +16,13 @@ Visit the following events to meet members of the \*metrics project team:
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice
 
-The next General Assembly of the Confederation of Open Access Repositories (COAR) will take place from 8 - 10 May 2017 in Venice on the campus of the Università Ca’ Foscari. The major theme for this year’s meeting will be next generation repositories. The meeting will provide participants with the opportunity to learn about international trends in repositories, open access and open science, as well as engage with colleagues from around the world.
+The next [General Assembly of the Confederation of Open Access Repositories (COAR)](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) will take place from 8 - 10 May 2017 in Venice on the campus of the Università Ca’ Foscari. The major theme for this year’s meeting will be next generation repositories. The meeting will provide participants with the opportunity to learn about international trends in repositories, open access and open science, as well as engage with colleagues from around the world.  
 
 The COAR Open Metrics Interest Group will run a meeting moderated by co-chair and \*metrics project manager Astrid Orth to discuss latest developments in the area of alternative metrics and introduce the \*metrics project. The project will also present a poster during the conference.
 
 ### WikiCite: 23-25 May 2017, Vienna
 
-WikiCite 2017 is a 3-day conference, summit and hack day to be hosted in Vienna, Austria, on May 23-25, 2017. It expands efforts to design a central bibliographic repository, as well as tools and strategies to improve information quality and verifiability in Wikimedia projects. Wikimedia contributors meet with data modelers, information and library science experts, software engineers, designers and academic researchers who have experience working with Wikipedia's citations and bibliographic data.  
+[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) is a 3-day conference, summit and hack day to be hosted in Vienna, Austria, on May 23-25, 2017. It expands efforts to design a central bibliographic repository, as well as tools and strategies to improve information quality and verifiability in Wikimedia projects. Wikimedia contributors meet with data modelers, information and library science experts, software engineers, designers and academic researchers who have experience working with Wikipedia's citations and bibliographic data.  
 
 Olga Zagovora will introduce the \*metrics project to the Wikipedia community and present some preliminary first results of the project. It will be beneficial to both, the Wikipedians being one of the focal creators of altmetrics, as well as the project team to increase awareness for the ongoing \*metrics project. Moreover, exchanging experiences with citation mining experts during the hackathon will gain useful insights for our future work.  
 
@@ -31,7 +31,9 @@ The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
 Daniel Beucke moderates the workshop "Altmetrics and what am I doing with it?" at this years [Bibliothekartag](http://bibliothekartag2017.de/) in Frankfurt (_mark June 1st in your calendar, 1:30pm in room Harmony A_). After a general introduction into the topic of altmetrics, Astrid Orth will explain how the interested community will benefit from results of the \*metrics project. Additionally related services and tools will be outlined. After this national focus Isabella Peters will introduce international working groups and initiatives which are working on standardising alternative metrics.  
+
 Ben McLeish will demonstrate the current state of research in Germany regarding the trends that can be derived using data based on altmetrics. What is being discussed in social media channels? Which data is buried in policy documents and which institutions feature most or least, respectively? How can these experiences be applied to public relations and the communications strategy of an organisation? Christina Lohr on the other hand demonstrates based on collected data how altmetrics can be used to achieve impact in social media for social sciences and humanities, and there specifically for books as a publishing medium.  
+
 There will be enough room for questions and discussion during the workshop. Results will be documented in an etherpad and provided to participants.  
 
 ## Past Events
@@ -39,4 +41,7 @@ There will be enough room for questions and discussion during the workshop. Resu
 ### International Open Science Conference 2017: 20 - 22 March, Berlin
 
 The International Open Science Conference 21 - 22 March 2017 attracted a broad audience to Berlin. Three \*metrics project team members participated in the event.  
-On the day before, the Open Science Policy Plattform met to receive the [Report of the European Expert Group on Altmetrics]({{ site.url }}/en/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/). Isabella Peters together with her co-authors presented then details of the paper during the Open Science Conference. The Open Science Barcamp was also held on 20th March. A very fruitful [Open Metrics Session]({{ site.url }}/_posts\2017-03-20-metrics-auf-dem-oscibar17)) was moderated by Astrid Orth. Very useful was the discussion during the workshop "Scientific knowledge dissemination and altmetrics" held by the EU project OpenUp where further co-ordination and co-operation was agreed.
+
+On the day before, the Open Science Policy Plattform met to receive the [Report of the European Expert Group on Altmetrics]({{ site.url }}/en/news/2017-03-20-report-of-eu-expert-group-on-altmetrics-published/). Isabella Peters together with her co-authors presented then details of the paper during the Open Science Conference.  
+
+The Open Science Barcamp was also held on 20th March. A very fruitful [Open Metrics Session]({{ site.url }}/en/news/2017-03-20-metrics-at-ocsibar17/) was moderated by Astrid Orth. Very useful was the discussion during the workshop "Scientific knowledge dissemination and altmetrics" held by the EU project OpenUp where further co-ordination and co-operation was agreed.
