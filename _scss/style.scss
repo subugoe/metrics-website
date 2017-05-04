@@ -15,6 +15,7 @@ body {
 }
 
 main {
+  @extend .row;
   @extend .margin-bottom-5;
 
   a {

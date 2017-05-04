@@ -10,7 +10,7 @@ position:
 order: 2
 alt: "introduction of the project team"
 ---
-<main class="row">
+<main>
     <div class="columns large-8 large-centered medium-10 medium-centered">
         <h1 class="margin-top-2">{{ page.title }}</h1>
         <p>Our team is distributed over four institutions: Goettingen State and University Library (SUB Göttingen), Leibniz Information Centre for Economics (ZBW), Common Library Network of the German States Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen and the Foundation of Prussian Cultural Heritage (VZG) and the Leibniz Institute for Social Sciences (GESIS). The team meets regularly virtually and in person and works closely together.</p>
