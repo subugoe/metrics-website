@@ -9,11 +9,12 @@ position:
 order:
 alt: "Lorem ipsum dolor sit amut."
 ---
-<div class="row columns margin-top-4 margin-bottom-4" markdown="1">
+<div class="columns margin-top-4 margin-bottom-4" markdown="1">
 Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
 </div>
 
-<div id="masonry-container" class="row">
+<div class="columns collapse">
+<div id="masonry-container" class="medium-collapse">
 
 <!-- News -->
 <div class="featurebox columns medium-6">
@@ -83,4 +84,5 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
 </div>
 
+</div>
 </div>
