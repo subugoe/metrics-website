@@ -24,8 +24,6 @@ window.twttr = (function(d, s, id) {
 
 twttr.ready(
   function (twttr) {
-    // console.log('asdf');
-
     twttr.widgets.createTimeline(
       {
         sourceType: 'profile',
@@ -40,9 +38,9 @@ twttr.ready(
     twttr.events.bind(
       'rendered',
       function (event) {
-        // console.log("Created widget", event.target.id);
         $('#masonry-container').masonry({
-          itemSelector: '.featurebox'
+          itemSelector: '.featurebox',
+          transitionDuration: 0
         });
       }
     );
