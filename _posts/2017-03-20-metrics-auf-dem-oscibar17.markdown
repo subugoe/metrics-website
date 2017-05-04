@@ -2,7 +2,7 @@
 layout: post
 title: "*metrics at Open Science Barcamp 2017"
 categories: news
-permalink: /en/meldungen/2017-03-20-metrics-auf-dem-oscibar17/
+permalink: /de/meldungen/2017-03-20-metrics-auf-dem-oscibar17/
 lang: de
 parent: news
 ref: news-oscibar17
@@ -21,4 +21,4 @@ Das \*metrics-Projekt wird in den nächsten zwei Jahren dazu beitragen, Antworte
 
 Hier sind einige Bilder vom Barcamp.  
 
-Im Open Science Radio gibt es ein <a href="http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/">Interview mit Astrid Orth</a>.
+Im Open Science Radio gibt es ein [Interview mit Astrid Orth](http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/).
