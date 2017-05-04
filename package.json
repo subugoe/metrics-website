@@ -29,7 +29,7 @@
     "jekyll_build": "bundle exec jekyll b",
     "serve": "live-server --watch=$(PWD)/metrics-website --browser='Google Chrome' --open='/metrics-website'",
     "run:css": "nodemon -e scss -x \"npm run build:css && npm run build:jekyll\"",
-    "run:jekyll": "nodemon -e md,html,markdown --delay 2 --ignore metrics-website -x \"npm run build:jekyll\"",
+    "run:jekyll": "nodemon -e md,html,markdown,js --delay 2 --ignore metrics-website -x \"npm run build:jekyll\"",
     "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"SERVE,SASS,JEKYLL\" \"npm run serve\" \"npm run run:css\" \"npm run run:jekyll\"",
     "go": "npm run dev > npm.log",
     "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
