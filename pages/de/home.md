@@ -9,11 +9,14 @@ position:
 order:
 alt: "Lorem ipsum dolor sit amut."
 ---
-<div class="columns margin-top-4 margin-bottom-4" markdown="1">
+<div class="row columns margin-top-4 margin-bottom-4" markdown="1">
 Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
 </div>
 
-<div class="columns medium-6">
+<div id="masonry-container" class="row">
+
+<!-- News -->
+<div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/pulse.svg">
     </div>
@@ -25,27 +28,20 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
 </div>
 
-
-
-<div class="columns medium-6">
+<!-- Twitter -->
+<div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/twitter.svg">
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">Twitter</h2>
-    <div class="featurebox__content">
-        <a
-            class="twitter-timeline"
-            data-dnt="true"
-            data-chrome="noheader noborders nofooter"
-            data-tweet-limit="3"
-            href="https://twitter.com/metrics_project"></a>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        </div>
+    <div id="featurebox__content__twitter" class="featurebox__content">
+    </div>
     </div>
 </div>
 
-<div class="columns medium-6">
+<!-- Events -->
+<div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/calendar.svg">
     </div>
@@ -60,7 +56,8 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
 </div>
 
-<div class="columns medium-6">
+<!-- Find us at -->
+<div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
     </div>
     <div class="columns medium-10">
@@ -71,7 +68,8 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
     </div>
 </div>
 
-<div class="columns medium-6">
+<!-- Downloads -->
+<div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/download.svg">
     </div>
@@ -83,4 +81,6 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
 * Lorem ipsum dolor sit amut.
 </div>
     </div>
+</div>
+
 </div>
