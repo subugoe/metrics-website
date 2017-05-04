@@ -8,6 +8,10 @@ body {
 .sticky-footer-wrap {
   min-height: 100%;
   margin-bottom: -$sticky-footer-height;
+
+  @include breakpoint(small only) {
+    height: -($sticky-footer-height * 1.25);
+  }
 }
 
 .sticky-footer-wrap::after {
@@ -18,6 +22,10 @@ body {
 .sticky-footer,
 .sticky-footer-wrap::after {
   height: $sticky-footer-height;
+
+  @include breakpoint(small only) {
+    height: ($sticky-footer-height * 1.25);
+  }
 }
 
 .sticky-footer {

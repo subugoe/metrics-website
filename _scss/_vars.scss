@@ -46,6 +46,14 @@ $header-styles: (
     'h4': ('font-size': 1.33rem, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
     'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
+  ),
+  'small': (
+    'h1': ('font-size': 2rem, 'line-height': 1.1, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h2': ('font-size': 1.66rem, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h3': ('font-size': 1.33rem, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h4': ('font-size': 1rem, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h5': ('font-size': 20, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom),
+    'h6': ('font-size': 16, 'line-height': $header-lineheight, 'margin-top': 0, 'margin-bottom': $header-margin-bottom)
   )
 );
 
@@ -55,7 +63,7 @@ $topbar-background: #fff;
 
 $grid-row-width: 960px;
 
-$global-width: rem-calc(960);
+// $global-width: rem-calc(960);
 
 $header-lineheight: 1.1;
 

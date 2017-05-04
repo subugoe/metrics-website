@@ -49,6 +49,10 @@ table.small-stack {
   text-align: right;
 
   @extend .margin-top-2;
+
+  @include breakpoint(small only) {
+    display: none;
+  }
 }
 
 .languageswitch {
@@ -62,10 +66,22 @@ table.small-stack {
   font-size: 1.33rem;
   line-height: 1.33;
 
+  @extend .margin-top-4;
+
   @include breakpoint(medium only) {
     font-size: 1rem;
     line-height: 1;
   }
 
-  @extend .margin-top-4;
+  @include breakpoint(small only) {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 0;
+  }
+}
+
+.mansonry__wrap {
+  @include breakpoint(small only) {
+    padding: 0;
+  }
 }

@@ -1,5 +1,9 @@
 .mainmenu__wrap {
   border-bottom: 5px solid $metrics-purple;
+
+  @include breakpoint(small only) {
+    display: none;
+  }
 }
 
 .mainmenu {

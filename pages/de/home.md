@@ -13,16 +13,16 @@ alt: "Lorem ipsum dolor sit amut."
 Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
 </div>
 
-<div class="columns collapse">
-<div id="masonry-container" class="medium-collapse">
+<div class="columns collapse mansonry__wrap">
+<div id="masonry-container" class="small-collapse medium-collapse">
 
 <!-- News -->
 <div class="featurebox columns medium-6">
-    <div class="columns medium-2 featurebox__icon">
+    <div class="hide-for-small-only columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/pulse.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].news }}</h2>
+        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/pulse.svg" class="show-for-small-only">{{ site.data.lang.l[page.lang].news }}</h2>
         <div class="featurebox__content">
             {% include latest_news_index.html %}
         </div>
@@ -31,11 +31,11 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
 
 <!-- Twitter -->
 <div class="featurebox columns medium-6">
-    <div class="columns medium-2 featurebox__icon">
+    <div class="hide-for-small-only columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/twitter.svg">
     </div>
     <div class="columns medium-10">
-    <h2 class="featurebox__header">Twitter</h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/twitter.svg" class="show-for-small-only">Twitter</h2>
     <div id="featurebox__content__twitter" class="featurebox__content">
     </div>
     </div>
@@ -43,11 +43,11 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
 
 <!-- Events -->
 <div class="featurebox columns medium-6">
-    <div class="columns medium-2 featurebox__icon">
+    <div class="hide-for-small-only columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/calendar.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].events }}</h2>
+        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only">{{ site.data.lang.l[page.lang].events }}</h2>
 <div class="featurebox__content" markdown="1">
 * 2017-03-21 \| Open Science Conference
 * 2017-05-08 \| COAR Jahrestagung
@@ -59,23 +59,25 @@ Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (*
 
 <!-- Find us at -->
 <div class="featurebox columns medium-6">
-    <div class="columns medium-2 featurebox__icon">
+    <div class="hide-for-small-only columns medium-2 featurebox__icon">
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].findus }}</h2>
         <div class="featurebox__content">
-        <a href="https://twitter.com/metrics_project">Twitter</a> and <a href="https://www.facebook.com/metricsproject">Facebook</a>
+        <p>
+            <a href="https://twitter.com/metrics_project">Twitter</a> and <a href="https://www.facebook.com/metricsproject">Facebook</a>
+        </p>
         </div>
     </div>
 </div>
 
 <!-- Downloads -->
 <div class="featurebox columns medium-6">
-    <div class="columns medium-2 featurebox__icon">
+    <div class="hide-for-small-only columns medium-2 featurebox__icon">
         <img src="{{ site.baseurl }}/img/download.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header">Downloads</h2>
+        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/download.svg" class="show-for-small-only">Downloads</h2>
 <div class="featurebox__content" markdown="1">
 * Lorem ipsum dolor sit amut.
 * Lorem ipsum dolor sit amut.

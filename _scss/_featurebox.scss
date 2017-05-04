@@ -18,6 +18,14 @@
 
   @extend .padding-bottom-1;
   @extend .padding-left-1;
+
+  @include breakpoint(small only) {
+    min-height: 0;
+
+    img {
+      padding-right: 0.5rem;
+    }
+  }
 }
 
 .featurebox__content {
