@@ -76,11 +76,13 @@ In this area you can find presentations, reports and dissemination material from
 <!-- Find us at -->
 <div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
+        <img src="{{ site.baseurl }}/img/email.svg">
     </div>
     <div class="columns medium-10">
     <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].findus }}</h2>
         <div class="featurebox__content">
-        <a href="https://twitter.com/metrics_project">Twitter</a> and <a href="https://www.facebook.com/metricsproject">Facebook</a>
+            <img src="{{ site.baseurl }}/img/twitter.svg"> <a href="https://twitter.com/metrics_project">Twitter</a> and <br>
+            <img src="{{ site.baseurl }}/img/facebook.svg"> <a href="https://www.facebook.com/metricsproject">Facebook</a>
         </div>
     </div>
 </div>
