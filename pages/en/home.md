@@ -7,10 +7,10 @@ ref: index
 comments: false
 position:
 order:
-alt: "Lorem ipsum dolor sit amut."
+alt: "Website of the *metrics project"
 ---
 <div class="columns margin-top-4 margin-bottom-4" markdown="1">
-Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
+Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
 </div>
 
 <div class="columns collapse">
