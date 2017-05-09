@@ -35,7 +35,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/twitter.svg">
     </div>
     <div class="columns medium-10">
-    <h2 class="featurebox__header">Twitter</h2>
+    <h2 class="featurebox__header"><A HREF="https://twitter.com/metrics_project">Twitter</A></h2>
     <div id="featurebox__content__twitter" class="featurebox__content">
     </div>
     </div>
