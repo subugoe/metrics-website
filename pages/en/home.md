@@ -47,7 +47,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/calendar.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].events }}</h2>
+        <h2 class="featurebox__header"><A HREF="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</A></h2>
 <div class="featurebox__content" markdown="1">
 * 2017-03-21 \| Open Science Conference
 * 2017-05-08 \| COAR Jahrestagung
@@ -75,11 +75,9 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/download.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header">Downloads</h2>
+        <h2 class="featurebox__header"><A HREF="{{ site.baseurl }}/en/downloads/">Downloads</A></h2>
 <div class="featurebox__content" markdown="1">
-* Lorem ipsum dolor sit amut.
-* Lorem ipsum dolor sit amut.
-* Lorem ipsum dolor sit amut.
+In this area you can find presentations, reports and dissemination material from the project.
 </div>
     </div>
 </div>
