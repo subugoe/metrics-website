@@ -22,7 +22,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/pulse.svg">
     </div>
     <div class="columns medium-10">
-        <A HREF="{{ site.baseurl }}/en/news/"><h2 class="featurebox__header">{{ site.data.lang.l[page.lang].news}}</h2></>
+        <A HREF="{{ site.baseurl }}/en/news/"><h2 class="featurebox__header">{{ site.data.lang.l[page.lang].news}}</h2></A>
         <div class="featurebox__content">
             {% include latest_news_index.html %}
         </div>
