@@ -12,6 +12,9 @@ alt: "Webseite des *metrics Projektes"
 <!-- div class="columns margin-top-4 margin-bottom-4" markdown="1">
 Willkommen auf der Internetseite des DFG-geförderten Projektes **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
 </div -->
+<P>
+
+</P>  
 
 <div class="columns collapse mansonry__wrap">
 <div id="masonry-container" class="small-collapse medium-collapse">
