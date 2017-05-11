@@ -71,8 +71,6 @@ In this area you can find presentations, reports and dissemination material from
     </div>
 </div>
 
-
-
 <!-- Find us at -->
 <div class="featurebox columns medium-6">
     <div class="columns medium-2 featurebox__icon">
@@ -81,10 +79,8 @@ In this area you can find presentations, reports and dissemination material from
     <div class="columns medium-10">
     <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].findus }}</h2>
         <div class="featurebox__content">
-        <p>
             <img src="{{ site.baseurl }}/img/twitter.svg"> <a href="https://twitter.com/metrics_project">Twitter</a> <br>
             <img src="{{ site.baseurl }}/img/facebook.svg"> <a href="https://www.facebook.com/metricsproject">Facebook</a>
-        </p>    
         </div>
     </div>
 </div>
