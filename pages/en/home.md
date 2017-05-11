@@ -9,9 +9,9 @@ position:
 order:
 alt: "Website of the *metrics project"
 ---
-<div class="columns margin-top-4 margin-bottom-4" markdown="1">
+<!-- <div class="columns margin-top-4 margin-bottom-4" markdown="1">
 Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **T**he **R**eliability and perceptions of **I**ndicators for interactions with s**C**ientific product**S**).
-</div>
+</div> -->
 
 <div class="columns collapse  mansonry__wrap">
 <div id="masonry-container" class="small-collapse medium-collapse">
@@ -22,7 +22,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/pulse.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header"><A HREF="{{ site.baseurl }}/en/news/">{{ site.data.lang.l[page.lang].news}}</A></h2>
+        <h2 class="featurebox__header"><a href="{{ site.baseurl }}/en/news/">{{ site.data.lang.l[page.lang].news}}</a></h2>
         <div class="featurebox__content">
             {% include latest_news_index.html %}
         </div>
@@ -47,7 +47,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/calendar.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header"><A HREF="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</A></h2>
+        <h2 class="featurebox__header"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 * 2017-03-21 \| Open Science Conference
 * 2017-05-08 \| COAR Jahrestagung
@@ -64,7 +64,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <img src="{{ site.baseurl }}/img/download.svg">
     </div>
     <div class="columns medium-10">
-        <h2 class="featurebox__header"><A HREF="{{ site.baseurl }}/en/downloads/">Downloads</A></h2>
+        <h2 class="featurebox__header"><a href="{{ site.baseurl }}/en/downloads/">Downloads</a></h2>
 <div class="featurebox__content" markdown="1">
 In this area you can find presentations, reports and dissemination material from the project.
 </div>
