@@ -8,8 +8,21 @@
   justify-content: space-between;
   align-items: center;
 
+  @include breakpoint(medium only) {
+    flex-wrap: wrap;
+  }
+
+  @include breakpoint(small only) {
+    flex-direction: column;
+    justify-content: center;
+  }
+
   a {
     @extend .margin-left-2;
     @extend .margin-right-2;
+
+    @include breakpoint(small only) {
+      text-align: center;
+    }
   }
 }

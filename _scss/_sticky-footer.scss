@@ -9,8 +9,12 @@ body {
   min-height: 100%;
   margin-bottom: -$sticky-footer-height;
 
+  @include breakpoint(medium only) {
+    margin-bottom: -($sticky-footer-height * 1.5);
+  }
+
   @include breakpoint(small only) {
-    height: -($sticky-footer-height * 1.25);
+    margin-bottom: -($sticky-footer-height * 3);
   }
 }
 
@@ -23,8 +27,12 @@ body {
 .sticky-footer-wrap::after {
   height: $sticky-footer-height;
 
+  @include breakpoint(medium only) {
+    height: ($sticky-footer-height * 1.5);
+  }
+
   @include breakpoint(small only) {
-    height: ($sticky-footer-height * 1.25);
+    height: ($sticky-footer-height * 3);
   }
 }
 
