@@ -72,10 +72,10 @@ In diesem Bereich stehen Präsentationen, Berichte und Marketingmaterial zum Dow
         <img src="{{ site.baseurl }}/img/email.svg">
     </div>
     <div class="columns medium-10">
-    <h2 class="featurebox__header">{{ site.data.lang.l[page.lang].findus }}</h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/email.svg" class="show-for-small-only">{{ site.data.lang.l[page.lang].findus }}</h2>
         <div class="featurebox__content">
-          <img src="{{ site.baseurl }}/img/twitter.svg"> <a href="https://twitter.com/metrics_project">Twitter</a> <br>
-          <img src="{{ site.baseurl }}/img/facebook.svg"> <a href="https://www.facebook.com/metricsproject">Facebook</a>
+            <img src="{{ site.baseurl }}/img/twitter.svg"> <a href="https://twitter.com/metrics_project">Twitter</a> <br>
+            <img src="{{ site.baseurl }}/img/facebook.svg"> <a href="https://www.facebook.com/metricsproject">Facebook</a>
         </div>
     </div>
 </div>
