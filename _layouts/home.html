@@ -3,16 +3,18 @@
 {% if page.ref == "index" %}
 {% assign is_home = "active" %}
 {% endif %}
-<div class="sticky-footer-wrap">
-{% include topbar.html %}
-{% include hero.html %}
-{% include nav.html %}
-<main>
-        {{ content }}
-        {% if page.comments == true %}
-            {% include comments.html %}
-        {% endif %}
-</main>
+<div class="off-canvas-content" data-off-canvas-content>
+    <div class="sticky-footer-wrap">
+        {% include topbar.html %}
+        {% include hero.html %}
+        {% include nav.html %}
+        <main>
+            {{ content }}
+            {% if page.comments == true %}
+                {% include comments.html %}
+            {% endif %}
+        </main>
+    </div>
+    {% include footer.html %}
 </div>
-{% include footer.html %}
 {% include page_end.html %}

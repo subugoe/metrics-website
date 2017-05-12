@@ -147,3 +147,10 @@ table.small-stack {
 .debug {
   border: 2px solid red;
 }
+
+.menu--small {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}

@@ -3,20 +3,23 @@
 {% if page.ref == "index" %}
 {% assign is_home = "active" %}
 {% endif %}
-<div class="sticky-footer-wrap">
-{% include topbar.html %}
-{% include hero.html %}
-{% include nav.html %}
-<main>
-    <div class="columns large-8 medium-10 medium-centered">
-        <h1 class="margin-top-3">{{ page.title }}</h1>
-        {{ content }}
-        {% if page.comments == true %}
-            {% include comments.html %}
-        {% endif %}
+
+    <div class="off-canvas-content" data-off-canvas-content>
+        <div class="sticky-footer-wrap">
+            {% include topbar.html %}
+            {% include hero.html %}
+            {% include nav.html %}
+            <main>
+                <div class="columns large-8 medium-10 medium-centered">
+                    <h1 class="margin-top-3">{{ page.title }}</h1>
+                    {{ content }}
+                    {% if page.comments == true %}
+                        {% include comments.html %}
+                    {% endif %}
+                </div>
+                {% include more_pages.html %}
+            </main>
+        </div>
+        {% include footer.html %}
     </div>
-    {% include more_pages.html %}
-</main>
-</div>
-{% include footer.html %}
 {% include page_end.html %}
