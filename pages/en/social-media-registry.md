@@ -10,6 +10,7 @@ order: 40
 alt: "Lorem ipsum dolor sit amut."
 symbol: "view-grid"
 ---
+<!-- Start editing content here -->
 ## Status Quo of Social Media Plattforms and \*metrics
 
 Here we develop a registry of social media platforms that are used for science communication. Among those will be platforms that were created specifically with scientific use in mind, as well as general public platforms that are now commonly used by scientists for dissemination of their research results. For all services it will be considered

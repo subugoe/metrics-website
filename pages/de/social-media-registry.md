@@ -10,6 +10,7 @@ order: 40
 alt: "Das Social Media Registry beleuchtet die Funktionalitäten von Social-Media-Diensten, ihren Nutzergruppen und die Eignung der daraus resultierenden Metriken für die Vermessung von Wissenschaftskommunikation."
 symbol: "view-grid"
 ---
+<!-- Start editing content here -->
 ## Analyse des Status Quo der Social-Media-Plattformen und \*metrics
 
 An dieser Stelle entsteht eine Auflistung von Social Media Plattformen, die für die Wissenschaftskommunikation genutzt werden. Dabei werden sowohl Plattformen betrachtet, die speziell für wissenschaftliche Zwecke erstellt wurden, als auch solche, die zunächst eine allgemeine Nutzung im Sinn hatten, aber inzwischen häufig von Wissenschaftlern zur Verbreitung ihrer Forschungsergebnisse eingesetzt werden. Alle Dienste werden daraufhin untersucht,  

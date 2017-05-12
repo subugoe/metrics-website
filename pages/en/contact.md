@@ -9,6 +9,7 @@ comments: false
 position: bottom
 alt: "Contact the project coordinator"
 ---
+<!-- Start editing content here -->
 Astrid Orth (project coordinator)
 
 Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen)  

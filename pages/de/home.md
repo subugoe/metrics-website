@@ -45,10 +45,12 @@ alt: "Webseite des *metrics Projektes"
     <div class="columns medium-10">
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/veranstaltungen/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
+<!-- Start editing content here -->
 * 2017-03-21 \| Open Science Conference
 * 2017-05-08 \| COAR Jahrestagung
 * 2017-05-23 \| WikiCite
 * 2017-06-01 \| Bibliothekartag
+<!-- Stop editing content here -->
 </div>
     </div>
 </div>
@@ -61,7 +63,9 @@ alt: "Webseite des *metrics Projektes"
     <div class="columns medium-10">
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/download.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/downloads/">Downloads</a></h2>
 <div class="featurebox__content" markdown="1">
+<!-- Start editing content here -->
 In diesem Bereich stehen Präsentationen, Berichte und Marketingmaterial zum Download zur Verfügung.
+<!-- Stop editing content here -->
 </div>
     </div>
 </div>

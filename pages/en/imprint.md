@@ -8,6 +8,7 @@ comments: false
 position: bottom
 alt: "Imprint"
 ---
+<!-- Start editing content here -->
 ## Provider
 
 The provider of this website in the legal sense is the  
@@ -65,6 +66,8 @@ The avatar for missing pictures of team members is from: <https://pixabay.com/de
 
 Miriam Geoghegan M.A.  
 
+<!-- Stop editing content here -->
 ## Opt-out    
 
 <iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
+<!-- Start editing content here -->

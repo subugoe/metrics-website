@@ -11,7 +11,7 @@ children: false
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
-
+<!-- Start editing content here -->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig

@@ -49,10 +49,12 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
     <div class="columns medium-10">
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
+<!-- Start editing content here -->
 * 2017-03-21 \| Open Science Conference
 * 2017-05-08 \| COAR Jahrestagung
 * 2017-05-23 \| WikiCite
 * 2017-06-01 \| Bibliothekartag
+<!-- Stop editing here -->
 </div>
     </div>
 </div>
@@ -66,7 +68,9 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
     <div class="columns medium-10">
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/download.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/downloads/">Downloads</a></h2>
 <div class="featurebox__content" markdown="1">
+<!-- Start editing content here -->
 In this area you can find presentations, reports and dissemination material from the project.
+<!-- Stop editing content here -->
 </div>
     </div>
 </div>

@@ -10,6 +10,7 @@ position:
 order: 1
 alt: "Über das Projekt"
 ---
+<!-- Start editing content here -->
 Das Hauptanliegen des Projektvorhabens ist es, ein tieferes Verständnis von \*metrics zu entwickeln, insbesondere im Hinblick auf ihre Aussagekraft und wie sie von Stakeholdern wahrgenommen werden. Dabei spielen die Betrachtung der Qualität der den \*metrics zugrundeliegenden Daten (Validität und Reliabilität), ihres Entstehungskontextes sowie ihrer Fähigkeit, Wissenschaft vor dem Hintergrund der disziplinären Spezifika zweckgemäß zu bewerten, eine entscheidende Rolle. Nutzende von \*metrics (z.B. Forschende, Forschungsförderer), Informationsinfrastruktureinrichtungen und Bibliotheken, sowie \*metrics-Anbieter profitieren von den Projektergebnissen, ermöglichen sie doch den informierten Einsatz von \*metrics und Kenntnis über ihre Interpretationsmöglichkeiten und Limitationen. Ein öffentlich gefördertes Projekt wie \*metrics garantiert zudem Transparenz und den offenen Zugang zu den Projektergebnissen, was durch die Vormachtstellung der
 kommerziellen Anbieter in diesem Bereich in der Regel nicht Fakt ist.
 

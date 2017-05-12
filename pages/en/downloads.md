@@ -10,6 +10,7 @@ order: 30
 alt: "Download of project-related materials."
 symbol: "download"
 ---
+<!-- Start editing content here -->
 [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 
 ## Marketing materials  

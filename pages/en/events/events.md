@@ -11,7 +11,7 @@ children: false
 alt: "Events to meet *metrics"
 symbol: "calendar"
 ---
-
+<!-- Start editing content here -->
 Visit the following events to meet members of the \*metrics project team:
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice

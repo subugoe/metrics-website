@@ -13,7 +13,9 @@ alt: "Vorstellung des Projektteams"
 <main>
     <div class="columns large-8 large-centered medium-10 medium-centered">
         <h1 class="margin-top-2">{{ page.title }}</h1>
+        <!-- Start editing content here -->
         <p>Unser Team ist deutschlandweit auf vier Institutionen verteilt, die Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen), das Leibniz-Informationszentrum Wirtschaft (ZBW), die Verbundzentrale des Gemeinsamen Bibliotheksverbundes der Länder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen und der Stiftung Preußischer Kulturbesitz (VZG) und das Leibniz Institut für Sozialwissenschaften (GESIS). Die regelmäßigen Projekttreffen ermöglichen eine enge und gute Zusammenarbeit.</p>
+        <!-- Stop editing content here -->
     </div>
     {% for item in site.data.people %}
     <div class="columns medium-3 margin-bottom-2 margin-top-2">

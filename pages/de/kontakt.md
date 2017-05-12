@@ -9,7 +9,7 @@ comments: false
 position: bottom
 alt: "Kontakt zu den Projektverantwortlichen"
 ---
-
+<!-- Start editing content here -->
 Astrid Orth (Projektleitung)
 
 Niedersächsische Staats- und Universitätsbibliothek Göttingen  

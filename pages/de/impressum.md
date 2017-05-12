@@ -8,6 +8,7 @@ comments: false
 position: bottom
 alt: "Impressum"
 ---
+<!-- Start editing content here -->
 ## Anbieter  
 
 Anbieter dieser Internetpräsenz ist im Rechtssinne die  
@@ -60,5 +61,6 @@ Es wird Themify Icons - <https://themify.me/themify-icons> - genutzt.
 Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: <https://pixabay.com/de/profil-mann-benutzer-home-42914/>    
 
 ## Opt-out    
-
+<!-- Stop editing content here -->
 <iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+<!-- Start editing content here -->

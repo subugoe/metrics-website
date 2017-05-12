@@ -11,6 +11,7 @@ order: 50
 alt: "Was ist das Projekt *metrics, für wen ist es interessant und welche Arbeitsaufgaben gibt es"
 symbol: "info-alt"
 ---
+<!-- Start editing content here -->
 ## Was?
 \*metrics beschäftigt sich mit der Frage, welche Aussagekraft Metriken und Indikatoren haben und wie diese von den Nutzern interpretiert werden (insbes. Zitationen, Nutzungsstatistiken, Social-Media-Metriken).   
 
