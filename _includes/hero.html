@@ -1,4 +1,4 @@
-<nav class="row columns">
+<nav class="row">
     <div class="columns medium-4 margin-top-2 margin-bottom-2 text-center">
         {% if page.lang == "de" %}
         <a class="" href="{{ site.baseurl }}/de/home/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
@@ -29,10 +29,39 @@
                     {% endif %}
                     {% assign i = 2 %}
                     {% endif %}
-
                 {% endfor %}
             </div>
         </div>
         <p class="claim">MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
+        <div class="show-for-small-only menu--small">
+            <div>
+                <a href="#0" data-toggle="offCanvasLeft"><img src="{{ site.baseurl }}/img/menu.svg" class="mainmenu__item-symbol"> MENU</a>
+            </div>
+            <div>
+                {% if page.lang == "de" %}
+                <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
+                {% else %}
+                <a class="" href="{{ site.baseurl }}/">HOME</a>
+                {% endif %}
+            </div>
+            <div class="languageswitch">
+                {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+                {% assign slash = pages | size %}
+                {% assign i = 1 %}
+                {% for item in pages %}
+                    {% assign active_class = "" %}
+                    {% if current_lang == item.lang %}
+                        {% assign active_class = "active_language" %}
+                    {% endif %}
+                    <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
+                    {% if slash == 2 %}
+                    {% if i == 1 %}
+                    /
+                    {% endif %}
+                    {% assign i = 2 %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </nav>
