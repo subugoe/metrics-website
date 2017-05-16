@@ -11,18 +11,20 @@ alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
 <!-- Start editing content here -->
-[Beschreibung des Vorhabens (PDF)]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
+# Projektinformationen
+  * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
+  * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
 
-## Marketingmaterialien
-[Factsheet \*metrics (PDF)]({{ site.url }}/downloads/factsheet_metrics.pdf)  
+## Poster und Publikationen
+  * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)
 
-Logovarianten
-  * [Logo (PDF)]({{ site.url }}/downloads/logo_metrics.pdf)
-  * [Logo (EPS)]({{ site.url }}/downloads/logo_metrics.eps)
-  * [Logo quadratisch (PDF)]({{ site.url }}/downloads/logo_quadratisch.pdf)
-  * [Logo quadratisch (EPS)]({{ site.url }}/downloads/logo_quadratisch.eps)
-  * [Logo Graustufen (PDF)]({{ site.url }}/downloads/logo_graustufen.pdf)
-  * [Logo Graustufen (EPS)]({{ site.url }}/downloads/logo_graustufen.eps)  
-  * [Logo Schwarzweiß (PDF)]({{ site.url }}/downloads/logo_ws.pdf)  
-  * [Logo Schwarzweiß (EPS)]({{ site.url }}/downloads/logo_ws.eps)  
-  * [Logo Fact Sheet (PDF)]({{ site.url }}/downloads/logo_factsheet.pdf)   
+## Logovarianten
+  * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
+  * [Logo (EPS)]({{ sitebase.url }}/downloads/logo_metrics.eps)
+  * [Logo quadratisch (PDF)]({{ sitebase.url }}/downloads/logo_quadratisch.pdf)
+  * [Logo quadratisch (EPS)]({{ sitebase.url }}/downloads/logo_quadratisch.eps)
+  * [Logo Graustufen (PDF)]({{ sitebase.url }}/downloads/logo_graustufen.pdf)
+  * [Logo Graustufen (EPS)]({{ sitebase.url }}/downloads/logo_graustufen.eps)  
+  * [Logo Schwarzweiß (PDF)]({{ sitebase.url }}/downloads/logo_ws.pdf)  
+  * [Logo Schwarzweiß (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
+  * [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)   
