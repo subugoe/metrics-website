@@ -6,7 +6,7 @@ lang: de
 ref: team
 parent: about
 comments: false
-position:
+position: 
 order: 2
 alt: "Vorstellung des Projektteams"
 ---
@@ -20,9 +20,13 @@ alt: "Vorstellung des Projektteams"
     {% for item in site.data.people %}
     <div class="columns medium-3 margin-bottom-2 margin-top-2">
         <div class="team_member">
-            <img src="{{ site.baseurl }}/img/bilder_team/image_{{ item.name | downcase | replace: " ", "_" }}.jpg" alt="" class="team_member_img"><br>
+            {% assign img = item.name | downcase | replace: ' ', '_' %}
+            <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" alt="" class="team_member_img"><br>
             {{ item.name }}<br>
-            <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/email.svg"></a> <a href="{{ item.url }}"><img src="{{ site.baseurl }}/img/new-window.svg" style="margin-top: -5px;"></a>
+            <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/email.svg"></a>&nbsp;
+            {% for url in item.urls %}
+                <a href="{{ url }}"><img src="{{ site.baseurl }}/img/new-window.svg" style="margin-top: -5px;"></a>
+            {% endfor %}
         </div>
     </div>
     {% endfor %}
