@@ -13,7 +13,7 @@ symbol: "download"
 <!-- Start editing content here -->
 
 ## Project information
-  * [Description of Work (PDF) - in german only]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
+  * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
   * [Fact sheet \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
 
 ## Poster and publications
