@@ -16,27 +16,33 @@
 
 - name: Athanasios Mazarakis
   url: http://www.zbw.eu/de/forschung/web-science/athanasios-mazarakis/
+  url: http://www.zbw.eu/en/forschung/web-science/athanasios-mazarakis/
   url: http://www.ws.informatik.uni-kiel.de/de/team/dr.-athanasios-mazarakis
   mail: a.mazarakis@zbw.eu
 
 - name: Isabella Peters
   url: http://www.zbw.eu/de/forschung/web-science/isabella-peters/
+  url: http://www.zbw.eu/en/forschung/web-science/isabella-peters/
   mail: ipe@informatik.uni-kiel.de
 
 - name: Maryam Mehrazar
   url: http://www.zbw.eu/de/forschung/web-science/maryam-mehrazar/
+  url: http://www.zbw.eu/en/forschung/web-science/maryam-mehrazar/
   mail: m.mehrazar@zbw.eu
 
 - name: Steffen Lemke
-  url: http://www.zbw.eu
+  url: http://www.zbw.eu/de/forschung/web-science/steffen-lemke/
+  url: http://www.zbw.eu/en/forschung/web-science/steffen-lemke/
   mail: S.Lemke@zbw.eu
 
 - name: Diana Lindner
-  url: http://www.gesis.org
+  url: http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=L&name=Diana%2CLindner
+  url: http://www.gesis.org/en/institute/staff/?alpha=L&name=Diana%2CLindner
   mail: diana.lindner@gesis.org
 
 - name: Katrin Weller
-  url: http://www.gesis.org
+  url: http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=W&name=katrin%2Cweller
+  url: http://www.gesis.org/en/institute/staff/?alpha=W&name=katrin%2Cweller
   mail: Katrin.Weller@gesis.org
 
 - name: Olga Zagovora

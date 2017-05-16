@@ -51,7 +51,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 * 2017-03-21 \| Open Science Conference
-* 2017-05-08 \| COAR Jahrestagung
+* 2017-05-08 \| COAR Annual Meeting
 * 2017-05-23 \| WikiCite
 * 2017-06-01 \| Bibliothekartag
 <!-- Stop editing here -->

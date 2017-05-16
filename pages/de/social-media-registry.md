@@ -24,13 +24,12 @@ Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*met
 
 Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity erstellt. Eine erste Version wird durch das \*metrics Projektteam erstellt und voraussichtlich im September 2017 an dieser Stelle veröffentlicht. Auf Workshops und Veranstaltungen für alle Interessierten wird frühzeitig Feedback dazu eingeholt. Die Registry wird offen sein für Kommentare und Ergänzungen.
 
+<!-- complete later together with translation
 ## Wer kann die Social Media Registry nutzen?
 
-Hier könnten noch die Zielgruppen stehen.
+Zielgruppen auflisten
 
 ## Details
-
-Hier ist noch mehr Text, aber es ist wahrscheinlich eh schon zu viel.
 
 Da sich \*metrics immer auf ganz bestimmte Funktionalitäten beziehen (z.B. Retweets) und damit ihre
 Aussagekraft bestimmen, müssen zunächst der Umfang und die zugrundeliegenden Mechanismen der
@@ -47,5 +46,6 @@ Die Arbeiten an dem Registry laufen von Projektbeginn an und müssen durch die a
 in dem Gebiet fortwährend angepasst werden. Die Arbeiten sollen durch die Community und den
 Beirat kommentiert bzw. ergänzt werden, um Expertise von außerhalb des Projekts einzubeziehen (vgl.
 AP 3.1 und AP 3.2).
+-->
 
 <!-- {% include registry_table.html %} -->
