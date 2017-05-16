@@ -1,59 +1,53 @@
-- name: Andreas Krausz
-  url: http://www.gbv.de
-  img:
-  mail: Andreas.Krausz@gbv.de
-
-- name: Michael Kusche
-  url: http://www.gbv.de
-  img:
-  mail: michael.kusche@gbv.de
-
-- name: Diana Lindner
-  url: http://www.gesis.org
-  img: image_diana_lindner.jpg
-  mail: diana.lindner@gesis.org
-
-- name: Katrin Weller
-  url: http://www.gesis.org
-  img: image_katrin_weller.jpg
-  mail: Katrin.Weller@gesis.org
-
-- name: Olga Zagovora
-  url: http://www.gesis.org
-  img: image_olga_zagovora.jpg
-  mail: olga.zagovora@gesis.org
-
-- name: Maxie Gottschling
-  url: http://sub.uni-goettingen.de
-  img: image_maxie_gottschling.jpg
-  mail: gottschling@sub.uni-goettingen.de
 
 - name: Astrid Orth
-  url: http://sub.uni-goettingen.de
-  img: image_astrid_orth.jpg
+  url: http://sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/
+  url: https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/
   mail: orth@sub.uni-goettingen.de
 
 - name: Daniel Beucke
-  url: http://sub.uni-goettingen.de
-  img: image_daniel_beucke.jpg
+  url: http://sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/
+  url: https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/
   mail: beucke@sub.uni-goettingen.de
 
+- name: Maxie Gottschling
+  url: https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/maxie-gottschling/
+  url: http://sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
+  mail: gottschling@sub.uni-goettingen.de
+
+- name: Athanasios Mazarakis
+  url: http://www.zbw.eu/de/forschung/web-science/athanasios-mazarakis/
+  url: http://www.ws.informatik.uni-kiel.de/de/team/dr.-athanasios-mazarakis
+  mail: a.mazarakis@zbw.eu
+
+- name: Isabella Peters
+  url: http://www.zbw.eu/de/forschung/web-science/isabella-peters/
+  mail: ipe@informatik.uni-kiel.de
+
 - name: Maryam Mehrazar
-  url: http://www.zbw.eu
-  img:
+  url: http://www.zbw.eu/de/forschung/web-science/maryam-mehrazar/
   mail: m.mehrazar@zbw.eu
 
 - name: Steffen Lemke
   url: http://www.zbw.eu
-  img:
   mail: S.Lemke@zbw.eu
 
-- name: Athanasios Mazarakis
-  url: http://www.zbw.eu
-  img: image_athanasios_mazarakis.jpg
-  mail: a.mazarakis@zbw.eu
+- name: Diana Lindner
+  url: http://www.gesis.org
+  mail: diana.lindner@gesis.org
 
-- name: Isabella Peters
-  url: http://www.zbw.eu
-  img: image_isabella_peters.jpg
-  mail: ipe@informatik.uni-kiel.de
+- name: Katrin Weller
+  url: http://www.gesis.org
+  mail: Katrin.Weller@gesis.org
+
+- name: Olga Zagovora
+  url: http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=Z&name=Olga%2CZagovora
+  url: http://www.gesis.org/en/institute/staff/?alpha=Z&name=Olga%2CZagovora
+  mail: olga.zagovora@gesis.org
+
+- name: Andreas Krausz
+  url: http://www.gbv.de
+  mail: Andreas.Krausz@gbv.de
+
+- name: Michael Kusche
+  url: http://www.gbv.de
+  mail: michael.kusche@gbv.de
