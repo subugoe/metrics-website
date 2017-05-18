@@ -19,6 +19,6 @@ ZBW organised this year's Open Science Barcamp on 20 March 2017. Almost 100 open
 The whole discussion can be found in the [session pad](https://etherpad.wikimedia.org/p/oscibar2017_session6).
 Expect some answers on this over the next 2 years from the \*metrics project.
 
-Here are some pictures from the Barcamp in the [blogpost by ZBWMediatalk]https://www.zbw-mediatalk.eu/en/2017/04/barcamp-open-science-oscibar-2017-bringt-open-science-in-die-praxis/.
+Here are some pictures from the Barcamp in the [blogpost by ZBWMediatalk](https://www.zbw-mediatalk.eu/en/2017/04/barcamp-open-science-oscibar-2017-bringt-open-science-in-die-praxis/).
 
 The Open Science Radio conducted an <a href="http://www.openscienceradio.de/2017/03/20/osr066-open-metrics-with-astrid-orth-oscibar-en/">interview with Astrid Orth</a>.
