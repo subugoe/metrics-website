@@ -11,20 +11,21 @@ alt: "Lorem ipsum dolor sit amut."
 symbol: "view-grid"
 ---
 <!-- Start editing content here -->
-## Status Quo of Social Media Plattforms and \*metrics
+## Current Status of Social Media Plattforms and \*metrics
 
-Here we develop a registry of social media platforms that are used for science communication. Among those will be platforms that were created specifically with scientific use in mind, as well as general public platforms that are now commonly used by scientists for dissemination of their research results. For all services it will be considered
+In this task \*metrics will develop a registry of social media platforms that are used for scholarly communication. The registry will include platforms that were created specifically for scientific use, as well as general purpose platforms that are now commonly used by scientists for dissemination of their research results. For all services, we will describe:
 
-  * which function of science communication they support,
+  * which functions of scholarly communication they support,
   * which interactions are possible, and
-  * what meaning would metrics possess, that build upon capturing these interactions.
+<!--  * what meaning would metrics possess, that build upon capturing these interactions.-->
+  * what meaningful metrics possess could build upon capturing these interactions.
 
-Thus it will also be possible to give a detailed overview on currently offered \*metrics aggregators and a comparision of the information that is offered by these services.
-This development will support both other important tasks in the project
-  1. Analyse user groups of social media services as well as their perceptions and assessment of alternative indicators, and
-  2. Create prototypical queries of social media services to capture interactions that could result into open and transparent metrics
+The registry will also provide a detailed overview on currently offered \*metrics aggregators and a comparision of the information that is offered by these services.
+This development will support two other important tasks in the project
+  1. Analyse user-groups of social media services as well as their perceptions and assessment of alternative indicators, and
+  2. Create prototypical queries of social media services to capture interactions that could produce open and transparent metrics
 
-The bilingual Social Media Registry will be developed by project team members in co-operation with the scientific community. A first version suggested by the project team will be launched in September 2017 on our website. Early versions will be available for pre-view at workshops and events to collect feedback from a broad audience. Once launched, the registry will be open for comments and amendments.
+The bilingual Social Media Registry will be developed by project team members in co-operation with the scientific community. A beta version developed by the project team will be launched in September 2017 on our website. Early versions will be available for pre-view at workshops and events to collect feedback from a broad audience. Once launched into production, the registry will be open for comments and amendments.
 
 
 

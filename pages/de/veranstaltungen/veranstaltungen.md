@@ -14,12 +14,6 @@ symbol: "calendar"
 <!-- Start editing content here -->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
-
-Die Confederation of Open Access Repositories (COAR) hält ihre [nächste Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari. Das Haupthema des Treffens werden Next Generation Repositories sein. Teilnehmer der COAR-Mitgliedsorganisationen können sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
-
-Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, wird ein Arbeitstreffen abhalten. Hier werden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentiert sich das Projekt mit einem Poster.  
-
 ## WikiCite: 23. - 25. Mai 2017, Wien
 
 [WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) wird am 23.- 25. Mai 2017 in Wien stattfinden. Das 3-tägige Treffen ist Konferenz und Hack-Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, treffen Wikimedia Editoren zusammen mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
@@ -37,6 +31,12 @@ Ben McLeish schaut auf die deutschlandweite Forschung und beschreibt anhand von 
 Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Die Ergebnisse werden in einem Etherpad gesammelt und als Ergebnis des Workshops bereitgestellt.  
 
 ## Vergangene Veranstaltungen
+
+### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
+
+Die Confederation of Open Access Repositories (COAR) hält ihre [nächste Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari. Das Haupthema des Treffens werden Next Generation Repositories sein. Teilnehmer der COAR-Mitgliedsorganisationen können sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
+
+Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, wird ein Arbeitstreffen abhalten. Hier werden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentiert sich das Projekt mit einem Poster.  
 
 ### International Open Science Conference 2017: 20 - 22 March, Berlin
 
