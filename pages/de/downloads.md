@@ -15,10 +15,10 @@ symbol: "download"
   * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
   * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
 
-## Poster und Publikationen
+# Poster und Publikationen
   * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)
 
-## Logovarianten
+# Logovarianten
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
   * [Logo (EPS)]({{ sitebase.url }}/downloads/logo_metrics.eps)
   * [Logo quadratisch (PDF)]({{ sitebase.url }}/downloads/logo_quadratisch.pdf)
