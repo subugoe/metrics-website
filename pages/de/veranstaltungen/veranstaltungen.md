@@ -14,14 +14,6 @@ symbol: "calendar"
 <!-- Start editing content here -->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-## WikiCite: 23. - 25. Mai 2017, Wien
-
-[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) wird am 23.- 25. Mai 2017 in Wien stattfinden. Das 3-tägige Treffen ist Konferenz und Hack-Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, treffen Wikimedia Editoren zusammen mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
-
-Olga Zagovora stellt dort das \*metrics-Projekt und zugleich bereits erste vorläufige Ergebnisse des Projektes vor. Eine hohe Sichtbarkeit in der Wikipedia Community, als einer der Hauptdatenlieferanten für alternative Metriken, dient gleichzeitig der Akzeptanz des Projektes. Darüber hinaus wird der Austausch mit Zitations-Mining-Experten während des Hackathons nützliche Erkenntnisse für die weitere Arbeit des Projektes bringen.  
-
-Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wird die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
-
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 
 Zum [Bibliothekartag 2017](http://bibliothekartag2017.de/) in Frankfurt moderiert Daniel Beucke den Workshop "Altmetrics und was mache ich damit?" (_am 1. Juni um 13:30 Uhr im Raum Harmonie A_). Nach einer allgemeinen Einführung in das Thema Altmetrics macht Astrid Orth deutlich, wie die Ergebnisse des Projekts \*metrics die interessierte Community unterstützen werden. Zudem werden verschiedene Dienstleister und Tools skizziert. Nach dem Blick auf die nationalen Entwicklungen wird der Fokus international betrachtet. In dem Vortrag von Isabella Peters werden die verschiedenen Arbeitsgruppen und Initiativen kurz vorgestellt, die sich u.a. mit der Standardisierung der alternativen Metriken befassen.  
@@ -32,13 +24,21 @@ Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Di
 
 ## Vergangene Veranstaltungen
 
+### WikiCite: 23. - 25. Mai 2017, Wien
+
+[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) fand vom 23.- 25. Mai 2017 in Wien statt. Das 3-tägige Treffen war Konferenz und Hack-Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, trafen Wikimedia-Editoren mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern zusammen, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
+
+Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorläufige Ergebnisse des Projektes vor. Eine hohe Sichtbarkeit in der Wikipedia Community, als einer der Hauptdatenlieferanten für alternative Metriken, diente gleichzeitig der Akzeptanz des Projektes. Darüber hinaus sollte der Austausch mit Zitations-Mining-Experten während des Hackathons nützliche Erkenntnisse für die weitere Arbeit des Projektes bringen.  
+
+Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
+
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
 
 Die Confederation of Open Access Repositories (COAR) hält ihre [nächste Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari. Das Haupthema des Treffens werden Next Generation Repositories sein. Teilnehmer der COAR-Mitgliedsorganisationen können sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
 
 Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, wird ein Arbeitstreffen abhalten. Hier werden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentiert sich das Projekt mit einem Poster.  
 
-### International Open Science Conference 2017: 20 - 22 March, Berlin
+### International Open Science Conference 2017: 20. - 22. März, Berlin
 
 Die International Open Science Conference vom 21. - 22. März 2017 in Berlin war auch dieses Jahr wieder Anziehungspunkt für ein breites Publikum. Das \*metrics-Projekt war mit drei Team-Mitgliedern vertreten.  
 

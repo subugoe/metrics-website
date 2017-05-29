@@ -14,14 +14,6 @@ symbol: "calendar"
 <!-- Start editing content here -->
 Visit the following events to meet members of the \*metrics project team:
 
-### WikiCite: 23-25 May 2017, Vienna
-
-[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) is a 3-day conference, summit and hack day to be hosted in Vienna, Austria, on May 23-25, 2017. It expands efforts to design a central bibliographic repository, as well as tools and strategies to improve information quality and verifiability in Wikimedia projects. Wikimedia contributors meet with data modelers, information and library science experts, software engineers, designers and academic researchers who have experience working with Wikipedia's citations and bibliographic data.  
-
-Olga Zagovora will introduce the \*metrics project to the Wikipedia community and present some preliminary first results of the project. It will be beneficial to both, the Wikipedians being one of the focal creators of altmetrics, as well as the project team to increase awareness for the ongoing \*metrics project. Moreover, exchanging experiences with citation mining experts during the hackathon will gain useful insights for our future work.  
-
-The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” is to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
-
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
 Daniel Beucke moderates the workshop "Altmetrics and what am I doing with it?" at this year's [Bibliothekartag](http://bibliothekartag2017.de/) in Frankfurt (_mark June 1st in your calendar, 1:30pm in room Harmony A_). After a general introduction into the topic of altmetrics, Astrid Orth will explain how the interested community benefits from results of the \*metrics project.  
@@ -32,6 +24,14 @@ Ben McLeish will demonstrate the current state of research in Germany regarding 
 There will be enough room for questions and discussion during the workshop. Results will be documented in an etherpad and provided to participants.  
 
 ## Past Events
+
+### WikiCite: 23-25 May 2017, Vienna
+
+[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) was a 3-day conference, summit and hack day to be hosted in Vienna, Austria, from May 23-25, 2017. It expanded efforts to design a central bibliographic repository, as well as tools and strategies to improve information quality and verifiability in Wikimedia projects. Wikimedia contributors met with data modelers, information and library science experts, software engineers, designers and academic researchers who have experience working with Wikipedia's citations and bibliographic data.  
+
+Olga Zagovora introduced the \*metrics project to the Wikipedia community and presented some preliminary first results of the project. It has been beneficial to both, the Wikipedians being one of the focal creators of altmetrics, as well as the project team to increase awareness for the ongoing \*metrics project. Moreover, exchanging experiences with citation mining experts during the hackathon gained useful insights for our future work.  
+
+The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice
 
