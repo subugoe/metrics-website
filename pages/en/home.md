@@ -50,10 +50,10 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-* 2017-03-21 \| Open Science Conference
-* 2017-05-08 \| COAR Annual Meeting
-* 2017-05-23 \| WikiCite
 * 2017-06-01 \| Bibliothekartag
+* 2017-06-21 \| OAI 10 - The CERN-UNIGE Workshop on Innovations in Scholarly Communication
+* 2017-06-26 \| WebSci'17
+* 2017-07-05 \| LIBER 2017
 <!-- Stop editing here -->
 </div>
     </div>
