@@ -32,7 +32,7 @@ Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorl
 
 Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>    
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0" marginwidth="20%" marginheight="10%" scrolling="no" style="border:20% solid #CCC; border-width:20%; margin-bottom:20%; max-width: 100%;" allowfullscreen> </iframe>    
 
 
 <iframe width="100%" height="75%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
