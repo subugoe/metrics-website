@@ -33,11 +33,16 @@ Olga Zagovora introduced the \*metrics project to the Wikipedia community and pr
 
 The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="50%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>    
+
+
+<iframe width="100%" height="50%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
+
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice
 
-The next [General Assembly of the Confederation of Open Access Repositories (COAR)](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) will take place from 8 - 10 May 2017 in Venice on the campus of the Università Ca’ Foscari. The major theme for this year’s meeting will be next generation repositories. The meeting will provide participants with the opportunity to learn about international trends in repositories, open access and open science, as well as engage with colleagues from around the world.  
+This year's [General Assembly of the Confederation of Open Access Repositories (COAR)](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) took place from 8 - 10 May 2017 in Venice on the campus of the Università Ca’ Foscari. The major theme for this meeting was next generation repositories. The meeting provided participants with the opportunity to learn about international trends in repositories, open access and open science, as well as engage with colleagues from around the world.  
 
-The COAR Open Metrics Interest Group will run a meeting moderated by co-chair and \*metrics project manager Astrid Orth to discuss latest developments in the area of alternative metrics and introduce the \*metrics project. The project will also present a poster during the conference.
+The COAR Open Metrics Interest Group had a meeting moderated by co-chair and \*metrics project manager Astrid Orth to discuss latest developments in the area of alternative metrics and introduce the \*metrics project. The project also presented a [poster]({{ site.url }}/downloads/coar2017_metrics_poster.pdf) during the conference.
 
 
 ### International Open Science Conference 2017: 20 - 22 March, Berlin

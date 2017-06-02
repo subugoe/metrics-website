@@ -32,11 +32,16 @@ Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorl
 
 Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="50%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>    
+
+
+<iframe width="100%" height="50%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
+
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
 
-Die Confederation of Open Access Repositories (COAR) hält ihre [nächste Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari. Das Haupthema des Treffens werden Next Generation Repositories sein. Teilnehmer der COAR-Mitgliedsorganisationen können sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
+Die Confederation of Open Access Repositories (COAR) hielt ihre [diesjährige Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari ab. Das Haupthema des Treffens war Next Generation Repositories. Teilnehmer der COAR-Mitgliedsorganisationen konnten sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
 
-Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, wird ein Arbeitstreffen abhalten. Hier werden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentiert sich das Projekt mit einem Poster.  
+Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, hielt dort ein Arbeitstreffen ab. Hier wurden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentierte sich das Projekt mit einem [Poster]({{ site.url }}/downloads/coar2017_metrics_poster.pdf).  
 
 ### International Open Science Conference 2017: 20. - 22. März, Berlin
 
