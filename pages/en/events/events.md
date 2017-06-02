@@ -33,8 +33,9 @@ Olga Zagovora introduced the \*metrics project to the Wikipedia community and pr
 
 The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0" marginwidth="20%" marginheight="10%" scrolling="no" style="border:20% solid #CCC; border-width:20%; margin-bottom:20%; max-width: 100%;" allowfullscreen> </iframe>    
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0"  scrolling="no" style="border:1px solid #CCC; border-width:1px; max-width: 100%;" allowfullscreen> </iframe>    
 
+<p></p>
 
 <iframe width="100%" height="75%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
 
