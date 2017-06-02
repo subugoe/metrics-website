@@ -31,13 +31,8 @@ There will be enough room for questions and discussion during the workshop. Resu
 
 Olga Zagovora introduced the \*metrics project to the Wikipedia community and presented some preliminary first results of the project. It has been beneficial to both, the Wikipedians being one of the focal creators of altmetrics, as well as the project team to increase awareness for the ongoing \*metrics project. Moreover, exchanging experiences with citation mining experts during the hackathon gained useful insights for our future work.  
 
-The main focus of the presentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
+The main focus of the presentation of the study [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0"  scrolling="no" style="border:1px solid #CCC; border-width:1px; max-width: 100%;" allowfullscreen> </iframe>    
-
-<p></p>
-
-<iframe width="100%" height="75%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice
 

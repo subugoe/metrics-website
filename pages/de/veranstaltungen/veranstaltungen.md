@@ -30,12 +30,8 @@ Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Di
 
 Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorläufige Ergebnisse des Projektes vor. Eine hohe Sichtbarkeit in der Wikipedia Community, als einer der Hauptdatenlieferanten für alternative Metriken, diente gleichzeitig der Akzeptanz des Projektes. Darüber hinaus sollte der Austausch mit Zitations-Mining-Experten während des Hackathons nützliche Erkenntnisse für die weitere Arbeit des Projektes bringen.  
 
-Mit der Präsentation “Study of Wikipedia-metrics in encyclopedia articles about Social Sciences” wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
+Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="75%" frameborder="0" marginwidth="20%" marginheight="10%" scrolling="no" style="border:20% solid #CCC; border-width:20%; margin-bottom:20%; max-width: 100%;" allowfullscreen> </iframe>    
-
-
-<iframe width="100%" height="75%" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>  
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
 

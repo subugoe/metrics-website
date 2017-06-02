@@ -15,6 +15,9 @@ symbol: "download"
   * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
   * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
 
+# Präsentatonen
+  * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)
+
 # Poster und Publikationen
   * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)
 
