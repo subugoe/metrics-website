@@ -34,9 +34,14 @@ Olga Zagovora introduced the \*metrics project to the Wikipedia community and pr
 
 The main focus of the presentation of the study [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
 
-[![Lightning Talk of Olga Zagovora on Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Lightning Talk von Olga Zagovora auf Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
 
-[![Lightning Talk of Olga Zagovora on Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
+</div>
+<div class="columns medium-6" markdown="1">
+[![Lightning Talk von Olga Zagovora auf Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
+</div>   
 
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice
