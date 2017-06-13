@@ -34,7 +34,7 @@ Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on st
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/JUFuE-AuJhw" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research" title="Do wikipedia science articles reflect on state-of-the-art research?" target="_blank">Do wikipedia science articles reflect on state-of-the-art research?</a> </strong> from <strong><a target="_blank" href="https://www.slideshare.net/OlgaZagovora1">Olga Zagovora</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/u0Ne1fKJAqNFaF" width="100%" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
