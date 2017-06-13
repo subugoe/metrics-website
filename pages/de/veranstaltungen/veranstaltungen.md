@@ -41,7 +41,7 @@ Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on st
 <div class="columns medium-6" markdown="1">
 [![Lightning Talk von Olga Zagovora auf Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
 </div>   
-
+</div>
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
 
