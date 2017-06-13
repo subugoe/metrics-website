@@ -12,7 +12,9 @@ alt: "Events to meet *metrics"
 symbol: "calendar"
 ---
 <!-- Start editing content here -->
-Visit the following events to meet members of the \*metrics project team:
+<!--Visit the following events to meet members of the \*metrics project team:-->
+
+## Past Events
 
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
@@ -23,7 +25,6 @@ Ben McLeish will demonstrate the current state of research in Germany regarding 
 
 There will be enough room for questions and discussion during the workshop. Results will be documented in an etherpad and provided to participants.  
 
-## Past Events
 
 ### WikiCite: 23-25 May 2017, Vienna
 
@@ -32,6 +33,10 @@ There will be enough room for questions and discussion during the workshop. Resu
 Olga Zagovora introduced the \*metrics project to the Wikipedia community and presented some preliminary first results of the project. It has been beneficial to both, the Wikipedians being one of the focal creators of altmetrics, as well as the project team to increase awareness for the ongoing \*metrics project. Moreover, exchanging experiences with citation mining experts during the hackathon gained useful insights for our future work.  
 
 The main focus of the presentation of the study [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) was to present ongoing research on Wikipedia articles about social science topics. The objective of the study is to observe whether encyclopedia articles reflect state-of-the-art research. This becomes possible by studying alternative and classical citation metrics in the field.
+
+[![Lightning Talk of Olga Zagovora on Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
+
+[![Lightning Talk of Olga Zagovora on Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
 
 
 ### COAR Annual Meeting: 8 - 10 May 2017, Venice

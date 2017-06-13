@@ -11,8 +11,10 @@ children: false
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
-<!-- Start editing content here -->
-Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
+<!-- Start editing content here
+Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:-->
+
+## Vergangene Veranstaltungen
 
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 
@@ -22,7 +24,6 @@ Ben McLeish schaut auf die deutschlandweite Forschung und beschreibt anhand von 
 
 Am Ende bleibt ausreichend Zeit, um die Fragen aus dem Plenum zu diskutieren. Die Ergebnisse werden in einem Etherpad gesammelt und als Ergebnis des Workshops bereitgestellt.  
 
-## Vergangene Veranstaltungen
 
 ### WikiCite: 23. - 25. Mai 2017, Wien
 
@@ -34,7 +35,7 @@ Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on st
 
 [![Lightning Talk von Olga Zagovora auf Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
 
-[![Lightning Talk von Olga Zagovora auf Slideshare](({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
+[![Lightning Talk von Olga Zagovora auf Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
 
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig

@@ -13,6 +13,7 @@ Am 1.1.2017 ist das DFG-geförderte Projekt \*metrics – Measuring The Reliabil
 <div class="row">
 <div class="columns medium-6" markdown="1">
 ![Gruppenfoto]({{ site.url }}/img/bilder_team/gruppenfoto.png "Gruppenfoto"){: style="min-width: 100%" }
+
 </div>
 <div class="columns medium-6 callout" markdown="1">
 ### Fakten
