@@ -33,10 +33,14 @@ Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorl
 
 Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
 
+<div class="row">
+<div class="columns medium-6" markdown="1">
 [![Lightning Talk von Olga Zagovora auf Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
 
+</div>
+<div class="columns medium-6" markdown="1">
 [![Lightning Talk von Olga Zagovora auf Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
-
+</div>
 
 ### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
 
