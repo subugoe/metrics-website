@@ -18,12 +18,10 @@ symbol: "calendar"
 
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
-Daniel Beucke moderates the workshop "Altmetrics and what am I doing with it?" at this year's [Bibliothekartag](http://bibliothekartag2017.de/) in Frankfurt (_mark June 1st in your calendar, 1:30pm in room Harmony A_). After a general introduction into the topic of altmetrics, Astrid Orth will explain how the interested community benefits from results of the \*metrics project.  
-In addition, related services and tools will be outlined. After this national focus Isabella Peters will introduce international working groups and initiatives which are working on standardising alternative metrics.  
+On June 1, 2017 Daniel Beucke moderated the workshop "Altmetrics and what am I doing with it?" at this year's [Bibliothekartag](http://bibliothekartag2017.de/) from May 30 - June 2, 2017 in Frankfurt/Main. After a general introduction into the topic of altmetrics, Astrid Orth explained how the interested community benefits from results of the \*metrics project.  
+In addition, related services and tools have been outlined. After this national focus international working groups and initiatives which are working on standardising alternative metrics have been introduced.  
 
-Ben McLeish will demonstrate the current state of research in Germany regarding the trends that can be derived using data based on altmetrics. What is being discussed in social media channels? Which data is buried in policy documents and which institutions feature most or least, respectively? How can these experiences be applied to public relations and the communications strategy of an organisation? Christina Lohr on the other hand demonstrates based on collected data how altmetrics can be used to achieve impact in social media for social sciences and humanities, and there specifically for books as a publishing medium.  
-
-There will be enough room for questions and discussion during the workshop. Results will be documented in an etherpad and provided to participants.  
+Ben McLeish from [Altmetric.com](https://www.altmetric.com/) demonstrated the current state of research in Germany regarding the trends that can be derived using data based on altmetrics. What is being discussed in social media channels? Which data is buried in policy documents and which institutions feature most or least, respectively? How can these experiences be applied to public relations and the communications strategy of an organisation? Christina Lohr from [Elsevier](https://www.elsevier.com/) on the other hand outlined based on collected data how altmetrics can be used to achieve impact in social media for social sciences and humanities, and there specifically for books as a publishing medium.  
 
 
 ### WikiCite: 23-25 May 2017, Vienna
