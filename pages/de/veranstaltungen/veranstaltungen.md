@@ -11,8 +11,20 @@ children: false
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
-<!-- Start editing content here
-Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:-->
+<!-- Start editing content here-->
+Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
+
+### 9. International ACM Web Science Conference 2017 (WebSci’17): 25. - 28. Juni 2017, Troy, NY, USA
+
+Die [WebSci'17 Konferenz](http://websci17.org/) bringt Wissenschaftler verschiedener Disziplinen zusammen, wie z. B. Computer Science, Soziologie, Wirtschaftswissenschaften, Informationswissenschaften oder Psychology. Web Science ist die aufstrebende Wissenschaft von Menschen und Technologien, Anwendungen, Prozessen und Praktiken die das World Wide Web formen und dadurch geformt werden. Web Science zielt darauf Theorien, Methoden und Ergebnisse verschiedener Disziplinen zusammen zu bringen und mit Industie, Handel, Regierung und der Bevölkerung zusammen zu arbeiten, um ein tieferes Wissen und Verständnis des Internets, die größte soziotechnische Infrastruktur in der menschlichen Geschichte, zu erlangen.
+\*metrics-Team-Mitglied [Olga Zagovora]({{ site.url }}/de/uber_uns/team/) wird auf der WebSci'17 vertreten sein.
+
+
+### LIBER 2017: 5. - 7. Juli 2017, Patras, Griechenland
+
+Die [LIBER Jahrestagung](http://liber2017.lis.upatras.gr/) findet vom 5. - 7. Juli in Patras, Griechenland statt und wird vom Library & Information Centre der Universität Patras ausgerichtet. \*metrics-Team-Mitglied [Isabella Peters]({{ site.url }}/de/uber_uns/team/) organisiert dort den [Workshop](http://liber2017.lis.upatras.gr/workshops/) der LIBER-Arbeitsgruppe "Metriken" mit, der am Mittwoch, den 5. Juli von 9:00 - 12:00 Uhr in Raum I 12 des Konferenzzentrums statt finden wird.
+Die Arbeitsgruppe hat Empfehlungen für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen werden sollen. Außerdem sollen verschiedene Nutzungsszenarein für Services präsentiert werden und interaktiv diskutiert werden. 
+
 
 ## Vergangene Veranstaltungen
 
