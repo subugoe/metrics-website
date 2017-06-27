@@ -46,6 +46,7 @@
     "go_win": "npm run dev_win > npm.log",
     "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
     "prod_win": "npm run sass_build_win && npm run prefix_build_win && npm run jekyll_build",
-    "cleanup": "trash metrics-website"
+    "cleanup": "trash metrics-website",
+    "log": "open npm.log /Applications/Utilities/Console.app/"
   }
 }
