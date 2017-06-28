@@ -4,7 +4,6 @@ $(document.links).filter(function() {
   return this.hostname != window.location.hostname;
 }).attr('target', '_blank');
 
-
 window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
