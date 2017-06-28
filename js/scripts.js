@@ -1,10 +1,12 @@
+// initialise foundation specific js
 $(document).foundation();
 
+// add target blank to links pointing to external URLs
 $(document.links).filter(function() {
   return this.hostname != window.location.hostname;
 }).attr('target', '_blank');
 
-
+// js for the twitter feed on the homepage
 window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
     t = window.twttr || {};
@@ -22,6 +24,7 @@ window.twttr = (function(d, s, id) {
   return t;
 }(document, "script", "twitter-wjs"));
 
+// more twitter related js
 twttr.ready(
   function (twttr) {
     twttr.widgets.createTimeline(

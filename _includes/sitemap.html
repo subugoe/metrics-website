@@ -1,3 +1,4 @@
+<!-- sitemap snippet - generates a sitemap where included -->
 {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
 <ul>
     {% for item in pages %}

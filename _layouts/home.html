@@ -1,3 +1,4 @@
+<!-- layout/template used for homepage -->
 {% include page_start.html %}
 {% assign current_lang = page.lang %}
 {% if page.ref == "index" %}
@@ -5,7 +6,6 @@
 {% endif %}
 <div class="off-canvas-content" data-off-canvas-content>
     <div class="sticky-footer-wrap">
-        {% include topbar.html %}
         {% include hero.html %}
         {% include nav.html %}
         <main>
