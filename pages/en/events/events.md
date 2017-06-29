@@ -16,7 +16,7 @@ Visit the following events to meet members of the \*metrics project team:
 
 ### Annual LIBER Conference 2017: 5 - 7 July 2017, Patras, Greece
 
-The [Annual LIBER Conference](http://liber2017.lis.upatras.gr/) takes place from 5 - 7 July in Patras, Greece and is hosted by the Library & Information Centre of the University of Patras. \*metrics team member [Isabella Peters]({{ site.url }}/en/uber_uns/team/) organises a [wWorkshop](http://liber2017.lis.upatras.gr/workshops/) of the LIBER Metrics working group  which will take place on Wednesday, 5 July from 9:00 - 12:00h in Room I 12, Ground Floor, Conference and Cultural Centre.
+The [Annual LIBER Conference](http://liber2017.lis.upatras.gr/) takes place from 5 - 7 July in Patras, Greece and is hosted by the Library & Information Centre of the University of Patras. \*metrics team member [Isabella Peters]({{ site.url }}/en/uber_uns/team/) organises a [workshop](http://liber2017.lis.upatras.gr/workshops/) of the LIBER Metrics working group  which will take place on Wednesday, 5 July from 9:00 - 12:00h in Room I 12, Ground Floor, Conference and Cultural Centre.
 The working group has worked towards compiling recommendations on how libraries can get started with impact metrics. During the workshop the draft recommendations will be presented and discussed with the LIBER community. Furthermore there will be a presentation of various use cases for Metrics services, and participants should engage in interactive workshop elements.
 
 
