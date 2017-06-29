@@ -46,10 +46,9 @@ alt: "Webseite des *metrics Projektes"
         <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/veranstaltungen/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-* 2017-06-01 \| Bibliothekartag
-* 2017-06-21 \| OAI 10 - The CERN-UNIGE Workshop on Innovations in Scholarly Communication
-* 2017-06-26 \| WebSci'17
-* 2017-07-05 \| LIBER 2017
+* 2017-07-05 \| [LIBER 2017](http://liber2017.lis.upatras.gr/)
+* 2017-07-06 \| [RESSH 2017](https://www.uantwerpen.be/en/conferences/ressh2017/)
+* 2017-07-10 \| [IC2S2 2017](https://ic2s2.org/2017/) 
 <!-- Stop editing content here -->
 </div>
     </div>
