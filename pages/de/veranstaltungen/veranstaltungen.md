@@ -14,26 +14,30 @@ symbol: "calendar"
 <!-- Start editing content here-->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### 9. International ACM Web Science Conference 2017 (WebSci’17): 25. - 28. Juni 2017, Troy, NY, USA
+### Open Access Tage 2017: 11.-13. September 2017, Dresden
 
-Die [WebSci'17 Konferenz](http://websci17.org/) bringt Wissenschaftler verschiedener Disziplinen zusammen, wie z. B. Computer Science, Soziologie, Wirtschaftswissenschaften, Informationswissenschaften oder Psychology. Web Science ist die aufstrebende Wissenschaft von Menschen und Technologien, Anwendungen, Prozessen und Praktiken die das World Wide Web formen und dadurch geformt werden. Web Science zielt darauf Theorien, Methoden und Ergebnisse verschiedener Disziplinen zusammen zu bringen und mit Industie, Handel, Regierung und der Bevölkerung zusammen zu arbeiten, um ein tieferes Wissen und Verständnis des Internets, die größte soziotechnische Infrastruktur in der menschlichen Geschichte, zu erlangen.
-\*metrics-Team-Mitglied [Olga Zagovora]({{ site.url }}/de/uber_uns/team/) wird auf der WebSci'17 vertreten sein.
+Die Veranstaltung richtet sich an ExpertInnen aus dem Open-Access-Bereich aus Deutschland, Österreich und der Schweiz, an WissenschaftlerInnen aller Fachrichtungen, VerlagsvertreterInnen und UnterstützerInnen des wissenschaftlichen Forschungs- und Kommunikationsprozesses an Bibliotheken sowie in Forschungsinstituten und Fördereinrichtungen.
+Am Dienstag, 12. September findet ein Workshop unter dem Titel "Wie vermessen ist das Vermessen von wissenschaftlicher Kommunikation?" statt. Dienste mit sozialen Funktionen erlauben das Teilen und Kommentieren von Artikeln sowie das Abonnieren von Unterhaltungen, etc. Diese Interaktionen sind ein Maß für die Wahrnehmung von wissenschaftlichem Output und erheben zunehmend den Anspruch darauf, den Impact wissenschaftlicher Ergebnisse abbilden zu können. Sie treten damit gleichberechtigt neben etablierte Kenngrößen für wissenschaftlichen Output (siehe zitationsbasierte Indikatoren wie den Journal Impact Factor). Da die traditionellen Metriken eine Reihe von Nachteilen aufweisen (u. a. sind sie zeitverzögert, nicht artikelbasiert, nicht transparent bzw. schwer nachvollziehbar) stellt die Suche nach bzw. die Forschung an neuartigen Metriken ein dynamisches hochaktuelles Feld dar. Das Projekt \*metrics leistet einen Beitrag dazu, indem es die Aussagekraft und Interpretation von Metriken untersucht. Im Workshop werden die ersten Ergebnisse des im Januar gestarteten Projektes vorgestellt.
+Detaillierte Informationen sind [im Tagungsprogramm](https://open-access.net/community/open-access-tage/open-access-tage-2017-dresden/programm/) nachzulesen. Eine Annmeldung für den Workshop ist nicht erforderlich, jedoch eine Registrierung für die Open Access Tage.
 
+## Vergangene Veranstaltungen
 
 ### LIBER 2017: 5. - 7. Juli 2017, Patras, Griechenland
 
-Die [LIBER Jahrestagung](http://liber2017.lis.upatras.gr/) findet vom 5. - 7. Juli in Patras, Griechenland statt und wird vom Library & Information Centre der Universität Patras ausgerichtet. \*metrics-Team-Mitglied [Isabella Peters]({{ site.url }}/de/uber_uns/team/) organisiert dort den [Workshop](http://liber2017.lis.upatras.gr/workshops/) der LIBER-Arbeitsgruppe "Metriken" mit, der am Mittwoch, den 5. Juli von 9:00 - 12:00 Uhr in Raum I 12 des Konferenzzentrums statt finden wird.
-Die Arbeitsgruppe hat Empfehlungen für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen werden sollen. Außerdem sollen verschiedene Nutzungsszenarein für Services präsentiert werden und interaktiv diskutiert werden. 
+Die [LIBER Jahrestagung](http://liber2017.lis.upatras.gr/) fand vom 5. - 7. Juli in Patras, Griechenland statt und wurde vom Library & Information Centre der Universität Patras ausgerichtet. \*metrics-Team-Mitglied [Isabella Peters]({{ site.url }}/de/uber_uns/team/) organisierte dort den [Workshop](http://liber2017.lis.upatras.gr/workshops/) der LIBER-Arbeitsgruppe "Metriken" mit, der am Mittwoch, den 5. Juli von 9:00 - 12:00 Uhr in Raum I 12 des Konferenzzentrums stattfand.
+Die Arbeitsgruppe hat Empfehlungen für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen wurden. Außerdem wurde verschiedene Nutzungsszenarein für Services präsentiert und interaktiv diskutiert.
 
+### 9. International ACM Web Science Conference 2017 (WebSci’17): 25. - 28. Juni 2017, Troy, NY, USA
 
-## Vergangene Veranstaltungen
+Die [WebSci'17 Konferenz](http://websci17.org/) brachte Wissenschaftler verschiedener Disziplinen zusammen, wie z. B. Computer Science, Soziologie, Wirtschaftswissenschaften, Informationswissenschaften oder Psychologie. Web Science ist die aufstrebende Wissenschaft von Menschen und Technologien, Anwendungen, Prozessen und Praktiken die das World Wide Web formen und dadurch geformt werden. Web Science zielt darauf Theorien, Methoden und Ergebnisse verschiedener Disziplinen zusammen zu bringen und mit Industie, Handel, Regierung und der Bevölkerung zusammen zu arbeiten, um ein tieferes Wissen und Verständnis des Internets, die größte soziotechnische Infrastruktur in der menschlichen Geschichte, zu erlangen.
+\*metrics-Team-Mitglied [Olga Zagovora]({{ site.url }}/de/uber_uns/team/) war auf der WebSci'17 vertreten.
 
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 
 Auf dem [Bibliothekartag 2017](http://bibliothekartag2017.de/) vom 30.05. - 02.06.2017 in Frankfurt/Main moderierte Daniel Beucke am 1. Juni 2017 den Workshop "Altmetrics und was mache ich damit?". Nach einer allgemeinen Einführung in das Thema Altmetrics machte Astrid Orth deutlich, wie die Ergebnisse des Projekts \*metrics die interessierte Community unterstützen werden. Zudem wurden verschiedene Dienstleister und Tools skizziert. Nach einem Blick auf die nationalen Entwicklungen wurde das Thema auch aus internationaler Sichtweise betrachtet. Des Weiteren wurden die verschiedenen Arbeitsgruppen und Initiativen kurz vorgestellt, die sich u.a. mit der Standardisierung der alternativen Metriken befassen.  
 
 Ben McLeish von [Altmetric.com](https://www.altmetric.com/) betrachtete die deutschlandweite Forschung und beschrieb anhand von Altmetrics die Trends, die anhand dieser Daten ermittelt werden können. Was wird in den Sozialen Medien am meisten besprochen, welche Daten befinden sich in Policies und welche Einrichtung ist am meisten bzw. am wenigsten besprochen? Wie können diese Erfahrungen auf die PR und die Kommunikationsstrategie einer Einrichtung angewandt werden? Christina Lohr von [Elsevier](https://www.elsevier.com/) zeigte anhand von gesammelten Daten, wie Altmetrics in den Sozial- und Geisteswissenschaften und im Speziellen bei dem Format Bücher angewandt werden können, um Impact in den Sozialen Medien zu zeigen.  
-
+Die Präsentationen können [hier angeschaut werden](https://opus4.kobv.de/opus4-bib-info/solrsearch/index/search/searchtype/collection/id/16603).
 
 ### WikiCite: 23. - 25. Mai 2017, Wien
 
