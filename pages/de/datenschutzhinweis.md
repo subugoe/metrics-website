@@ -22,6 +22,7 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für
 ## Auskunft, Löschung, Sperrung
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum angegeben Adresse des Webseitenbetreibers an uns wenden.  
+
 <!-- Stop editing content here -->
 ## Statistische Daten für den Betreiber der Website
 
