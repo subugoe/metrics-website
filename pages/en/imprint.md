@@ -75,7 +75,4 @@ This imprint also applies to the following social media accounts:
 <https://www.facebook.com/metricsproject/>
 
 <!-- Stop editing content here -->
-## Opt-out    
-
-<iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
 <!-- Start editing content here -->

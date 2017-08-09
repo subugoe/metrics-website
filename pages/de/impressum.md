@@ -68,7 +68,4 @@ Dieses Impressum gilt auch für folgendene Angebote und Präsenzen in den sozial
 <https://twitter.com/metrics_project/>
 <https://www.facebook.com/metricsproject/>
 
-## Opt-out    
 <!-- Stop editing content here -->
-<iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
-<!-- Start editing content here -->

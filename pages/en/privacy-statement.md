@@ -30,9 +30,9 @@ This website uses Piwik for web analytics. For this, "cookies" send text files, 
 If you do not want to consent to the storage and analysis of the user information generated, you can opt out as described below. In that case, your browser will store a deactivation cookie which prevents Piwik from gathering any data on your session whatsoever.  
 
 Attention: Deleting your cookies will also delete your deactivation cookie, which means you will have to save a new one.  
-<!-- Stop editing content here -->
+
 ## Opt-out    
 
 <iframe style="border: 0; height: 200px; width: 100%;" src="//piwik.gwdg.de/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
-
+<!-- Stop editing content here -->
 <!-- Start editing content here -->
