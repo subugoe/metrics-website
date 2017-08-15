@@ -26,7 +26,7 @@ Please find detailed information in the [conference programm](https://open-acces
 ### Annual LIBER Conference 2017: 5 - 7 July 2017, Patras, Greece
 
 The [Annual LIBER Conference](http://liber2017.lis.upatras.gr/) took place from 5 - 7 July in Patras, Greece and was hosted by the Library & Information Centre of the University of Patras. \*metrics team member [Isabella Peters]({{ site.url }}/en/uber_uns/team/) organised a [workshop](http://liber2017.lis.upatras.gr/workshops/) of the LIBER Metrics working group.
-The working group has worked towards compiling recommendations on how libraries can get started with impact metrics. During the workshop the draft recommendations were presented and discussed with the LIBER community. Furthermore various use cases for Metrics services were presented, and participants engaged in interactive workshop elements.
+The working group has worked towards compiling [recommendations]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) on how libraries can get started with impact metrics. During the workshop the draft recommendations were presented and discussed with the LIBER community. Furthermore various use cases for Metrics services were presented, and participants engaged in interactive workshop elements.
 
 ### 9th International ACM Web Science Conference 2017 (WebSci’17): 25 - 28 June 2017, Troy, NY, USA
 

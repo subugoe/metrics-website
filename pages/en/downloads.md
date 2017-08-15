@@ -18,6 +18,7 @@ symbol: "download"
 
 # Presentations
   * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)
+  * [LIBER 2017: Sarah K. Coombs & Isabella Peters - Slides from LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf)
 
 # Poster and publications
   * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)

@@ -25,7 +25,7 @@ Detaillierte Informationen sind [im Tagungsprogramm](https://open-access.net/com
 ### LIBER 2017: 5. - 7. Juli 2017, Patras, Griechenland
 
 Die [LIBER Jahrestagung](http://liber2017.lis.upatras.gr/) fand vom 5. - 7. Juli in Patras, Griechenland statt und wurde vom Library & Information Centre der Universität Patras ausgerichtet. \*metrics-Team-Mitglied [Isabella Peters]({{ site.url }}/de/uber_uns/team/) organisierte dort den [Workshop](http://liber2017.lis.upatras.gr/workshops/) der LIBER-Arbeitsgruppe "Metriken" mit, der am Mittwoch, den 5. Juli von 9:00 - 12:00 Uhr in Raum I 12 des Konferenzzentrums stattfand.
-Die Arbeitsgruppe hat Empfehlungen für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen wurden. Außerdem wurde verschiedene Nutzungsszenarein für Services präsentiert und interaktiv diskutiert.
+Die Arbeitsgruppe hat [Empfehlungen]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen wurden. Außerdem wurde verschiedene Nutzungsszenarein für Services präsentiert und interaktiv diskutiert.
 
 ### 9. International ACM Web Science Conference 2017 (WebSci’17): 25. - 28. Juni 2017, Troy, NY, USA
 
