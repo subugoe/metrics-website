@@ -51,7 +51,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 * 2017-09-12 \| [Open Access Days 2017]({{ site.url }}/en/events/)
-* 2017-0-26 - 29 \| [4AM Conference](http://altmetricsconference.com/4am-schedule-in-toronto-coming-soon/)
+* 2017-0-26 - 29 \| [4AM Conference]({{ site.url }}/en/events/)
 <!-- Stop editing here -->
 </div>
     </div>
