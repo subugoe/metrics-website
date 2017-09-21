@@ -14,12 +14,6 @@ symbol: "calendar"
 <!-- Start editing content here-->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### Open Access Tage 2017: 11.-13. September 2017, Dresden
-
-Die Veranstaltung richtet sich an ExpertInnen aus dem Open-Access-Bereich aus Deutschland, Österreich und der Schweiz, an WissenschaftlerInnen aller Fachrichtungen, VerlagsvertreterInnen und UnterstützerInnen des wissenschaftlichen Forschungs- und Kommunikationsprozesses an Bibliotheken sowie in Forschungsinstituten und Fördereinrichtungen.
-Am Dienstag, 12. September findet von 16:00 - 17:30 Uhr im [kleinen Lesesaal](http://3d.slub-dresden.de/viewer?p=3&l=2847) ein Workshop unter dem Titel "Wie vermessen ist das Vermessen von wissenschaftlicher Kommunikation?" statt. Dienste mit sozialen Funktionen erlauben das Teilen und Kommentieren von Artikeln sowie das Abonnieren von Unterhaltungen, etc. Diese Interaktionen sind ein Maß für die Wahrnehmung von wissenschaftlichem Output und erheben zunehmend den Anspruch darauf, den Impact wissenschaftlicher Ergebnisse abbilden zu können. Sie treten damit gleichberechtigt neben etablierte Kenngrößen für wissenschaftlichen Output (siehe zitationsbasierte Indikatoren wie den Journal Impact Factor). Da die traditionellen Metriken eine Reihe von Nachteilen aufweisen (u. a. sind sie zeitverzögert, nicht artikelbasiert, nicht transparent bzw. schwer nachvollziehbar) stellt die Suche nach bzw. die Forschung an neuartigen Metriken ein dynamisches hochaktuelles Feld dar. Das Projekt \*metrics leistet einen Beitrag dazu, indem es die Aussagekraft und Interpretation von Metriken untersucht. Im Workshop werden die ersten Ergebnisse des im Januar gestarteten Projektes vorgestellt.
-Detaillierte Informationen sind [im Tagungsprogramm](https://open-access.net/community/open-access-tage/open-access-tage-2017-dresden/programm/) nachzulesen. Eine Annmeldung für den Workshop ist nicht erforderlich, jedoch eine [Registrierung](http://www.intercom-dresden.de/secure/conreg_oat2017/registration/default.asp?varSessionID=034412057664255) für die Open Access Tage.
-
 ### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada
 
 Die [Altmetrics Conference "4:AM"](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 findet die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wird vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet.
@@ -30,6 +24,12 @@ Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke]({{ site.url }}
 
 
 ## Vergangene Veranstaltungen
+
+### Open Access Tage 2017: 11.-13. September 2017, Dresden
+
+Die Veranstaltung richtete sich an ExpertInnen aus dem Open-Access-Bereich aus Deutschland, Österreich und der Schweiz, an WissenschaftlerInnen aller Fachrichtungen, VerlagsvertreterInnen und UnterstützerInnen des wissenschaftlichen Forschungs- und Kommunikationsprozesses an Bibliotheken sowie in Forschungsinstituten und Fördereinrichtungen.
+Am Dienstag, 12. September fand von 16:00 - 17:30 Uhr ein Workshop unter dem Titel "Wie vermessen ist das Vermessen von wissenschaftlicher Kommunikation?" statt. Dienste mit sozialen Funktionen erlauben das Teilen und Kommentieren von Artikeln sowie das Abonnieren von Unterhaltungen, etc. Diese Interaktionen sind ein Maß für die Wahrnehmung von wissenschaftlichem Output und erheben zunehmend den Anspruch darauf, den Impact wissenschaftlicher Ergebnisse abbilden zu können. Sie treten damit gleichberechtigt neben etablierte Kenngrößen für wissenschaftlichen Output (siehe zitationsbasierte Indikatoren wie den Journal Impact Factor). Da die traditionellen Metriken eine Reihe von Nachteilen aufweisen (u. a. sind sie zeitverzögert, nicht artikelbasiert, nicht transparent bzw. schwer nachvollziehbar) stellt die Suche nach bzw. die Forschung an neuartigen Metriken ein dynamisches hochaktuelles Feld dar. Das Projekt \*metrics leistet einen Beitrag dazu, indem es die Aussagekraft und Interpretation von Metriken untersucht. Im Workshop wurden die ersten Ergebnisse des im Januar gestarteten Projektes vorgestellt.
+Detaillierte Informationen sind [im Tagungsprogramm](https://open-access.net/community/open-access-tage/open-access-tage-2017-dresden/programm/) nachzulesen. Die Folien des Workshops können [hier]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf) heruntergeladen werden.
 
 ### LIBER 2017: 5. - 7. Juli 2017, Patras, Griechenland
 

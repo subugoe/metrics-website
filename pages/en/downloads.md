@@ -17,8 +17,9 @@ symbol: "download"
   * [Fact sheet \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
 
 # Presentations
-  * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)
+  * [(In German only) Open-Access-Tage 2017: \*metrics-Workshop "Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf)
   * [LIBER 2017: Sarah K. Coombs & Isabella Peters - Slides from LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf)
+  * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)
 
 # Poster and publications
   * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)
