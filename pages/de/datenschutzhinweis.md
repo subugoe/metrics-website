@@ -19,7 +19,7 @@ Die Nutzung dieser Webseite ist in der Regel ohne Angabe personenbezogener Daten
 
 Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für den jeweils genannten Zweck erforderlich ist. Hierbei werden bestehende gesetzliche Aufbewahrungsfristen berücksichtigt.  
 
-## Auskunft, Löschung, Sperrung
+## Auskunft, Löschung und Sperrung
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit über die im Impressum angegeben Adresse des Webseitenbetreibers an uns wenden.  
 
