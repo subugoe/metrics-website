@@ -1,20 +1,20 @@
 
 - name: Astrid Orth
   urls:
-    - http://sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/
     - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/
   mail: orth@sub.uni-goettingen.de
 
 - name: Daniel Beucke
   urls:
-    - http://sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/
     - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/
   mail: beucke@sub.uni-goettingen.de
 
 - name: Maxie Gottschling
   urls:
     - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/maxie-gottschling/
-    - http://sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
+    - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
   mail: gottschling@sub.uni-goettingen.de
 
 - name: Athanasios Mazarakis

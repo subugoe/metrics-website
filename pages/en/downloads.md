@@ -19,10 +19,12 @@ symbol: "download"
 # Presentations
   * [(In German only) Open-Access-Tage 2017: \*metrics-Workshop "Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf)
   * [LIBER 2017: Sarah K. Coombs & Isabella Peters - Slides from LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf)
-  * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)
+  * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)  
+  * [4:AM Conference 2018: Steffen Lemke - Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf)
 
 # Poster and publications
-  * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)
+  * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
+  * [4:AM Conference 2018]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)  
 
 # Logo in different formats
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
