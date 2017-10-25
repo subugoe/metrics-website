@@ -23,6 +23,7 @@ Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-co
 
 ## Vergangene Veranstaltungen  
     
+    
 ### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada  
 Die [Altmetrics Conference](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 fand die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wurde vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet. Die Konferenz bot ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren. Das Programm beinhaltete Präsentationen von Verlagen, Institutionen, Förderern und Forschern, sowie Zeit für Diskussionen und Fragen.  
 Das Event startete mit einem forschungsorientierten Workshop am 26. September, gefolgt von der 2-tägigen Konferenz (offen für alle Teilnehmer) am 27. und 28. September und endete mit einem “Hack Day/Do-Athon” am 29. September, zu dem ebenfalls alle Konferenzteilnehmer eingeladen waren.  
