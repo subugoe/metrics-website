@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
 [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) sprach am 28. September über die EU Expert Group. 
 <div class="row">
 <div class="columns medium-6" markdown="1">
-[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "Isabella Peters")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
+[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "4:AM Day 2: Highlight presentations")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
 </div>
 </div>
 
