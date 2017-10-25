@@ -27,14 +27,14 @@ Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke](https://metric
 <div class="columns medium-6" markdown="1">
 [![Maryam Mehrazar und Steffen Lemke Lightning Talk]({{ site.url }}/img/events/maryam_steffen_4am.PNG "Tackling the Challenges of Altmetrics and poster lightening talks")](
 https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
-
+</div>
 </div>
 
 [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) sprach am 28. September über die EU Expert Group. 
 <div class="row">
 <div class="columns medium-6" markdown="1">
 [![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "Isabella Peters")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
-
+</div>
 </div>
 
 
