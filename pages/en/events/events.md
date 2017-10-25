@@ -14,16 +14,33 @@ symbol: "calendar"
 <!-- Start editing content here -->
 Visit the following events to meet members of the \*metrics project team:
 
-### 4:AM - Altmetrics Conference 2017: 26 - 29 September 2017, Toronto, Canada
-
-The [Altmetrics Conference "4:AM"](http://altmetricsconference.com/) is THE conference for the altmetrics community around the world. In 2017 the conference series returns for the 4th time and will take place in Toronto, Canada, hosted by The Social Media Lab at The Ted Rogers School of Management, Ryerson University.
-The conference offers attendees the opportunity to learn about the latest developments, applications and opportunities offered by alternative metrics.
-The programme will include presentations from publishers, institutions, funders and researchers, as well as providing space for discussion and questions.
-The event will kick off with a research-focused [workshop](http://altmetrics.org/altmetrics17/) on the 26th of September, followed by a two-day main conference for all attendees on the 27th and 28th and a ‘Hack Day/Do-Athon’ which all are welcome to attend, on the 29th.
-\*metrics team members [Maryam Mehrazar and Steffen Lemke]({{ site.url }}/en/uber_uns/team/) will give a presentation at the Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) on the topic ["Evaluating altmetrics acts through their creators – how to advance?"](http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) and present a poster about the project activities at [27 September from 17:15 - 17:45h in Session 6: Poster Lightning Talks](http://altmetricsconference.com/wp-content/uploads/2017/08/4AM-Conference.pdf). Both contributions will highlight the first findings of an explorative online survey inquiring researchers’ usage of social media in their professional lives.  
 
 
 ## Past Events
+  
+### 4:AM - Altmetrics Conference 2017: 26 - 29 September 2017, Toronto, Canada  
+The [Altmetrics Conference](: http://altmetricsconference.com/) is THE conference for the altmetrics community around the world. In 2017 the conference series returned in Toronto, Canada for the 4th time, hosted by The Social Media Lab at The Ted Rogers School of Management, Ryerson University. The conference offers attendees the opportunity to learn about the latest developments, applications and opportunities offered by alternative metrics.   
+The programme included presentations from publishers, institutions, funders and researchers, as well as space for discussion and questions. The event kicked off with a research-focused workshop on the 26th of September, followed by a two-day main conference for all attendees on the 27th and 28th and a ‘Hack Day/Do-Athon’ which all were welcome to attend, on the 29th.  
+\*metrics team members [Maryam Mehrazar and Steffen Lemke](https://metrics-project.net/en/uber_uns/team/) gave a presentation at the Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) on the topic [“Evaluating altmetrics acts through their creators – how to advance?”]( http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) and presented a poster about the project activities on  September 27 from 17:15 - 17:45h in Session 6: Poster Lightning Talks.  
+
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Maryam Mehrazar and Steffen Lemke Lightning Talk]({{ site.url }}/img/events/maryam_steffen_4am.PNG  "Tackling the Challenges of Altmetrics and poster lightening talks")](https://www.youtube.com/watch?v=uLaj1ma_HSQ){: style="min-width: 100%" }
+
+</div>
+</div>
+  
+  
+[Isabella Peters](https://metrics-project.net/en/uber_uns/team/) spoke about the EU Expert Group on September 28.  
+
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Isabella Peters on the EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "4:AM Day 2: Highlight presentations")](https://www.youtube.com/watch?v=JHEYpjR2OP0){: style="min-width: 100%" }
+
+</div>
+</div>
+  
+Focus of the contributions was on highlighting the first findings of an explorative online survey inquiring researchers’ usage of social media in their professional lives.  
 
 ### Open Access Days 2017: 11 - 13 September 2017, Dresden, Germany
 
