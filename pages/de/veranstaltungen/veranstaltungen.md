@@ -38,7 +38,8 @@ https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
 </div>
 
 
-Fokus der Beiträge waren die ersten Ergebnisse des explorativen Online-Surveys über die Nutzung von Social Media von Wissenschaftlern im Forschungszusammenhang.  
+Fokus der Beiträge waren die ersten Ergebnisse des explorativen Online-Surveys über die Nutzung von Social Media von Wissenschaftlern im Forschungszusammenhang.    
+  
   
 ### Open Access Tage 2017: 11.-13. September 2017, Dresden
 
