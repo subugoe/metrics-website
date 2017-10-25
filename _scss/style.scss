@@ -1,7 +1,11 @@
 @import "vars";
-@import "../node_modules/foundation-sites/scss/foundation.scss";
+// @import "../node_modules/foundation-sites/scss/foundation.scss";
+@import "../node_modules/foundation-sites/scss/foundation";
 
 @include foundation-everything;
+
+@include foundation-flex-classes;
+@include foundation-flex-grid;
 
 @import "utils";
 @import "featurebox";
@@ -150,7 +154,6 @@ table.small-stack {
 
 .menu--small {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
+  flex-flow: row nowrap;
   justify-content: space-between;
 }
