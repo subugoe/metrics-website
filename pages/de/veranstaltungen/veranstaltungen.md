@@ -23,11 +23,17 @@ Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 Die [Altmetrics Conference](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 fand die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wurde vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet. Die Konferenz bot ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren. Das Programm beinhaltete Präsentationen von Verlagen, Institutionen, Förderern und Forschern, sowie Zeit für Diskussionen und Fragen.  
 Das Event startete mit einem forschungsorientierten Workshop am 26. September, gefolgt von der 2-tägigen Konferenz (offen für alle Teilnehmer) am 27. und 28. September und endete mit einem “Hack Day/Do-Athon” am 29. September, zu dem ebenfalls alle Konferenzteilnehmer eingeladen waren.  
 Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke](https://metrics-project.net/de/uber_uns/team/) hielten am 26. September auf dem Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) eine Präsentation zum Thema [“Evaluating altmetrics acts through their creators – how to advance?”](http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) und präsentierten am 27. September von 17:15 - 17:45 Uhr in Session 6: Poster Lightning Talks ein Poster über die aktuellen Projektaktivitäten.  
-Eingebettetes Video: https://www.youtube.com/watch?v=uLaj1ma_HSQ  
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Maryam Mehrazar und Steffen Lemke Lightning Talk]({{ site.url }}/img/events/maryam_steffen_4am.PNG "Tackling the Challenges of Altmetrics and poster lightening talks")](
+https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
+
+</div>
+
 [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) sprach am 28. September über die EU Expert Group. 
 <div class="row">
 <div class="columns medium-6" markdown="1">
-[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
+[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "Isabella Peters")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
 
 </div>
 
