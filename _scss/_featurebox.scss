@@ -31,3 +31,7 @@
 .featurebox__content {
   @extend .margin-top-1;
 }
+
+.featurebox__content > img {
+  margin-right: 4px;
+}
