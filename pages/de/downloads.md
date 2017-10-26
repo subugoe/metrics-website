@@ -24,7 +24,7 @@ symbol: "download"
 
 # Poster und Publikationen
   * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
-  * [4:AM Conference 2017]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)
+  * [4:AM Conference:  Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)
 
 # Logovarianten
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
