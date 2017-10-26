@@ -14,17 +14,38 @@ symbol: "calendar"
 <!-- Start editing content here-->
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada
+### International Open Science Conference 2018: 13. - 14. März, Berlin  
+Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
 
-Die [Altmetrics Conference "4:AM"](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 findet die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wird vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet.
-Die Konferenz bietet ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren.
-Das Programm beinhaltet Präsentationen von Verlagen, Institutionen, Förderern und Forschern und bietet Zeit für Diskussionen und Fragen.
-Das Event startet mit einem forschungsorientierten [Workshop](http://altmetrics.org/altmetrics17/) am 26. September, gefolgt von der 2-tägigen Konferenz (offen für alle Teilnehmer) am 27. und 28. September und endet mit einem "Hack Day/Do-Athon" am 29. September, zu dem ebenfalls alle Konferenzteilnehmer eingeladen sind.
-Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke]({{ site.url }}/de/uber_uns/team/) werden am 26. September auf dem Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) eine Präsentation zum Thema ["Evaluating altmetrics acts through their creators – how to advance?"](http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) halten und am [27. September von 17:15 - 17:45 Uhr in Session 6: Poster Lightning Talks](http://altmetricsconference.com/wp-content/uploads/2017/08/4AM-Conference.pdf)ein Poster über die aktuellen Projektaktivitäten  präsentieren. Fokus beider Beiträge werden die ersten Ergebnisse des explorativen Online-Surveys über die Nutzung von Social Media von Wissenschaftlern im Forschungszusammenhang sein.
+### COAR Jahrestagung: 15. - 17. Mai 2018, Hamburg  
+Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 15.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
 
 
-## Vergangene Veranstaltungen
+## Vergangene Veranstaltungen  
+    
+    
+### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada  
+Die [Altmetrics Conference](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 fand die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wurde vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet. Die Konferenz bot ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren. Das Programm beinhaltete Präsentationen von Verlagen, Institutionen, Förderern und Forschern, sowie Zeit für Diskussionen und Fragen.  
+Das Event startete mit einem forschungsorientierten Workshop am 26. September, gefolgt von der 2-tägigen Konferenz (offen für alle Teilnehmer) am 27. und 28. September und endete mit einem “Hack Day/Do-Athon” am 29. September, zu dem ebenfalls alle Konferenzteilnehmer eingeladen waren.  
+Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke](https://metrics-project.net/de/uber_uns/team/) hielten am 26. September auf dem Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) eine Präsentation zum Thema [“Evaluating altmetrics acts through their creators – how to advance?”](http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) und präsentierten am 27. September von 17:15 - 17:45 Uhr in Session 6: Poster Lightning Talks ein Poster über die aktuellen Projektaktivitäten.  
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Maryam Mehrazar und Steffen Lemke Lightning Talk]({{ site.url }}/img/events/maryam_steffen_4am.PNG "Tackling the Challenges of Altmetrics and poster lightening talks")](
+https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
+</div>
+</div>
 
+[Isabella Peters](https://metrics-project.net/de/uber_uns/team/) sprach am 28. September über die EU Expert Group. 
+<div class="row">
+<div class="columns medium-6" markdown="1">
+[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "4:AM Day 2: Highlight presentations")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
+</div>
+</div>
+
+
+Fokus der Beiträge waren die ersten Ergebnisse des explorativen Online-Surveys über die Nutzung von Social Media von Wissenschaftlern im Forschungszusammenhang.    
+  
+  
 ### Open Access Tage 2017: 11.-13. September 2017, Dresden
 
 Die Veranstaltung richtete sich an ExpertInnen aus dem Open-Access-Bereich aus Deutschland, Österreich und der Schweiz, an WissenschaftlerInnen aller Fachrichtungen, VerlagsvertreterInnen und UnterstützerInnen des wissenschaftlichen Forschungs- und Kommunikationsprozesses an Bibliotheken sowie in Forschungsinstituten und Fördereinrichtungen.
