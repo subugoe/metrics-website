@@ -37,7 +37,7 @@
     "build:css": "npm run sass && npm run prefix",
     "build:css_win": "npm run sass_win && npm run prefix_win",
     "watch:jekyll": "bundle exec jekyll b -w",
-    "build:jekyll": "bundle exec jekyll b --config _dev.yml",
+    "build:jekyll": "bundle exec jekyll b --config _local.yml",
     "jekyll_build": "bundle exec jekyll b",
     "serve": "live-server metrics-website --watch=$(PWD)/metrics-website",
     "serve_win": "live-server metrics-website --watch=%cd%/metrics-website",
