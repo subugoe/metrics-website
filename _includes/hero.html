@@ -8,29 +8,43 @@
     </div>
     <div class="columns medium-8">
         <div class="tools">
-            {% if page.lang == "de" %}
-            <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
-            {% else %}
-            <a class="" href="{{ site.baseurl }}/">HOME</a>
-            {% endif %}
-            <div class="languageswitch">
-                {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
-                {% assign slash = pages | size %}
-                {% assign i = 1 %}
-                {% for item in pages %}
-                    {% assign active_class = "" %}
-                    {% if current_lang == item.lang %}
-                        {% assign active_class = "active_language" %}
-                    {% endif %}
-                    <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
-                    {% if slash == 2 %}
-                    {% if i == 1 %}
-                    /
-                    {% endif %}
-                    {% assign i = 2 %}
-                    {% endif %}
-                {% endfor %}
+            <div>
+                {% if page.lang == "de" %}
+                <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
+                {% else %}
+                <a class="" href="{{ site.baseurl }}/">HOME</a>
+                {% endif %}
+                <div class="languageswitch">
+                    {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
+                    {% assign slash = pages | size %}
+                    {% assign i = 1 %}
+                    {% for item in pages %}
+                        {% assign active_class = "" %}
+                        {% if current_lang == item.lang %}
+                            {% assign active_class = "active_language" %}
+                        {% endif %}
+                        <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
+                        {% if slash == 2 %}
+                        {% if i == 1 %}
+                        /
+                        {% endif %}
+                        {% assign i = 2 %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
             </div>
+            <form class="" action="https://www.google.com/search?" method="get" target="_blank">
+                <div class="input-group">
+                    <label>
+                        <span class="show-for-sr">Search</span>
+                        <input type="text" name="q" value="" class="input-group-field" placeholder="Search">
+                        <input type="hidden" name="sitesearch" value="metrics-project.net">
+                    </label>
+                    <div class="input-group-button show-for-sr">
+                        <input type="submit" class="button" value="Go">
+                    </div>
+                </div>
+            </form>
         </div>
         <p class="claim">MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
         <div class="show-for-small-only menu--small">
@@ -62,6 +76,18 @@
                     {% endif %}
                 {% endfor %}
             </div>
+            <form class="" action="https://www.google.com/search?" method="get" target="_blank">
+                <div class="input-group">
+                    <label>
+                        <span class="show-for-sr">Search</span>
+                        <input type="text" name="q" value="" class="input-group-field" placeholder="Search">
+                        <input type="hidden" name="sitesearch" value="metrics-project.net">
+                    </label>
+                    <div class="input-group-button show-for-sr">
+                        <input type="submit" class="button" value="Go">
+                    </div>
+                </div>
+            </form>
         </div>
     </div>
 </nav>
