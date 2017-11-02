@@ -50,9 +50,31 @@ table.small-stack {
 }
 
 .tools {
-  text-align: right;
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
 
   @extend .margin-top-2;
+
+  div:first-of-type {
+    flex-shrink: 0;
+  }
+
+  form {
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: 16px;
+    width: 30%;
+
+    input[type="submit"] {
+      background-color: transparent;
+    }
+  }
+
+  .input-group {
+    margin-bottom: 0;
+  }
 
   @include breakpoint(small only) {
     display: none;
@@ -154,6 +176,11 @@ table.small-stack {
 
 .menu--small {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: row wrap;
   justify-content: space-between;
+
+  form {
+    padding-top: 16px;
+    width: 100%;
+  }
 }
