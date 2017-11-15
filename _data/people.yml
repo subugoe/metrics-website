@@ -69,3 +69,9 @@
   urls:
     - http://www.gbv.de
   mail: michael.kusche@gbv.de
+  
+- name: Marni Hanke
+  urls:
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+  mail: hanke@sub.uni-goettingen.de
