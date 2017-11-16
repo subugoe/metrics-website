@@ -21,7 +21,15 @@ The new year‘s [International Open Science Conference](http://www.open-science
 We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 15-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.  
 
 
-## Past Events
+## Past Events  
+
+### Open Science Meet-up: 13 November 2017, SUB Göttingen  
+
+Initiated in December 2016, the [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/)  brings together committed researchers and librarians interested in promoting Open Science principles at Campus Göttingen.
+
+Everyone interested in Open Science is invited to join the quarterly meet-ups and the related working groups on practical aspects (e. g. &quot;Hacky Hour&quot;, &quot;Teaching Open Science&quot;).  
+
+This time one of the main topics included the goal to move away from traditional means of measurement, as the journal impact factor, to alternative metrics, when it comes to evaluating a publication.  
   
 ### 4:AM - Altmetrics Conference 2017: 26 - 29 September 2017, Toronto, Canada  
 The [Altmetrics Conference](: http://altmetricsconference.com/) is THE conference for the altmetrics community around the world. In 2017 the conference series returned in Toronto, Canada for the 4th time, hosted by The Social Media Lab at The Ted Rogers School of Management, Ryerson University. The conference offers attendees the opportunity to learn about the latest developments, applications and opportunities offered by alternative metrics.   
