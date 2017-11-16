@@ -23,6 +23,11 @@ Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-co
 
 ## Vergangene Veranstaltungen  
     
+### Open Science Meet-up: 13. November 2017, SUB Göttingen  
+
+Seit Dezember 2016 bringt das [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/) engagierte Wissenschaftlerinnen und Wissenschaftler sowie Bibliothekarinnen und Bibliothekare zusammen, um Open-Science-Themen auf dem Campus Göttingen voranzubringen. Weitere an Open Science Interessierte sind herzlich willkommen, an den vierteljährlich stattfindenden Treffen teilzunehmen und / oder sich an den Arbeitsgruppen zu praktischen Open-Science-Aspekten zu beteiligen (u. a. „Hacky Hour&quot;, „Teaching Open Science&quot;).
+
+Dieses Mal stand u.A. die Zielsetzung, in der Evaluation von Publikationen neben dem traditionellen Journal Impact Factor besonders auch alternative Metriken zu berücksichtigen, im Vordergrund.  
     
 ### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada  
 Die [Altmetrics Conference](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 fand die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wurde vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet. Die Konferenz bot ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren. Das Programm beinhaltete Präsentationen von Verlagen, Institutionen, Förderern und Forschern, sowie Zeit für Diskussionen und Fragen.  
