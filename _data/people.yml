@@ -17,6 +17,24 @@
     - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
   mail: gottschling@sub.uni-goettingen.de
 
+- name: Martin Giesler
+  urls:
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/martin-giesler/
+    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/martin-giesler/
+  mail: giesler@sub.uni-goettingen.de
+        
+- name: Marni Hanke
+  urls:
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+  mail: hanke@sub.uni-goettingen.de
+  
+- name: Moritz Wiemann
+  urls:
+    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
+    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
+  mail: wiemann@sub.uni-goettingen.de
+
 - name: Athanasios Mazarakis
   urls:
     - http://www.zbw.eu/de/forschung/web-science/athanasios-mazarakis/
@@ -64,8 +82,3 @@
   urls:
     - http://www.gbv.de
   mail: Andreas.Krausz@gbv.de
-
-- name: Michael Kusche
-  urls:
-    - http://www.gbv.de
-  mail: michael.kusche@gbv.de
