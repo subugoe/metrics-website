@@ -10,7 +10,7 @@
     "cssnano": "^3.10.0",
     "foundation-sites": "^6.4.3",
     "live-server": "^1.2.0",
-    "node-sass": "^4.6.0",
+    "node-sass": "^4.7.2",
     "nodemon": "^1.12.1",
     "npm-check-updates": "^2.13.0",
     "ntl": "^1.2.0",
