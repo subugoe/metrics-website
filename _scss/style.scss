@@ -1,10 +1,8 @@
 @import "vars";
-// @import "../node_modules/foundation-sites/scss/foundation.scss";
 @import "../node_modules/foundation-sites/scss/foundation";
 
 @include foundation-everything;
-@include foundation-flex-classes;
-@include foundation-flex-grid;
+@include foundation-xy-grid-classes;
 
 @import "utils";
 @import "featurebox";
@@ -18,7 +16,6 @@ body {
 }
 
 main {
-  @extend .row;
   @extend .margin-bottom-5;
 
   a {
@@ -182,4 +179,8 @@ table.small-stack {
     padding-top: 16px;
     width: 100%;
   }
+}
+
+.search--small label {
+  width: 100%;
 }

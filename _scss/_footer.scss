@@ -1,6 +1,6 @@
 .footer__logos {
-  @extend .row;
-  @extend .columns;
+  @extend .grid-x;
+  @extend .cell;
   @extend .margin-bottom-4;
 
   display: flex;
@@ -24,5 +24,35 @@
     @include breakpoint(small only) {
       text-align: center;
     }
+  }
+}
+
+footer nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  ul li {
+    margin-bottom: 8px;
+
+    @include breakpoint (medium) {
+      margin-bottom: 0;
+    }
+  }
+
+  li:last-of-type {
+    margin-left: 0;
+  }
+
+  @include breakpoint (medium) {
+    justify-content: flex-start;
+  }
+}
+
+footer .copyright {
+  text-align: center;
+
+  @include breakpoint(medium) {
+    text-align: right;
   }
 }

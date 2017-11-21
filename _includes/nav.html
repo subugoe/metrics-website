@@ -1,6 +1,6 @@
 {% assign current_lang=page.lang %}
-<div class="mainmenu__wrap">
-    <nav class="mainmenu">
+<div class="mainmenu__wrap margin-bottom-2">
+    <nav class="mainmenu grid-x grid-container cell">
         <ul class="mainmenu__mainlist dropdown menu" data-dropdown-menu>
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
             {% for item in pages %}

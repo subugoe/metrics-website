@@ -5,10 +5,10 @@
 {% assign is_home = "active" %}
 {% endif %}
 <div class="off-canvas-content" data-off-canvas-content>
-    <div class="sticky-footer-wrap">
+    <div class="sticky-footer-wrap margin-bottom-2">
         {% include hero.html %}
         {% include nav.html %}
-        <main>
+        <main class="grid-x grid-container">
             {{ content }}
             {% if page.comments == true %}
                 {% include comments.html %}

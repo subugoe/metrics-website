@@ -9,77 +9,79 @@ position:
 order:
 alt: "Webseite des *metrics Projektes"
 ---
-<div class="columns collapse mansonry__wrap">
-<div id="masonry-container" class="small-collapse medium-collapse">
+<!-- <div class="columns collapse mansonry__wrap">
+<div id="masonry-container" class="small-collapse medium-collapse"> -->
+
+<div id="masonry" class="cell grid-x small-collapse medium-collapse">
 
 <!-- News -->
-<div class="featurebox columns medium-6">
-    <div class="hide-for-small-only columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/pulse.svg">
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon">
+    <img src="{{ site.baseurl }}/img/pulse.svg">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/pulse.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/meldungen/">{{ site.data.lang.l[page.lang].news }}</a></h2>
+    <div class="featurebox__content">
+      {% include latest_news_index.html %}
     </div>
-    <div class="columns medium-10">
-        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/pulse.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/meldungen/">{{ site.data.lang.l[page.lang].news }}</a></h2>
-        <div class="featurebox__content">
-            {% include latest_news_index.html %}
-        </div>
-    </div>
+  </div>
 </div>
 
 <!-- Twitter -->
-<div class="featurebox columns medium-6">
-    <div class="hide-for-small-only columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/twitter-alt.svg">
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+    <img src="{{ site.baseurl }}/img/twitter-alt.svg">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/twitter-alt.svg" class="show-for-small-only"><a href="https://twitter.com/metrics_project">Twitter</a></h2>
+    <div id="featurebox__content__twitter" class="featurebox__content">
     </div>
-    <div class="columns medium-10">
-        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/twitter-alt.svg" class="show-for-small-only"><a href="https://twitter.com/metrics_project">Twitter</a></h2>
-        <div id="featurebox__content__twitter" class="featurebox__content">
-        </div>
-    </div>
+  </div>
 </div>
 
 <!-- Events -->
-<div class="featurebox columns medium-6">
-    <div class="hide-for-small-only columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/calendar.svg">
-    </div>
-    <div class="columns medium-10">
-        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/veranstaltungen/">{{ site.data.lang.l[page.lang].events }}</a></h2>
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+    <img src="{{ site.baseurl }}/img/calendar.svg">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 * 2017-0-26 - 29 \| [4AM Konferenz]({{ site.url }}/de/veranstaltungen/)
 <!-- Stop editing content here -->
 </div>
-    </div>
+  </div>
 </div>
 
 <!-- Downloads -->
-<div class="featurebox columns medium-6">
-    <div class="hide-for-small-only columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/download.svg">
-    </div>
-    <div class="columns medium-10">
-        <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/download.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/de/downloads/">Downloads</a></h2>
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+    <img src="{{ site.baseurl }}/img/download.svg">
+  </div>
+  <div class="cell medium-10">
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/download.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/downloads/">Downloads</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 In diesem Bereich stehen Präsentationen, Berichte und Marketingmaterial zum Download zur Verfügung.
 <!-- Stop editing content here -->
 </div>
-    </div>
+  </div>
 </div>
 
 <!-- Find us at -->
-<div class="featurebox columns medium-6">
-    <div class="hide-for-small-only columns medium-2 featurebox__icon">
-        <img src="{{ site.baseurl }}/img/email.svg">
-    </div>
-    <div class="columns medium-10">
+<div class="featurebox cell grid-x grid-container medium-6">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon">
+    <img src="{{ site.baseurl }}/img/email.svg">
+  </div>
+  <div class="cell medium-10">
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/email.svg" class="show-for-small-only">{{ site.data.lang.l[page.lang].findus }}</h2>
-        <div class="featurebox__content">
-            <img src="{{ site.baseurl }}/img/twitter-alt.svg"> <a href="https://twitter.com/metrics_project">*metrics bei Twitter</a> <br>
-            <img src="{{ site.baseurl }}/img/facebook-alt.svg"> <a href="https://www.facebook.com/metricsproject">*metrics bei Facebook</a>
-        </div>
+    <div class="featurebox__content">
+      <img src="{{ site.baseurl }}/img/twitter-alt.svg"> <a href="https://twitter.com/metrics_project">*metrics bei Twitter</a> <br>
+      <img src="{{ site.baseurl }}/img/facebook-alt.svg"> <a href="https://www.facebook.com/metricsproject">*metrics bei Facebook</a>
     </div>
+  </div>
 </div>
 
-</div>
+<!-- </div> -->
 </div>

@@ -1,8 +1,8 @@
 <!-- site footer - used on every page -->
 {% assign current_lang=page.lang %}
 <div class="sticky-footer">
-<footer class="">
-    <div class="footer__logos">
+<footer class="grid-x grid-container">
+    <div class="cell footer__logos">
         <a href="https://www.sub.uni-goettingen.de/projekte-forschung/projektdetails/projekt/metrics/">
             <svg class="logo logo_sub" viewbox="0 0 3544 1076"><use xlink:href="{{ site.baseurl }}/img/logos/logos.svg#logo_sub"></use></svg>
         </a>
@@ -19,8 +19,8 @@
             <svg class="logo logo_dfg" viewbox="0 0 254 33"><use xlink:href="{{ site.baseurl }}/img/logos/logos.svg#logo_dfg"></use></svg>
         </a>
     </div>
-    <div class="row footer__links">
-        <nav class="columns small-12 medium-6 small-centered-text">
+    <div class="cell grid-x grid-container footer__links">
+        <nav class="cell small-12 medium-6">
             <ul class="menu simple">
                 {% assign pages=site.pages | where:"lang", page.lang | where:"position", "bottom" %}
                 {% for item in pages %}
@@ -30,7 +30,7 @@
                 {% endfor %}
             </ul>
         </nav>
-        <div class="columns small-12 medium-6 text-right small-centered-text">
+        <div class="copyright cell small-12 medium-6">
             <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International </a>
         </div>
     </div>

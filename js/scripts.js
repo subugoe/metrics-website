@@ -44,12 +44,19 @@ twttr.ready(
     twttr.events.bind(
       'rendered',
       function (event) {
-        $('#masonry-container').masonry({
+        $('#masonry').masonry({
           itemSelector: '.featurebox',
-          transitionDuration: 0
+          transitionDuration: 0,
+          percentPosition: true
         });
       }
     );
 
   }
 );
+
+// $('.masonry').masonry({
+//   // options
+//   itemSelector: '.featurebox',
+//   columnWidth: 200
+// });
