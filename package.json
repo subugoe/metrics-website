@@ -19,7 +19,7 @@
     "pretty-exceptions": "^1.1.2",
     "stylelint": "^8.2.0",
     "stylelint-config-standard": "^18.0.0",
-    "stylelint-order": "^0.7.0"
+    "stylelint-order": "^0.8.0"
   },
   "scripts": {
     "sass": "node-sass --output-style compressed --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
