@@ -11,6 +11,7 @@ alt: "Download von projektbezogenen Materialien"
 symbol: "download"
 ---
 <!-- Start editing content here -->
+### Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)  
 # Projektinformationen
   * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
   * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
