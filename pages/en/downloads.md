@@ -29,7 +29,8 @@ symbol: "download"
   * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
   * [4:AM Conference: Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)  
   
-### * All our publications can be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)  
+### All our publications can be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)  
+* test
 
 # Logo in different formats
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
