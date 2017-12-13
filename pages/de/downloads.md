@@ -17,7 +17,10 @@ symbol: "download"
 
 # Präsentationen
   * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)   
-   * [LIBER 2017: Sarah K. Coombs & Isabella Peters - Präsentation vom LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf)  
+  * [Bibliothekartag 2017: Daniel Beucke - Altmetrics: Was mache ich damit?]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_einleitung_beucke.pdf)  
+  * [Bibliothekartag 2017: Astrid Orth & Isabella Peters - Empfehlungen zur Nutzung geben]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_empfehlungen_orth_peters.pdf)  
+  * [Bibliothekartag 2017: Astrid Orth - Zuverlässigkeit und Wahrnehmung von Indikatoren für Interaktionen mit wissenschaftlichen Ergebnissen]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_metrics_orth.pdf)  
+  * [LIBER 2017: Sarah K. Coombs & Isabella Peters - Präsentation vom LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf)  
   * [Open-Access-Tage 2017: \*metrics-Workshop "Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf)
   * [Altmetrics17: Steffen Lemke - Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf)  
 
