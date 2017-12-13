@@ -11,7 +11,7 @@ alt: "Download of project-related materials."
 symbol: "download"
 ---
 <!-- Start editing content here -->
-
+## All our publications can also be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)   
 # Project information
   * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
   * [Fact sheet \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
@@ -27,9 +27,7 @@ symbol: "download"
 
 # Poster and publications
   * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
-  * [4:AM Conference: Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)  
-  
-**All our publications can be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)  
+  * [4:AM Conference: Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)   
 
 # Logo in different formats
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
