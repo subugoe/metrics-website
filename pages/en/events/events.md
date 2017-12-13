@@ -69,7 +69,15 @@ The working group has worked towards compiling [recommendations]({{ sitebase.url
 ### 9th International ACM Web Science Conference 2017 (WebSci’17): 25 - 28 June 2017, Troy, NY, USA
 
 The [WebSci'17 conference](http://websci17.org/) brought together researchers from multiple disciplines, like computer science, sociology, economics, information science, or psychology. Web Science is the emergent study of the people and technologies, applications, processes and practices that shape and are shaped by the World Wide Web. Web Science aims to draw together theories, methods and findings from across academic disciplines, and to collaborate with industry, business, government and civil society, to develop our knowledge and understanding of the Web: the largest socio-technical infrastructure in human history.
-\*metrics team member [Olga Zagovora]({{ site.url }}/en/uber_uns/team/) has been at WebSci'17.
+\*metrics team member [Olga Zagovora]({{ site.url }}/en/uber_uns/team/) has been at WebSci'17.  
+
+### Open Science Meet-up: 20 June 2017, SUB Göttingen
+
+Initiated in December 2016, the  [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/) brings together committed researchers and librarians interested in promoting Open Science principles at Campus Göttingen.
+
+Everyone interested in Open Science is invited to join the quarterly meet-ups and the related working groups on practical aspects (e. g. &quot;Hacky Hour&quot;, &quot;Teaching Open Science&quot;).
+
+[Astrid Orth and Daniel Beucke of the \*metrics-team held the presentation „From impact metrics to researcher profiles and back&quot;, which took a closer look on the various usage fashions and possibilities of alternative metrics.](https://etherpad.gwdg.de/p/OpenScienceGoe20170620) The presentation was followed by a discussion.  
 
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
