@@ -31,6 +31,7 @@ symbol: "download"
   
 ### All our publications can be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)
   
+  
 # Logo in different formats
   * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
   * [Logo (EPS)]({{ sitebase.url }}/downloads/logo_metrics.eps)  
