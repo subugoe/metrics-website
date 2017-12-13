@@ -15,7 +15,7 @@ symbol: "calendar"
 Visit the following events to meet members of the \*metrics project team:  
 
 ### International Open Science Conference 2018: 13 - 14 March, Berlin  
-The new year‘s [International Open Science Conference](http://www.open-science-conference.eu/) will take place in the capital, Berlin. Organized by the Leibniz Research Alliance Science 2.0, it will provide a significant forum for discourse regarding Open Science and especially on the usage of FAIR (findable, accessible, interopable, reusable) data principles. News and updates can be found on [Twitter](https://twitter.com/hashtag/COAR2018?src=hash&lang=de).
+The new year‘s [International Open Science Conference](http://www.open-science-conference.eu/) will take place in the capital, Berlin. Organized by the Leibniz Research Alliance Science 2.0, it will provide a significant forum for discourse regarding Open Science and especially on the usage of FAIR (findable, accessible, interopable, reusable) data principles. News and updates can be found on [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).
   
 ### COAR Annual Meeting: 15 - 17 May 2018, Hamburg  
 We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 15-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.  
@@ -69,7 +69,15 @@ The working group has worked towards compiling [recommendations]({{ sitebase.url
 ### 9th International ACM Web Science Conference 2017 (WebSci’17): 25 - 28 June 2017, Troy, NY, USA
 
 The [WebSci'17 conference](http://websci17.org/) brought together researchers from multiple disciplines, like computer science, sociology, economics, information science, or psychology. Web Science is the emergent study of the people and technologies, applications, processes and practices that shape and are shaped by the World Wide Web. Web Science aims to draw together theories, methods and findings from across academic disciplines, and to collaborate with industry, business, government and civil society, to develop our knowledge and understanding of the Web: the largest socio-technical infrastructure in human history.
-\*metrics team member [Olga Zagovora]({{ site.url }}/en/uber_uns/team/) has been at WebSci'17.
+\*metrics team member [Olga Zagovora]({{ site.url }}/en/uber_uns/team/) has been at WebSci'17.  
+
+### Open Science Meet-up: 20 June 2017, SUB Göttingen
+
+Initiated in December 2016, the  [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/) brings together committed researchers and librarians interested in promoting Open Science principles at Campus Göttingen.
+
+Everyone interested in Open Science is invited to join the quarterly meet-ups and the related working groups on practical aspects (e. g. &quot;Hacky Hour&quot;, &quot;Teaching Open Science&quot;).
+
+[Astrid Orth and Daniel Beucke of the \*metrics-team held the presentation „From impact metrics to researcher profiles and back&quot;, which took a closer look on the various usage fashions and possibilities of alternative metrics.](https://etherpad.gwdg.de/p/OpenScienceGoe20170620) The presentation was followed by a discussion.  
 
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
