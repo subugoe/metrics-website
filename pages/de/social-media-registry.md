@@ -22,7 +22,12 @@ Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*met
   1. Untersuchung von Nutzergruppen der Social Media Dienste sowie deren Wahrnehmung und Einschätzung der angebotenen Indikatoren, und
   2. Entwicklung prototypischer Abfragen von Social Media Diensten zur Erfassung der möglichen Interaktionen und Gewinnung von offenen und transparenten Metriken
 
-Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity erstellt. Eine erste Version wird durch das \*metrics Projektteam erstellt und voraussichtlich im September 2017 an dieser Stelle veröffentlicht. Auf Workshops und Veranstaltungen für alle Interessierten wird frühzeitig Feedback dazu eingeholt. Die Registry wird offen sein für Kommentare und Ergänzungen.
+Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity entwickelt. Eine erste Version wurde durch das \*metrics Projektteam zunächst als Google Doc erstellt. Dieses ist als Input-Sammlung gedacht und soll neben der Erfassung der Inhalte ermöglichen, eine technisch ausgereiftere Lösung zu finden.  
+  
+Das Registry ist für Ergänzungen und Kommentare unter diesem Link zu erreichen:  
+ [https://docs.google.com/spreadsheets/d/10OALs5kxtmML4Naf1ShXh0cTmONE8q9EFhTzmgPINv4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/10OALs5kxtmML4Naf1ShXh0cTmONE8q9EFhTzmgPINv4/edit?usp=sharing)  
+  
+Auf Workshops und Veranstaltungen für alle Interessierten wird weiterhin Feedback dazu eingeholt.  
 
 <!-- complete later together with translation
 ## Wer kann die Social Media Registry nutzen?
