@@ -53,7 +53,9 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-* 2017-0-26 - 29 \| [4AM Conference]({{ site.url }}/en/events/)
+* 2018-03- 13-14 \| [International Open Science Coneference]({{ site.url }}/de/veranstaltungen/)  
+* 2018-05- 15-17 \| [COAR Annual Meeting]({{ site.url }}/de/veranstaltungen/)  
+* 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/de/veranstaltungen/)
 <!-- Stop editing here -->
 </div>
   </div>
