@@ -48,7 +48,9 @@ alt: "Webseite des *metrics Projektes"
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-* 2017-0-26 - 29 \| [4AM Konferenz]({{ site.url }}/de/veranstaltungen/)
+* 2018-03- 13-14 \| [International Open Science Coneference]({{ site.url }}/de/veranstaltungen/)  
+* 2018-05- 15-17 \| [COAR Jahrestagung]({{ site.url }}/de/veranstaltungen/)  
+* 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/de/veranstaltungen/)
 <!-- Stop editing content here -->
 </div>
   </div>
