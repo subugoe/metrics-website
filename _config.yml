@@ -7,7 +7,6 @@ timezone: Europe/Berlin
 permalink: pretty
 markdown: kramdown
 destination: "metrics-website"
-gems:
 exclude:
   - npm.log
   - node_modules
