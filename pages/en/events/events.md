@@ -17,8 +17,8 @@ Visit the following events to meet members of the \*metrics project team:
 ### International Open Science Conference 2018: 13 - 14 March, Berlin  
 The new year‘s [International Open Science Conference](http://www.open-science-conference.eu/) will take place in the capital, Berlin. Organized by the Leibniz Research Alliance Science 2.0, it will provide a significant forum for discourse regarding Open Science and especially on the usage of FAIR (findable, accessible, interopable, reusable) data principles. News and updates can be found on [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).
   
-### COAR Annual Meeting: 15 - 17 May 2018, Hamburg  
-We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 15-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.  
+### COAR Annual Meeting: 14 - 17 May 2018, Hamburg  
+We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 14-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.  
 
 ### Bibliothekartag: 12 - 15 June 2018, Berlin  
 Recent questions and solutions about Open Access are becoming more and more common in the day-to-day procedures librarians face. Therefore, the German [Bibliothekartag](https://bibliothekartag2018.de/?lang=en) shall not be missed, if one wants to inform themselves extensively. As well as in 2017, in 2018 \*metrics will join the event, possibly with an own contribution: the abstract for an interesting hands-on session is already submitted.
