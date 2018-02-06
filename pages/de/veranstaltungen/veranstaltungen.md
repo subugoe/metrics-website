@@ -17,7 +17,7 @@ Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 ### International Open Science Conference 2018: 13. - 14. März, Berlin  
 Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
 
-### COAR Jahrestagung: 15. - 17. Mai 2018, Hamburg  
+### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg  
 Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 15.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
   
 ### Bibliothekartag: 12.-15. Juni 2018, Berlin  
