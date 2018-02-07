@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop 2018 Hamburg"
+title: "/*metrics Repository Workshop 2018"
 permalink: /de/veranstaltungen/workshop2018
 lang: de
 parent: events
