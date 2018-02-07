@@ -7,7 +7,7 @@ ref: events
 comments: false
 position: top
 order: 20
-children: false
+children: true
 alt: "Events to meet *metrics"
 symbol: "calendar"
 ---
