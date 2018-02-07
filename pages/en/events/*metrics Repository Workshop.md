@@ -14,7 +14,6 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header picture instead of title preferable--> 
-# \*metrics Repository Workshop, 14.-15. Mai 2018  
   
 The \*metrics team is proud to announce the first workshop in 2018!  
 It will precede the [COAR annual meeting](https://www.coar-repositories.org/community/coar-annual-meeting-2018/) in Hamburg, Germany.  
