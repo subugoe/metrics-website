@@ -4,7 +4,7 @@ title: "*metrics Repository Workshop 2018"
 permalink: /de/veranstaltungen/workshop2018
 lang: de
 parent: Veranstaltungen
-ref: events
+ref: *metrics Repository Workshop 2018
 comments: false
 position:
 order: 1
