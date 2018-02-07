@@ -2,7 +2,7 @@
 layout: default
 title: "*metrics Repository Workshop 2018"
 permalink: /en/events/workshop2018
-lang: de
+lang: en
 parent: events
 ref: events
 comments: false
