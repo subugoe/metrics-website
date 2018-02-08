@@ -14,7 +14,7 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header test--> 
-![Ziele]({{ site.url }}/img/Metrics_Ziele_Alternative.jpg "Ziele"){: style="min-width: 100%" }
+![Ziele]({{ site.url }}/img/events/workshopheadertest.jpg){: style="min-width: 100%" }
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
