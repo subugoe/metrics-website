@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Veranstaltungen
-permalink: /de/veranstaltungen/veranstaltungen
+permalink: /de/veranstaltungen/
 lang: de
 ref: events
 comments: false
