@@ -14,7 +14,7 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header test--> 
-![Repository Workshop]({{ site.url }}/img/events/workshopheadertest.jpg){: style="min-width: 100%" }{:style="height: 50%" }
+![Repository Workshop]({{ site.url }}/img/events/workshopheadertest.jpg){: style="min-width: 100%" }{:style="height: 200%" }
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
