@@ -14,8 +14,12 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header test--> 
+/div>
+<div class="columns medium-6" markdown="1">
 {:.img--decoration-purple}
 [![*metrics Repository Workshop, Hamburg 2018]({{ site.url }}/img/events/workshopheadertest.jpg "*metrics Repository Workshop, Hamburg 2018")]
+</div>   
+</div>
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
