@@ -21,7 +21,7 @@ alt: "Vorstellung des Projektteams"
     {% for item in site.data.people %}
     <div class="cell margin-bottom-2 margin-top-2 medium-4 large-3">
       <div class="team_member">
-        {% assign img = item.name | downcase | replace: ' ', '_' %}
+        {% assign img = item.name | downcase | replace: ' ', '_' %}
         <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" alt="" class="team_member_img"><br>
         {{ item.name }}<br>
         <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/email.svg"></a>&nbsp;
