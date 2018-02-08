@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "*metrics Repository Workshop 2018"
-permalink: /de/veranstaltungen/workshop2018
+permalink: /de/veranstaltungen/workshop2018/
 lang: de
 parent: Veranstaltungen
 ref: *metrics Repository Workshop 2018
