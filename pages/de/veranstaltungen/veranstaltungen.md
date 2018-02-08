@@ -3,7 +3,7 @@ layout: default
 title: Veranstaltungen
 permalink: /de/veranstaltungen/
 lang: de
-ref: veranstaltungen
+ref: events
 comments: false
 position: top
 order: 20
