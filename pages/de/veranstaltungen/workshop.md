@@ -16,7 +16,6 @@ alt: "Joint Open Metrics - COAR Workshop"
 <!-- Header test--> 
 <div class="row">
 <div class="columns medium-6" markdown="1">
-{:.img--decoration-purple}
 [![*metrics Repository Workshop, Hamburg 2018]({{ site.url }}/img/events/workshopheadertest.jpg "*metrics Repository Workshop, Hamburg 2018")]{: style="min-width: 100%" }
 </div>   
 </div>
