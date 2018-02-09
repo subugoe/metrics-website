@@ -14,7 +14,7 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header test--> 
-{:.img--decoration-purple}
+{:.img--decoration-blue}
 ![Repository Workshop]({{ site.url }}/img/events/workshopheadertest.jpg){: style="min-width: 100%" }
 
 
