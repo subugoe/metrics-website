@@ -79,7 +79,7 @@ Initiated in December 2016, the  [Open Science Göttingen Meet-up](https://www.s
 
 Everyone interested in Open Science is invited to join the quarterly meet-ups and the related working groups on practical aspects (e. g. &quot;Hacky Hour&quot;, &quot;Teaching Open Science&quot;).
 
-[Astrid Orth and Daniel Beucke of the \*metrics-team held the presentation „From impact metrics to researcher profiles and back&quot;, which took a closer look on the various usage fashions and possibilities of alternative metrics.](https://etherpad.gwdg.de/p/OpenScienceGoe20170620) The presentation was followed by a discussion.  
+[Astrid Orth](https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/) and [Daniel Beucke](https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/) of the \*metrics-team held the presentation [„From impact metrics to researcher profiles and back&quot;](https://owncloud.gwdg.de/index.php/s/Z6qmhAv8ypUQCOv/download?path=%2F3rd%20MeetUp&files=20170620-OpenScienceMeetup-Daniel_Astrid-Final.pdf), which took a closer look on the various usage fashions and possibilities of alternative metrics. The presentation was followed by a [discussion](https://etherpad.gwdg.de/p/OpenScienceGoe20170620).  
 
 ### Bibliothekartag: 1 June 2017, Frankfurt
 
