@@ -5,7 +5,7 @@ permalink: /de/uber_uns/projekt/
 lang: de
 parent: about
 ref: project
-comments: true
+comments: false
 position:
 order: 1
 alt: "Über das Projekt"
