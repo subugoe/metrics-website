@@ -7,7 +7,7 @@ ref: events
 comments: false
 position: top
 order: 20
-children: false
+children: true
 alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
@@ -17,8 +17,8 @@ Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 ### International Open Science Conference 2018: 13. - 14. März, Berlin  
 Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
 
-### COAR Jahrestagung: 15. - 17. Mai 2018, Hamburg  
-Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 15.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
+### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg  
+Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 14.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
   
 ### Bibliothekartag: 12.-15. Juni 2018, Berlin  
 Neue Fragen und Lösungen rund um das Thema Open Access nehmen immer mehr Platz im Bibliotheksalltag ein. So gehört der traditionsreiche [Bibliothekartag](https://bibliothekartag2018.de/) zu den jährlichen „Pflichtveranstaltungen&quot;, um sich ausgiebig zu informieren. Auch 2018 wird \*metrics teilnehmen und womöglich auch dazu beitragen – das Abstract für eine interessante Hands-on Session ist bereits eingereicht.  
@@ -73,7 +73,7 @@ Die [WebSci'17 Konferenz](http://websci17.org/) brachte Wissenschaftler verschie
 
 Seit Dezember 2016 bringt das [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/) engagierte Wissenschaftlerinnen und Wissenschaftler sowie Bibliothekarinnen und Bibliothekare zusammen, um Open-Science-Themen auf dem Campus Göttingen voranzubringen. Weitere an Open Science Interessierte sind herzlich willkommen, an den vierteljährlich stattfindenden Treffen teilzunehmen und / oder sich an den Arbeitsgruppen zu praktischen Open-Science-Aspekten zu beteiligen (u. a. „Hacky Hour&quot;, „Teaching Open Science&quot;).
 
-[Astrid Orth und Daniel Beucke vom \*metrics-Team hielten die Präsentation „From impact metrics to researcher profiles and back&quot;, in der die unterschiedlichen Nutzungsweisen und -möglichkeiten von alternativen Metriken genauer unter die Lupe genommen wurden.](https://etherpad.gwdg.de/p/OpenScienceGoe20170620) Anschließend folgte eine Diskussion.  
+[Astrid Orth](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/) und [Daniel Beucke](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/) vom \*metrics-Team hielten die Präsentation [„From impact metrics to researcher profiles and back&quot;](https://owncloud.gwdg.de/index.php/s/Z6qmhAv8ypUQCOv/download?path=%2F3rd%20MeetUp&files=20170620-OpenScienceMeetup-Daniel_Astrid-Final.pdf), in der die unterschiedlichen Nutzungsweisen und -möglichkeiten von alternativen Metriken genauer unter die Lupe genommen wurden. Anschließend folgte eine [Diskussion](https://etherpad.gwdg.de/p/OpenScienceGoe20170620).  
 
 ### Bibliothekartag: 1. Juni 2017, Frankfurt
 

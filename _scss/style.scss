@@ -184,3 +184,27 @@ table.small-stack {
 .search--small label {
   width: 100%;
 }
+
+.img--decoration-blue {
+  img {
+    border-bottom: 5px solid $metrics-blue;
+  }
+}
+
+.img--decoration-purple {
+  img {
+    border-bottom: 5px solid $metrics-purple;
+  }
+}
+
+.img--decoration-orange {
+  img {
+    border-bottom: 5px solid $metrics-orange;
+  }
+}
+
+.img--decoration-grey {
+  img {
+    border-bottom: 5px solid $metrics-grey;
+  }
+}
