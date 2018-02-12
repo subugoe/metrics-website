@@ -36,7 +36,7 @@ Die ZBW liegt inmitten der Hamburger Innenstadt an der Binnenalster.
 
 <!-- insert Map here-->
 {:.img--decoration-blue}
-![Map]({{ site.url }}/img/events/COAR_Location.png){: style="min-width: 100%" }
+![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 100%" }
   
 Haltestellen in der Nähe sind:  
   
