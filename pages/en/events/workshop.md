@@ -37,7 +37,7 @@ The ZBW is located in Hamburg&#39;s city centre by the Binnenalster river.
   
 <!-- Insert Map here-->  
 {:.img--decoration-blue}
-![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 398px" }
+![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 50%" }
   
 Stations and stops near the ZBW are:  
   
