@@ -33,7 +33,9 @@ und Open Science ein und betreibt Forschung zu diesen Gebieten.
   
 ### Anfahrt  
 Die ZBW liegt inmitten der Hamburger Innenstadt an der Binnenalster.  
-  
+
+<!-- insert Map here-->
+{:.img--decoration-blue}
 ![Map]({{ site.url }}/img/events/COAR_location.png){: style="min-width: 100%" }
   
 Haltestellen in der Nähe sind:  
