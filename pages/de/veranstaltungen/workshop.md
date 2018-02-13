@@ -13,9 +13,10 @@ alt: "Joint Open Metrics - COAR Workshop"
 <!-- Start editing content here-->
 
 
-<!-- Header test--> 
-{:.img--decoration-orange}
-![Repository Workshop]({{ site.url }}/img/events/COAR_header_5.png "*metrics Repository Workshop"){: style="min-width: 100%"}
+<!-- Header test-->
+
+{:.img--decoration-purple}
+![Repository Workshop]({{ site.url }}/img/events/COAR_header_6.png "*metrics Repository Workshop"){: style="min-width: 100%"}
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
@@ -35,7 +36,8 @@ und Open Science ein und betreibt Forschung zu diesen Gebieten.
 Die ZBW liegt inmitten der Hamburger Innenstadt an der Binnenalster.  
 
 <!-- insert Map here-->
-{:.img--decoration-blue}
+
+{:.img--decoration-purple}
 ![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 50%" }
   
 Haltestellen in der Nähe sind:  
