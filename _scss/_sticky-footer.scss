@@ -14,7 +14,7 @@ body {
   flex: 1 0 auto;
 }
 
-.sticky-footer{
+.sticky-footer {
   height: $sticky-footer-height;
 
   @include breakpoint(medium only) {
