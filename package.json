@@ -2,7 +2,7 @@
   "name": "metrics",
   "version": "0.0.1",
   "description": "Lorem ipsum dolor sit amut.",
-  "contributors": "-",
+  "contributors": ["Nils Windisch"],
   "homepage": "https://metrics-project.net",
   "author": "Nils Windisch <windisch@sub.uni-goettingen.de>",
   "devDependencies": {
