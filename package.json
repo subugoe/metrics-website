@@ -40,6 +40,7 @@
     "go": "npm run dev > npm.log",
     "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
     "cleanup": "trash metrics-website",
-    "log": "open npm.log /Applications/Utilities/Console.app/"
+    "log": "open npm.log /Applications/Utilities/Console.app/",
+    "sassdoc": "node_modules/.bin/sassdoc _scss/*.scss -d sassdoc"
   }
 }
