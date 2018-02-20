@@ -5,3 +5,4 @@ metrics-website
 npm.log
 *.sketch
 npm-debug.log
+sassdoc
