@@ -1,3 +1,4 @@
+/// @group Feature Box
 .featurebox__icon {
   border-bottom: 5px solid $metrics-blue;
   min-height: 3rem;
@@ -12,6 +13,8 @@
   }
 }
 
+
+/// @group Feature Box
 .featurebox__header {
   border-bottom: 5px solid $metrics-purple;
   min-height: 3.33rem;
@@ -28,10 +31,12 @@
   }
 }
 
+/// @group Feature Box
 .featurebox__content {
   @extend .margin-top-1;
 }
 
+/// @group Feature Box
 .featurebox__content > img {
   margin-right: 4px;
 }

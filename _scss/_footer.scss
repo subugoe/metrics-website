@@ -1,3 +1,4 @@
+/// @group Footer
 .footer__logos {
   @extend .grid-x;
   @extend .cell;
@@ -27,6 +28,7 @@
   }
 }
 
+/// @group Footer
 footer nav {
   display: flex;
   align-items: center;
@@ -49,6 +51,7 @@ footer nav {
   }
 }
 
+/// @group Footer
 footer .copyright {
   text-align: center;
 
