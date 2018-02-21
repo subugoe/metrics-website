@@ -11,7 +11,7 @@
     {% include favicon.html %}
 </head>
 <body>
-<div class="off-canvas-wrapper">
+<div class="sticky-footer__off-canvas-wrapper">
     <div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
         <ul class="vertical menu" data-drilldown data-parent-link="true">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
