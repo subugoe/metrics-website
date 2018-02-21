@@ -13,10 +13,10 @@
   }
 }
 
-/*
+/**
  * @todo Testing
  * @body test
-*/
+ */
 /// @group Feature Box
 .featurebox__header {
   border-bottom: 5px solid $metrics-purple;
@@ -34,6 +34,10 @@
   }
 }
 
+/**
+ * @todo More Testing
+ * @body test Lorem ipsum dolor sit amut.
+ */
 /// @group Feature Box
 .featurebox__content {
   @extend .margin-top-1;
