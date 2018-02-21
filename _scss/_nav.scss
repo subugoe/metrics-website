@@ -1,3 +1,4 @@
+/// @group Main Menu
 .mainmenu__wrap {
   border-bottom: 5px solid $metrics-purple;
 
@@ -6,10 +7,12 @@
   }
 }
 
+/// @group Main Menu
 .mainmenu {
   @extend .margin-top-2;
 }
 
+/// @group Main Menu
 .mainmenu__mainlist {
   display: flex;
   flex-wrap: nowrap;
@@ -17,21 +20,25 @@
   width: 100%;
 }
 
+/// @group Main Menu
 .mainmenu__item-title__wrap {
   white-space: nowrap;
   text-align: center;
 }
 
+/// @group Main Menu
 .mainmenu__mainlist__item:hover {
   border-bottom: 5px solid $metrics-blue;
   margin-bottom: -5px;
 }
 
+/// @group Main Menu
 .mainmenu__mainlist__item--active {
   border-bottom: 5px solid $metrics-blue;
   margin-bottom: -5px;
 }
 
+/// @group Main Menu
 .mainmenu__item-symbol__wrap {
   @include breakpoint(medium only) {
     display: block;
@@ -44,16 +51,19 @@
   }
 }
 
+/// @group Main Menu
 .mainmenu__item-symbol {
   width: 25px;
 }
 
+/// @group Main Menu
 nav {
   a {
     color: #000;
   }
 }
 
+/// @group Main Menu
 .menu .active a {
   background-color: #fff;
   color: #000;

@@ -14,8 +14,9 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 <!-- Header test--> 
-{:.img--decoration-blue}
-![Repository Workshop]({{ site.url }}/img/events/COAR_header_5.png){: style="min-width: 100%" }
+
+{:.img--decoration-purple}
+![Repository Workshop]({{ site.url }}/img/events/COAR_header_6.png){: style="min-width: 100%" }
   
 The \*metrics team is proud to announce the first workshop in 2018!  
   
@@ -36,7 +37,8 @@ and open access and does research in both areas.
 The ZBW is located in Hamburg&#39;s city centre by the Binnenalster river.  
   
 <!-- Insert Map here-->  
-{:.img--decoration-blue}
+
+{:.img--decoration-purple}
 ![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 50%" }
   
 Stations and stops near the ZBW are:  

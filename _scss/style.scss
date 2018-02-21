@@ -10,8 +10,15 @@
 @import "footer";
 @import "sticky-footer";
 
+html,
+body {
+  min-height: 100vh;
+}
+
 body {
   background: url(../img/bubbles.svg) repeat-x top left;
+  display:flex;
+  flex-direction: column;
   padding-top: 4rem;
 }
 
@@ -110,6 +117,8 @@ table.small-stack {
   }
 }
 
+
+/// Logo
 .logo {
   fill: #9a9b9b;
 

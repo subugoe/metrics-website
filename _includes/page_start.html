@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="j2bS3Ybr3mxCzANO6uW-2qLEYHJbG2wMBw63Ak3nuak">
     <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="twitter:dnt" content="on">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/style.min.css">
     {% include favicon.html %}
 </head>
 <body>
-<div class="off-canvas-wrapper">
+<div class="sticky-footer__off-canvas-wrapper">
     <div class="off-canvas position-left" id="offCanvasLeft" data-off-canvas>
         <ul class="vertical menu" data-drilldown data-parent-link="true">
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}

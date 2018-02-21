@@ -1,3 +1,4 @@
+/// @group Footer
 .footer__logos {
   @extend .grid-x;
   @extend .cell;
@@ -16,29 +17,23 @@
     flex-direction: column;
     justify-content: center;
   }
+}
 
-  a {
-    @extend .margin-left-2;
-    @extend .margin-right-2;
+/// @group Footer
+.footer__logo-link {
+  @extend .margin-left-2;
+  @extend .margin-right-2;
 
-    @include breakpoint(small only) {
-      text-align: center;
-    }
+  @include breakpoint(small only) {
+    text-align: center;
   }
 }
 
-footer nav {
+/// @group Footer
+.footer__nav {
   display: flex;
   align-items: center;
   justify-content: center;
-
-  ul li {
-    margin-bottom: 8px;
-
-    @include breakpoint (medium) {
-      margin-bottom: 0;
-    }
-  }
 
   li:last-of-type {
     margin-left: 0;
@@ -49,7 +44,17 @@ footer nav {
   }
 }
 
-footer .copyright {
+/// @group Footer
+.footer__nav-item {
+  margin-bottom: 8px;
+
+  @include breakpoint (medium) {
+    margin-bottom: 0;
+  }
+}
+
+/// @group Footer
+.footer__copyright {
   text-align: center;
 
   @include breakpoint(medium) {

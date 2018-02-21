@@ -2,23 +2,24 @@
   "name": "metrics",
   "version": "0.0.1",
   "description": "Lorem ipsum dolor sit amut.",
-  "contributors": "-",
+  "contributors": ["Nils Windisch"],
   "homepage": "https://metrics-project.net",
   "author": "Nils Windisch <windisch@sub.uni-goettingen.de>",
   "devDependencies": {
-    "concurrently": "^3.5",
+    "concurrently": "^3.5.1",
     "cssnano": "^3.10",
     "foundation-sites": "^6.4",
     "live-server": "^1.2",
     "node-sass": "^4.7",
-    "nodemon": "^1.14",
+    "nodemon": "^1.15.1",
     "ntl": "^1.2",
-    "postcss": "^6.0",
-    "postcss-cli": "^4.1",
-    "pretty-exceptions": "^1.1",
-    "stylelint": "^8.4",
-    "stylelint-config-standard": "^18.0",
-    "stylelint-order": "^0.8"
+    "postcss": "^6.0.19",
+    "postcss-cli": "^5",
+    "pretty-exceptions": "^1.3.2",
+    "sassdoc": "^2.5.0",
+    "stylelint": "^9",
+    "stylelint-config-standard": "^18.1.0",
+    "stylelint-order": "^0.8.1"
   },
   "scripts": {
     "sass": "node-sass --output-style compressed --source-map-embed $(PWD)/_scss/style.scss > $(PWD)/css/style.css",
@@ -39,6 +40,6 @@
     "go": "npm run dev > npm.log",
     "prod": "npm run sass_build && npm run prefix_build && npm run jekyll_build",
     "cleanup": "trash metrics-website",
-    "log": "open npm.log /Applications/Utilities/Console.app/"
+    "sassdoc": "node_modules/.bin/sassdoc _scss/*.scss -d sassdoc"
   }
 }

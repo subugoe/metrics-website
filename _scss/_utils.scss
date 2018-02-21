@@ -13,6 +13,10 @@ $listDir: "top", "bottom", "left", "right";
   }
 }
 
+/// Set ```text-align: center``` if breakpoint ```small```.<br>
+/// To be used at HTML tags in HTML source.
+/// @group Helper
+/// @author Nils Windisch <nils@windisch.me>
 .small-centered-text {
   @include breakpoint(small only) {
     text-align: center;
