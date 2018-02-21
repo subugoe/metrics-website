@@ -28,10 +28,6 @@ window.twttr = (function(d, s, id) {
 }(document, "script", "twitter-wjs"));
 
 // more twitter related js
-/**
- * @todo more testing
- * @body Lorem ipsum dolor sit amut.
- */
 twttr.ready(
   function (twttr) {
     twttr.widgets.createTimeline(
