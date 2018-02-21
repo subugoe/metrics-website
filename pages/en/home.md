@@ -56,7 +56,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 * 2018-03- 13-14 \| [International Open Science Conference]({{ site.url }}/en/events/)  
 * 2018-05- 14-17 \| [COAR Annual Meeting]({{ site.url }}/en/events/workshop2018/)  
 * 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/en/events/)
-* 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/en/events/)
+* 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/en/events/#markdown-header-STI-Conference-2018)
 <!-- Stop editing here -->
 </div>
   </div>
