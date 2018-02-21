@@ -26,6 +26,8 @@ Neue Fragen und Lösungen rund um das Thema Open Access nehmen immer mehr Platz 
 ### STI Conference 2018: 12. - 14. September Leiden (Niederlande)
 Vom 12. bis zum 14. Semptember wird in Leiden (Niederlande) die 23. STI Konferenz stattfinden. Der Fokus liegt [dieses Jahr](http://sti2018.cwts.nl/) auf der Transformation von Indikatoren. Ziel ist es einem internationalen Publikum eine Platform zur Diskussion umfassenderer Indikatoren zu bieten. [Katrin Weller](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org&tx_gextstaffdir_staffdirectory[action]=details&tx_gextstaffdir_staffdirectory[controller]=Index&cHash=92211b31c624cac2b3e64fd1bd8a3669), [Astrid Orth](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/) und [Isabella Peters](http://www.zbw.eu/de/forschung/web-science/isabella-peters/) vom \*metrics-Team werden Track 11 über die Herausforderung von Social-Media Daten für die Bibliometrie ausrichten.
 
+Vorschläge bitte [hier](http://sti2018.cwts.nl/download/f-x2s2.pdf) einreichen.
+
 ## Vergangene Veranstaltungen  
     
 ### Open Science Meet-up: 13. November 2017, SUB Göttingen  
