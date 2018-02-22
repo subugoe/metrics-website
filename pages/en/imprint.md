@@ -9,6 +9,7 @@ position: bottom
 alt: "Imprint"
 ---
 <!-- Start editing content here -->
+
 ## Provider
 
 The provider of this website in the legal sense is the  
@@ -67,9 +68,11 @@ The avatar for missing pictures of team members is from: <https://pixabay.com/de
 Miriam Geoghegan M.A.  
 
 ## Internet addresses
+
 <http://metrics_project.net, http://metrics-project.de>
 
 ## Social Media
+
 This imprint also applies to the following social media accounts:
 <https://twitter.com/metrics_project/>
 <https://www.facebook.com/metricsproject/>
