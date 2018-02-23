@@ -11,16 +11,19 @@ alt: "Das Social Media Registry beleuchtet die Funktionalitäten von Social-Medi
 symbol: "view-grid"
 ---
 <!-- Start editing content here -->
+
 ## Analyse des Status Quo der Social-Media-Plattformen und \*metrics
 
 An dieser Stelle entsteht eine Auflistung von Social Media Plattformen, die für die Wissenschaftskommunikation genutzt werden. Dabei werden sowohl Plattformen betrachtet, die speziell für wissenschaftliche Zwecke erstellt wurden, als auch solche, die zunächst eine allgemeine Nutzung im Sinn hatten, aber inzwischen häufig von Wissenschaftlern zur Verbreitung ihrer Forschungsergebnisse eingesetzt werden. Alle Dienste werden daraufhin untersucht,  
-  * welchen Bereich der Wissenschaftskommunikation sie unterstützen,
-  * welche Interaktionen damit möglich sind und
-  * welche Aussagekraft Metriken haben können, die auf der Erfassung dieser Interaktionen basieren.
+
+* welchen Bereich der Wissenschaftskommunikation sie unterstützen,
+* welche Interaktionen damit möglich sind und
+* welche Aussagekraft Metriken haben können, die auf der Erfassung dieser Interaktionen basieren.
 
 Damit wird auch ein detaillierter Überblick über die derzeit angebotenen \*metrics-Aggregatoren und ein Vergleich der dort ersichtlichen Informationen möglich. Diese Arbeiten unterstützen die beiden wesentlichen anderen Aufgaben des Projektes:
-  1. Untersuchung von Nutzergruppen der Social Media Dienste sowie deren Wahrnehmung und Einschätzung der angebotenen Indikatoren, und
-  2. Entwicklung prototypischer Abfragen von Social Media Diensten zur Erfassung der möglichen Interaktionen und Gewinnung von offenen und transparenten Metriken
+
+1. Untersuchung von Nutzergruppen der Social Media Dienste sowie deren Wahrnehmung und Einschätzung der angebotenen Indikatoren, und
+2. Entwicklung prototypischer Abfragen von Social Media Diensten zur Erfassung der möglichen Interaktionen und Gewinnung von offenen und transparenten Metriken
 
 Das zweisprachige Social Media Registry wird in Kooperation der Projektmitglieder mit der wissenschaftlichen Fachcommunity entwickelt. Eine erste Version wurde durch das \*metrics Projektteam zunächst als Google Doc erstellt. Dieses ist als Input-Sammlung gedacht und soll neben der Erfassung der Inhalte ermöglichen, eine technisch ausgereiftere Lösung zu finden.  
   

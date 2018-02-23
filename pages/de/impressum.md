@@ -9,7 +9,8 @@ position: bottom
 alt: "Impressum"
 ---
 <!-- Start editing content here -->
-## Anbieter  
+
+## Anbieter
 
 Anbieter dieser Internetpräsenz ist im Rechtssinne die  
 Georg-August-Universität Göttingen  
@@ -61,9 +62,11 @@ Es wird Themify Icons - <https://themify.me/themify-icons> - genutzt.
 Der Avatar für fehlende Bilder von Team-Mitgliedern ist von: <https://pixabay.com/de/profil-mann-benutzer-home-42914/>    
 
 ## Internetadressen
+
 <http://metrics_project.net, http://metrics-project.de>
 
 ## Social Media
+
 Dieses Impressum gilt auch für folgendene Angebote und Präsenzen in den sozialen Netzwerken::
 <https://twitter.com/metrics_project/>
 <https://www.facebook.com/metricsproject/>
