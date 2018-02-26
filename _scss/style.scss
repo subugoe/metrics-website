@@ -1,50 +1,64 @@
 @import "vars";
 @import "../node_modules/foundation-sites/scss/foundation";
 
-@include foundation-everything;
+// @include foundation-everything;
+// @include foundation-xy-grid-classes;
+
+// @import "foundation";
+@include foundation-global-styles;
 @include foundation-xy-grid-classes;
+@include foundation-flex-classes;
+@include foundation-typography;
+@include foundation-forms;
+@include foundation-button;
+// @include foundation-accordion;
+// @include foundation-accordion-menu;
+// @include foundation-badge;
+// @include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+// @include foundation-card;
+@include foundation-close-button;
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-responsive-embed;
+// @include foundation-label;
+// @include foundation-media-object;
+@include foundation-off-canvas;
+// @include foundation-orbit;
+// @include foundation-pagination;
+// @include foundation-progress-bar;
+// @include foundation-slider;
+// @include foundation-sticky;
+// @include foundation-reveal;
+// @include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+// @include foundation-thumbnail;
+@include foundation-title-bar;
+// @include foundation-tooltip;
+@include foundation-top-bar;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
 
 @import "utils";
 @import "featurebox";
 @import "nav";
 @import "footer";
 @import "sticky-footer";
-
-html,
-body {
-  min-height: 100vh;
-}
-
-body {
-  background: url(../img/bubbles.svg) repeat-x top left;
-  display: flex;
-  flex-direction: column;
-  padding-top: 4rem;
-}
-
-main {
-  @extend .margin-bottom-5;
-
-  a {
-    color: $metrics-purple;
-    font-weight: 600;
-  }
-
-  a::after {
-    content: "+";
-    vertical-align: super;
-    font-size: 75%;
-  }
-}
+@import "base";
+@import "main";
+@import "logo";
+@import "team";
+@import "claim";
 
 table.small-stack {
   @include breakpoint(small only) {
     @include table-stack;
   }
-}
-
-.team_member_img {
-  border-bottom: 5px solid $metrics-blue;
 }
 
 .active_footer,
@@ -90,92 +104,12 @@ table.small-stack {
   @extend .margin-left-2;
 }
 
-.claim {
-  font-weight: 500;
-  font-size: 1.33rem;
-  line-height: 1.33;
-
-  @extend .margin-top-4;
-
-  @include breakpoint(medium only) {
-    font-size: 1rem;
-    line-height: 1;
-  }
-
-  @include breakpoint(small only) {
-    text-align: center;
-    font-size: 0.9rem;
-    margin-top: 0;
-  }
-}
-
 .mansonry__wrap {
   @extend .margin-top-3;
 
   @include breakpoint(small only) {
     padding: 0;
   }
-}
-
-/// Logo
-.logo {
-  fill: #9a9b9b;
-
-  @include breakpoint(small only) {
-    margin-bottom: 1rem;
-  }
-}
-
-.logo:hover {
-  fill: #3d315e;
-}
-
-.logo_zbw {
-  width: 125px;
-
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
-
-.logo_gbv {
-  width: 125px;
-
-  @include breakpoint(small only) {
-    width: 40%;
-  }
-}
-
-.logo_dfg {
-  width: 160px;
-
-  @include breakpoint(medium only) {
-    margin-top: 2rem;
-  }
-
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
-
-.logo_sub {
-  width: 135px;
-
-  @include breakpoint(small only) {
-    width: 75%;
-  }
-}
-
-.logo_gesis {
-  width: 100px;
-
-  @include breakpoint(small only) {
-    width: 40%;
-  }
-}
-
-.debug {
-  border: 2px solid red;
 }
 
 .menu--small {
