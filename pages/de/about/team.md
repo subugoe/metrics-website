@@ -24,9 +24,9 @@ alt: "Vorstellung des Projektteams"
         {% assign img = item.name | downcase | replace: ' ', '_' %}
         <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" alt="" class="team_member_img"><br>
         {{ item.name }}<br>
-        <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/email.svg"></a>&nbsp;
+        <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/icons/email.svg"></a>&nbsp;
         {% for url in item.urls %}
-          <a href="{{ url }}"><img src="{{ site.baseurl }}/img/new-window.svg" style="margin-top: -5px;"></a>
+          <a href="{{ url }}"><img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px;"></a>
         {% endfor %}
         </div>
     </div>
