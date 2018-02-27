@@ -1,18 +1,22 @@
 <nav class="grid-x grid-container grid-padding-x">
     <div class="cell medium-4 margin-top-2 margin-bottom-2 text-center">
         {% if page.lang == "de" %}
-        <a class="" href="{{ site.baseurl }}/de/home/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
+            <a class="" href="{{ site.baseurl }}/de/home/">
+                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="">
+            </a>
         {% else %}
-        <a class="" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt=""></a>
+            <a class="" href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="">
+            </a>
         {% endif %}
     </div>
     <div class="cell medium-8">
         <div class="tools">
             <div>
                 {% if page.lang == "de" %}
-                <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
+                    <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
                 {% else %}
-                <a class="" href="{{ site.baseurl }}/">HOME</a>
+                    <a class="" href="{{ site.baseurl }}/">HOME</a>
                 {% endif %}
                 <div class="languageswitch">
                     {% assign pages=site.pages | where:"ref", page.ref | sort: "lang" %}
@@ -25,10 +29,10 @@
                         {% endif %}
                         <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
                         {% if slash == 2 %}
-                        {% if i == 1 %}
-                        /
-                        {% endif %}
-                        {% assign i = 2 %}
+                            {% if i == 1 %}
+                                /
+                            {% endif %}
+                            {% assign i = 2 %}
                         {% endif %}
                     {% endfor %}
                 </div>
@@ -46,16 +50,18 @@
                 </div>
             </form>
         </div>
-        <p class="claim">MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS</p>
+        <p class="claim">
+            MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS
+        </p>
         <div class="show-for-small-only menu--small">
             <div>
-                <a href="#0" data-toggle="offCanvasLeft"><img src="{{ site.baseurl }}/img/menu.svg" class="mainmenu__item-symbol"> MENU</a>
+                <a href="#0" data-toggle="offCanvasLeft"><img src="{{ site.baseurl }}/img/icons/menu.svg" class="mainmenu__item-symbol"> MENU</a>
             </div>
             <div>
                 {% if page.lang == "de" %}
-                <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
+                    <a class="" href="{{ site.baseurl }}/de/home/">STARTSEITE</a>
                 {% else %}
-                <a class="" href="{{ site.baseurl }}/">HOME</a>
+                    <a class="" href="{{ site.baseurl }}/">HOME</a>
                 {% endif %}
             </div>
             <div class="languageswitch">
@@ -69,10 +75,10 @@
                     {% endif %}
                     <a href="{{ site.baseurl }}{{ item.url }}" class="{{ active_class }}">{{ item.lang | upcase }}</a>
                     {% if slash == 2 %}
-                    {% if i == 1 %}
-                    /
-                    {% endif %}
-                    {% assign i = 2 %}
+                        {% if i == 1 %}
+                            /
+                        {% endif %}
+                        {% assign i = 2 %}
                     {% endif %}
                 {% endfor %}
             </div>
