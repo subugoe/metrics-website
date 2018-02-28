@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "&#42;metrics"
+<!--title: "&#42;metrics"-->
+title: "Home"
 permalink: /index.html
 lang: en
 ref: index
