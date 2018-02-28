@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "&#42;metrics"
+title: "Home"
 permalink: /de/home/
 lang: de
 ref: index
