@@ -7,7 +7,7 @@ parent: events
 ref: upcoming
 comments: false
 position:
-order: 1
+order: 2
 alt: "Kommende Veranstaltungen"
 ---
 <!-- Start editing content here-->
