@@ -12,6 +12,15 @@ alt: "Events to meet *metrics"
 symbol: "calendar"
 ---
 <!-- Start editing content here -->
+
+<!--Test Content for Event overview page-->
+## 2017
+In total the \*metrics-team and its members attended 10 events in 2017. These included the COAR annual meeting in Venice, WikiCite in Vienna and the 4:AM conference in Toronto.
+
+
+
+
+
 Visit the following events to meet members of the \*metrics project team:  
 
 ### International Open Science Conference 2018: 13 - 14 March, Berlin  
