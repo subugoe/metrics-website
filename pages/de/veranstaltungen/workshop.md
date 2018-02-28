@@ -7,7 +7,7 @@ parent: events
 ref: workshop2018
 comments: false
 position:
-order: 3
+order: 1
 alt: "Joint Open Metrics - COAR Workshop"
 ---
 <!-- Start editing content here-->
