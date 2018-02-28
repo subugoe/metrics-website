@@ -20,7 +20,7 @@ In total the \*metrics-team and its members attended 10 events in 2017. These in
 
 
 
-
+<comment>
 Visit the following events to meet members of the \*metrics project team:  
 
 ### International Open Science Conference 2018: 13 - 14 March, Berlin  
@@ -136,3 +136,5 @@ The International Open Science Conference 21 - 22 March 2017 attracted a broad a
 On the day before, the Open Science Policy Plattform met to receive the [Report of the European Expert Group on Altmetrics]({{ site.url }}/en/news/2017-03-20-report-of-eu-expert-group-on-altmetrics-published/). Isabella Peters together with her co-authors presented details of the paper during the Open Science Conference.  
 
 The Open Science Barcamp was also held on 20th March. A very fruitful [Open Metrics Session]({{ site.url }}/en/news/2017-03-20-metrics-at-ocsibar17/) was moderated by Astrid Orth. Of particular use was the discussion during the workshop "Scientific knowledge dissemination and altmetrics" held by the EU project OpenUp where further co-ordination and co-operation was agreed.
+
+</comment>
