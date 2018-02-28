@@ -14,7 +14,7 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### International Open Science Conference 2018: 13. - 14. März, Berlin  
+### International Open Science Conference 2018: 13. - 14. März, Berlin  {#OSC}
 Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
 
 ### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg  
