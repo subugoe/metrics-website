@@ -14,13 +14,14 @@ symbol: "calendar"
 <!-- Start editing content here -->
 
 <!--Test Content for Event overview page-->
-## [2017]({{ site.url }}/en/events/2017/)
+## 2017
 In total the \*metrics-team and its members attended 10 events in 2017. These included the COAR annual meeting in Venice, WikiCite in Vienna and the 4:AM conference in Toronto.
 
+[Events \*metrics attended in 2017.]({{ site.url }}/en/events/2017/)
 
 
 
-<comment>
+
 Visit the following events to meet members of the \*metrics project team:  
 
 ### International Open Science Conference 2018: 13 - 14 March, Berlin  
@@ -137,4 +138,3 @@ On the day before, the Open Science Policy Plattform met to receive the [Report 
 
 The Open Science Barcamp was also held on 20th March. A very fruitful [Open Metrics Session]({{ site.url }}/en/news/2017-03-20-metrics-at-ocsibar17/) was moderated by Astrid Orth. Of particular use was the discussion during the workshop "Scientific knowledge dissemination and altmetrics" held by the EU project OpenUp where further co-ordination and co-operation was agreed.
 
-</comment>
