@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with Isabella Peters about Altmetrics in German radio station „Deutschlandfunk“"
+title: "Interview with Isabella Peters about Altmetrics in German radio station &quot;Deutschlandfunk&quot;"
 categories: news
 permalink: /en/news/2017-06-20-radio-interview-isabella-peters/
 lang: en
