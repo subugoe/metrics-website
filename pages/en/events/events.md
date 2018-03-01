@@ -17,7 +17,7 @@ symbol: "calendar"
   
 An important part oft he project rests upon communication within in the community. Therefore, participating and contributing to related events is a must we gladly fulfill.  
 
-In total the \*metrics-team and its members attended 10 events in 2017. These included the COAR annual meeting in Venice, WikiCite in Vienna and the 4:AM conference in Toronto.  
+In total the \*metrics-team and its members attended 10 events with up to 300 attendees each in 2017. These included the COAR annual meeting in Venice, WikiCite in Vienna and the 4:AM conference in Toronto.  
   
 [Events \*metrics attended in 2017]({{ site.url }}/en/events/2017/)  
   
