@@ -21,11 +21,11 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 
 <!-- News -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only cell medium-2 featurebox__icon">
-    <img src="{{ site.baseurl }}/img/icons/pulse.svg">
+  <div class="hide-for-small-only cell medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ site.baseurl }}/img/icons/pulse.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/pulse.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/news/">{{ site.data.lang.l[page.lang].news}}</a></h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/pulse.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/en/news/">{{ site.data.lang.l[page.lang].news}}</a></h2>
     <div class="featurebox__content">
       {% include latest_news_index.html %}
     </div>
@@ -34,11 +34,11 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 
 <!-- Twitter -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon">
-    <img src="{{ site.baseurl }}/img/icons/twitter-alt.svg">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" class="show-for-small-only"><a href="https://twitter.com/metrics_project">Twitter</a></h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" class="show-for-small-only" aria-hidden="true"><a href="https://twitter.com/metrics_project">Twitter</a></h2>
     <div id="featurebox__content__twitter" class="featurebox__content">
     </div>
   </div>
@@ -46,11 +46,11 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 
 <!-- Events -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon">
-    <img src="{{ site.baseurl }}/img/icons/calendar.svg">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ site.baseurl }}/img/icons/calendar.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 
@@ -70,7 +70,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
     <img src="{{ site.baseurl }}/img/icons/download.svg">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/download.svg" class="show-for-small-only"><a href="{{ site.baseurl }}/en/downloads/">Downloads</a></h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/download.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/en/downloads/">Downloads</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 In this area you can find presentations, reports and dissemination material from the project.
@@ -81,14 +81,14 @@ In this area you can find presentations, reports and dissemination material from
 
 <!-- Find us at -->
 <div class="featurebox cell grid-x grid-container medium-6">
-  <div class="hide-for-small-only columns medium-2 featurebox__icon">
-    <img src="{{ site.baseurl }}/img/icons/email.svg">
+  <div class="hide-for-small-only columns medium-2 featurebox__icon" aria-hidden="true">
+    <img src="{{ site.baseurl }}/img/icons/email.svg" aria-hidden="true">
   </div>
   <div class="cell medium-10">
-    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/email.svg" class="show-for-small-only">{{ site.data.lang.l[page.lang].findus }}</h2>
+    <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/email.svg" class="show-for-small-only" aria-hidden="true">{{ site.data.lang.l[page.lang].findus }}</h2>
     <div class="featurebox__content">
-      <img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" class="twitter-icon"> <a href="https://twitter.com/metrics_project">*metrics on Twitter</a> <br>
-      <img src="{{ site.baseurl }}/img/icons/facebook-alt.svg"> <a href="https://www.facebook.com/metricsproject">*metrics on Facebook</a>
+      <img src="{{ site.baseurl }}/img/icons/twitter-alt.svg" class="twitter-icon" aria-hidden="true"> <a href="https://twitter.com/metrics_project">*metrics on Twitter</a> <br>
+      <img src="{{ site.baseurl }}/img/icons/facebook-alt.svg" aria-hidden="true"> <a href="https://www.facebook.com/metricsproject">*metrics on Facebook</a>
     </div>
   </div>
 </div>

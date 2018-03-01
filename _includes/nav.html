@@ -5,7 +5,7 @@
             {% assign pages=site.pages | where:"lang", page.lang | where:"position", "top" | sort:"order" %}
             {% for item in pages %}
             <li class="mainmenu__mainlist__item {% if item.ref == page.ref or item.ref == page.parent %}mainmenu__mainlist__item--active{% endif %}">
-                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="mainmenu__item-symbol__wrap"><img src="{{ site.baseurl }}/img/icons/{{ item.symbol }}.svg" class="mainmenu__item-symbol"></span><span class="mainmenu__item-title__wrap">{{ item.title }}</span></a>
+                <a href="{{ site.baseurl }}{{ item.url }}" alt="{{ item.alt }}" class="" data-order="{{ item.order }}"><span class="mainmenu__item-symbol__wrap" aria-hidden="true"><img src="{{ site.baseurl }}/img/icons/{{ item.symbol }}.svg" class="mainmenu__item-symbol" aria-hidden="true"></span><span class="mainmenu__item-title__wrap">{{ item.title }}</span></a>
                 {% if item.children %}
                 {% assign children=site.pages | where:"parent", item.ref | where:"lang", page.lang | sort:"order" %}
                 <ul class="menu vertical">
