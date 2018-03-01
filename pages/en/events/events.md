@@ -15,7 +15,7 @@ symbol: "calendar"
 
 <!--Test Content for Event overview page-->
   
-An important part oft he project rests upon communication within in the community. Therefore, participating and contributing to related events is a must we gladly fulfill.  
+An important part of the project rests upon communication within in the community. Therefore, participating and contributing to related events is a must we gladly fulfill.  
 
 In total the \*metrics-team and its members attended 10 events with up to 300 attendees each in 2017. These included the COAR annual meeting in Venice, WikiCite in Vienna and the 4:AM conference in Toronto.  
   
