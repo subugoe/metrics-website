@@ -2,11 +2,13 @@
     <div class="cell medium-4 margin-top-2 margin-bottom-2 text-center">
         {% if page.lang == "de" %}
             <a class="" href="{{ site.baseurl }}/de/home/">
-                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="">
+                <span class="show-for-sr">Homepage</span>
+                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="" aria-hidden="true">
             </a>
         {% else %}
             <a class="" href="{{ site.baseurl }}/">
-                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="">
+                <span class="show-for-sr">Homepage</span>
+                <img src="{{ site.baseurl }}/img/logos/logo_metrics.svg" alt="" aria-hidden="true">
             </a>
         {% endif %}
     </div>
@@ -55,7 +57,7 @@
         </p>
         <div class="show-for-small-only menu--small">
             <div>
-                <a href="#0" data-toggle="offCanvasLeft"><img src="{{ site.baseurl }}/img/icons/menu.svg" class="mainmenu__item-symbol"> MENU</a>
+                <a href="#0" data-toggle="offCanvasLeft"><img src="{{ site.baseurl }}/img/icons/menu.svg" class="mainmenu__item-symbol"aria-hidden="true"> MENU</a>
             </div>
             <div>
                 {% if page.lang == "de" %}
