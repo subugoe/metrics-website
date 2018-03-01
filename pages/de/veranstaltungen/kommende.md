@@ -20,7 +20,10 @@ Wie schon letztes Jahr findet auch die diesjährige [International Open Science 
 
 ### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg {#COAR2018}
 
-Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 14.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
+Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 14.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.
+
+Das \*metrics team ist stolz einen [Workshop](https://metrics-project.net/de/veranstaltungen/workshop2018/)
+ zum Nutzen von Metriken in verschiedenen Szenarien anzubieten, für den sich nun registriert werden kann.
   
 ### Bibliothekartag: 12.-15. Juni 2018, Berlin {#BIBTAG2018}
 
