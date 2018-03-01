@@ -20,7 +20,9 @@ The new year‘s [International Open Science Conference](http://www.open-science
   
 ### COAR Annual Meeting: 14 - 17 May 2018, Hamburg {#COAR2018}
 
-We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 14-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.  
+We are excited to announce that this year’s [COAR Annual Meeting](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) (Confederation of Open Access Repositories) will take place in Hamburg. On May 14-17 2018, participants will be able to interchange news and information regarding repositories, open access and open science with colleagues from all over the world.
+
+The \*metrics team is proud to host a [workshop](https://metrics-project.net/en/events/workshop2018/) on the uses of metrics in different scenarios, for which it is now possible to register.
 
 ### Bibliothekartag: 12 - 15 June 2018, Berlin {#BIBTAG2018}
 
