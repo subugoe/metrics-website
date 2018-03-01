@@ -24,7 +24,11 @@ We are excited to announce that this year’s [COAR Annual Meeting](https://www.
 
 ### Bibliothekartag: 12 - 15 June 2018, Berlin {#BIBTAG2018}
 
-Recent questions and solutions about Open Access are becoming more and more common in the day-to-day procedures librarians face. Therefore, the German [Bibliothekartag](https://bibliothekartag2018.de/?lang=en) shall not be missed, if one wants to inform themselves extensively. As well as in 2017, in 2018 \*metrics will join the event, possibly with an own contribution: the abstract for an interesting hands-on session is already submitted.
+Recent questions and solutions about Open Access are becoming more and more common in the day-to-day procedures librarians face. Therefore, the German [Bibliothekartag](https://bibliothekartag2018.de/?lang=en) shall not be missed, if one wants to inform themselves extensively. As well as in 2017, in 2018 \*metrics will join the event with two contributions:
+
+On **Tuesday the 13. of June** [Astrid Orth](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/) will present the current state of research of the \*metrics project with a talk about "Perception and Transparency of open metrics" from **11:00 - 11:30 in Hall C** **ABSTRACT LINK**
+
+Later from **13:00 - 15:30** Astrid Orth and [Daniel Beucke](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/) will host a hands-on in **Room 30210** about "What do altmetrics look like? Interaction with and visualisation of altmetrics" together with [Ben Mc Leish](https://twitter.com/benmcleish?lang=de). **ABSTRACT LINK**
 
 ### STI Conference 2018: 12. - 14. September, Leiden (The Netherlands) {#STI2018}
 
