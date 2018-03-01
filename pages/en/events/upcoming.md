@@ -28,10 +28,10 @@ The \*metrics team is proud to host a [workshop](https://metrics-project.net/en/
 
 Recent questions and solutions about Open Access are becoming more and more common in the day-to-day procedures librarians face. Therefore, the German [Bibliothekartag](https://bibliothekartag2018.de/?lang=en) shall not be missed, if one wants to inform themselves extensively. As well as in 2017, in 2018 \*metrics will join the event with two contributions:
 
-On **Tuesday the 13. of June** [Astrid Orth](https://metrics-project.net/en/uber_uns/team/) will present the current state of research of the \*metrics project with a talk about "Perception and Transparency of open metrics" from **11:00 - 11:30 in Hall C** **ABSTRACT LINK**
+On **Tuesday the 13. of June** [Astrid Orth](https://metrics-project.net/en/uber_uns/team/) will present the current state of research of the \*metrics project with a talk about ["Perception and Transparency of open metrics"]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf) from **11:00 - 11:30 in Hall C** 
 
-Later from **13:00 - 15:30** [Astrid Orth](https://metrics-project.net/en/uber_uns/team/), [Daniel Beucke](https://metrics-project.net/en/uber_uns/team/) and [Julius Stropel](https://metrics-project.net/en/uber_uns/team/) will host a hands-on in **Room 30210** about "What do altmetrics look like? Interaction with and visualisation of altmetrics" together with [Ben Mc Leish](https://twitter.com/benmcleish?lang=de). **ABSTRACT LINK**
-
+Later from **13:00 - 15:30** [Astrid Orth](https://metrics-project.net/en/uber_uns/team/), [Daniel Beucke](https://metrics-project.net/en/uber_uns/team/) and [Julius Stropel](https://metrics-project.net/en/uber_uns/team/) will host a hands-on in **Room 30210** about ["What do altmetrics look like? Interaction with and visualisation of altmetrics"]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf) together with [Ben Mc Leish](https://twitter.com/benmcleish?lang=de). 
+  
 ### STI Conference 2018: 12. - 14. September, Leiden (The Netherlands) {#STI2018}
 
 The 23. STI conference will be held from 12. to the 14. of September in Leiden (The Netherlands). [This years](http://sti2018.cwts.nl/) Focus is on the transition of indicators. The aim is to offer an international platform to discuss more comprehensive and contextualized indicators. [Katrin Weller](https://metrics-project.net/en/uber_uns/team/), [Astrid Orth](https://metrics-project.net/en/uber_uns/team/) and [Isabella Peters](https://metrics-project.net/en/uber_uns/team/) of the \*metrics-team will host track 11 about challenges of social media data for bibliometrics.  
