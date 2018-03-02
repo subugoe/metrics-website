@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "&#42;metrics"
+title: "Home"
 permalink: /de/home/
 lang: de
 ref: index
@@ -49,10 +49,10 @@ alt: "Webseite des *metrics Projektes"
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 
-* 2018-03- 13-14 \| [International Open Science Conference]({{ site.url }}/de/veranstaltungen/)  
-* 2018-05- 14-17 \| [COAR Jahrestagung]({{ site.url }}/de/veranstaltungen/workshop2018/)  
-* 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/de/veranstaltungen/)
-* 2018-09- 12-14 \| [STI Konferenz 2018]({{ site.url }}/de/veranstaltungen/)
+* 2018-03- 13-14 \| [International Open Science Conference]({{ site.url }}/de/veranstaltungen/kommende/#OSC2018)
+* 2018-05- 14-17 \| [COAR Jahrestagung]({{ site.url }}/de/veranstaltungen/workshop2018/)
+* 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/de/veranstaltungen/kommende/#BIBTAG2018)
+* 2018-09- 12-14 \| [STI Konferenz 2018]({{ site.url }}/de/veranstaltungen/kommende/#STI2018)
 
 <!-- Stop editing content here -->
 </div>

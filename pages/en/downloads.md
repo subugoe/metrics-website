@@ -21,6 +21,8 @@ symbol: "download"
 
 ## Presentations
 
+* **(In German only) Bibliothekartag 2018: Astrid Orth - Wahrnehmung und Transparenz offener Metriken** [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf)  
+* **(In German only) Bibliothekartag 2018: Astrid Orth, Ben Mc Leish, Daniel Beucke - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
 * [WikiCite 2017: Olga Zagovora - Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) 
 * [(In German only) Bibliothekartag 2017: Daniel Beucke - Altmetrics: Was mache ich damit?]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_einleitung_beucke.pdf)  
 * [(In German only) Bibliothekartag 2017: Astrid Orth & Isabella Peters - Empfehlungen zur Nutzung geben]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_empfehlungen_orth_peters.pdf)  

@@ -12,109 +12,17 @@ alt: "Veranstaltungen auf denen *metrics vertreten ist"
 symbol: "calendar"
 ---
 <!-- Start editing content here-->
-Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
-
-### International Open Science Conference 2018: 13. - 14. März, Berlin  
-Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
-
-### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg  
-Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 14.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.  
   
-### Bibliothekartag: 12.-15. Juni 2018, Berlin  
-Neue Fragen und Lösungen rund um das Thema Open Access nehmen immer mehr Platz im Bibliotheksalltag ein. So gehört der traditionsreiche [Bibliothekartag](https://bibliothekartag2018.de/) zu den jährlichen „Pflichtveranstaltungen&quot;, um sich ausgiebig zu informieren. Auch 2018 wird \*metrics teilnehmen und womöglich auch dazu beitragen – das Abstract für eine interessante Hands-on Session ist bereits eingereicht.  
-
-### STI Konferenz 2018: 12. - 14. September Leiden (Niederlande)
-Vom 12. bis zum 14. Semptember wird in Leiden (Niederlande) die 23. STI Konferenz stattfinden. Der Fokus liegt [dieses Jahr](http://sti2018.cwts.nl/) auf der Transformation von Indikatoren. Ziel ist es einem internationalen Publikum eine Platform zur Diskussion umfassenderer Indikatoren zu bieten. [Katrin Weller](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org&tx_gextstaffdir_staffdirectory[action]=details&tx_gextstaffdir_staffdirectory[controller]=Index&cHash=92211b31c624cac2b3e64fd1bd8a3669), [Astrid Orth](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/) und [Isabella Peters](http://www.zbw.eu/de/forschung/web-science/isabella-peters/) vom \*metrics-Team werden Track 11 über die Herausforderung von Social-Media Daten für die Bibliometrie ausrichten.
-
-Vorschläge bitte [hier](http://sti2018.cwts.nl/download/f-x2s2.pdf) einreichen.
-
-## Vergangene Veranstaltungen  
-    
-### Open Science Meet-up: 13. November 2017, SUB Göttingen  
-
-Seit Dezember 2016 bringt das [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/) engagierte Wissenschaftlerinnen und Wissenschaftler sowie Bibliothekarinnen und Bibliothekare zusammen, um Open-Science-Themen auf dem Campus Göttingen voranzubringen. Weitere an Open Science Interessierte sind herzlich willkommen, an den vierteljährlich stattfindenden Treffen teilzunehmen und / oder sich an den Arbeitsgruppen zu praktischen Open-Science-Aspekten zu beteiligen (u. a. „Hacky Hour&quot;, „Teaching Open Science&quot;).
-
-Dieses Mal stand u.A. die Zielsetzung, in der Evaluation von Publikationen neben dem traditionellen Journal Impact Factor besonders auch alternative Metriken zu berücksichtigen, im Vordergrund.  
-    
-### 4:AM - Altmetrics Conference 2017: 26.-29. September 2017, Toronto, Canada  
-Die [Altmetrics Conference](http://altmetricsconference.com/) ist DIE Konferenz für die Altmetrics-Community weltweit. 2017 fand die Konferenzserie zum 4. Mal, diesmal in Toronto, Kanada, statt und wurde vom Social Media Lab der Ted Rogers School of Management der Ryerson Universität ausgerichtet. Die Konferenz bot ihren Teilnehmern die Möglichkeit, sich über die neuesten Entwicklungen, Anwendungen und Möglichkeiten in der Altmetrics-Welt zu informieren. Das Programm beinhaltete Präsentationen von Verlagen, Institutionen, Förderern und Forschern, sowie Zeit für Diskussionen und Fragen.  
-Das Event startete mit einem forschungsorientierten Workshop am 26. September, gefolgt von der 2-tägigen Konferenz (offen für alle Teilnehmer) am 27. und 28. September und endete mit einem “Hack Day/Do-Athon” am 29. September, zu dem ebenfalls alle Konferenzteilnehmer eingeladen waren.  
-Die \*metrics-Team-Mitglieder [Maryam Mehrazar und Steffen Lemke](https://metrics-project.net/de/uber_uns/team/) hielten am 26. September auf dem Altmetrics Workshop in Session 2: Users behind social media data (11:15-12:30) eine Präsentation zum Thema [“Evaluating altmetrics acts through their creators – how to advance?”](http://altmetrics.org/wp-content/uploads/2017/09/altmetrics17_paper_6.pdf) und präsentierten am 27. September von 17:15 - 17:45 Uhr in Session 6: Poster Lightning Talks ein Poster über die aktuellen Projektaktivitäten.  
-<div class="row">
-<div class="columns medium-6" markdown="1">
-[![Maryam Mehrazar und Steffen Lemke Lightning Talk]({{ site.url }}/img/events/maryam_steffen_4am.PNG "Tackling the Challenges of Altmetrics and poster lightening talks")](
-https://www.youtube.com/watch?v=uLaj1ma_HSQ ){: style="min-width: 100%" }
-</div>
-</div>
-
-[Isabella Peters](https://metrics-project.net/de/uber_uns/team/) sprach am 28. September über die EU Expert Group. 
-<div class="row">
-<div class="columns medium-6" markdown="1">
-[![Isabella Peters über die EU Expert Group]({{ site.url }}/img/events/isabella_eu_expertgroups_4am.PNG "4:AM Day 2: Highlight presentations")](https://www.youtube.com/watch?v=JHEYpjR2OP0 ){: style="min-width: 100%" }
-</div>
-</div>
-
-
-Fokus der Beiträge waren die ersten Ergebnisse des explorativen Online-Surveys über die Nutzung von Social Media von Wissenschaftlern im Forschungszusammenhang.    
+Ein wichtiger Teil des Projektes beruht auf den Austausch mit anderen Forschenden. Die Teilnahme und Mitarbeit an Veranstaltungen in der altmetrics-Community ist daher ein Muss, das wir gerne erfüllen.  
   
+In 2018 stehen uns viele wichtige Veranstaltungen noch bevor und das \*metrics-Team freut sich darauf, zu mehreren von ihnen beizutragen. Ein besonderes Highlight wird die COAR Jahrestagung in Hamburg, auf welcher der [\*metrics Repository Workshop]({{ site.url }}/de/veranstaltungen/workshop2018/) stattfinden wird.  
   
-### Open Access Tage 2017: 11.-13. September 2017, Dresden
+[Kommende Veranstaltungen]({{ site.url }}/de/veranstaltungen/kommende/)  
+  
+Insgesamt hat das \*metrics-Team an 10 Veranstaltungen mit bis zu 300 Teilnehmern in 2017 teilgenommen. Dies beinhaltete unter anderem die COAR Jahrestagung in Venedig, WikiCite in Wien und die 4:AM Conference in Toronto.  
+  
+[Veranstaltungen 2017]({{ site.url }}/de/veranstaltungen/2017/)  
+  
+Sämtliche Beiträge von uns zu Konferenzen, Tagungen und weiteren Veranstaltungen können auf der [Downloadseite]({{ site.url }}/de/downloads/) gefunden werden.
+  
 
-Die Veranstaltung richtete sich an ExpertInnen aus dem Open-Access-Bereich aus Deutschland, Österreich und der Schweiz, an WissenschaftlerInnen aller Fachrichtungen, VerlagsvertreterInnen und UnterstützerInnen des wissenschaftlichen Forschungs- und Kommunikationsprozesses an Bibliotheken sowie in Forschungsinstituten und Fördereinrichtungen.
-Am Dienstag, 12. September fand von 16:00 - 17:30 Uhr ein Workshop unter dem Titel "Wie vermessen ist das Vermessen von wissenschaftlicher Kommunikation?" statt. Dienste mit sozialen Funktionen erlauben das Teilen und Kommentieren von Artikeln sowie das Abonnieren von Unterhaltungen, etc. Diese Interaktionen sind ein Maß für die Wahrnehmung von wissenschaftlichem Output und erheben zunehmend den Anspruch darauf, den Impact wissenschaftlicher Ergebnisse abbilden zu können. Sie treten damit gleichberechtigt neben etablierte Kenngrößen für wissenschaftlichen Output (siehe zitationsbasierte Indikatoren wie den Journal Impact Factor). Da die traditionellen Metriken eine Reihe von Nachteilen aufweisen (u. a. sind sie zeitverzögert, nicht artikelbasiert, nicht transparent bzw. schwer nachvollziehbar) stellt die Suche nach bzw. die Forschung an neuartigen Metriken ein dynamisches hochaktuelles Feld dar. Das Projekt \*metrics leistet einen Beitrag dazu, indem es die Aussagekraft und Interpretation von Metriken untersucht. Im Workshop wurden die ersten Ergebnisse des im Januar gestarteten Projektes vorgestellt.
-Detaillierte Informationen sind [im Tagungsprogramm](https://open-access.net/community/open-access-tage/open-access-tage-2017-dresden/programm/) nachzulesen. Die Folien des Workshops können [hier]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf) heruntergeladen werden.
-
-### LIBER 2017: 5. - 7. Juli 2017, Patras, Griechenland
-
-Die [LIBER Jahrestagung](http://liber2017.lis.upatras.gr/) fand vom 5. - 7. Juli in Patras, Griechenland statt und wurde vom Library & Information Centre der Universität Patras ausgerichtet. \*metrics-Team-Mitglied [Isabella Peters]({{ site.url }}/de/uber_uns/team/) organisierte dort den [Workshop](http://liber2017.lis.upatras.gr/workshops/) der LIBER-Arbeitsgruppe "Metriken" mit, der am Mittwoch, den 5. Juli von 9:00 - 12:00 Uhr in Raum I 12 des Konferenzzentrums stattfand.
-Die Arbeitsgruppe hat [Empfehlungen]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) für die Verwendung jeglicher Art von Metriken ausgearbeitet, die im Workshop mit der LIBER-Community besprochen wurden. Außerdem wurde verschiedene Nutzungsszenarein für Services präsentiert und interaktiv diskutiert.
-
-### 9. International ACM Web Science Conference 2017 (WebSci’17): 25. - 28. Juni 2017, Troy, NY, USA
-
-Die [WebSci'17 Konferenz](http://websci17.org/) brachte Wissenschaftler verschiedener Disziplinen zusammen, wie z. B. Computer Science, Soziologie, Wirtschaftswissenschaften, Informationswissenschaften oder Psychologie. Web Science ist die aufstrebende Wissenschaft von Menschen und Technologien, Anwendungen, Prozessen und Praktiken die das World Wide Web formen und dadurch geformt werden. Web Science zielt darauf Theorien, Methoden und Ergebnisse verschiedener Disziplinen zusammen zu bringen und mit Industie, Handel, Regierung und der Bevölkerung zusammen zu arbeiten, um ein tieferes Wissen und Verständnis des Internets, die größte soziotechnische Infrastruktur in der menschlichen Geschichte, zu erlangen.
-\*metrics-Team-Mitglied [Olga Zagovora]({{ site.url }}/de/uber_uns/team/) war auf der WebSci'17 vertreten.
-
-### Open Science Meet-up: 20. Juni 2017, SUB Göttingen
-
-Seit Dezember 2016 bringt das [Open Science Göttingen Meet-up](https://www.sub.uni-goettingen.de/elektronisches-publizieren/open-science/) engagierte Wissenschaftlerinnen und Wissenschaftler sowie Bibliothekarinnen und Bibliothekare zusammen, um Open-Science-Themen auf dem Campus Göttingen voranzubringen. Weitere an Open Science Interessierte sind herzlich willkommen, an den vierteljährlich stattfindenden Treffen teilzunehmen und / oder sich an den Arbeitsgruppen zu praktischen Open-Science-Aspekten zu beteiligen (u. a. „Hacky Hour&quot;, „Teaching Open Science&quot;).
-
-[Astrid Orth](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/) und [Daniel Beucke](https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/) vom \*metrics-Team hielten die Präsentation [„From impact metrics to researcher profiles and back&quot;](https://owncloud.gwdg.de/index.php/s/Z6qmhAv8ypUQCOv/download?path=%2F3rd%20MeetUp&files=20170620-OpenScienceMeetup-Daniel_Astrid-Final.pdf), in der die unterschiedlichen Nutzungsweisen und -möglichkeiten von alternativen Metriken genauer unter die Lupe genommen wurden. Anschließend folgte eine [Diskussion](https://etherpad.gwdg.de/p/OpenScienceGoe20170620).  
-
-### Bibliothekartag: 1. Juni 2017, Frankfurt
-
-Auf dem [Bibliothekartag 2017](http://bibliothekartag2017.de/) vom 30.05. - 02.06.2017 in Frankfurt/Main moderierte Daniel Beucke am 1. Juni 2017 den Workshop "Altmetrics und was mache ich damit?". Nach einer allgemeinen Einführung in das Thema Altmetrics machte Astrid Orth deutlich, wie die Ergebnisse des Projekts \*metrics die interessierte Community unterstützen werden. Zudem wurden verschiedene Dienstleister und Tools skizziert. Nach einem Blick auf die nationalen Entwicklungen wurde das Thema auch aus internationaler Sichtweise betrachtet. Des Weiteren wurden die verschiedenen Arbeitsgruppen und Initiativen kurz vorgestellt, die sich u.a. mit der Standardisierung der alternativen Metriken befassen.  
-
-Ben McLeish von [Altmetric.com](https://www.altmetric.com/) betrachtete die deutschlandweite Forschung und beschrieb anhand von Altmetrics die Trends, die anhand dieser Daten ermittelt werden können. Was wird in den Sozialen Medien am meisten besprochen, welche Daten befinden sich in Policies und welche Einrichtung ist am meisten bzw. am wenigsten besprochen? Wie können diese Erfahrungen auf die PR und die Kommunikationsstrategie einer Einrichtung angewandt werden? Christina Lohr von [Elsevier](https://www.elsevier.com/) zeigte anhand von gesammelten Daten, wie Altmetrics in den Sozial- und Geisteswissenschaften und im Speziellen bei dem Format Bücher angewandt werden können, um Impact in den Sozialen Medien zu zeigen.  
-Die Präsentationen können [hier angeschaut werden](https://opus4.kobv.de/opus4-bib-info/solrsearch/index/search/searchtype/collection/id/16603).
-
-### WikiCite: 23. - 25. Mai 2017, Wien
-
-[WikiCite 2017](https://meta.wikimedia.org/wiki/WikiCite_2017) fand vom 23.- 25. Mai 2017 in Wien statt. Das 3-tägige Treffen war Konferenz und Hack-Day in einem. Unter der Zielsetzung ein zentrales bibliographisches Repositorium zu erstellen, trafen Wikimedia-Editoren mit Daten-Modellierern, Informations- und Bibliotheksexperten, Software Ingenieuren, Designern and Forschern zusammen, die Erfahrungen in der Arbeit mit Wikipedia's bibliographischen Daten und Zitationen haben.  
-
-Olga Zagovora stellte dort das \*metrics-Projekt und zugleich bereits erste vorläufige Ergebnisse des Projektes vor. Eine hohe Sichtbarkeit in der Wikipedia Community, als einer der Hauptdatenlieferanten für alternative Metriken, diente gleichzeitig der Akzeptanz des Projektes. Darüber hinaus sollte der Austausch mit Zitations-Mining-Experten während des Hackathons nützliche Erkenntnisse für die weitere Arbeit des Projektes bringen.  
-
-Mit der Präsentation der Studie [“Do Wikipedia Science Articles reflect on state-of-the-art research”]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf) wurde die Forschungsarbeit an Wikipedia-Artikeln über sozialwissenschaftliche Themen vorgestellt. Gegenstand der Studie ist es herauszufinden, ob die Enzyklopädie-Artikel den State-of-the-art in der Wissenschaft darstellen. Hierzu werden alternative und traditionelle Metriken im betreffenden Gebiet verglichen.  
-
-<div class="row">
-<div class="columns medium-6" markdown="1">
-[![Lightning Talk von Olga Zagovora auf Youtube]({{ site.url }}/img/events/wikicite_2017_zagovora_youtube.png "Lightning Talk")](https://www.youtube.com/watch?v=JUFuE-AuJhw){: style="min-width: 100%" }
-
-</div>
-<div class="columns medium-6" markdown="1">
-[![Lightning Talk von Olga Zagovora auf Slideshare]({{ site.url }}/img/events/wikicite_2017_zagovora_slideshare.png "Lightning Talk")](https://www.slideshare.net/OlgaZagovora1/do-wikipedia-science-articles-reflect-on-state-oftheart-research){: style="min-width: 100%" }
-</div>   
-</div>
-
-### COAR Jahrestagung: 8. - 10. Mai 2017, Venedig
-
-Die Confederation of Open Access Repositories (COAR) hielt ihre [diesjährige Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2017/) vom 8. bis 10. Mai 2017 in Venedig an der Università Ca’ Foscari ab. Das Haupthema des Treffens war Next Generation Repositories. Teilnehmer der COAR-Mitgliedsorganisationen konnten sich hier über internationale Entwicklungen im Bereich Repositories, Open Access und Open Science informieren und mit Gleichgesinnten von überall auf der Welt austauschen.  
-
-Die COAR-Arbeitsgruppe Open Metrics, in dem \*metrics-Projekteiterin Astrid Orth den Co-Vorsitz innehat, hielt dort ein Arbeitstreffen ab. Hier wurden neueste Entwicklungen im Bereich alternative Metriken diskutiert und das \*metrics-Projekt vorgestellt. Außerdem präsentierte sich das Projekt mit einem [Poster]({{ site.url }}/downloads/coar2017_metrics_poster.pdf).  
-
-### International Open Science Conference 2017: 20. - 22. März, Berlin
-
-Die International Open Science Conference vom 21. - 22. März 2017 in Berlin war auch dieses Jahr wieder Anziehungspunkt für ein breites Publikum. Das \*metrics-Projekt war mit drei Team-Mitgliedern vertreten.  
-
-Bereits am 20. März fand die Sitzung der Open Science Policy Plattform statt, auf der der [Bericht der EU Expertengruppe zu Altmetrics]({{ site.url }}/de/meldungen/2017-03-20-bericht-der-eu-expertengruppe-zu-altmetrics-veröffentlicht/) vorgestellt wurde. Isabella Peters und Mitautoren stellten Details des Papiers auf der Konferenz dem Fachpublikum vor.  
-
-Ebenfalls am Vortag fand das Open Science Barcamp statt. Die [Open Metrics Session]({{ site.url }}/de/meldungen/2017-03-20-metrics-auf-dem-oscibar17/) wurde moderiert von Astrid Orth. Wichtig war auch die Diskussion auf dem Workshop "Scientific knowledge dissemination and altmetrics" der durch das EU-Projekt OpenUp durchgeführt wurde und bei dem eine weitere Abstimmung und Zusammenarbeit vereinbart wurde.
