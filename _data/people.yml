@@ -62,20 +62,20 @@
 
 - name: Diana Lindner
   urls:
-    - http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=L&name=Diana%2CLindner
-    - http://www.gesis.org/en/institute/staff/?alpha=L&name=Diana%2CLindner
+    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
+    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
   mail: diana.lindner@gesis.org
 
 - name: Katrin Weller
   urls:
-    - http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=W&name=katrin%2Cweller
-    - http://www.gesis.org/en/institute/staff/?alpha=W&name=katrin%2Cweller
+    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
+    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
   mail: Katrin.Weller@gesis.org
 
 - name: Olga Zagovora
   urls:
-    - http://www.gesis.org/institut/mitarbeiterverzeichnis/?alpha=Z&name=Olga%2CZagovora
-    - http://www.gesis.org/en/institute/staff/?alpha=Z&name=Olga%2CZagovora
+    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org
+    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org 
   mail: olga.zagovora@gesis.org
 
 - name: Andreas Krausz
