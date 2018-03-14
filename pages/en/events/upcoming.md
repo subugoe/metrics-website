@@ -22,7 +22,7 @@ The new year‘s [International Open Science Conference](http://www.open-science
 
 After its recent launch, the [Dimensions Platform](https://www.dimensions.ai/) is now interested in how to best develop metrics und support scientometricians. At the [meeting](https://www.eventbrite.co.uk/e/dimensions-bibliometric-meeting-tickets-43591273673) in Reading, UK, scientometricians, research management professionals and funder representatives will have the opportunity to discuss and brainstorm the possibilities of Dimensions. The \*metrics-Project will be represented in Reading by [Isabella Peters](https://metrics-project.net/en/uber_uns/team/).
 
-### re:publica Berlin 2. - 4. Mai 2018, Berlin {REPUBLICA2018}
+### re:publica Berlin 2. - 4. Mai 2018, Berlin {#REPUBLICA2018}
 2018 sees the 12th edition of the most important conference on digitalization and society take place in Berlin. This years Motto is "Pop - the power of people". The goal ist to burst filter bubbles, enter the public sphere and make internet culture and politics tangible. The \*metrics-team will participate as well: an abstract has been submitted and updated information will be available soon.
   
 ### COAR Annual Meeting: 14 - 17 May 2018, Hamburg {#COAR2018}
