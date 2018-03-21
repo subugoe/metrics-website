@@ -54,7 +54,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
 
-* 2018-03- 13-14 \| [International Open Science Conference]({{ site.url }}/en/events/upcoming/#OSC2018)
+* 2018-04- 16-17 \| [Dimensions Bibliometric meeting]({{ site.url }}/en/events/upcoming//#DIMENSIONS2018)
 * 2018-05- 14-17 \| [COAR Annual Meeting]({{ site.url }}/en/events/workshop2018/)
 * 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/en/events/upcoming/#BIBTAG2018)
 * 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/en/events/upcoming/#STI2018)
