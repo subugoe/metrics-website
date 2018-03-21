@@ -14,10 +14,6 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
 
-### International Open Science Conference 2018: 13. - 14. März, Berlin {#OSC2018}
-
-Wie schon letztes Jahr findet auch die diesjährige [International Open Science Conference](http://www.open-science-conference.eu/) in der Hauptstadt statt. Am 13. und 14. März erwartet die Besucher wieder eine erhebliche Möglichkeit, den Diskurs über Open Science und FAIRen Datengrundsätzen (findable, accessible, interoperable and reusable) weiterzuführen, sowie neue Erkenntnisse vorzustellen. Neuigkeiten gibt es auf [Twitter](https://twitter.com/hashtag/OSC2018?src=hash&lang=de).  
-
 ### Dimensions Bibliometric meeting, 16. - 17. April 2018, Reading (UK) {#DIMENSIONS2018}
 
 Nach dem kürzlichen Start von [Dimensions](https://www.dimensions.ai/) ist die Platform daran interessiert, wie Metriken am besten weiterentwickelt und Forscher unterstützt werden können. Bei der [Zusammenkunft](https://www.eventbrite.co.uk/e/dimensions-bibliometric-meeting-tickets-43591273673) im britischen Reading werden Informationswissenschaftler, Research Manager und Geldgeber die Gelegenheit haben, sich über die Möglichkeiten von Dimensions auszutauschen. Für das \*metrics-Projekt wird [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) in Reading vertreten sein.
