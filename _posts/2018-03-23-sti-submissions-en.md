@@ -8,8 +8,6 @@ parent: news
 ref: sti-submissions-en
 ---
 
-Call for submissions! Special track at STI Leiden
-
 As part of the [STI Conference 2018](http://sti2018.cwts.nl), *metrics team members Isabella Peters and Katrin Weller will be organizing a special track on the topic “Challenges of Social Media Data for Bibliometrics”. 
   
 This specialized track focuses on the ongoing challenges for using data from social media platforms and from third party aggregators as sources for research metrics and scientometric indicators. These challenges include but are not limited to:  
