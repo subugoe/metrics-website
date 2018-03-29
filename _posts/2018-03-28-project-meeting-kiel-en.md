@@ -3,7 +3,7 @@ layout: post
 title: Project Meeting in Kiel
 categories: news
 permalink: /en/news/2018-03-28-project-meeting-kiel-en/
-lang: de
+lang: en
 parent: news
 ref: project-meeting-kiel-en
 ---  
