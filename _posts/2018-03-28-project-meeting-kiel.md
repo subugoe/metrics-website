@@ -2,7 +2,7 @@
 layout: post
 title: Projekttreffen in Kiel
 categories: news
-permalink: /de/news/2018-03-28-project-meeting-kiel
+permalink: /de/news/2018-03-28-project-meeting-kiel/
 lang: de
 parent: news
 ref: project-meeting-kiel
