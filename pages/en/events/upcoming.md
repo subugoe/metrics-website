@@ -29,7 +29,7 @@ We are excited to announce that this year’s [COAR Annual Meeting](https://www.
 The \*metrics team is proud to host a [workshop](https://metrics-project.net/en/events/workshop2018/) on the uses of metrics in different scenarios, for which it is now possible to register.  
 
 ### Open Metrics Seminar, 23 May 2018. Uppsala (Sweden) {OPENMSEMINAR2018}
-The [Swedish metrics Group] (https://bibliometriforum.wordpress.com/ ) is hosting the Open Metrics Seminar, to allow researchers to dicuss the oppurtunities and difficulties when working with open metrics. Our very own [Steffen Lemke]( https://metrics-project.net/en/uber_uns/team/) is invited as a speaker.  
+The [Swedish metrics Group](https://bibliometriforum.wordpress.com/ ) is hosting the Open Metrics Seminar, to allow researchers to dicuss the oppurtunities and difficulties when working with open metrics. Our very own [Steffen Lemke]( https://metrics-project.net/en/uber_uns/team/) is invited as a speaker.  
   
 ### Bibliothekartag: 12 - 15 June 2018, Berlin {#BIBTAG2018}
 
