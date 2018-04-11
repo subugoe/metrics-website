@@ -31,7 +31,7 @@ Das \*metrics team ist stolz einen [Workshop](https://metrics-project.net/de/ver
    
 ### Open Metrics Seminar, 23. Mai 2018, Uppsala (Schweden) {#OPENMSEMINAR2018}
 
-Im Mai 2018 veranstaltet die [Swedish metrics Group] (https://bibliometriforum.wordpress.com/ ) das Open Metrics Seminar, zu dem Forscher eingeladen sind, die Möglichkeiten und Hindernisse im Gebrauch mit offenen Metriken zu diskutieren. [Steffen Lemke]( https://metrics-project.net/de/uber_uns/team/) vom *metrics-Team wird als Referent dabei sein.  
+Im Mai 2018 veranstaltet die [Swedish metrics Group](https://bibliometriforum.wordpress.com/ ) das Open Metrics Seminar, zu dem Forscher eingeladen sind, die Möglichkeiten und Hindernisse im Gebrauch mit offenen Metriken zu diskutieren. [Steffen Lemke]( https://metrics-project.net/de/uber_uns/team/) vom *metrics-Team wird als Referent dabei sein.  
   
 ### Bibliothekartag: 12.-15. Juni 2018, Berlin {#BIBTAG2018}
 
