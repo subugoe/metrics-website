@@ -19,5 +19,5 @@ This specialized track focuses on the ongoing challenges for using data from soc
   
 **Submissions are open**  
 We invite submissions of original research studying the quality of social media data and data aggregators for measuring scholarly communication as well as short (hands-on) introductions and best practices for using data from one or more specific social media platforms or aggregators.
-[Please submit your work as short papers (max 3,000 words) until April 1, 2018.](http://sti2018.cwts.nl/submissions )
+[Please submit your work as short papers (max 3,000 words) until April 13, 2018.](http://sti2018.cwts.nl/submissions )
 
