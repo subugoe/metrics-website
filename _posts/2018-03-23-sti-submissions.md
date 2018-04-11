@@ -19,7 +19,7 @@ Dabei werden besonders die Herausforderungen darin, Daten von Social Media Platt
   
 **Call for Submissions**  
 Wir akzeptieren Einreichungen, die sich mit den o.g. Themen befassen in Form von Original Research, Short- und Hands-on-Introductions.
-Wir freuen uns über jede Einreichung in Form eines short papers (max. 3000 Wörter) und in Englisch bis zum 13. April 2018. (http://sti2018.cwts.nl/submissions )
+Wir freuen uns über jede Einreichung in Form eines short papers (max. 3000 Wörter) und in Englisch [bis zum 13. April 2018.] (http://sti2018.cwts.nl/submissions )
 
 
 
