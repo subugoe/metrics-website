@@ -3,14 +3,14 @@ layout: post
 title: Interview mit Stacy Konkiel über altmetrics (englisch)
 categories: news
 permalink: /de/meldungen/2018-04-18-interview-stacy-konkiel
-lang: en
+lang: de
 parent: news
 ref: interview-stacy-konkiel
 ---
 <!-- Start editing content here-->
 
 {:.img--decoration-blue}
-![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg "Stacy Konkiel"){: style="min-width: 200px" "align: right"}
+![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg "Stacy Konkiel"){: style="min-width: 200px"}
 
 
 [Martin Giesler](https://metrics-project.net/de/uber_uns/team/) hat sich mit [Stacy Konkiel](http://stacykonkiel.org/) - Entwicklerin des [metrics-toolkits](http://stacykonkiel.org/force2016-innovation-challenge/) und Teil von [altmetric.com](altmetric.com) - über Metriken im Allgemeinen, Perspektiven aus altmetrics und die Aktivitäten des *metrics-Projektes unterhalten.
