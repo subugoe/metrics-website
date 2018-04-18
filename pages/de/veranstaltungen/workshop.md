@@ -20,12 +20,13 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
+  
 Der Workshop wird der diesjährigen [COAR Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/) in Hamburg vorangehen.  
 In der zweigeteilten Veranstaltung (14 Mai 2018 14:00-17:00 Uhr und 15. Mai 2018 9:00-13:00 Uhr)
 wollen wir den Blick darauf richten, welchen Nutzen Metriken anbieten und dabei verschiedene Szenarien betrachten.
 Damit ist sie besonders aufschlussreich für Vertreter der COAR-Mitgliedsorganisationen und alle weiteren, die sich mit dem Thema
 Repositorien und/oder unserem Projekt auseinandersetzen wollen. Die Anmeldung erfolgt über das [Registrierungsformular zur Tagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/) 
-Weitere Informationen folgen.  
+Sobald die Registrierung über die COAR-Website nicht mehr möglich ist, wenden Sie sich bitte an [metrics-project@sub.uni-goettingen.de](mailto:metrcis-project@sub.uni-goettingen.de), um zu erfahren, ob Sie noch berücksichtigt werden können. Bitte beachten Sie, dass eine Bestätigung der Anmeldung notwendig ist, um teilzunehmen.  
   
 ### ZBW  
 Der Workshop wird in der ZBW stattfinden. Das Leibniz-Informationszentrum Wirtschaft ist nicht nur ein Projektpartner

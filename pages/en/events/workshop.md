@@ -25,8 +25,8 @@ The workshop will be dissected into two parts (14 May2018 2pm-5pm and 15 May 201
 and focus on different uses metrics can provide in varying scenarios. So, it is especially informative for 
 members of COAR-organizations and everyone interested in the topic of repositories and/or the \*metrics project.
 [Registration is possible via COAR](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/).  
-Further information will follow.  
-  
+As soon as the COAR registration closes, please e-mail inquiries to [metrics-project@sub.uni-goettingen.de](mailto:metrics-project@sub.uni-goettingen.de), so we can provide you with information about whether registration is still possible. Please note that to take part in the workshop confirmation of your registration is required.  
+    
 ### ZBW  
 The workshop will take place in the ZBW building. The Leibniz Information Centre for 
 Economics is not only one of our project partners, but also the world&#39;s biggest information

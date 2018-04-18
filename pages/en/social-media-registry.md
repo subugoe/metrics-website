@@ -26,7 +26,7 @@ This development will support two other important tasks in the project
 1. Analyse user-groups of social media services as well as their perceptions and assessment of alternative indicators, and
 2. Create prototypical queries of social media services to capture interactions that could produce open and transparent metrics
   
-The bilingual Social Media Registry will be developed by project team members in co-operation with the scientific community. Initially, a beta version has been developed by the project team as a Google Doc. This serves as a place to collect input from a broad audience and is supposed to not only gather content, but to find a technically more sophisticated solution, as well.
+The bilingual Social Media Registry will be developed by project team members in co-operation with the scientific community. An initial version has been developed by the project team as a Google Doc. This serves as a place to collect input from a broad audience and is supposed to not only gather content, but to find a technically more sophisticated solution, as well.
 
 For comments and additions the registry can be reached under the following link:
 
