@@ -10,12 +10,12 @@ ref: interview-stacy-konkiel
 <!-- Start editing content here-->
 
 {:.img--decoration-blue}
-![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg "Stacy Konkiel"){: style="min-width: 25%" "max-width: 25" "align: right"}
+![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg "Stacy Konkiel"){: style="min-width: 25%" "max-width: 25%" "align: right"}
 
 
 [Martin Giesler](https://metrics-project.net/de/uber_uns/team/) talked with [Stacy Konkiel](http://stacykonkiel.org/) - developer of the [metrics-toolkit](http://stacykonkiel.org/force2016-innovation-challenge/)  and working at [altmetric.com](altmetric.com) - about metrics in general, the perspectives of altmetrics and the activity of the metrics project.
 
-### Why would someone want to find out if the research is relevant?
+<span style="color:blue" markdown="1">### Why would someone want to find out if the research is relevant? </span>
 
 Nowadays we have more information online than ever before. There is more news articles in the world, there is more basic information like what people are eating for breakfast and more information in general. The same goes for research and the sciences. There are a lot of peer-reviewed papers being published in the world - now more than ever before and therefore it can be harder to find out what research is relevant to you, e.g. if you are a researcher, if you want to know what other people in your field are researching, that could be one reason. Or if you are a member of the public and you want to find out about a certain disease and you need to get access to the most uptodate high quality information out there is another reason. It is really important nowadays to go through all the information that is out there online.
 
