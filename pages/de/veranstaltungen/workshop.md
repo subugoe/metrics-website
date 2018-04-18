@@ -20,6 +20,7 @@ alt: "Joint Open Metrics - COAR Workshop"
 
 
 Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
+  
 Der Workshop wird der diesjährigen [COAR Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/) in Hamburg vorangehen.  
 In der zweigeteilten Veranstaltung (14 Mai 2018 14:00-17:00 Uhr und 15. Mai 2018 9:00-13:00 Uhr)
 wollen wir den Blick darauf richten, welchen Nutzen Metriken anbieten und dabei verschiedene Szenarien betrachten.
