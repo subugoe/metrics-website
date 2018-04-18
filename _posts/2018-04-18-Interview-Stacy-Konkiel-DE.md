@@ -8,12 +8,12 @@ parent: news
 ref: interview-stacy-konkiel
 ---
 <!-- Start editing content here-->
+[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) hat sich mit [Stacy Konkiel](http://stacykonkiel.org/) - Entwicklerin des [metrics-toolkits](http://stacykonkiel.org/force2016-innovation-challenge/) und Teil von [altmetric.com](altmetric.com) - über Metriken im Allgemeinen, Perspektiven aus altmetrics und die Aktivitäten des \*metrics-Projektes unterhalten.
+
 
 {:.img--decoration-blue}
-![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg "Stacy Konkiel"){: style="min-width: 200px"}
+![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg?resize=300%2C300 "Stacy Konkiel"){: style="min-width: 25%"}
 
-
-[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) hat sich mit [Stacy Konkiel](http://stacykonkiel.org/) - Entwicklerin des [metrics-toolkits](http://stacykonkiel.org/force2016-innovation-challenge/) und Teil von [altmetric.com](altmetric.com) - über Metriken im Allgemeinen, Perspektiven aus altmetrics und die Aktivitäten des *metrics-Projektes unterhalten.
 
 <div style="color:#3D325E" markdown="1">
 ### Why would someone want to find out if the research is relevant?
