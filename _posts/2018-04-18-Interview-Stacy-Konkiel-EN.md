@@ -8,12 +8,12 @@ parent: news
 ref: interview-stacy-konkiel
 ---
 <!-- Start editing content here-->
+[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) talked with [Stacy Konkiel](http://stacykonkiel.org/) - developer of the [metrics-toolkit](http://stacykonkiel.org/force2016-innovation-challenge/)  and working at [altmetric.com](altmetric.com) - about metrics in general, the perspectives of altmetrics and the activity of the metrics project.
+
 
 {:.img--decoration-blue}
 ![Stacy Konkiel](https://i2.wp.com/stacykonkiel.org/wp-content/uploads/2016/01/cropped-profile-1.jpg?resize=300%2C300 "Stacy Konkiel"){: style="min-width: 25%"}
 
-
-[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) talked with [Stacy Konkiel](http://stacykonkiel.org/) - developer of the [metrics-toolkit](http://stacykonkiel.org/force2016-innovation-challenge/)  and working at [altmetric.com](altmetric.com) - about metrics in general, the perspectives of altmetrics and the activity of the metrics project.
 
 
 <div style="color:#3D325E" markdown="1">
