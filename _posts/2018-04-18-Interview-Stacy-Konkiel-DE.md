@@ -54,4 +54,5 @@ I think the work you are doing with the metrics project is really important beca
 
 
 
-**You can follow Stacy Konkiel on Twitter: [https://twitter.com/skonkiel](https://twitter.com/skonkiel)**
+**Sie können Stacy auf [Twitter](https://twitter.com/skonkiel) folgen**
+**oder ihre [persönliche Website](http://stacykonkiel.org/) besuchen.**
