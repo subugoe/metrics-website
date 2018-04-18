@@ -8,7 +8,7 @@ parent: news
 ref: interview-stacy-konkiel
 ---
 <!-- Start editing content here-->
-[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) talked with [Stacy Konkiel](http://stacykonkiel.org/) - developer of the [metrics-toolkit](http://stacykonkiel.org/force2016-innovation-challenge/)  and working at [altmetric.com](altmetric.com) - about metrics in general, the perspectives of altmetrics and the activity of the \*metrics-project.
+[Martin Giesler](https://metrics-project.net/de/uber_uns/team/) talked with [Stacy Konkiel](http://stacykonkiel.org/) – developer of the [metrics-toolkit](http://stacykonkiel.org/force2016-innovation-challenge/)  and working at [altmetric.com](altmetric.com) – about metrics in general, the perspectives of altmetrics and the activity of the \*metrics-project.
 
 
 {:.img--decoration-blue}
@@ -20,7 +20,7 @@ ref: interview-stacy-konkiel
 ### Why would someone want to find out if the research is relevant?
 </div>
 
-Nowadays we have more information online than ever before. There is more news articles in the world, there is more basic information like what people are eating for breakfast and more information in general. The same goes for research and the sciences. There are a lot of peer-reviewed papers being published in the world - now more than ever before and therefore it can be harder to find out what research is relevant to you, e.g. if you are a researcher, if you want to know what other people in your field are researching, that could be one reason. Or if you are a member of the public and you want to find out about a certain disease and you need to get access to the most uptodate high quality information out there is another reason. It is really important nowadays to go through all the information that is out there online.
+Nowadays we have more information online than ever before. There is more news articles in the world, there is more basic information like what people are eating for breakfast and more information in general. The same goes for research and the sciences. There are a lot of peer-reviewed papers being published in the world – now more than ever before and therefore it can be harder to find out what research is relevant to you, e.g. if you are a researcher, if you want to know what other people in your field are researching, that could be one reason. Or if you are a member of the public and you want to find out about a certain disease and you need to get access to the most up-to-date high quality information out there is another reason. It is really important nowadays to go through all the information that is out there online.
 
 
 
@@ -28,7 +28,7 @@ Nowadays we have more information online than ever before. There is more news ar
 ### How do you traditionally measure if a specific scientific output is any good?
 </div>
 
-So, traditionally in terms of measurement people used citation data. So when scientist or researchers would describe other studies that are happening in this space they would so by looking for peer-reviewed papers. Traditionally people looked through those citations and they count those citations - the more citations there are the higher quality the work is. And there are some challenges with that approach. Is not only that the most cited stuff is the highest quality but more or less it tells you what you need to pay attention to. But before these metrics existed, people knew what to pay attention to by simply knowing what was available in their field or by knowing the people in your field. The academia used to be a small world. You simply knew what was happening. But for reasons we just described, that is not necessarily possible anymore. Because there is too much research out there. So people have to find signals like citations to figure out what is the highest quality or at least the most important, most influential research in a subject area.
+So, traditionally in terms of measurement people used citation data. So when scientist or researchers would describe other studies that are happening in this space they would do so by looking for peer-reviewed papers. Traditionally people looked through those citations and they count those citations – the more citations there are the higher quality the work is. And there are some challenges with that approach. Is not only that the most cited stuff is the highest quality but more or less it tells you what you need to pay attention to. But before these metrics existed, people knew what to pay attention to by simply knowing what was available in their field or by knowing the people in your field. The academia used to be a small world. You simply knew what was happening. But for reasons we just described, that is not necessarily possible anymore. Because there is too much research out there. So people have to find signals like citations to figure out what is the highest quality or at least the most important, most influential research in a subject area.
 
 
 
@@ -36,7 +36,7 @@ So, traditionally in terms of measurement people used citation data. So when sci
 ### How many different signals are there?
 </div>
 
-There is a lot. And the number seems to be growing everyday. Not only in terms of citation metrics. There is simple citation counts. But then there is also other types of derivative metrics like the journal impact factor, the eigenfactor - lots of different ways of interpretation citation data to help you understand most influential journals, most influential papers. And beyond citations there are these signals that are left online, traces of interactions with research articles - we call these traces altmetrics. And it is tracking when somebody is tweeting about an article, if an article is been cited in wikipedia, if an articles is been mentioned in the news or in a public policy document - these are all ways to understand not only traditional scholarly influence of a piece of research but that also members of the public are talking about scientific research. Is it having cultural relevance? Is it important to patient advisory group in biomedicine? So there are a lot of different signals.
+There is a lot. And the number seems to be growing everyday. Not only in terms of citation metrics. There is simple citation counts. But then there is also other types of derivative metrics like the journal impact factor, the eigenfactor – lots of different ways of interpretation citation data to help you understand most influential journals, most influential papers. And beyond citations there are these signals that are left online, traces of interactions with research articles – we call these traces altmetrics. And it is tracking when somebody is tweeting about an article, if an article is been cited in wikipedia, if an articles is been mentioned in the news or in a public policy document – these are all ways to understand not only traditional scholarly influence of a piece of research but that also members of the public are talking about scientific research. Is it having cultural relevance? Is it important to patient advisory group in biomedicine? So there are a lot of different signals.
 
 
 
