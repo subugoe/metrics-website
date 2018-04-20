@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "*metrics Repository Workshop 2018"
+title: "The Road to New Metrics – *metrics Repository Workshop 2018"
 permalink: /en/events/workshop2018/
 lang: en
 parent: events
