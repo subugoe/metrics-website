@@ -26,6 +26,9 @@ and focus on different uses metrics can provide in varying scenarios. So, it is 
 members of COAR-organizations and everyone interested in the topic of repositories and/or the \*metrics project.
 [Registration is possible via COAR](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/).  
 As soon as the COAR registration closes, please e-mail inquiries to [metrics-project@sub.uni-goettingen.de](mailto:metrics-project@sub.uni-goettingen.de), so we can provide you with information about whether registration is still possible. Please note that to take part in the workshop confirmation of your registration is required.  
+
+### Program
+You can find the workshop program [here.]({{ site.url }}/downloads/COAR_metrics_workshop_program_website.pdf)
     
 ### ZBW  
 The workshop will take place in the ZBW building. The Leibniz Information Centre for 
