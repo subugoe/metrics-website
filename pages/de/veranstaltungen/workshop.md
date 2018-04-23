@@ -28,8 +28,8 @@ Damit ist sie besonders aufschlussreich für Vertreter der COAR-Mitgliedsorganis
 Repositorien und/oder unserem Projekt auseinandersetzen wollen. Die Anmeldung erfolgt über das [Registrierungsformular zur Tagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/) 
 Sobald die Registrierung über die COAR-Website nicht mehr möglich ist, wenden Sie sich bitte an [metrics-project@sub.uni-goettingen.de](mailto:metrcis-project@sub.uni-goettingen.de), um zu erfahren, ob Sie noch berücksichtigt werden können. Bitte beachten Sie, dass eine Bestätigung der Anmeldung notwendig ist, um teilzunehmen. 
   
-### Programm  <!-- insert link before merging!-->
-Das Programm für den Workshop finden Sie [hier.](link)
+### Programm  
+Das Programm für den Workshop finden Sie [hier.]({{ site.url }}/downloads/COAR_metrics_workshop_program_website.pdf)
   
 ### ZBW  
 Der Workshop wird in der ZBW stattfinden. Das Leibniz-Informationszentrum Wirtschaft ist nicht nur ein Projektpartner
