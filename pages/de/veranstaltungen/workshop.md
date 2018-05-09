@@ -29,7 +29,7 @@ Repositorien und/oder unserem Projekt auseinandersetzen wollen. Die Anmeldung er
 Sobald die Registrierung über die COAR-Website nicht mehr möglich ist, wenden Sie sich bitte an [metrics-project@sub.uni-goettingen.de](mailto:metrcis-project@sub.uni-goettingen.de), um zu erfahren, ob Sie noch berücksichtigt werden können. Bitte beachten Sie, dass eine Bestätigung der Anmeldung notwendig ist, um teilzunehmen. 
   
 ### Programm  
-Das Programm für den Workshop finden Sie [hier.]({{ site.url }}/downloads/COAR_metrics_workshop_program_version03may.pdf)
+Das Programm für den Workshop finden Sie [hier.]({{ site.url }}/downloads/COAR_metrics_workshop_program_website.pdf)
   
 ### ZBW  
 Der Workshop wird in der ZBW stattfinden. Das Leibniz-Informationszentrum Wirtschaft ist nicht nur ein Projektpartner
