@@ -95,6 +95,7 @@ aufgerufene Seite/Name der abgerufenen Datei,
 Meldung, ob der Zugriff/Abruf erfolgreich war.
 
 **Rechtsgrundlage** für die Verarbeitung der personenbezogenen Daten der Nutzer ist Art. 6 Abs. 1 lit. f DSGVO.
+
 **Zweck der Datenverarbeitung:** Die Verarbeitung der personenbezogenen Daten der Nutzer ermöglicht uns eine Analyse des Surfverhaltens unserer Nutzer. Wir sind durch die Auswertung der gewonnenen Daten in der Lage, Informationen über die Nutzung der einzelnen Komponenten unserer Webseite zusammenzustellen. Dies hilft uns dabei unsere Webseite und deren Nutzerfreundlichkeit stetig zu verbessern. In diesen Zwecken liegt auch unser berechtigtes Interesse in der Verarbeitung der Daten nach Art. 6 Abs. 1 lit. f DSGVO. Durch die Anonymisierung der IP-Adresse wird dem Interesse der Nutzer an deren Schutz personenbezogener Daten hinreichend Rechnung getragen.
 
 Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Matomo in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
