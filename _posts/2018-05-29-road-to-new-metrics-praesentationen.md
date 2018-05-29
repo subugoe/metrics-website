@@ -22,4 +22,4 @@ Am 14. und 15. Mai 2018 fand unser Repository Metrics Workshop „Road To New Me
 - Riese, Wolfgang. [ECONSTOR: Usage statistics of a subject repository](http://doi.org/10.5281/zenodo.1250040).
 - Zahedi, Zohreh. [Quality challenges of altmetric data aggregators](http://doi.org/10.5281/zenodo.1250042).
 
-Bei weiteren Fragen erreichen Sie uns per Email: metrics-project@sub.uni-goettingen.de.
+Bei weiteren Fragen erreichen Sie uns jederzeit per Email: metrics-project@sub.uni-goettingen.de.
