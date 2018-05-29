@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Road To New Metrics: Presentations
+title: Road To New Metrics Presentations
 categories: news
 permalink: /en/news/2018-05-29-road-to-new-metrics-presentations
 lang: en
