@@ -7,7 +7,7 @@ lang: en
 parent: news
 ref: road-to-new-metrics-presentations
 ---
-\<!-- Start editing content here--\>
+
 On May 14-15, 2018 our Repository Metrics Workshop „Road To New Metrics“ took Place in Hamburg, Germany. We were pleased to welcome 50 participants from all over the world and would like to thank you once again for your interest in our work at the [Metrics Project](https://metrics-project.net/index.html) and for your presentations regarding different uses metrics can provide in varying scenarios. You can find all of the presentations at the [COAR Repositories Website](https://www.coar-repositories.org/community/coar-annual-meeting-2018/programme/) or by clicking on one of the following links:
 
 ## Monday, May 14th 2018
