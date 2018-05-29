@@ -7,7 +7,7 @@ lang: de
 parent: news
 ref: road-to-new-metrics-praesentationen
 ---
-\<!-- Start editing content here--\>
+<!-- Start editing content here-->
 Vom 14. und 15. Mai fand unser Repository Metrics Workshop „Road To New Metrics“ in Hamburg statt. Wir haben uns sehr darüber gefreut, 50 Teilnehmer aus aller Welt begrüßen zu dürfen und möchten uns noch einmal ausdrücklich für das Interesse an unserer Arbeit beim [Metrics Project](https://metrics-project.net/index.html) und für die spannenden Präsentationen bedanken. Alle Präsentationen können drüben auf der [COAR Repositories Website](https://www.coar-repositories.org/community/coar-annual-meeting-2018/programme/) gefunden werden, bzw. direkt über die hier aufgeführten Links:
 
 ## Montag, 14.5.2018
