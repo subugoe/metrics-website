@@ -9,11 +9,11 @@ position: bottom
 alt: "Privacy-statement"
 ---
 <!-- Start editing content here -->
-Please be aware that data transmission over the Internet (e.g. communication by e-mail) may be subject to security gaps. A complete protection of data against access by third parties is not possible. The use of the contact data published within the scope of the imprint obligation by third parties for sending unsolicited advertising and information material is hereby expressly prohibited. The operators of these pages expressly reserve the right to take legal action in the event of unsolicited advertising information being sent, for example in the form of spam mails.
+Please be aware that data transmission over the Internet (e.g. communication via e-mail) may be subject to security gaps. A complete protection of data against access by third parties is not possible. The use of the contact data published within the scope of the imprint obligation by third parties for sending unsolicited advertising and information material is hereby expressly prohibited. The operators of these pages expressly reserve the right to take legal action in the event of unsolicited advertising information being sent, for example in the form of spam mails.
 
 ## Personal Data
 
-The use of this website is generally possible without providing personal data. As far as personal data is collected on these pages, this is, as far as possible, always on a voluntary basis and to the extent described here. This data will not be passed on to third parties without your express consent. All personal data will only be stored for as long as necessary for the purpose stated in each case. Existing legal retention periods are taken into account.
+The use of this website is generally possible without providing personal data. Regarding personal data being collected on these pages, this is, as far as possible, always on a voluntary basis and to the extent described here. This data will not be passed on to third parties without your express consent. All personal data will only be stored for as long as necessary for the purpose stated in each case. Existing legal retention periods are taken into account.
 
 ## Duty to inform when collecting personal data from the data subject
 
