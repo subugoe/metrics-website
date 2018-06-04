@@ -13,25 +13,7 @@ alt: "Kommende Veranstaltungen"
 <!-- Start editing content here-->
 
 Auf den folgenden Veranstaltungen kann man das \*metrics-Projekt antreffen:
-
-### Dimensions Bibliometric meeting, 16. - 17. April 2018, Reading (UK) {#DIMENSIONS2018}
-
-Nach dem kürzlichen Start von [Dimensions](https://www.dimensions.ai/) ist die Platform daran interessiert, wie Metriken am besten weiterentwickelt und Forscher unterstützt werden können. Bei der [Zusammenkunft](https://www.eventbrite.co.uk/e/dimensions-bibliometric-meeting-tickets-43591273673) im britischen Reading werden Informationswissenschaftler, Research Manager und Geldgeber die Gelegenheit haben, sich über die Möglichkeiten von Dimensions auszutauschen. Für das \*metrics-Projekt wird [Isabella Peters]({{ sitebase.url }}/de/uber_uns/team/) in Reading vertreten sein.
-
-### re:publica Berlin 2. - 4. Mai 2018, Berlin {#REPUBLICA2018}
-2018 findet in Berlin die 12. Ausgabe der größten europäischen Konferenz zu den Themen Digitalisierung und Gesellschaft statt. Das diesjährige Motto lautet &bdquo;Pop - the power of people&quot;. Das Ziel ist es Filterbubbles platzen zu lassen, sich in die Öffentlichkeit stellen und Netzkultur und -politik greifbar machen. [Martin Giesler]({{ sitebase.url }}/de/uber_uns/team/) wird sich für uns in Berlin umschauen.
-
-
-### COAR Jahrestagung: 14. - 17. Mai 2018, Hamburg {#COAR2018}
-
-Die [Jahrestagung](https://www.coar-repositories.org/news-media/save-the-date-coar2018-annual-meeting/) der Confederation of Open Access Repositories (COAR) findet vom 14.-17. Mai 2018 in Hamburg statt. Dort können sich Teilnehmer der COAR-Mitgliedsorganisationen in einem internationalen Kreis über Neuigkeiten und Fortschritte in den Bereichen Repositories, Open Access und Open Science austauschen.
-
-Das \*metrics team ist stolz einen [Workshop](https://metrics-project.net/de/veranstaltungen/workshop2018/)
- zum Nutzen von Metriken in verschiedenen Szenarien anzubieten, für den sich nun registriert werden kann.  
-   
-### Open Metrics Seminar, 23. Mai 2018, Uppsala (Schweden) {#OPENMSEMINAR2018}
-
-Im Mai 2018 veranstaltet die [Swedish metrics Group](https://bibliometriforum.wordpress.com/ ) das Open Metrics Seminar, zu dem Forscher eingeladen sind, die Möglichkeiten und Hindernisse im Gebrauch mit offenen Metriken zu diskutieren. [Steffen Lemke]( https://metrics-project.net/de/uber_uns/team/) vom *metrics-Team wird als Referent dabei sein.  
+  
   
 ### Bibliothekartag: 12.-15. Juni 2018, Berlin {#BIBTAG2018}
 
