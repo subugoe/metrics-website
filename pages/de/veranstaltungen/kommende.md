@@ -26,4 +26,4 @@ Von **13:00 - 15:30** veranstalten [Astrid Orth]({{ sitebase.url }}/de/uber_uns/
 ### STI Konferenz 2018: 12. - 14. September Leiden (Niederlande) {#STI2018}
 Vom 12. bis zum 14. Semptember wird in Leiden (Niederlande) die 23. STI Konferenz stattfinden. Der Fokus liegt [dieses Jahr](http://sti2018.cwts.nl/) auf der Transformation von Indikatoren. Ziel ist es einem internationalen Publikum eine Platform zur Diskussion umfassenderer Indikatoren zu bieten. [Katrin Weller]({{ sitebase.url }}/de/uber_uns/team/), [Astrid Orth]({{ sitebase.url }}/de/uber_uns/team/) und [Isabella Peters]({{ sitebase.url }}/de/uber_uns/team/) vom \*metrics-Team werden Track 11 über die Herausforderung von Social-Media Daten für die Bibliometrie ausrichten.
 
-Vorschläge bitte [hier](http://sti2018.cwts.nl/download/f-x2s2.pdf) einreichen.
+Vorschläge bitte [hier](http://sti2018.cwts.nl/download/f-x2s2.pdf) einreichen. Danke!
