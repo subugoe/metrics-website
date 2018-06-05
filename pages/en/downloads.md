@@ -38,7 +38,8 @@ symbol: "download"
 * Julius Stropel - [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034)
 * Steffen Lemke, Maryam Mehrazar - [User- and Usage Studies in the metrics Project](https://doi.org/10.5281/zenodo.1283183)
 
-## Presenations 2017
+
+## Presentations 2017
 
 ### WikiCite
 * Olga Zagovora - [Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)   
