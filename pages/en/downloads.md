@@ -33,6 +33,7 @@ symbol: "download"
 
 ## Poster and publications
 
+*\[*metrics project poster]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
 * [4:AM Conference: Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)   
 
