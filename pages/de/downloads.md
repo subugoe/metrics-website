@@ -12,8 +12,6 @@ symbol: "download"
 ---
 <!-- Start editing content here -->
 
-### Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)
-
 ## Projektinformationen
 
 * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
@@ -74,3 +72,5 @@ symbol: "download"
 * [Logo Schwarzweiß (PDF)]({{ sitebase.url }}/downloads/logo_ws.pdf)  
 * [Logo Schwarzweiß (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
 * [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)   
+
+*Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*

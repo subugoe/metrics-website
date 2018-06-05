@@ -12,8 +12,6 @@ symbol: "download"
 ---
 <!-- Start editing content here -->
 
-### All our publications can also be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)
-
 ## Project information
 
 * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
@@ -75,4 +73,6 @@ symbol: "download"
 * [Logo grayscale (EPS)]({{ sitebase.url }}/downloads/logo_graustufen.eps)  
 * [Logo black-and-white (PDF)]({{ sitebase.url }}/downloads/logo_ws.pdf)  
 * [Logo black-and-white (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
-* [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)     
+* [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)
+
+*All our publications can also be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
