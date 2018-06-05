@@ -12,7 +12,7 @@ alt: "Upcoming Events"
 ---
 <!-- Start editing content here-->
 
-Visit the following events to meet members of the \*metrics project team:  
+Visit the following events to meet members of the \*metrics project team:    
 
 ### Bibliothekartag: 12 - 15 June 2018, Berlin {#BIBTAG2018}
 
