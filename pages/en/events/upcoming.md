@@ -12,8 +12,8 @@ alt: "Upcoming Events"
 ---
 <!-- Start editing content here-->
 
-Visit the following events to meet members of the \*metrics project team:   
-  
+Visit the following events to meet members of the \*metrics project team:    
+
 ### Bibliothekartag: 12 - 15 June 2018, Berlin {#BIBTAG2018}
 
 Recent questions and solutions about Open Access are becoming more and more common in the day-to-day procedures librarians face. Therefore, the German [Bibliothekartag](https://bibliothekartag2018.de/?lang=en) shall not be missed, if one wants to inform themselves extensively. As well as in 2017, in 2018 \*metrics will join the event with two contributions:
