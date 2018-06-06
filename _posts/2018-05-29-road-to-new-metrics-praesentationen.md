@@ -23,3 +23,9 @@ Am 14. und 15. Mai 2018 fand unser Repository Metrics Workshop „Road To New Me
 - Zahedi, Zohreh. [Quality challenges of altmetric data aggregators](http://doi.org/10.5281/zenodo.1250042).
 
 Bei weiteren Fragen erreichen Sie uns jederzeit per Email: metrics-project@sub.uni-goettingen.de.
+
+## Fotos
+Bei Interesse findet man [hier](https://metrics-project.net/en/news/2018-06-06-road-to-new-metrics-pictures) einige Fotos von unserem Workshop "Road To New Metrics".
+
+{:.img--decoration-blue}
+![Gruppenarbeit](https://metrics-project.net/img/events/6-Groupwork-AstridOrth.jpg){: style="min-width: 25%"}.
