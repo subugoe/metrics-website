@@ -25,7 +25,7 @@ On May 14-15, 2018 our Repository Metrics Workshop „Road To New Metrics“ too
 If you have any further questions, feel free to contact us anytime via Email: metrics-project@sub.uni-goettingen.de.
 
 ## Impressions
-If you like, you may find some impressions of our workshop following this [link](https://metrics-project.net/en/news/2018-06-06-road-to-new-metrics-pictures)
+If you like, you may find some impressions of our workshop following [this link](https://metrics-project.net/en/news/2018-06-06-road-to-new-metrics-pictures).
 
 {:.img--decoration-blue}
 ![Gruppenarbeit](https://metrics-project.net/img/events/6-Groupwork-AstridOrth.jpg){: style="min-width: 25%"}.
