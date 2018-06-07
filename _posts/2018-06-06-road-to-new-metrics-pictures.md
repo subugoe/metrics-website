@@ -9,7 +9,7 @@ ref: road-to-new-metrics-pictures
 ---
 <!-- Start editing content here-->
 
-## Impressison from our workshop „Road To New Metrics“
+## Impressions from our workshop „Road To New Metrics“
 
 {:.img--decoration-blue}
 ![ZBW, Hamburg](https://metrics-project.net/img/events/0-A-EstablishingShot-B.jpg){: style="min-width: 25%"}
