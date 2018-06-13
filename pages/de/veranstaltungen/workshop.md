@@ -10,57 +10,26 @@ position:
 order: 1
 alt: "Joint Open Metrics - COAR Workshop"
 ---
+
 <!-- Start editing content here-->
+Am 14. und 15. Mai 2018 fand unser Repository Metrics Workshop „Road To New Metrics“ in Hamburg statt. Wir haben uns sehr darüber gefreut, 50 Teilnehmer aus aller Welt begrüßen zu dürfen und möchten uns noch einmal ausdrücklich für das Interesse an unserer Arbeit beim [Metrics Project](https://metrics-project.net/index.html) und für die spannenden Präsentationen bedanken. Alle Präsentationen können drüben auf der [COAR Repositories Website](https://www.coar-repositories.org/community/coar-annual-meeting-2018/programme/) gefunden werden, bzw. direkt über die hier aufgeführten Links:
 
+## Montag, 14.5.2018
+- Fenner, Martin. [Open Metrics as Part of Persistent Identifier Infrastructure](http://doi.org/10.5281/zenodo.1250026).
+- Giesler, Martin. [Social Media: The New Gatekeeper](http://doi.org/10.5281/zenodo.1250028).
+- Lindner, Diana, Gill, Julian, & Orth, Astrid. [metrics Project & Social Media Registry (SoMeR)](http://doi.org/10.5281/zenodo.1250032).
+- Stropel, Julius. [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034).
 
-<!-- Header test-->
+## Dienstag, 15.5.2018
+- MacIntyre, Ross. [Standardised usage statistics from repositories (IRUS)](http://doi.org/10.5281/zenodo.1250036).
+- Schirrwagen, Jochen. [The larger the network the better the usage statistics: the how, when, why to participate in OpenAIRE usage metrics](http://doi.org/10.5281/zenodo.1250038).
+- Riese, Wolfgang. [ECONSTOR: Usage statistics of a subject repository](http://doi.org/10.5281/zenodo.1250040).
+- Zahedi, Zohreh. [Quality challenges of altmetric data aggregators](http://doi.org/10.5281/zenodo.1250042).
 
-{:.img--decoration-purple}
-![Repository Workshop]({{ site.url }}/img/events/COAR_header_6.png "*metrics Repository Workshop"){: style="min-width: 100%"}
+Bei weiteren Fragen erreichen Sie uns jederzeit per Email: metrics-project@sub.uni-goettingen.de.
 
+## Fotos
+Bei Interesse findet man [hier](https://metrics-project.net/en/news/2018-06-06-road-to-new-metrics-pictures) einige Fotos von unserem Workshop "Road To New Metrics".
 
-Das \*metrics-Team ist stolz, zum ersten Workshop im Jahr 2018 einladen zu können!  
-  
-Der Workshop wird der diesjährigen [COAR Jahrestagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/) in Hamburg vorangehen.  
-In der zweigeteilten Veranstaltung (14 Mai 2018 14:00-17:00 Uhr und 15. Mai 2018 9:00-13:00 Uhr)
-wollen wir den Blick darauf richten, welchen Nutzen Metriken anbieten und dabei verschiedene Szenarien betrachten.
-Damit ist sie besonders aufschlussreich für Vertreter der COAR-Mitgliedsorganisationen und alle weiteren, die sich mit dem Thema
-Repositorien und/oder unserem Projekt auseinandersetzen wollen. Die Anmeldung erfolgt über das [Registrierungsformular zur Tagung](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/) 
-Sobald die Registrierung über die COAR-Website nicht mehr möglich ist, wenden Sie sich bitte an [metrics-project@sub.uni-goettingen.de](mailto:metrcis-project@sub.uni-goettingen.de), um zu erfahren, ob Sie noch berücksichtigt werden können. Bitte beachten Sie, dass eine Bestätigung der Anmeldung notwendig ist, um teilzunehmen. 
-  
-### Programm  
-Das Programm für den Workshop finden Sie [hier.]({{ site.url }}/downloads/COAR_metrics_workshop_program_website.pdf)
-  
-### ZBW  
-Der Workshop wird in der ZBW stattfinden. Das Leibniz-Informationszentrum Wirtschaft ist nicht nur ein Projektpartner
-von \*metrics, sondern auch das weltgrößte Informationszentrum für Wirtschaftsliteratur. Die ZBW setzt sich für Open Science
-und Open Science ein und betreibt Forschung zu diesen Gebieten.  
-  
-### Anfahrt  
-Die ZBW liegt inmitten der Hamburger Innenstadt an der Binnenalster.  
-
-<!-- insert Map here-->
-
-{:.img--decoration-purple}
-![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 50%" }
-  
-Haltestellen in der Nähe sind:  
-  
-**Stephansplatz**  
-U-Bahn (U1)  
-Bus (4, 5, 34, 109)  
-  
-**Dammtor**  
-Zug  
-Straßenbahn (S11, S21, S31)  
-Bus (4, 5, 34, 109)  
-  
-**Jungfernstieg**  
-Straßenbahn (S1, S2, S3)  
-U-Bahn (U2, U4)  
-Bus (4, 5, 34, 36, 109)  
-  
-**Hauptbahnhof / Central Station**  
-Zug  
-Straßenbahn (alle Linien)  
-U-Bahn (U1, U2, U3)  
+{:.img--decoration-blue}
+![Gruppenarbeit](https://metrics-project.net/img/events/6-Groupwork-AstridOrth.jpg){: style="min-width: 25%"}.
