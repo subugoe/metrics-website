@@ -10,57 +10,27 @@ position:
 order: 1
 alt: "Joint Open Metrics - COAR Workshop"
 ---
+
 <!-- Start editing content here-->
+On May 14-15, 2018 our Repository Metrics Workshop „Road To New Metrics“ took Place in Hamburg, Germany. We were pleased to welcome 50 participants from all over the world and would like to thank you once again for your interest in our work at the [Metrics Project](https://metrics-project.net/index.html) and for your presentations regarding different uses metrics can provide in varying scenarios. You can find all of the presentations at the [COAR Repositories Website](https://www.coar-repositories.org/community/coar-annual-meeting-2018/programme/) or by clicking on one of the following links:
 
+## Monday, May 14th 2018
+- Fenner, Martin. [Open Metrics as Part of Persistent Identifier Infrastructure](http://doi.org/10.5281/zenodo.1250026).
+- Giesler, Martin. [Social Media: The New Gatekeeper](http://doi.org/10.5281/zenodo.1250028).
+- Lindner, Diana, Gill, Julian, & Orth, Astrid. [metrics Project & Social Media Registry (SoMeR)](http://doi.org/10.5281/zenodo.1250032).
+- Stropel, Julius. [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034).
 
-<!-- Header test--> 
+## Tuesday, May 15th 2018
+- MacIntyre, Ross. [Standardised usage statistics from repositories (IRUS)](http://doi.org/10.5281/zenodo.1250036).
+- Schirrwagen, Jochen. [The larger the network the better the usage statistics: the how, when, why to participate in OpenAIRE usage metrics](http://doi.org/10.5281/zenodo.1250038).
+- Riese, Wolfgang. [ECONSTOR: Usage statistics of a subject repository](http://doi.org/10.5281/zenodo.1250040).
+- Zahedi, Zohreh. [Quality challenges of altmetric data aggregators](http://doi.org/10.5281/zenodo.1250042).
 
-{:.img--decoration-purple}
-![Repository Workshop]({{ site.url }}/img/events/COAR_header_6.png){: style="min-width: 100%" }
-  
-The \*metrics team is proud to announce the first workshop in 2018!  
-  
-It will precede the [COAR annual meeting](https://www.coar-repositories.org/community/coar-annual-meeting-2018/) in Hamburg, Germany.  
-The workshop will be dissected into two parts (14 May2018 2pm-5pm and 15 May 2018 9am-1pm)
-and focus on different uses metrics can provide in varying scenarios. So, it is especially informative for 
-members of COAR-organizations and everyone interested in the topic of repositories and/or the \*metrics project.
-[Registration is possible via COAR](https://www.coar-repositories.org/community/coar-annual-meeting-2018/registration/).  
-As soon as the COAR registration closes, please e-mail inquiries to [metrics-project@sub.uni-goettingen.de](mailto:metrics-project@sub.uni-goettingen.de), so we can provide you with information about whether registration is still possible. Please note that to take part in the workshop confirmation of your registration is required.  
+If you have any further questions, feel free to contact us anytime via Email: metrics-project@sub.uni-goettingen.de.
 
-### Program
-You can find the workshop program [here.]({{ site.url }}/downloads/COAR_metrics_workshop_program_website.pdf)
-    
-### ZBW  
-The workshop will take place in the ZBW building. The Leibniz Information Centre for 
-Economics is not only one of our project partners, but also the world&#39;s biggest information
-centre concerned with literature on the topic of economics. The ZBW is an advocate of open science 
-and open access and does research in both areas.  
-  
-### Location  
-The ZBW is located in Hamburg&#39;s city centre by the Binnenalster river.  
-  
-<!-- Insert Map here-->  
+## Impressions
+If you like, you may find some impressions of our workshop following [this link](https://metrics-project.net/en/news/2018-06-06-road-to-new-metrics-pictures).
 
-{:.img--decoration-purple}
-![Map]({{ site.url }}/img/events/COAR_Location.jpg){: style="min-width: 50%" }
-  
-Stations and stops near the ZBW are:  
-  
-**Stephansplatz**  
-Underground (U1)  
-Bus (4, 5, 34, 109)  
-  
-**Dammtor**  
-Railway  
-Rapid-transit railway (S11, S21, S31)  
-Bus (4, 5, 34, 109)  
-  
-**Jungfernstieg**  
-Rapid-transit railway (S1, S2, S3)  
-Underground (U2, U4)  
-Bus (4, 5, 34, 36, 109)  
-  
-**Hauptbahnhof / Central Station**  
-Railway  
-Rapid-transit railway (all lines) 
-Underground (U1, U2, U3)  
+{:.img--decoration-blue}
+![Gruppenarbeit](https://metrics-project.net/img/events/6-Groupwork-AstridOrth.jpg){: style="min-width: 25%"}.
+
