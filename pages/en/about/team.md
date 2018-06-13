@@ -25,7 +25,7 @@ alt: "introduction of the project team"
         <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" alt="" class="team_member_img"><br>
         {{ item.name }}<br>
         <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/icons/email.svg"></a>&nbsp;
-        {% for url in item.urls %}
+        {% for url in item.urls.en %}
         <a href="{{ url }}"><img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px;"></a>
         {% endfor %}
       </div>
