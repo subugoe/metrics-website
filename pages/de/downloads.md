@@ -25,7 +25,7 @@ symbol: "download"
 
 ### WebSci2018 
 * Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media](https://doi.org/10.1145/3201064.3201101)
-* WebSci2018: Olga Zagovora - [Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097)
+* WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Präsentation: Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
 
 ### Open Metrics Seminar
 * Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
