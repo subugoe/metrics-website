@@ -54,8 +54,6 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
   
-* 2018-05- 14-17 \| [COAR Annual Meeting]({{ site.url }}/en/events/workshop2018/)
-* 2018-05- 23      \| [Open Metrics Seminar]({{ site.url }}/en/events/upcoming/#OPENMSEMINAR2018)
 * 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/en/events/upcoming/#BIBTAG2018)
 * 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/en/events/upcoming/#STI2018)
 
