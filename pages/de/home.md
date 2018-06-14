@@ -48,9 +48,7 @@ alt: "Webseite des *metrics Projektes"
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
-  
-* 2018-05- 14-17 \| [COAR Jahrestagung]({{ site.url }}/de/veranstaltungen/workshop2018/)  
-* 2018-05- 23      \| [Open Metrics Seminar]({{ site.url }}/de/veranstaltungen/kommende/#OPENMSEMINAR2018)
+ 
 * 2018-06- 12-15 \| [107. Bibliothekartag]({{ site.url }}/de/veranstaltungen/kommende/#BIBTAG2018)
 * 2018-09- 12-14 \| [STI Konferenz 2018]({{ site.url }}/de/veranstaltungen/kommende/#STI2018)
 
