@@ -1,89 +1,122 @@
 
 - name: Astrid Orth
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/
-    - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/astrid-orth/
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/astrid-orth/
   mail: orth@sub.uni-goettingen.de
 
 - name: Daniel Beucke
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/
-    - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/daniel-beucke/
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/daniel-beucke/
   mail: beucke@sub.uni-goettingen.de
 
 - name: Maxie Gottschling
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/maxie-gottschling/
-    - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/maxie-gottschling/
+    en:
+      - https://www.sub.uni-goettingen.de/en/contact/staff-a-z/staff-details/person/maxie-gottschling/
   mail: gottschling@sub.uni-goettingen.de
 
 - name: Martin Giesler
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/martin-giesler/
-    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/martin-giesler/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/martin-giesler/
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/martin-giesler/
   mail: giesler@sub.uni-goettingen.de
-        
+
 - name: Marni Hanke
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
-    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/marni-denise-hanke/
   mail: hanke@sub.uni-goettingen.de
-  
+
 - name: Moritz Wiemann
   urls:
-    - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
-    - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
+    de:
+      - https://www.sub.uni-goettingen.de/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
+    en:
+      - https://www.sub.uni-goettingen.de/en/kontakt/personen-a-z/personendetails/person/moritz-wiemann/
   mail: wiemann@sub.uni-goettingen.de
 
 - name: Athanasios Mazarakis
   urls:
-    - http://www.zbw.eu/de/forschung/web-science/athanasios-mazarakis/
-    - http://www.zbw.eu/en/forschung/web-science/athanasios-mazarakis/
-    - http://www.ws.informatik.uni-kiel.de/de/team/dr.-athanasios-mazarakis
+    de:
+      - http://www.zbw.eu/de/forschung/web-science/athanasios-mazarakis/
+      - http://www.ws.informatik.uni-kiel.de/de/team/dr.-athanasios-mazarakis
+    en:
+      - http://www.zbw.eu/en/forschung/web-science/athanasios-mazarakis/
+      - http://www.ws.informatik.uni-kiel.de/en/team/dr-athanasios-mazarakis
   mail: a.mazarakis@zbw.eu
 
 - name: Isabella Peters
   urls:
-    - http://www.zbw.eu/de/forschung/web-science/isabella-peters/
-    - http://www.zbw.eu/en/forschung/web-science/isabella-peters/
+    de:
+      - http://www.zbw.eu/de/forschung/web-science/isabella-peters/
+    en:
+      - http://www.zbw.eu/en/forschung/web-science/isabella-peters/
   mail: ipe@informatik.uni-kiel.de
 
 - name: Maryam Mehrazar
   urls:
-    - http://www.zbw.eu/de/forschung/web-science/maryam-mehrazar/
-    - http://www.zbw.eu/en/forschung/web-science/maryam-mehrazar/
+    de:
+      - http://www.zbw.eu/de/forschung/web-science/maryam-mehrazar/
+    en:
+      - http://www.zbw.eu/en/forschung/web-science/maryam-mehrazar/
   mail: m.mehrazar@zbw.eu
 
 - name: Steffen Lemke
   urls:
-    - http://www.zbw.eu/de/forschung/web-science/steffen-lemke/
-    - http://www.zbw.eu/en/forschung/web-science/steffen-lemke/
+    de:
+      - http://www.zbw.eu/de/forschung/web-science/steffen-lemke/
+    en:
+      - http://www.zbw.eu/en/forschung/web-science/steffen-lemke/
   mail: S.Lemke@zbw.eu
 
 - name: Diana Lindner
   urls:
-    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
-    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
+    de:
+      - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
+    en:
+      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Diana.Lindner%40gesis.org
   mail: diana.lindner@gesis.org
 
 - name: Katrin Weller
   urls:
-    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
-    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
+    de:
+      - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
+    en:
+      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
   mail: Katrin.Weller@gesis.org
 
 - name: Olga Zagovora
   urls:
-    - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org
-    - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org 
+    de:
+      - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org
+    en:
+      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=Olga.Zagovora%40gesis.org
   mail: olga.zagovora@gesis.org
 
 - name: Andreas Krausz
   urls:
-    - http://www.gbv.de
+    de:
+      - http://www.gbv.de
+    en:
+      - http://www.gbv.de/?set_language=en
   mail: Andreas.Krausz@gbv.de
-  
+
 - name: Julius Stropel
   urls:
-    - http://www.gbv.de
+    de:
+      - http://www.gbv.de
+    en:
+      - http://www.gbv.de/?set_language=en
   mail: julius.stropel@gbv.de
