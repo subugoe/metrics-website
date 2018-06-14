@@ -22,11 +22,18 @@ alt: "introduction of the project team"
     <div class="cell margin-bottom-2 margin-top-2 medium-4 large-3">
       <div class="team_member">
         {% assign img = item.name | downcase | replace: ' ', '_' %}
-        <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" alt="" class="team_member_img"><br>
+        <img src="{{ site.baseurl }}/img/bilder_team/image_{{ img }}.jpg" class="team_member_img" aria-hidden="true">
+        <br>
         {{ item.name }}<br>
-        <a href="mailto:{{ item.mail}}"><img src="{{ site.baseurl }}/img/icons/email.svg"></a>&nbsp;
+        <a href="mailto:{{ item.mail}}" title="Mail to {{ item.name }}">
+          <img src="{{ site.baseurl }}/img/icons/email.svg" aria-hidden="true">
+          <span class="show-for-sr">Mail to {{ item.name }}</span>
+        </a>&nbsp;
         {% for url in item.urls.en %}
-        <a href="{{ url }}"><img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px;"></a>
+        <a href="{{ url }}" title="Open hompage of {{ item.name }}">
+          <img src="{{ site.baseurl }}/img/icons/new-window.svg" style="margin-top: -5px;" aria-hidden="true">
+          <span class="show-for-sr">Open hompage of {{ item.name }}</span>
+        </a>
         {% endfor %}
       </div>
     </div>
