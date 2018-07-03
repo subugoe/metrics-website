@@ -14,13 +14,6 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
   
-### Bibliothekartag: 12.-15. Juni 2018, Berlin {#BIBTAG2018}
-
-Neue Fragen und Lösungen rund um das Thema Open Access nehmen immer mehr Platz im Bibliotheksalltag ein. So gehört der traditionsreiche [Bibliothekartag](https://bibliothekartag2018.de/) zu den jährlichen &bdquo;Pflichtveranstaltungen&quot;, um sich ausgiebig zu informieren. Auch 2018 wird \*metrics mit zwei Beiträgen teilnehmen:
-
-Am **Dienstag den 13. Juni** wird [Astrid Orth]({{ sitebase.url }}/de/uber_uns/team/) von **11:00 - 11:30 in Saal C** zunächst einen Vortrag zu [&bdquo;Wahrnehmung und Transparenz offener Metriken&quot;]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf) halten und den Forschungsstand des \*metrics Projektes präsentieren.
-
-Von **13:00 - 15:30** veranstalten [Astrid Orth]({{ sitebase.url }}/de/uber_uns/team/), [Daniel Beucke]({{ sitebase.url }}/de/uber_uns/team/) und [Julius Stropel]({{ sitebase.url }}/de/uber_uns/team/) außerdem in **Raum 30210** zusammen mit [Ben Mc Leish](https://twitter.com/benmcleish?lang=de) ein Hands-on zum Thema [&bdquo;Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken&quot;.]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)  
 
 ### STI Konferenz: 12. - 14. September 2018, Leiden (Niederlande) {#STI2018}
 Vom 12. bis zum 14. Semptember wird in Leiden (Niederlande) die 23. STI Konferenz stattfinden. Der Fokus liegt [dieses Jahr](http://sti2018.cwts.nl/) auf der Transformation von Indikatoren. Ziel ist es einem internationalen Publikum eine Platform zur Diskussion umfassenderer Indikatoren zu bieten. [Katrin Weller]({{ sitebase.url }}/de/uber_uns/team/), [Astrid Orth]({{ sitebase.url }}/de/uber_uns/team/) und [Isabella Peters]({{ sitebase.url }}/de/uber_uns/team/) vom \*metrics-Team werden Track 11 über die Herausforderung von Social-Media Daten für die Bibliometrie ausrichten.
