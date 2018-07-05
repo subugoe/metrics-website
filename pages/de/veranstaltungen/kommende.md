@@ -14,7 +14,7 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
   
-### Workshop on Open Citations: 3. 5. September, Bologna (Italien) {#OpenCitations}
+### Workshop on Open Citations: 3. 5. September 2018, Bologna (Italien) {#OpenCitations}
 Vom 3. bis zum 5. September findet in Bologna ein Workshop zu Open Citations statt. Genauer gesagt: zwei Tage Workshop und ein Tag Hackathon. Das \*metrics-Team wird vor Ort vertreten sein und einen Workshop zum Thema "How do citation-based and alternative metrics benefit each other?" halten. Alle weiteren Infos gibt es [auf dieser Website](https://workshop-oc.github.io/).
 
 ### STI Konferenz: 12. - 14. September 2018, Leiden (Niederlande) {#STI2018}
@@ -30,4 +30,4 @@ Am 25. September 2018 findet in London in Zusammenarbeit mit der Altmetrics-Konf
 Am 26. und 27. September 2018 findet in London die 5AM statt. Das \*metrics-Team wird dort ein Poster zum Forschungsprojekt präsentieren und mit mehreren Kollegen vor Ort sein. [Hier](http://www.altmetricsconference.com/) gibt es alle Informationen zur Altmetrics Konferenz.
 
 ### ASIS&T: 10. - 14. November 2018, Vancouver (Kanada) {#asist}
-Vom 10. bis zum 14. November 2018 findet in Vancouver, Kanada, das jährliche Meeting der Association for Information Science and Technology statt. Kollegen aus dem \*metrics-Team werden folgendes Paper präsentieren: Are There Different Types of Online Research Impact? Alle Infos zum Programm und zur Registrierung gibt es [hier](http://www.altmetricsconference.com/).
+Vom 10. bis zum 14. November 2018 findet in Vancouver, Kanada, das jährliche Meeting der Association for Information Science and Technology statt. Kollegen aus dem \*metrics-Team werden folgendes Paper präsentieren: Are There Different Types of Online Research Impact? Alle Infos zum Programm und zur Registrierung gibt es [hier](https://www.asist.org/am18/).
