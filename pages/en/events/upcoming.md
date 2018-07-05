@@ -14,11 +14,11 @@ alt: "Upcoming Events"
 
 Visit the following events to meet members of the \*metrics project team:    
 
-### Workshop on Open Citations: 3. 5. September, Bologna (Italien) {#OpenCitations}
+### Workshop on Open Citations: 3. 5. September 2018, Bologna (Italy) {#OpenCitations}
 
 From the 3rd to the 5th of September there will be a workshop on Open Citations in Bologna: Our \*metrics-Team will give a talk on "How do citation-based and alternative metrics benefit each other?". We are looking forward to meeting you there! Further informations can be found [here](https://workshop-oc.github.io/).
   
-### STI Conference 2018: 12. - 14. September, Leiden (The Netherlands) {#STI2018}
+### STI Conference 2018: 12. - 14. September 2018, Leiden (The Netherlands) {#STI2018}
 
 The 23. STI conference will be held from 12. to the 14. of September in Leiden (The Netherlands). [This years](http://sti2018.cwts.nl/) Focus is on the transition of indicators. The aim is to offer an international platform to discuss more comprehensive and contextualized indicators. [Katrin Weller]({{ sitebase.url }}/en/uber_uns/team/), [Astrid Orth]({{ sitebase.url }}/en/uber_uns/team/) and [Isabella Peters]({{ sitebase.url }}/en/uber_uns/team/) of the \*metrics-team will host track 11 about challenges of social media data for bibliometrics.  
 
@@ -32,4 +32,4 @@ The 5:AM Conference will be preceded by the Altmetrics18 workshop on the 25th of
 First held in 2014, this event aims to bring together an engaged group of institutions, researchers, publishers, funders and others from across the scholarly space to discuss all things altmetrics. In 2018, the conference will take place in London at the School of Advanced Study on the 26-27 of September. Our \*metrics-Team will present a Poster and inform about the current state of our project. [Here](http://www.altmetricsconference.com/) you can find further informations.
 
 ### ASIS&T: 10. - 14. November 2018, Vancouver (Canada) {#ASIST18}
-The ASIS&T Annual Meeting is going to take place from the 10th - 14th of November 2018 in Vancouver, Canada. Our \*metrics-Team is going to present the following paper: Are There Different Types of Online Research Impact? Further informations can be found [here](http://www.altmetricsconference.com/).
+The ASIS&T Annual Meeting is going to take place from the 10th - 14th of November 2018 in Vancouver, Canada. Our \*metrics-Team is going to present the following paper: Are There Different Types of Online Research Impact? Further informations can be found [here](https://www.asist.org/am18/).
