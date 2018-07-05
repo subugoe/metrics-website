@@ -14,7 +14,7 @@ alt: "Upcoming Events"
 
 Visit the following events to meet members of the \*metrics project team:    
 
-### Workshop on Open Citations: 3. 5. September, Bologna (Italien) {OpenCitations}
+### Workshop on Open Citations: 3. 5. September, Bologna (Italien) {#OpenCitations}
 
 From the 3rd to the 5th of September there will be a workshop on Open Citations in Bologna: Our \*metrics-Team will give a talk on "How do citation-based and alternative metrics benefit each other?". We are looking forward to meeting you there! Further informations can be found [here](https://workshop-oc.github.io/).
   
@@ -28,7 +28,7 @@ The 12th "Open Access Days" are going to be held from 24. to the 26. of Septembe
 ### altmetrics18: 25. September 2018, London (UK) {#altmetrics18}
 The 5:AM Conference will be preceded by the Altmetrics18 workshop on the 25th of September 2018. Further information can be found [here](http://altmetrics.org/altmetrics18/).
 
-### 5:AM: 26. - 27. September 2018, London (UK) {#5amconf}
+### 5:AM: 26. - 27. September 2018, London (UK)
 First held in 2014, this event aims to bring together an engaged group of institutions, researchers, publishers, funders and others from across the scholarly space to discuss all things altmetrics. In 2018, the conference will take place in London at the School of Advanced Study on the 26-27 of September. Our \*metrics-Team will present a Poster and inform about the current state of our project. [Here](http://www.altmetricsconference.com/) you can find further informations.
 
 ### ASIS&T: 10. - 14. November 2018, Vancouver (Canada) {#ASIST18}
