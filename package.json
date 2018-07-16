@@ -13,7 +13,7 @@
     "node-sass": "^4.9.0",
     "nodemon": "^1.17.5",
     "ntl": "^3.0.0",
-    "postcss": "^6.0.22",
+    "postcss": "^7.0.0",
     "postcss-cli": "^5",
     "pretty-exceptions": "^1.4.0",
     "sassdoc": "^2.5.0",
