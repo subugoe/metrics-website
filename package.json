@@ -14,7 +14,7 @@
     "nodemon": "^1.17.5",
     "ntl": "^3.0.0",
     "postcss": "^6.0.22",
-    "postcss-cli": "^5",
+    "postcss-cli": "^6.0.0",
     "pretty-exceptions": "^1.4.0",
     "sassdoc": "^2.5.0",
     "stylelint": "^9.2.1",
