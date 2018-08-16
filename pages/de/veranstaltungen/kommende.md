@@ -13,6 +13,9 @@ alt: "Kommende Veranstaltungen"
 <!-- Start editing content here-->
 
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
+
+### GBV Verbundkonferenz: 29. - 30. August 2018, Kiel 
+Am 29. und 30. August 2018 findet in Kiel die 22. Verbundkonferenz des Gemeinsamen Bibliotheksverbundes (GBV) statt. Gastgeber der zweitägigen Tagung sind diesmal die ZBW – Leibniz-Informationszentrum Wirtschaft und die Universitätsbibliothek Kiel. Mehr Informationen gibt es [hier](https://verbundkonferenz.gbv.de/).
   
 ### Workshop on Open Citations: 3. 5. September 2018, Bologna (Italien) {#OpenCitations}
 Vom 3. bis zum 5. September findet in Bologna ein Workshop zu Open Citations statt. Genauer gesagt: zwei Tage Workshop und ein Tag Hackathon. Das \*metrics-Team wird vor Ort vertreten sein und einen Workshop zum Thema "How do citation-based and alternative metrics benefit each other?" halten. Alle weiteren Infos gibt es [auf dieser Website](https://workshop-oc.github.io/).
