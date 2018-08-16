@@ -12,7 +12,12 @@ alt: "Upcoming Events"
 ---
 <!-- Start editing content here-->
 
-Visit the following events to meet members of the \*metrics project team:    
+Visit the following events to meet members of the \*metrics project team:   
+
+### GBV Verbundkonferenz: 29. - 30. August 2018, Kiel 
+
+From the 29th to the 30th of August 2018 there will be the 22. Verbundkonferenz des Gemeinsamen Bibliotheksverbundes (GBV) in Kiel. Host of the conference will be ZBW – Leibniz-Informationszentrum Wirtschaft - and the Universitätsbibliothek Kiel. You may find further information [here](https://verbundkonferenz.gbv.de/).
+  
 
 ### Workshop on Open Citations: 3. 5. September 2018, Bologna (Italy) {#OpenCitations}
 
