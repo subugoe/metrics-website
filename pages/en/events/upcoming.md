@@ -19,7 +19,7 @@ Visit the following events to meet members of the \*metrics project team:
 From the 29th to the 30th of August 2018 there will be the 22. Verbundkonferenz des Gemeinsamen Bibliotheksverbundes (GBV) in Kiel. Host of the conference will be ZBW – Leibniz-Informationszentrum Wirtschaft - and the Universitätsbibliothek Kiel. You may find further information [here](https://verbundkonferenz.gbv.de/).
   
 
-### Workshop on Open Citations: 3. 5. September 2018, Bologna (Italy) {#OpenCitations}
+### Workshop on Open Citations: 3. - 5. September 2018, Bologna (Italy) {#OpenCitations}
 
 From the 3rd to the 5th of September there will be a workshop on Open Citations in Bologna: Our \*metrics-Team will give a talk on "How do citation-based and alternative metrics benefit each other?". We are looking forward to meeting you there! Further informations can be found [here](https://workshop-oc.github.io/).
   
