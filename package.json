@@ -6,7 +6,7 @@
   "homepage": "https://metrics-project.net",
   "author": "Nils Windisch <windisch@sub.uni-goettingen.de>",
   "devDependencies": {
-    "concurrently": "^3.5.1",
+    "concurrently": "^4.0.0",
     "cssnano": "^3.10",
     "foundation-sites": "^6.4",
     "live-server": "^1.2",
