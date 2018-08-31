@@ -29,7 +29,7 @@ Vom 24. bis 26. September 2018 finden in Graz (Österreich) die 12. Open-Access-
 ### altmetrics18: 25. September 2018, London (Großbritannien) {#altmetrics18}
 Am 25. September 2018 findet in London in Zusammenarbeit mit der Altmetrics-Konferenz 5AM der Workshop altmetrics18 statt. [Hier](http://altmetrics.org/altmetrics18/) gibt es weitere Informationen zum Workshop.
 
-### 5AM: 26. - 27. September 2018, London (Großbritannien)
+### 5AM: 26. - 27. September 2018, London (Großbritannien) {#amlondon}
 Am 26. und 27. September 2018 findet in London die 5AM statt. Das \*metrics-Team wird dort ein Poster zum Forschungsprojekt präsentieren und mit mehreren Kollegen vor Ort sein. [Hier](http://www.altmetricsconference.com/) gibt es alle Informationen zur Altmetrics Konferenz.
 
 ### ASIS&T: 10. - 14. November 2018, Vancouver (Kanada) {#asist}
