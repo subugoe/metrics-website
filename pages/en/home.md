@@ -58,7 +58,7 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 * 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/en/events/upcoming/#STI2018)
 * 2018-09- 24-26 \| [Open Access Days 2018]({{site.url}}/en/events/upcoming/#OATAGE2018)
 * 2018-09- 25    \| [altmetrics Workshop 18]({{site.url}}/en/events/upcoming/#altmetrics18)
-* 2018-09- 26-27 \| [5:AM]({{site.url}}/en/events/upcoming/#5amlondon)
+* 2018-09- 26-27 \| [5:AM]({{site.url}}/en/events/upcoming/#amlondon)
 
 <!-- Stop editing here -->
 </div>
