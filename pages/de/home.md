@@ -52,7 +52,7 @@ alt: "Webseite des *metrics Projektes"
 * 2018-09- 03-05 \| [Workshop on Open Citations]({{site.url}}/de/veranstaltungen/kommende/#OpenCitations)
 * 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/de/veranstaltungen/kommende/#STI2018)
 * 2018-09- 24-26 \| [Open Access Days 2018]({{site.url}}/de/veranstaltungen/kommende/#OATAGE2018)
-* 2018-09- 25    \| [altmetrics Workshop 18]({{site.url}}/de/veranstaltungen/kommende/#altmetrics18)
+* 2018-09- 25    \| [altmetrics Workshop 18]({{site.url}}/de/veranstaltungen/kommende/#altmetrics18)
 * 2018-09- 26-27 \| [5:AM]({{site.url}}/de/veranstaltungen/kommende/#5am)
 
 <!-- Stop editing content here -->
