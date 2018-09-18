@@ -20,7 +20,7 @@ symbol: "download"
 ## Presentations 2018
 
 ### Workshop on Open Citations
-* Astrid Orth, Steffen Lemke - How do citation-based and alternative metrics benefit each other? [(Poster)]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
+* Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 ### Bibliothekartag
 * Astrid Orth - Wahrnehmung und Transparenz offener Metriken (German only)[(Presentation)](https://opus4.kobv.de/opus4-bib-info/files/3656/2018-06+BibTag_Berlin_Vortrag_Orth.pdf) [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf)
