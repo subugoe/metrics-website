@@ -8,7 +8,7 @@ parent: news
 ref: road-to-new-metrics-pictures
 ---
 <!-- Start editing content here-->
-From the arrival to the gathering of the results, we in gained many new perspectives on alternative metrics, their actors and protagonists in Hamburg. Here are some impressions of our workshop „Road To New Metrics“:testtesttesttesttesttesttesttesttesttesttesttesttesttest
+From the arrival to the gathering of the results, we in gained many new perspectives on alternative metrics, their actors and protagonists in Hamburg. Here are some impressions of our workshop „Road To New Metrics“:
 
 
 {:.img--decoration-blue}
