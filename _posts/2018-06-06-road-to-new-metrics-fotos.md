@@ -10,6 +10,7 @@ ref: road-to-new-metrics-fotos
 <!-- Start editing content here-->
 
 ## Eindrücke von unserem Workshop „Road To New Metrics“
+Von der Anreise bis zum Sammeln der Ergebnisse haben wir in Hamburg viele neue Perspektiven auf alternative Metriken, ihre Akteure und Protagonisten gewonnen. Hier sind einige Ausschnitte unseres Workshops:
 
 {:.img--decoration-blue}
 ![ZBW, Hamburg](https://metrics-project.net/img/events/0-A-EstablishingShot-B.jpg){: style="min-width: 25%"}
