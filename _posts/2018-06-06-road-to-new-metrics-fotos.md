@@ -9,11 +9,6 @@ ref: road-to-new-metrics-fotos
 ---
 <!-- Start editing content here-->
 Von der Anreise bis zum Sammeln der Ergebnisse haben wir in Hamburg viele neue Perspektiven auf alternative Metriken, ihre Akteure und Protagonisten gewonnen. Hier sind einige Impressionen unseres Workshops „Road To New Metrics“:
-testtesttesttesttesttesttesttesttest
-testtesttesttesttesttesttesttesttesttesttesttesttest
-testtesttesttesttesttest
-testtesttesttesttesttesttesttesttesttesttesttesttesttest
-testtesttesttest
 
 
 {:.img--decoration-blue}
