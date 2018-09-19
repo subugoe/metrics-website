@@ -15,13 +15,13 @@ Das *metrics-Team präsentierte sich mit einem [Poster]({{ sitebase.url }}/downl
 
 ### Eindrücke vom Open Access Workshop Bologna
 {:.img--decoration-blue}
-![Gruppenfoto](https://metrics-project.net/img/events/bologna_oaw_1.png){: style="min-width: 25%"}
+![Steffen Lemke](https://metrics-project.net/img/events/bologna_oaw_1.png){: style="min-width: 25%"}
 
 {:.img--decoration-blue}
-![Gruppenfoto](https://metrics-project.net/img/events/bologna_oaw_2.png){: style="min-width: 25%"}
+![Steffen Lemke](https://metrics-project.net/img/events/bologna_oaw_2.png){: style="min-width: 25%"}
 
 {:.img--decoration-blue}
-![Gruppenfoto](https://metrics-project.net/img/events/bologna_oaw_3.png){: style="min-width: 25%"}
+![Interaktives Poster](https://metrics-project.net/img/events/bologna_oaw_3.jpg){: style="min-width: 25%"}
 
 {:.img--decoration-blue}
-![Gruppenfoto](https://metrics-project.net/img/events/bologna_oaw_4.png){: style="min-width: 25%"}
+![Gruppenfoto](https://metrics-project.net/img/events/bologna_oaw_4.jpg){: style="min-width: 25%"}
