@@ -8,9 +8,10 @@ parent: news
 ref: open-citations-workshop
 ---
 <!-- Start editing content here-->
-Vom 3. Bis zum 5. September fand in Bologna der open Citations Workshop statt. Gemeinsam mit 60 anderen Forschern, Verlegern und Geldgebern diskutierten Astrid Orth und Steffen Lemke vom \*metrics Projekt über open Access zu bibliographischen Zitaten, entsprechende Rahmenrichtlinien, Erfahrungen mit offenen bibliographischen Zitaten, und einschlägige Projekte zu Zitationen und anderen Metriken.
+Vom 3. Bis zum 5. September fand in Bologna der Open Citations Workshop statt. Gemeinsam mit 60 anderen Forschern, Verlegern und Geldgebern diskutierten Astrid Orth und Steffen Lemke vom \*metrics Projekt über Open Access zu bibliographischen Zitaten, entsprechende Rahmenrichtlinien, Erfahrungen mit offenen bibliographischen Zitaten, und einschlägige Projekte zu Zitationen und anderen Metriken.
 
-Das \*metrics-Team präsentierte sich mit einem [Poster]({{ sitebase.url }}/downloads/metrics_poster_download.pdf) und erörterte mit den Teilnehmern die "How do citation-based and alternative metrics benefit each other?"
+Es war ein sehr gelungener Workshop mit vielen spannenden Präsentationen und einer sehr guten Organisation. Das \*metrics-Team präsentierte sich mit einem [Poster]({{ sitebase.url }}/downloads/metrics_poster_download.pdf) und erörterte mit den Teilnehmern die Frage "How do citation-based and alternative metrics benefit each other?"
+
 
 
 ### Eindrücke vom Open Access Workshop Bologna
