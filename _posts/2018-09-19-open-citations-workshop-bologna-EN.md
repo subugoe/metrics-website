@@ -14,7 +14,7 @@ It was a very successful workshop with many exciting presentations and a very go
 
 
 
-### Eindrücke vom Open Access Workshop Bologna
+### Impressions from the Open Access Workshop Bologna
 
 {:.img--decoration-blue}
 ![Steffen Lemke]({{ sitebase.url }}/img/events/bologna_oaw_1.png){: style="min-width: 25%"}
