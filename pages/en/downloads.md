@@ -19,6 +19,9 @@ symbol: "download"
 
 ## Presentations 2018
 
+### Open Access Days Graz 2018
+* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
+
 ### Workshop on Open Citations
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 

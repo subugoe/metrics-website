@@ -15,7 +15,11 @@ alt: "Kommende Veranstaltungen"
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
 
 ### OA Tage: 24. - 26. September 2018, Graz (Österreich) {#OATAGE2018}
-Vom 24. bis 26. September 2018 finden in Graz (Österreich) die 12. Open-Access-Tage statt. Gastgeber ist die Technische Universität Graz. Die Konferenz richtet sich an alle, die sich mit den Möglichkeiten, Bedingungen und Perspektiven des wissenschaftlichen Publizierens befassen: also z.B. Experten für Open Access aus Bibliotheken und Verlagen, Unterstützern des wissenschaftlichen Forschungs- und Kommunikationsprozesses, sowie Wissenschaftlern verschiedener Forschungsinstitute. Das \*metrics-Team wird vor Ort sein. Alle weiteren Information zum Programm und zur Registrierung findet man [hier](https://open-access.net/community/open-access-tage/open-access-tage-2018-graz/).
+Vom 24. bis 26. September 2018 finden in Graz (Österreich) die 12. Open-Access-Tage statt. Gastgeber ist die Technische Universität Graz. Die Konferenz richtet sich an alle, die sich mit den Möglichkeiten, Bedingungen und Perspektiven des wissenschaftlichen Publizierens befassen: also z.B. Experten für Open Access aus Bibliotheken und Verlagen, Unterstützern des wissenschaftlichen Forschungs- und Kommunikationsprozesses, sowie Wissenschaftlern verschiedener Forschungsinstitute. 
+
+Das \*metrics-Team ist vor Ort und präsentiert unter anderem den aktuellen Stand seiner Forschung mit einem Poster zu ["Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken"](https://zenodo.org/record/1410389). Außerdem stellen wir beim Tool Marktplatz unseren Altmetrics Generator "Metrician" vor.
+
+Alle weiteren Information zum Programm findet man [hier](https://open-access.net/community/open-access-tage/open-access-tage-2018-graz/).
 
 ### altmetrics18: 25. September 2018, London (Großbritannien) {#altmetrics18}
 Am 25. September 2018 findet in London in Zusammenarbeit mit der Altmetrics-Konferenz 5AM der Workshop altmetrics18 statt. [Hier](http://altmetrics.org/altmetrics18/) gibt es weitere Informationen zum Workshop.

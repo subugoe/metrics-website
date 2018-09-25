@@ -15,7 +15,11 @@ alt: "Upcoming Events"
 Visit the following events to meet members of the \*metrics project team:     
 
 ### Open Access Days: 24. - 26. September 2018, Graz (Austria) {#OATAGE2018}
-The 12th "Open Access Days" are going to be held from 24. to the 26. of September 2018 in Graz, Austria. Host will be the Technische Universität Graz. The conference tries to attract anyone who is working on the possibilities and perspectives of scientific publication: e.g. Open Access experts from libraries, colleagues dealing with dissemination and reseachers in general. The \*metrics-team will take part. Further informations can be found [here](https://open-access.net/community/open-access-tage/open-access-tage-2018-graz/).
+The 12th "Open Access Days" are going to be held from 24. to the 26. of September 2018 in Graz, Austria. Host will be the Technische Universität Graz. The conference tries to attract anyone who is working on the possibilities and perspectives of scientific publication: e.g. Open Access experts from libraries, colleagues dealing with dissemination and reseachers in general. 
+
+The \*metrics-team takes part and presents the progress of its research with a poster on ["Transparency and Reliablity in the Determination of Alternative Metrics"](https://zenodo.org/record/1410389)(German only). We also present our Altmetrics Generator "Metrician" at the Tool Marketplace.
+
+Further informations can be found [here](https://open-access.net/community/open-access-tage/open-access-tage-2018-graz/).
 
 ### altmetrics18: 25. September 2018, London (UK) {#altmetrics18}
 The 5:AM Conference will be preceded by the Altmetrics18 workshop on the 25th of September 2018. Further information can be found [here](http://altmetrics.org/altmetrics18/).
