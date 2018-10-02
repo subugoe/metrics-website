@@ -12,4 +12,5 @@ Die 23. Internationale Konferenz über Wissenschafts- und Technologieindikatoren
 
 ALs Tiel des 11. Tracks hielt Olga Zagorova außerdem eine Präsentation über Präsenz in Social Media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"
 
-{:.img--decoration-blue} ![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
+{:.img--decoration-blue}
+![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
