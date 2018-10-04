@@ -31,8 +31,8 @@ Im Rahmen des 11. Tracks stellte Olga Zagorova außerdem ihre Präsentation übe
 
 Eines der überraschenden Ergebnisse:<br/>
 Artikel bekommen mehr Aufmerksamkeit in sozialen Medien, wenn der letzgenannte Autor unbekannt ist.<br/>
-Die Präsentation findet sich [hier](https://www.slideshare.net/OlgaZagovora1/what-increases-social-media-attention-research-impact-author-prominence-or-title-attractiveness-115018382), der entsprechende Artikel kann [hier](https://arxiv.org/abs/1809.06299) herunter geladen werden.
-
+Die Präsentation findet sich [hier](https://www.slideshare.net/OlgaZagovora1/what-increases-social-media-attention-research-impact-author-prominence-or-title-attractiveness-115018382), der entsprechende Artikel kann [hier](https://arxiv.org/abs/1809.06299) herunter geladen werden.<br/>
+<br/>
 
 {:.img--decoration-blue}
 ![EVENT]({{ sitebase.url }}/img/events/STI_Leiden_(9).jpg){: style="min-width: 25%"}
