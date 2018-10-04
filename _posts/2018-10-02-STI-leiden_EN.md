@@ -2,26 +2,26 @@
 layout: post
 title: STI Leiden
 categories: news
-permalink: /de/meldungen/2018-10-02-STI-leiden
-lang: de
+permalink: /en/news/2018-10-02-STI-leiden
+lang: en
 parent: news
 ref: STI-leiden
 ---
 <!-- Start editing content here-->
-Die 23. Internationale Konferenz über Wissenschafts- und Technologieindikatoren (STI) fand 2018 in Leiden in den Niederlanden statt. Vom 12. bis zum 14. September ging es dort besonders um die Transformation von Indikatoren. Darüber hinaus deckte das Programm eine große Spanne von Themen ab, von Reproduzierbarkeit in der Szientometrie über die Erörterung des RRI Konzeptes bis hin zu Open Scholarship.<br/>
-Organisiert waren diese Themen in 12 Tracks, von denen Track 11 vom \*metrics-Team ausgerichtet wurde.
+The 23rd International Conference on Science, Technology and Innovation (STI) took place in Leiden, The Netherlands in 2018. From the 12th to the 14th of September it focused mainly on the transformation of indicators. Beyond that, the program covered a wide range of topics, from reproducibility in scientometrics and discussion of the RRI concept to Open Scholarship.<br/>
+These topics were structured in 12 tracks, of which Track 11 was hosted by the \*metrics team.
 
-Astrid Orth, Isabella Peters und Katrin Weller sprachen mit den Teilnehmern des 11. Tracks über die Herausforderung von Social-Media Daten für die Bibliometrie: Algorithmen, APIs, Aggregatoren.
+Astrid Orth, Isabella Peters and Katrin Weller talked with the participants of the 11th track about the challenges of social media data for bibliometrics: algorithms, APIs, aggregators.
 
 {:.img--decoration-blue}
-![Vorbereitung]({{ sitebase.url }}/img/events/STI_Leiden_(2).jpg){: style="min-width: 25%"}
+![Preparation]({{ sitebase.url }}/img/events/STI_Leiden_(2).jpg){: style="min-width: 25%"}
 
 {:.img--decoration-blue}
 ![Isabella Peters]({{ sitebase.url }}/img/events/STI_Leiden_(13).jpg){: style="min-width: 25%"}
 
 
 <br/>
-Im Rahmen des 11. Tracks stellte Olga Zagorova außerdem ihre Präsentation über Präsenz in Social Media vor: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
+Participating in the 11th track, Olga Zagorova also gave her presentation on visibility in social media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
 
 {:.img--decoration-blue}
 ![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
@@ -30,9 +30,9 @@ Im Rahmen des 11. Tracks stellte Olga Zagorova außerdem ihre Präsentation übe
 ![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(12).jpg){: style="min-width: 25%"}
 
 <br/>
-Eines der überraschenden Ergebnisse:<br/>
-Artikel bekommen mehr Aufmerksamkeit in sozialen Medien, wenn der letzgenannte Autor unbekannt ist.<br/>
-Die Präsentation findet sich [hier](https://www.slideshare.net/OlgaZagovora1/what-increases-social-media-attention-research-impact-author-prominence-or-title-attractiveness-115018382), der entsprechende Artikel kann [hier](https://arxiv.org/abs/1809.06299) herunter geladen werden.<br/>
+One of the striking results:<br/>
+Articles get more attention in social media if the last mentioned author is unfamiliar.<br/>
+The presentation can be found [here](https://www.slideshare.net/OlgaZagovora1/what-increases-social-media-attention-research-impact-author-prominence-or-title-attractiveness-115018382), the corresponding article can be downloaded [here](https://arxiv.org/abs/1809.06299).<br/>
 <br/>
 
 {:.img--decoration-blue}
