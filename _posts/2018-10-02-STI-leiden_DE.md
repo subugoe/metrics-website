@@ -21,8 +21,6 @@ Astrid Orth, Isabella Peters und Katrin Weller sprachen mit den Teilnehmern des 
 
 
 <br/>
-<br/>
-
 Im Rahmen des 11. Tracks stellte Olga Zagorova außerdem ihre Präsentation über Präsent in Social Media vor: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
 
 {:.img--decoration-blue}
@@ -31,7 +29,7 @@ Im Rahmen des 11. Tracks stellte Olga Zagorova außerdem ihre Präsentation übe
 {:.img--decoration-blue}
 ![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(12).jpg){: style="min-width: 25%"}
 
-Eines der überraschenden Ergebnisse:</br>
+Eines der überraschenden Ergebnisse:<br/>
 Artikel bekommen mehr Aufmerksamkeit in sozialen Medien, wenn der letzgenannte Autor unbekannt ist.<br/>
 Die Präsentation findet sich [hier](https://www.slideshare.net/OlgaZagovora1/what-increases-social-media-attention-research-impact-author-prominence-or-title-attractiveness-115018382), der entsprechende Artikel kann [hier](https://arxiv.org/abs/1809.06299) herunter geladen werden.
 
