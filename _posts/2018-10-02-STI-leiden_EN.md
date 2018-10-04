@@ -21,7 +21,7 @@ Astrid Orth, Isabella Peters and Katrin Weller talked with the participants of t
 
 
 <br/>
-Participating in the 11th track, Olga Zagorova also gave her presentation on visibility in social media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
+Participating in the 11th track, Olga Zagovora also gave her presentation on visibility in social media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
 
 {:.img--decoration-blue}
 ![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
