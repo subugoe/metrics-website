@@ -8,10 +8,10 @@ parent: news
 ref: STI-leiden
 ---
 <!-- Start editing content here-->
-The 23rd International Conference on Science, Technology and Innovation (STI) took place in Leiden, The Netherlands in 2018. From the 12th to the 14th of September it focused mainly on the transformation of indicators. Beyond that, the program covered a wide range of topics, from reproducibility in scientometrics and discussion of the RRI concept to Open Scholarship.<br/>
+The 23rd International Conference on Science, Technology and Innovation [(STI)](http://sti2018.cwts.nl/) took place in Leiden, The Netherlands in 2018. From the 12th to the 14th of September it focused mainly on the transformation of indicators. Beyond that, the program covered a wide range of topics, from reproducibility in scientometrics and discussion of the RRI concept to Open Scholarship.<br/>
 These topics were structured in 12 tracks, of which Track 11 was hosted by the \*metrics team.
 
-Astrid Orth, Isabella Peters and Katrin Weller talked with the participants of the 11th track about the challenges of social media data for bibliometrics: algorithms, APIs, aggregators.
+[Astrid Orth](https://metrics-project.net/de/uber_uns/team/), [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) and [Katrin Weller](https://metrics-project.net/de/uber_uns/team/) talked with the participants of the 11th track about the challenges of social media data for bibliometrics: algorithms, APIs, aggregators.
 
 {:.img--decoration-blue}
 ![Preparation]({{ sitebase.url }}/img/events/STI_Leiden_(2).jpg){: style="min-width: 25%"}
@@ -21,13 +21,13 @@ Astrid Orth, Isabella Peters and Katrin Weller talked with the participants of t
 
 
 <br/>
-Participating in the 11th track, Olga Zagovora also gave her presentation on visibility in social media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
+Participating in the 11th track, [Olga Zagovora](https://metrics-project.net/de/uber_uns/team/) also gave her presentation on visibility in social media: "What increases (social) media attention: Research impact, author prominence or title attractiveness?"<br/>
 
 {:.img--decoration-blue}
-![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
+![Olga Zagovora]({{ sitebase.url }}/img/events/STI_Leiden_(1).jpg){: style="min-width: 25%"}
 
 {:.img--decoration-blue}
-![Olga Zagorova]({{ sitebase.url }}/img/events/STI_Leiden_(12).jpg){: style="min-width: 25%"}
+![Olga Zagovora]({{ sitebase.url }}/img/events/STI_Leiden_(12).jpg){: style="min-width: 25%"}
 
 <br/>
 One of the striking results:<br/>
