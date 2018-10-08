@@ -16,8 +16,8 @@ symbol: "download"
 
 * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
 * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
-<br/>
 
+<br/>
 ## Präsentationen 2018
 
 ### Open Access Tage Graz 2018
@@ -43,6 +43,7 @@ symbol: "download"
 * Julius Stropel - [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034)
 * Steffen Lemke, Maryam Mehrazar - [User- and Usage Studies in the metrics Project](https://doi.org/10.5281/zenodo.1283183)
 
+<br/>
 ## Präsentationen 2017
 
 ### WikiCite
@@ -62,12 +63,14 @@ symbol: "download"
 ### Altmetrics17
 * Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf)  
 
+<br/>
 ## Poster und Publikationen
 
 * [\*metrics project poster]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
 * [4:AM Conference:  Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)
 
+<br/>
 ## Logovarianten
 
 * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
