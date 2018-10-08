@@ -16,6 +16,7 @@ symbol: "download"
 
 * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 * [Fact sheet \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
+<br/>
 
 ## Presentations 2018
 
