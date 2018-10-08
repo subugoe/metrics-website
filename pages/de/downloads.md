@@ -16,6 +16,7 @@ symbol: "download"
 
 * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
 * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
+<br/>
 
 ## Präsentationen 2018
 
