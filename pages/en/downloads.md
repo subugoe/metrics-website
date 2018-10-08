@@ -85,4 +85,5 @@ symbol: "download"
 * [Logo black-and-white (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
 * [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)
 
+<br/>
 *All our publications can also be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
