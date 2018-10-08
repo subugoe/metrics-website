@@ -16,8 +16,8 @@ symbol: "download"
 
 * [Description of Work (PDF) - in german only]({{ site.url }}/downloads/projektantrag_kurz.pdf)   
 * [Fact sheet \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
-<br/>
 
+<br/>
 ## Presentations 2018
 
 ### Open Access Days Graz 2018
@@ -44,6 +44,7 @@ symbol: "download"
 * Steffen Lemke, Maryam Mehrazar - [User- and Usage Studies in the metrics Project](https://doi.org/10.5281/zenodo.1283183)
 
 
+<br/>
 ## Presentations 2017
 
 ### WikiCite
@@ -64,12 +65,14 @@ symbol: "download"
 * Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf)  
 
 
+<br/>
 ## Poster and publications
 
 * [\*metrics project poster]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 * [COAR2017 Annual Meeting]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
 * [4:AM Conference: Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)   
 
+<br/>
 ## Logo in different formats
 
 * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
