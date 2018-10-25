@@ -14,15 +14,13 @@ symbol: "download"
 <br/>
 *Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
 
+<br/>
 ## Publikationen
 * Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media](https://doi.org/10.1145/3201064.3201101)
 
-Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097)
+* Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097)
 
-
-
-
-
+<br/>
 ## Präsentationen
 Open Access Tage Graz 2018
 * [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
@@ -63,7 +61,7 @@ Open-Access-Tage 2017
 Altmetrics17
 * Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf)  
 
-
+<br/>
 ## Projektinformationen & Poster
 * [Beschreibung des Vorhabens (PDF)]({{ sitebase.url }}/downloads/projektantrag_kurz.pdf)   
 * [Informationsblatt \*metrics (PDF)]({{ sitebase.url }}/downloads/factsheet_metrics.pdf)  
@@ -72,7 +70,7 @@ Altmetrics17
 * [COAR2017 Jahrestagung]({{ sitebase.url }}/downloads/coar2017_metrics_poster.pdf)  
 * [4:AM Conference:  Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)
 
-
+<br/>
 ## Logovarianten
 
 * [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
