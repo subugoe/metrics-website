@@ -24,7 +24,7 @@ symbol: "download"
 
 <br/>
 ## Presentations
-Open Access Tage Graz 2018
+Open Access Days Graz 2018
 * [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
 
 Workshop on Open Citations
@@ -57,7 +57,7 @@ Bibliothekartag 2017
 LIBER 2017
 * Sarah K. Coombs & Isabella Peters - [Präsentation vom LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) 
 
-Open-Access-Tage 2017
+Open Access Days 2017
 * \*metrics-Workshop - ["Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf)
 
 Altmetrics17
@@ -73,17 +73,17 @@ Altmetrics17
 * [4:AM Conference:  Maryam Mehrazar - Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf)
 
 <br/>
-## Logovariations
+## Logo in different formats
 
-* [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)
-* [Logo (EPS)]({{ sitebase.url }}/downloads/logo_metrics.eps)
-* [Logo quadratisch (PDF)]({{ sitebase.url }}/downloads/logo_quadratisch.pdf)
-* [Logo quadratisch (EPS)]({{ sitebase.url }}/downloads/logo_quadratisch.eps)
-* [Logo Graustufen (PDF)]({{ sitebase.url }}/downloads/logo_graustufen.pdf)
-* [Logo Graustufen (EPS)]({{ sitebase.url }}/downloads/logo_graustufen.eps)  
-* [Logo Schwarzweiß (PDF)]({{ sitebase.url }}/downloads/logo_ws.pdf)  
-* [Logo Schwarzweiß (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
-* [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)   
+* [Logo (PDF)]({{ sitebase.url }}/downloads/logo_metrics.pdf)  
+* [Logo (EPS)]({{ sitebase.url }}/downloads/logo_metrics.eps)  
+* [Logo square (PDF)]({{ sitebase.url }}/downloads/logo_quadratisch.pdf)  
+* [Logo square (EPS)]({{ sitebase.url }}/downloads/logo_quadratisch.eps)  
+* [Logo greyscale (PDF)]({{ sitebase.url }}/downloads/logo_graustufen.pdf)  
+* [Logo grayscale (EPS)]({{ sitebase.url }}/downloads/logo_graustufen.eps)  
+* [Logo black-and-white (PDF)]({{ sitebase.url }}/downloads/logo_ws.pdf)  
+* [Logo black-and-white (EPS)]({{ sitebase.url }}/downloads/logo_ws.eps)  
+* [Logo Fact Sheet (PDF)]({{ sitebase.url }}/downloads/logo_factsheet.pdf)
 
 <br/>
 
