@@ -28,5 +28,5 @@ Anhand einer DOI kann der \*Metrician Altmetrics anzeigen und so einen Eindruck 
 Derzeit kann das Tool bereits mit DOIs für Dokuemte aus den Repositorien GoeScholar, SSOAR und EconStor getestet werden.
 Wenn noch keine bestimmten Metriken erhoben werden sollen, lassen sich auch testweise DOIs generieren.
 
-[http://explore.metrics.gbv.de/](http://explore.metrics.gbv.de/)
+### [http://explore.metrics.gbv.de/](http://explore.metrics.gbv.de/)
 
