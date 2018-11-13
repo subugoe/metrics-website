@@ -16,9 +16,11 @@ symbol: "download"
 
 <br/>
 ## Publikationen
-* Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media](https://doi.org/10.1145/3201064.3201101)
+* Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 215-219. DOI: https://doi.org/10.1145/3201064.3201101
 
-* Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097)
+
+* Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 11-15. DOI: https://doi.org/10.1145/3201064.3201097
+
 
 <br/>
 ## Präsentationen
