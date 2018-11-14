@@ -117,7 +117,7 @@ Altmetrics17
 * WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Präsentation: Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
 
 ### Open Metrics Seminar
-* Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
+* Steffen Lemke - [Open Metrics: Originators and their Perceptions]({{ sitebase.url }}/downloads/2018%2005%20Open%20Metrics%20Workshop%20at%20Uppsala_Steffen%20Lemke.pdf)
 
 ### Road to New Metrics – metrics Repository Workshop {#Road2NewMetrics}
 * Martin Giesler - [Social Media: The New Gatekeeper](https://zenodo.org/record/1250028)
