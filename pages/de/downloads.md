@@ -103,7 +103,7 @@ Altmetrics17
 ## Präsentationen 2018
 
 ### Open Access Tage Graz 2018
-* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
+* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 ### Workshop on Open Citations
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
@@ -113,8 +113,8 @@ Altmetrics17
 * Astrid Orth, Ben Mc Leish, Daniel Beucke - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(Präsentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Präsentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Präsentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf)  [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
 
 ### WebSci2018 
-* Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media](https://doi.org/10.1145/3201064.3201101)
-* WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Präsentation: Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
+* Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media]({{ sitebase.url }}/downloads/p215-mehrazar.pdf)
+* WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Präsentation: Collective Attention towards Scientists and Research Topics]({{ sitebase.url }}/downloads/collectiveattentiontowardsscientistsandresearchtopics-180529120438.pdf)
 
 ### Open Metrics Seminar
 * Steffen Lemke - [Open Metrics: Originators and their Perceptions]({{ sitebase.url }}/downloads/2018%2005%20Open%20Metrics%20Workshop%20at%20Uppsala_Steffen%20Lemke.pdf)
