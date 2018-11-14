@@ -103,7 +103,7 @@ Altmetrics17
 ## Presentations 2018
 
 ### Open Access Days Graz 2018
-* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
+* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 ### Workshop on Open Citations
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
@@ -113,13 +113,13 @@ Altmetrics17
 * Astrid Orth, Ben Mc Leish, Daniel Beucke - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken (German only)[(Presentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Presentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Presentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf) [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
 
 ### WebSci2018 
-* Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media](https://doi.org/10.1145/3201064.3201101)
-* WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Presentation: Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
+* Maryam Mehrazar, Steffen Lemke - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media]({{ sitebase.url }}/downloads/p215-mehrazar.pdf)
+* WebSci2018: Olga Zagovora - [Paper: Collective Attention towards Scientists and Research Topics](https://doi.org/10.1145/3201064.3201097), [Presentation: Collective Attention towards Scientists and Research Topics]({{ sitebase.url }}/downloads/collectiveattentiontowardsscientistsandresearchtopics-180529120438.pdf)
 
 ### Open Metrics Seminar
-* Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
+* Steffen Lemke - [Open Metrics: Originators and their Perceptions]({{ sitebase.url }}/downloads/2018%2005%20Open%20Metrics%20Workshop%20at%20Uppsala_Steffen%20Lemke.pdf)
 
-### Road to New Metrics – metrics Repository Workshop
+### Road to New Metrics – metrics Repository Workshop {#Road2NewMetrics}
 * Martin Giesler - [Social Media: The New Gatekeeper](https://zenodo.org/record/1250028)
 * Diana Lindner, Julian Gill & Astrid Orth - [metrics Project & Social Media Registry (SoMeR)](http://doi.org/10.5281/zenodo.1250032)
 * Julius Stropel - [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034)
@@ -132,7 +132,7 @@ Altmetrics17
 ### WikiCite
 * Olga Zagovora - [Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)   
 
-### Bibliothekartag
+### Bibliothekartag {#Bib17}
 * Daniel Beucke - [Altmetrics: Was mache ich damit?]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_einleitung_beucke.pdf)  
 * Astrid Orth & Isabella Peters - [Empfehlungen zur Nutzung geben]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_empfehlungen_orth_peters.pdf)  
 * Astrid Orth - [Zuverlässigkeit und Wahrnehmung von Indikatoren für Interaktionen mit wissenschaftlichen Ergebnissen]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_metrics_orth.pdf)  
