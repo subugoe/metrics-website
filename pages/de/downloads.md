@@ -119,7 +119,7 @@ Altmetrics17
 ### Open Metrics Seminar
 * Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
 
-### Road to New Metrics – metrics Repository Workshop
+### Road to New Metrics – metrics Repository Workshop {#Road2NewMetrics}
 * Martin Giesler - [Social Media: The New Gatekeeper](https://zenodo.org/record/1250028)
 * Diana Lindner, Julian Gill & Astrid Orth - [metrics Project & Social Media Registry (SoMeR)](http://doi.org/10.5281/zenodo.1250032)
 * Julius Stropel - [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034)
@@ -131,7 +131,7 @@ Altmetrics17
 ### WikiCite
 * Olga Zagovora - [Do Wikipedia Science Articles Reflect on State-of-the-art research?]({{ sitebase.url }}/downloads/wikicite_lightning_talk_zagovora.pdf)   
 
-### Bibliothekartag
+### Bibliothekartag {Bib17}
 * Daniel Beucke - [Altmetrics: Was mache ich damit?]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_einleitung_beucke.pdf)  
 * Astrid Orth & Isabella Peters - [Empfehlungen zur Nutzung geben]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_empfehlungen_orth_peters.pdf)  
 * Astrid Orth - [Zuverlässigkeit und Wahrnehmung von Indikatoren für Interaktionen mit wissenschaftlichen Ergebnissen]({{ sitebase.url}}/downloads/20170601bibtag2017_altmetric_metrics_orth.pdf)  
