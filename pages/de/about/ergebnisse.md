@@ -11,8 +11,6 @@ order: 2
 alt: "Ergebnisse"
 ---
 <!--start editing content here-->
-## Artikel
-
 <br/>
 ## Berichte
 * Report über funktionelle und fachliche Spezifikationen zur Urheberschaft
