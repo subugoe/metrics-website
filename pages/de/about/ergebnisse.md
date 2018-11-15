@@ -18,7 +18,7 @@ alt: "Ergebnisse"
 * Evaluierung ausgewählter Open-Source-Lösungen
 
 <br/>
-## \*Metrician
+## \*Metrician - Ein Altmetrics Generator
 Mit dem \*Metrician hat das \*metrics Team ein eigenes Tool entwickelt, um alternative Metriken für Dokumente zu sammlen und zu aggregieren. Im Gegensatz zu den Tools kommerzieller Anbieter lässt sich beim \*Metrician nachvollziehen, was wie gezählt wird, da es als open source auf [GitHub](https://github.com/gbv/metrics-crawler) verfügbar ist. 
 
 Anhand einer DOI kann der \*Metrician Altmetrics anzeigen und so einen Eindruck von der Nutzung der Ressource geben. Dabei liegt der Schwerpunkt auf alternativen Metriken aus Social-Media-Anwendungen wie Twitter, Youtube und Facebook.
