@@ -19,12 +19,12 @@ alt: "Results"
 
 <br/>
 ## \*Metrician
-Mit dem \*Metrician hat das \*metrics Team ein eigenes Tool entwickelt, um alternative Metriken für Dokumente zu sammlen und zu aggregieren. Im Gegensatz zu den Tools kommerzieller Anbieter lässt sich beim \*Metrician nachvollziehen, was wie gezählt wird, da es als open source auf [GitHub](https://github.com/gbv/metrics-crawler) verfügbar ist. 
+With the \*Metrician, the \*metrics team has created its own tool to collect and aggregate altmetrics for documents. In contrast to the tools of commercial providers, the \*Metrician makes it possible to track what is counted and how, thanks to it being available as open source on [GitHub](https://github.com/gbv/metrics-crawler). 
 
-Anhand einer DOI kann der \*Metrician Altmetrics anzeigen und so einen Eindruck von der Nutzung der Ressource geben. Dabei liegt der Schwerpunkt auf alternativen Metriken aus Social-Media-Anwendungen wie Twitter, Youtube und Facebook.
+Using a DOI, the \*Metrician can display altmetrics to give an insight into the use of a resource. The focus is on alternative metrics from social media such as Twitter, Youtube and Facebook.
 
-Derzeit kann das Tool bereits mit DOIs für Dokuemte aus den Repositorien GoeScholar, SSOAR und EconStor getestet werden.
-Wenn noch keine bestimmten Metriken erhoben werden sollen, lassen sich auch testweise DOIs generieren.
+The tool is ready to be tested with DOIs for documents from the GoeScholar, SSOAR and EconStor repositories.
+If there is no interest in specific metrics DOIs can be generated for testing purposes.
 
 ### [http://explore.metrics.gbv.de/](http://explore.metrics.gbv.de/)
 
