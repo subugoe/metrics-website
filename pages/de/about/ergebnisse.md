@@ -27,4 +27,4 @@ Derzeit kann das Tool bereits mit DOIs für Dokuemte aus den Repositorien GoeSch
 Wenn noch keine bestimmten Metriken erhoben werden sollen, lassen sich auch testweise DOIs generieren.
 
 ### [http://explore.metrics.gbv.de/](http://explore.metrics.gbv.de/)
-
+<br/>
