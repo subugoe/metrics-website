@@ -13,9 +13,10 @@ symbol: "download"
 <!-- Start editing content here -->
 <br/>
 *Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
-
-<br/>
-## Publikationen
+  
+<br/>  
+  
+## Publikationen  
 * Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 215-219. DOI: https://doi.org/10.1145/3201064.3201101
 
 
@@ -23,9 +24,13 @@ symbol: "download"
 
 
 <br/>
-## Präsentationen
+## Präsentationen    
+  
+ASIS&T 2018  
+* Steffen Lemke – [Are There Different Types of Online Research Impact?]({{sitebase.url}}/downloads/Are%20There%20Different%20Types%20of%20Online%20Research%20Impact.pptx)
+
 Open Access Tage Graz 2018
-* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
+* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 Workshop on Open Citations
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
