@@ -14,5 +14,3 @@ alt: "Upcoming Events"
 
 Visit the following events to meet members of the \*metrics project team:     
 
-### ASIS&T: 10. - 14. November 2018, Vancouver (Canada) {#ASIST18}
-The ASIS&T Annual Meeting is going to take place from the 10th - 14th of November 2018 in Vancouver, Canada. Our \*metrics-Team is going to present the following paper: Are There Different Types of Online Research Impact? Further informations can be found [here](https://www.asist.org/am18/).
