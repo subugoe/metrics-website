@@ -49,11 +49,7 @@ alt: "Webseite des *metrics Projektes"
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
  
-* 2018-09- 03-05 \| [Workshop on Open Citations]({{site.url}}/de/veranstaltungen/kommende/#OpenCitations)
-* 2018-09- 12-14 \| [STI Conference 2018]({{ site.url }}/de/veranstaltungen/kommende/#STI2018)
-* 2018-09- 24-26 \| [Open Access Days 2018]({{site.url}}/de/veranstaltungen/kommende/#OATAGE2018)
-* 2018-09- 25 \| [altmetrics Workshop 18]({{site.url}}/de/veranstaltungen/kommende/#altmetrics18)
-* 2018-09- 26-27 \| [5:AM]({{site.url}}/de/veranstaltungen/kommende/#amlondon)
+* 2019-01- 29 \| [LIS Bibliometrics Forum]({{site.url}}/de/events/kommende/#LIS)
 
 <!-- Stop editing content here -->
 </div>

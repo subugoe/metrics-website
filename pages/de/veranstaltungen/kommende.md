@@ -14,5 +14,5 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
 
-### ASIS&T: 10. - 14. November 2018, Vancouver (Kanada) {#asist}
-Vom 10. bis zum 14. November 2018 findet in Vancouver, Kanada, das jährliche Meeting der Association for Information Science and Technology statt. Kollegen aus dem \*metrics-Team werden folgendes Paper präsentieren: Are There Different Types of Online Research Impact? Alle Infos zum Programm und zur Registrierung gibt es [hier](https://www.asist.org/am18/).
+### LIS Bibliometrics Forum: Open Metrics and Measuring Openness: 29. Januar 2019, London (UK) {#LIS} 
+Das [LIS-Bibliometrics event 2019](https://www.eventbrite.co.uk/e/lis-bibliometrics-forum-open-metrics-and-measuring-openness-registration-52053342950)legt seinen Fokus spezifisch auf Open Metrics und Measuring Openness. Ziel ist es, den Teilnehmenden eine Stimme in der Debatte um das Einführen, Entwickeln und Messen von Open Metrics und deren Einfluss zu geben, sowie neueste Informationen in diesen Bereichen bereitzustellen.\*metrics - Team Mitglied [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) wird eine Präsentation halten.

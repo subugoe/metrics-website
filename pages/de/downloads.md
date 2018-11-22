@@ -13,9 +13,10 @@ symbol: "download"
 <!-- Start editing content here -->
 <br/>
 *Alle unsere Publikationen stehen auch auf [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
-
-<br/>
-## Publikationen
+  
+<br/>  
+  
+## Publikationen  
 * Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 215-219. DOI: https://doi.org/10.1145/3201064.3201101
 
 
@@ -23,16 +24,20 @@ symbol: "download"
 
 
 <br/>
-## Präsentationen
+## Präsentationen    
+  
+ASIS&T 2018  
+* Steffen Lemke – [Are There Different Types of Online Research Impact?]({{sitebase.url}}/downloads/Are%20There%20Different%20Types%20of%20Online%20Research%20Impact.pptx)
+
 Open Access Tage Graz 2018
-* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes](https://zenodo.org/record/1410389)
+* [Transparenz und Zuverlässigkeit bei der Ermittlung von alternativen Metriken – Aktueller Forschungsstand des \*metrics-Projektes]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 Workshop on Open Citations
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 Bibliothekartag 2018
 * Astrid Orth - Wahrnehmung und Transparenz offener Metriken [(Präsentation)](https://opus4.kobv.de/opus4-bib-info/files/3656/2018-06+BibTag_Berlin_Vortrag_Orth.pdf)[(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf)
-* Astrid Orth, Ben Mc Leish, Daniel Beucke - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(Präsentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Präsentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Präsentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf)  [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
+* Astrid Orth, Ben Mc Leish, Julius Stropel - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(Präsentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Präsentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Präsentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf)  [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
 
 WebSci2018
 * Olga Zagovora - [Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
