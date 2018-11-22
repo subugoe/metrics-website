@@ -37,7 +37,7 @@ Workshop on Open Citations
 
 Bibliothekartag 2018
 * Astrid Orth - Wahrnehmung und Transparenz offener Metriken [(Präsentation)](https://opus4.kobv.de/opus4-bib-info/files/3656/2018-06+BibTag_Berlin_Vortrag_Orth.pdf)[(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf)
-* Astrid Orth, Ben Mc Leish, Daniel Beucke - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(Präsentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Präsentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Präsentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf)  [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
+* Astrid Orth, Ben Mc Leish, Julius Stropel - Wie sehen Altmetrics aus? Praktischer Umgang mit und Visualisierung von alternativen Metriken** [(Präsentation 1)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Einf%C3%BChrung_Orth.pdf) [(Präsentation 2)](https://opus4.kobv.de/opus4-bib-info/files/3341/2018-06+BibTag_Berlin_Hands-On-Visualisierung_Orth.pdf) [(Präsentation 3)](https://opus4.kobv.de/opus4-bib-info/files/3341/Bibtag+2018+Berlin+-+Julius+Stropel.pdf)  [(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_handson.pdf)
 
 WebSci2018
 * Olga Zagovora - [Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
