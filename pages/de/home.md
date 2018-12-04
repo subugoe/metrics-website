@@ -49,8 +49,8 @@ alt: "Webseite des *metrics Projektes"
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
  
-* 2019-01- 29    \| [LIS Bibliometrics Forum]({{site.url}}/de/events/kommende/#LIS)
-* 2019-03- 18-21 \| [Bibliothekskongress]({{site.url}}/de/events/kommende/#Bkongress)  
+* 2019-01- 29    \| [LIS Bibliometrics Forum]({{site.url}}/de/veranstaltungen/kommende/#LIS)
+* 2019-03- 18-21 \| [Bibliothekskongress]({{site.url}}/de/veranstaltungen/kommende/#Bkongress)  
   
 <!-- Stop editing content here -->
 </div>
