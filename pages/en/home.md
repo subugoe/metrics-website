@@ -54,8 +54,9 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
   
-* 2019-01- 29 \| [LIS Bibliometrics Forum]({{site.url}}/en/events/upcoming/#LIS)
-
+* 2019-01- 29    \| [LIS Bibliometrics Forum]({{site.url}}/en/events/upcoming/#LIS)
+* 2019-03- 18-21 \| [German Library Congress]({{site.url}}/en/events/upcoming/#Bkongress)  
+  
 <!-- Stop editing here -->
 </div>
   </div>
