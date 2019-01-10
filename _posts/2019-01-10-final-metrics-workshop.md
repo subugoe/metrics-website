@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \*metrics Workshop 27./28. März 2019 Save the Date
+title: * metrics Workshop 27./28. März 2019 Save the Date
 categories: news
 permalink: /de/meldungen/2019-01-10-final-metrics-workshop
 lang: de
