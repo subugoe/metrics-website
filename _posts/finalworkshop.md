@@ -5,7 +5,7 @@ categories: news
 permalink: /de/meldungen/2019-01-10-final-metrics-workshop
 lang: de
 parent: news
-ref: finalworkshop
+ref: final-metrics-workshop
 ---
 
 
