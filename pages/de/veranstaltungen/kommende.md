@@ -15,7 +15,7 @@ alt: "Kommende Veranstaltungen"
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
 
 ### LIS Bibliometrics Forum: Open Metrics and Measuring Openness: 29. Januar 2019, London (UK) {#LIS} 
-Das [LIS-Bibliometrics event 2019](https://www.eventbrite.co.uk/e/lis-bibliometrics-forum-open-metrics-and-measuring-openness-registration-52053342950) legt seinen Fokus spezifisch auf Open Metrics und Measuring Openness. Ziel ist es, den Teilnehmenden eine Stimme in der Debatte um das Einführen, Entwickeln und Messen von Open Metrics und deren Einfluss zu geben, sowie neueste Informationen in diesen Bereichen bereitzustellen.\*metrics - Team Mitglied [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) wird eine Präsentation halten.  
+Das [LIS-Bibliometrics event 2019](https://www.eventbrite.co.uk/e/lis-bibliometrics-forum-open-metrics-and-measuring-openness-registration-52053342950) legt seinen Fokus spezifisch auf Open Metrics und Measuring Openness. Ziel ist es, den Teilnehmenden eine Stimme in der Debatte um das Einführen, Entwickeln und Messen von Open Metrics und deren Einfluss zu geben, sowie neueste Informationen in diesen Bereichen bereitzustellen.\*metrics - Team Mitglied [Isabella Peters](https://metrics-project.net/de/uber_uns/team/) wird eine Präsentation mit dem Namen " Measuring openness – why measure openness and how do we do it" halten.  
   
 ### Bibliothekskongress: 18.-21. März 2019, Leipzig {#Bkongress}  
 Im März findet der [7. Bibliothekskongress](http://www.bid-kongress-leipzig.de/t3/) unter dem Motto "Bibliotheken verändern" statt, bei dem Mitglieder des \*metrics-Projekts gleich zwei Beiträge zum Programm beisteuern:  
