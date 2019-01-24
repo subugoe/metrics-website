@@ -17,3 +17,4 @@ alt: "Final *metrics Workshop 2019"
 
 
 Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes vor und möchte mit der Community weitere Denkansätze zum Thema Metriken diskutieren. Desweiteren wird über den aktuellen Forschungsstand informiert und Kooperationsnetze für die Nachhaltigkeit und Fortentwicklung der Services initiiert.
+Weitere Informationen werden demnächst bekannt gegeben. Bitte tragen Sie sich den Termin schon heute in Ihre Kalender ein!
