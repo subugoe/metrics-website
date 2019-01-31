@@ -13,7 +13,7 @@ alt: "Final *metrics Workshop 2019"
 
 <!-- Start editing content here-->
 
-{:.img--decoration-purple} ![Repository Workshop]({{ site.url }}/img/events/Abschlussworkshop 2.png "*metrics Abschluss-Workshop"){: style="min-width: 100%"}
+{:.img--decoration-purple}![Repository Workshop]({{ site.url }}/img/events/Abschlussworkshop 2 (1).png "*metrics Abschluss-Workshop"){: style="min-width: 100%"}
 
 
 Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes vor und möchte mit der Community weitere Denkansätze zum Thema Metriken diskutieren. Desweiteren wird über den aktuellen Forschungsstand informiert und Kooperationsnetze für die Nachhaltigkeit und Fortentwicklung der Services initiiert.  
