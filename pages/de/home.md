@@ -48,10 +48,11 @@ alt: "Webseite des *metrics Projektes"
     <h2 class="featurebox__header"><img src="{{ site.baseurl }}/img/icons/calendar.svg" class="show-for-small-only" aria-hidden="true"><a href="{{ site.baseurl }}/en/events/">{{ site.data.lang.l[page.lang].events }}</a></h2>
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
- 
+  
 * 2019-01- 29    \| [LIS Bibliometrics Forum]({{site.url}}/de/veranstaltungen/kommende/#LIS)
 * 2019-03- 18-21 \| [Bibliothekskongress]({{site.url}}/de/veranstaltungen/kommende/#Bkongress)  
-  
+* 2019-03- 27-28 \| [\*Metrics in Transition Workshop]({{site.url}}/de/workshop2019/)  
+    
 <!-- Stop editing content here -->
 </div>
   </div>
