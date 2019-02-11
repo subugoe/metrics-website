@@ -24,15 +24,13 @@ Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes v
 Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:  
   
 ### Joe Wass und Catriona McCallum.  
-  
-Joe Wass arbeitet für Crossref im Bereich Forschung und Entwicklung. Er ist der technische Leiter des Crossref Event Data Projekts, ein System, das “Events” rund um wissenschaftliche Publikationen erfasst und verbreitet.   
-  
-Catriona McCallum ist Direktorin für Open Science bei Hindawi. Sie arbeitete u.a. als Editor für PLOS und ist Vorsitzende des OASPA Policy Kommitees und im Beirat von OpenAIRE und der Royal Society (Publishing).   
-  
+    
+      
 Um uns die Planung zu erleichtern bitten wir um eine **Anmeldung bis zum 12. März 2019!**  
 
 Das **Anmeldeformular** finden Sie [hier](https://docs.google.com/forms/d/e/1FAIpQLSdigHX9aK--jC7lPbnNBNEvE3bkBSTrsUfMvMIM3btmSQ-xuQ/viewform?usp=sf_link)  
-  
+   
+    
 ### Einreichung von Postern   
   
 Wir laden die Workshopteilnehmer herzlich ein, Poster zum Thema Metriken einzureichen. Inhaltlich kann sich das Poster u.a. auf folgende Themen beziehen:  
@@ -41,19 +39,20 @@ Wie funktionieren \*Altmetrics? Wie sind Altmetrics in den Service der Bibliothe
 Wie ergänzen Altmetrics traditionelle Metriken?  
 Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?  
   
-**Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum 1. März über das Anmeldeformular ein.**    
+**Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum 1. März über das Anmeldeformular ein.**   
+  
   
 ### Programm  
   
-{:.img--decoration-blue}  
-![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 100%"}
+{:.img--decoration-grey}  
+![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 90%"}
   
 ### Wichtige Daten  
   
-Anmeldeschluss:                   12. März  
-Einreichung Poster Abstracts:   	01. März  
-Benachrichtigung der Autoren: 	  08. März  
-Einreichung der fertigen Poster: 	22. März  
+Anmeldeschluss:                  12. März  
+Einreichung Poster Abstracts:    01. März  
+Benachrichtigung der Autoren:    08. März  
+Einreichung der fertigen Poster: 22. März  
 
 
 
