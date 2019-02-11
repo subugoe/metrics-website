@@ -25,7 +25,7 @@ Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:
   
 ### Joe Wass und Catriona McCallum.  
         <br>
-         <br>
+        <br>
 ## Anmeldung  
         
 Um uns die Planung zu erleichtern bitten wir um eine **Anmeldung bis zum 12. März 2019!**  
@@ -55,6 +55,6 @@ Anmeldeschluss:        12. März
 Einreichung Poster Abstracts:   01. März  
 Benachrichtigung der Autoren:  08. März  
 Einreichung der fertigen Poster:  22. März  
-
+ <br>
 
 
