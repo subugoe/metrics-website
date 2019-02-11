@@ -48,10 +48,10 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
        <br>
 ## Wichtige Daten  
   
-Anmeldeschluss:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. März  
-Einreichung Poster Abstracts:&nbsp;01. März  
+Anmeldeschluss:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. März  
+Einreichung Poster Abstracts:&nbsp;&nbsp;&nbsp;01. März  
 Benachrichtigung der Autoren:&nbsp;08. März  
-Einreichung der fertigen Poster:&nbsp;2. März  
+Einreichung der fertigen Poster:&nbsp;22. März  
  <br>
 ## Anfahrt und Unterkunft  
   
