@@ -24,16 +24,15 @@ Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes v
 Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:  
   
 ### Joe Wass und Catriona McCallum.  
-    
-      
+       
+         
 ## Anmeldung  
         
 Um uns die Planung zu erleichtern bitten wir um eine **Anmeldung bis zum 12. März 2019!**  
   
 Das **Anmeldeformular** finden Sie [hier](https://docs.google.com/forms/d/e/1FAIpQLSdigHX9aK--jC7lPbnNBNEvE3bkBSTrsUfMvMIM3btmSQ-xuQ/viewform?usp=sf_link)  
-     
-       
-    
+        
+          
 ## Einreichung von Postern   
   
 Wir laden die Workshopteilnehmer herzlich ein, Poster zum Thema Metriken einzureichen. Inhaltlich kann sich das Poster u.a. auf folgende Themen beziehen:  
@@ -43,14 +42,13 @@ Wie ergänzen Altmetrics traditionelle Metriken?
 Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?  
   
 **Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum 1. März über das Anmeldeformular ein.**   
-  
-    
-  
+     
+       
 ## Programm  
    
 ![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 80%"}
-   
-     
+      
+        
 ## Wichtige Daten  
   
 Anmeldeschluss:        12. März  
