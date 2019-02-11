@@ -47,7 +47,7 @@ How can we create a responsible practice with metrics?
        <br>
 ## Important Dates and Deadlines:  
   
-Registration ends:           March 12  
+Registration ends:          March 12  
 Poster abstract submission:  		       March 1  
 Notification of authors:	 	  	          March 8  
 Submission of camera-ready posters:   	March 22  
