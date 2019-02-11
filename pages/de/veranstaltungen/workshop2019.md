@@ -24,12 +24,13 @@ Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes v
 Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:  
   
 ### Joe Wass und Catriona McCallum.  
-   <br> 
+   <br>
+   
 ## Anmeldung  
         
-Um uns die Planung zu erleichtern bitten wir um eine **Anmeldung bis zum 12. März 2019!**  
-  
 Das **Anmeldeformular** finden Sie [hier](https://docs.google.com/forms/d/e/1FAIpQLSdigHX9aK--jC7lPbnNBNEvE3bkBSTrsUfMvMIM3btmSQ-xuQ/viewform?usp=sf_link)  
+        
+Um uns die Planung zu erleichtern bitten wir um eine **Anmeldung bis zum 12. März 2019!**  
          <br>
 ## Einreichung von Postern   
   
