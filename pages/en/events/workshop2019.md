@@ -52,4 +52,8 @@ Poster abstract submission:  		       March 1
 Notification of authors:	 	  	          March 8  
 Submission of camera-ready posters:   	March 22  
 <br>
+## Directions and Accomodation  
+
+Information regarding directions and accomodation will follow shortly.  
+<br> 
 
