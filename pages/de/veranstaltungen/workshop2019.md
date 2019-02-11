@@ -16,7 +16,7 @@ alt: "*Metrics in Transition Workshop 2019"
 {:.img--decoration-purple}
 ![Abschluss-Workshop]({{ site.url }}/img/events/Abschlussworkshop 2 (1).png "*metrics Abschluss-Workshop"){: style="min-width: 100%"}
 <br> 
-  
+<br> 
 Das \*metrics Projekt lädt alle Interessierten, die \*metrics für ihre Arbeit nutzen (wollen) zu seinem kostenlosen Abschlussworkshop in die Niedersächsische Staats- und Universitätsbibliothek Göttingen ein.  
   
 Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes vor und möchte mit der Community weitere Denkansätze zum Thema Metriken diskutieren. Desweiteren wird über den aktuellen Forschungsstand informiert und Kooperationsnetze für die Nachhaltigkeit und Fortentwicklung der Services initiiert.
