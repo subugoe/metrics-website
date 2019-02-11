@@ -45,14 +45,14 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 ### Programm  
   
 {:.img--decoration-grey}  
-![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 90%"}
+![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 80%"}
   
 ### Wichtige Daten  
   
-Anmeldeschluss:                  12. März  
-Einreichung Poster Abstracts:    01. März  
-Benachrichtigung der Autoren:    08. März  
-Einreichung der fertigen Poster: 22. März  
+Anmeldeschluss:                  12. März  
+Einreichung Poster Abstracts:    01. März  
+Benachrichtigung der Autoren:    08. März  
+Einreichung der fertigen Poster: 22. März  
 
 
 
