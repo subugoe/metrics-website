@@ -59,11 +59,11 @@ Zur Unterkunft in Göttingen empfehlen wir Ihnen folgende Hotels:
   
 **[Hotel Central.](https://www.hotel-central.com/willkommen_de.html)** Im Hotel Central haben Sie bis 28.2.2019 die Möglichkeit unser Kontigent mit Stichwort "Metrics" zu nutzen.  
   
-**[Leinhotel](https://www.leinehotel-goe.de/)  
+**[Leinhotel](https://www.leinehotel-goe.de/)**
   
-**[Hotel Astoria](https://www.astoria-goettingen.de/)  
+**[Hotel Astoria](https://www.astoria-goettingen.de/)**  
   
-**[Eden Hotel](https://www.eden-hotel.de/)  
+**[Eden Hotel](https://www.eden-hotel.de/)**  
 
 <br> 
 
