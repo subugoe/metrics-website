@@ -12,4 +12,4 @@ The *metrics project invites you and everyone interested in *metrics to its fina
 
 On March 27 & 28, 2019 the project team will present the results of 2 years work and would like to discuss the topic further with the community. Moreover the actual research in this field will be presented and cooperation networks for sustainability and further development of the services should be initiated.
 
-Further information [here.]({{ site.url }}/pages/en/events/workshop2019.md)
+Further information [here.]({{ site.url }}/en/events/workshop2019.md)
