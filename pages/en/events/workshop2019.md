@@ -52,8 +52,16 @@ Poster abstract submission:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Notification of authors:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;March 8  
 Submission of camera-ready posters:&nbsp;&nbsp;March 22  
 <br>
-## Directions and Accomodation  
+## Accomodation  
 
-Information regarding directions and accomodation will follow shortly.  
+For accomodation in Göttingen we recommend the following hotels:  
+  
+**[Hotel Central.](https://www.hotel-central.com/willkommen_de.html)** For accomodation in Hotel central, a limited number of rooms has been set aside for you to access until February 28 under the keyword "Metrics". 
+  
+**[Leinhotel](https://www.leinehotel-goe.de/)**
+  
+**[Hotel Astoria](https://www.astoria-goettingen.de/)**  
+  
+**[Eden Hotel](https://www.eden-hotel.de/)**  
+
 <br> 
-
