@@ -58,7 +58,7 @@ For accomodation in Göttingen we recommend the following hotels:
   
 **[Hotel Central.](https://www.hotel-central.com/willkommen_de.html)** For accomodation in Hotel central, a limited number of rooms has been set aside for you to access until February 28 under the keyword "Metrics". 
   
-**[Leinhotel](https://www.leinehotel-goe.de/)**
+**[Leinehotel](https://www.leinehotel-goe.de/)**
   
 **[Hotel Astoria](https://www.astoria-goettingen.de/)**  
   
