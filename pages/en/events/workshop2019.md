@@ -24,6 +24,10 @@ On March 27 & 28, 2019 the project team will present the results of 2 years work
 We are happy to present our two **keynote speakers**:
    
 ### Joe Wass and Catriona McCallum.  
+Joe Wass is Principal R&D Engineer and works in Crossref Labs, cooking up new products and services and finding new things to do with Crossref's data. He is technical lead on the Event Data project, a system for collecting and distributing events, assertions and links that occur around scholarly publications. This data is collected from a number of destinations across the web, and can be put to a wide range of uses, including \*metrics.
+
+Catriona McCallum is Director of Open Science at Hindawi. She worked i.a. as editor for PLOS and is currently Chair of the OASPA Policy Committee and a member of the Advisory Boards of OpenAire and the Royal Society (Publishing).
+
    <br> 
    
 ## Registration
