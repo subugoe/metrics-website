@@ -25,7 +25,7 @@ Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:
   
 ### Joe Wass und Catriona McCallum.
 
-![Keynotes]({{ site.url }}/img/events/Keynotes.jpg "Keynotes"){: style="min-width: 100%"}
+![Keynotes]({{ site.url }}/img/events/Keynotes_WS2019.jpg "Keynotes"){: style="min-width: 100%"}
 <br>
 <br>
 Joe Wass arbeitet für Crossref im Bereich Forschung und Entwicklung. Er ist der technische Leiter des Crossref Event Data Projekts, ein System, das “Events” rund um wissenschaftliche Publikationen erfasst und verbreitet. 
