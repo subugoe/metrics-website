@@ -25,7 +25,7 @@ We are happy to present our two **keynote speakers**:
    
 ### Joe Wass and Catriona McCallum.  
 
-![Keynotes]({{ site.url }}/img/events/keynotes.jpg "Keynotes"){: style="min-width: 100%"}
+![Keynotes]({{ site.url }}/img/events/Keynotes.jpg "Keynotes"){: style="min-width: 100%"}
 <br>
 <br>
 Joe Wass is Principal R&D Engineer and works in Crossref Labs, cooking up new products and services and finding new things to do with Crossref's data. He is technical lead on the Event Data project, a system for collecting and distributing events, assertions and links that occur around scholarly publications. This data is collected from a number of destinations across the web, and can be put to a wide range of uses, including \*metrics.
