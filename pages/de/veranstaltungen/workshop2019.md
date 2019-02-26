@@ -51,8 +51,8 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
       <br>
 ## Programm  
 
-|Zeit / Tag|Dienstag, 27. März|Mittwoch, 28. März|   
-|:---|:---|:---|  
+|Zeit/Tag|Dienstag, 27. März|Mittwoch, 28. März|   
+|:----------------|:---|:---|  
 |9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Weitere Projekte zum Thema*|  
 |10:30 - 11:00 Uhr| |Kaffeepause|
 |11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann<br> (Direktor SUB Göttingen)<br>11:15 Uhr: \*metrics im Kontext<br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) -<br> "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>S. Lilienthal/G. Fraumann (TIB Hannover) - "The ROSI Project"|        
