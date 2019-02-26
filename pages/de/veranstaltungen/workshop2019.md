@@ -61,7 +61,7 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 |15 - 15:30 Uhr|Postersession| |     
 |15:30 - 16 Uhr|Kaffeepause| |      
 |16 - 17:30 Uhr|Gruppenarbeit| |        
-
+<br>
 ## Wichtige Daten  
   
 Einreichung Poster Abstracts: 01. März  
