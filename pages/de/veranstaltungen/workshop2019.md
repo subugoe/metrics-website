@@ -50,9 +50,20 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 **Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum 1. März über das Anmeldeformular ein.**   
       <br>
 ## Programm  
-   
-![Programm_DE]({{ site.url }}/img/events/Programm_110219_de.PNG "Programm Abschluss-Workshop"){: style="min-width: 80%"}
-       <br>
+
+|Zeit/Tag|Dienstag, 27. März|Mittwoch, 28. März|   
+|:---|:---|:---|  
+|9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Weitere Projekte zum Thema*|  
+|10:30 - 11:00 Uhr| |Kaffeepause|
+|11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br>11:15 Uhr: \*metrics im Kontext<br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>S. Lilienthal/G. Fraumann (TIB Hannover) - "The ROSI Project"|        
+|12:30 - 13:30 Uhr|Mittagspause|Mittagspause|  
+|13:30 - 15:00 Uhr|Vorstellung der Projektergebnisse|Abschluss/Wrap Up|      
+|15:00 - 15:30 Uhr|Postersession| |     
+|15:30 - 16:00 Uhr|Kaffeepause| |      
+|16:00 - 17:30 Uhr|Gruppenarbeit| |        
+
+
+
 ## Wichtige Daten  
   
 Einreichung Poster Abstracts: 01. März  
