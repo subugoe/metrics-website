@@ -51,7 +51,7 @@ How can we create a responsible practice with metrics?
 <br>
 ## Programme  
   
-|Time/Day|Tuesday, March 27|Wednesday, March 28|   
+|Time/Day       |Tuesday, March 27|Wednesday, March 28|   
 |---|---|---|  
 |9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*|  
 |10:30 - 11 h| |Coffee break|  
