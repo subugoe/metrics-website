@@ -54,7 +54,7 @@ How can we create a responsible practice with metrics?
 |Time/Day|Tuesday, March 27|Wednesday, March 28|   
 |---|---|---|  
 |9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*|  
-|10:30 - 11 h| |Coffee break|
+|10:30 - 11 h| |Coffee break|  
 |11 - 12:30 h|11 Uhr Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br>11:15 Uhr: \*metrics in context<br>**11:45 h Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Integration of \*metrics in services*<br><br>S. Lilienthal/G. Fraumann (TIB Hannover) - "The ROSI Project"|        
 |12:30 - 13:30 h|Lunch break|Lunch break|  
 |13:30 - 15 h|Presentation of project results|Final discussion/Wrap Up|      
