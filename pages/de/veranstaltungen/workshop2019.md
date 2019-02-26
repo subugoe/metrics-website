@@ -62,7 +62,7 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 |15:30 - 16 Uhr|Kaffeepause| |      
 |16 - 17:30 Uhr|Gruppenarbeit| |        
 
-<br>
+
 
 ## Wichtige Daten  
   
