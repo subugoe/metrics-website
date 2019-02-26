@@ -61,7 +61,8 @@ How can we create a responsible practice with metrics?
 |15 - 15:30 h|Poster session| |     
 |15:30 - 16 h|Coffee break| |      
 |16 - 17:30 h|Breakout groups| |        
-<br>
+
+
 
 ## Important Dates and Deadlines:  
   
