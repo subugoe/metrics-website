@@ -51,7 +51,7 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
       <br>
 ## Programm  
 
-|Zeit/Tag|Dienstag, 27. März|Mittwoch, 28. März|   
+|Zeit/Tag|Mittwoch, 27. März|Donnerstag, 28. März|   
 |:---|:---|:---|  
 |9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Weitere Projekte zum Thema*|  
 |10:30 - 11:00 Uhr| |Kaffeepause|
