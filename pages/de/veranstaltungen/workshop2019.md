@@ -61,7 +61,7 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 |15:00 - 15:30 Uhr|Postersession| |     
 |15:30 - 16:00 Uhr|Kaffeepause| |      
 |16:00 - 17:30 Uhr|Gruppenarbeit| |  
-|19:00 Uhr|Workshop-Dinner (Selbstzahler)| | 
+|19:00 Uhr|Workshop-Dinner (Selbstzahler)| |   
 
 
 <br>
