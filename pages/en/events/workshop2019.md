@@ -47,7 +47,7 @@ How do altmetrics work? How does my library/institution implement them in their 
 How do altmetrics supplement traditional metrics?  
 How can we create a responsible practice with metrics?  
   
-**Please submit your poster abstract (max. 200 words) until March 1, 2019 via the registration form.**  
+**Please submit your poster abstract (max. 200 words) until ~~March 1~~ March 8 via the registration form.**  
 <br>
 ## Programme  
   
@@ -60,14 +60,15 @@ How can we create a responsible practice with metrics?
 |13:30 - 15 h|Presentation of project results|Final discussion/Wrap Up|      
 |15 - 15:30 h|Poster session| |     
 |15:30 - 16 h|Coffee break| |      
-|16 - 17:30 h|Breakout groups| |        
+|16 - 17:30 h|Breakout groups| |   
+|19:00h|Workshop Dinner (self-paid)| |  
 
 
-
+<br>
 ## Important Dates and Deadlines:  
   
-Poster abstract submission: March 1  
-Notification of authors: March 8    
+Poster abstract submission: ~~March 1~~ March 8 
+Notification of authors: ~~March 8~~ March 12    
 Registration ends: March 12  
 Submission of camera-ready posters: March 22  
 <br>
