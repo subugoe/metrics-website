@@ -47,7 +47,7 @@ Wie funktionieren \*Altmetrics? Wie sind Altmetrics in den Service der Bibliothe
 Wie ergänzen Altmetrics traditionelle Metriken?  
 Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?  
   
-**Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum 1. März über das Anmeldeformular ein.**   
+**Bitte reichen Sie ein Abstract zum Poster ( max. 200 Wörter) bis zum ~~1. März~~ 8. März über das Anmeldeformular ein.**   
       <br>
 ## Programm  
 
@@ -60,14 +60,15 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 |13:30 - 15:00 Uhr|Vorstellung der Projektergebnisse|Abschluss/Wrap Up|      
 |15:00 - 15:30 Uhr|Postersession| |     
 |15:30 - 16:00 Uhr|Kaffeepause| |      
-|16:00 - 17:30 Uhr|Gruppenarbeit| |        
+|16:00 - 17:30 Uhr|Gruppenarbeit| |  
+|19:00 Uhr|Workshop-Dinner (Selbstzahler)| |   
 
 
-
+<br>
 ## Wichtige Daten  
   
-Einreichung Poster Abstracts: 01. März  
-Benachrichtigung der Autoren: 08. März  
+Einreichung Poster Abstracts: ~~01. März~~ 08. März  
+Benachrichtigung der Autoren: ~~08. März~~ 12. März  
 Anmeldeschluss: 12. März  
 Einreichung der fertigen Poster: 22. März  
  <br>
