@@ -51,11 +51,11 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
       <br>
 ## Programm  
 
-|Zeit/Tag|Mittwoch, 27. März|Donnerstag, 28. März|   
-|:---|:---|:---|  
+|Zeit / Tag|Mittwoch, 27. März|Donnerstag, 28. März|   
+|:------|:---|:---|  
 |9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Weitere Projekte zum Thema*<br><br>"The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)|  
 |10:30 - 11:00 Uhr| |Kaffeepause|
-|11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br>11:15 Uhr: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>"Nutzung alternativer Metriken in VZG-Reposis"<br><br>"Metriken bei Copernicus Publications. Was verraten die Zahlen (und was nicht?)" - Xenia van Edig (Copernicus Publications) |        
+|11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br>11:15 Uhr: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>"Nutzung alternativer Metriken in VZG-Reposis" - Kathleen Neumann (VZG)<br><br>"Metriken bei Copernicus Publications. Was verraten die Zahlen (und was nicht?)" - Xenia van Edig (Copernicus Publications) |        
 |12:30 - 13:30 Uhr|Mittagspause|Mittagspause|  
 |13:30 - 15:00 Uhr|Vorstellung der Projektergebnisse - Vorträge von den Projektpartnern SUB Göttingen, VZG, Gesis, ZBW|Vorstellung der Ergebnisse aus der Gruppenarbeit/Abschluss|      
 |15:00 - 15:30 Uhr|Postersession| |     
