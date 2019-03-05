@@ -53,11 +53,11 @@ How can we create a responsible practice with metrics?
   
 |Time/Day|Wednesday, March 27|Thursday, March 28|   
 |---|---|---|  
-|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*|  
+|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*<br><br>"The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)|  
 |10:30 - 11 h| |Coffee break|  
-|11 - 12:30 h|11 Uhr Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br>11:15 Uhr: \*metrics in context<br>**11:45 h Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Integration of \*metrics in services*<br><br>S. Lilienthal/G. Fraumann (TIB Hannover) - "The ROSI Project"|        
+|11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br>11:15 h: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br>**11:45 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>“Nutzung alternativer Metriken in VZG-Reposis”<br><br>“Metriken bei Copernicus Publications. Was verraten die Zahlen (und was nicht?)” - Xenia van Edig (Copernicus Publications)|        
 |12:30 - 13:30 h|Lunch break|Lunch break|  
-|13:30 - 15 h|Presentation of project results|Final discussion/Wrap Up|      
+|13:30 - 15 h|Presentation of project results - Presentations by the project partners SUB Göttingen, VZG, Gesis, ZBW|Presentation of the results from the break out groups/Wrap Up|      
 |15 - 15:30 h|Poster session| |     
 |15:30 - 16 h|Coffee break| |      
 |16 - 17:30 h|Breakout groups| |   
