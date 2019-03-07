@@ -23,7 +23,7 @@ Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes v
 
 Wir freuen uns Ihnen unsere beiden **Keynote-Sprecher** vorstellen zu dürfen:  
   
-### Joe Wass und Catriona McCallum.
+### Joe Wass und Catriona MacCallum.
 
 ![Keynotes]({{ site.url }}/img/events/Keynotes_WS2019.jpg "Keynotes"){: style="min-width: 100%"}
 <br>
