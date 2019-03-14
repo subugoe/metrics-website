@@ -15,7 +15,7 @@ alt: "Upcoming Events"
 Visit the following events to meet members of the \*metrics project team:     
 
 ### German Library Congress: 18.-21. March 2019, Leipzig {#Bkongress}  
-The [7th German Library Congress](http://www.bid-kongress-leipzig.de/t3/index.php?id=74) with the motto "Libraries for change" will take place in March 2019. Members of the \*metrics-team will be taking part with two contributions:  
+The [7th German Library Congress](https://www.bid-kongress-leipzig.de/index.php?id=1&L=1) with the motto "Libraries for change" will take place in March 2019. Members of the \*metrics-team will be taking part with two contributions:  
 On March 18, [Astrid Orth, Steffen Lemke and Maryam Mehrazar](https://metrics-project.net/en/uber_uns/team/) will give their presentation 
 [Traditionell oder alternativ: wie Forschende Metriken nutzen, verstehen und selbst anwenden](http://www.professionalabstracts.com/bid2019/iplanner/#/presentation/96) and on March 20 the [Hands-on Lab digital: Der Mensch im Mittelpunkt - und was kommt drumherum?](http://www.professionalabstracts.com/bid2019/iplanner/#/session/120) led by [Astrid Orth, Daniel Beucke](https://metrics-project.net/en/uber_uns/team/) and [Ben McLeish](https://www.altmetric.com/about-us/people/ben-mcleish/) will take place.
 
