@@ -53,18 +53,18 @@ How can we create a responsible practice with metrics?
   
 |Time / Day|Wednesday, March 27|Thursday, March 28|   
 |:-------|:---|:---|  
-|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*<br><br>"The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)|  
+|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Further \*metrics-related projects*<br><br>9:45 h "The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)<br><br>10:05 h “Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich“ - Andreas Meier (FZ Jülich)|  
 |10:30 - 11 h| |Coffee break|  
-|11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br>11:15 h: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br>**11:45 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>“Nutzung alternativer Metriken in VZG-Reposis” - Kathleen Neumann (VZG)<br><br>“Metriken bei Copernicus Publications. Was verraten die Zahlen (und was nicht?)” - Xenia van Edig (Copernicus Publications)|        
+|11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br><br>11:15 h: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br><br>**11:45 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>„Metrics @ Copernicus Publications, What numbers tell and what not …” - Xenia van Edig (Copernicus Publications)<br><br>“Nutzung alternativer Metriken in VZG-Repositorien” - Kathleen Neumann (Compound Centre of GBV (VZG))<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>"Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (VZG)<br><br>“Einbindung von Metriken in Göttingen Research Online (GRO) - Daniel Beucke (SUB Göttingen)|            
 |12:30 - 13:30 h|Lunch break|Lunch break|  
 |13:30 - 15 h|Presentation of project results - Presentations by the project partners SUB Göttingen, VZG, Gesis, ZBW|Presentation of the results from the break out groups/Wrap Up|      
-|15 - 15:30 h|Poster session| |     
+|15 - 15:30 h|Poster session<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen and Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Christine Schima-Vogt (SUB Göttingen)| |     
 |15:30 - 16 h|Coffee break| |      
 |16 - 17:30 h|Breakout groups| |   
-|19:00h|Workshop Dinner (self-paid)| |  
-
+|19:00h|Workshop Dinner - [Augusta](https://www.restaurant-augusta.de/en/home-page/) (self-paid)| |  
 
 <br>
+
 ## Important Dates and Deadlines:  
   
 Poster abstract submission: ~~March 1~~ March 8   
