@@ -51,17 +51,17 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
       <br>
 ## Programm  
 
-|Zeit / Tag|Mittwoch, 27. März|Donnerstag, 28. März|   
+|Zeit / Tag|Mittwoch, 27. März (in englischer Sprache)|Donnerstag, 28. März|   
 |:------|:---|:---|  
-|9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi)**<br><br>*Weitere Projekte zum Thema*<br><br>"The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)|  
+|9:00 - 10:30 Uhr| |**9 Uhr Keynote 2: Catriona MacCallum (Hindawi) - "Open Science, Open Metrics and Research Evaluation".**<br><br>*Weitere Projekte zum Thema*<br><br> 9:45 Uhr "The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)<br><br> 10:05 Uhr “Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich“ - Andreas Meier (FZ Jülich)|  
 |10:30 - 11:00 Uhr| |Kaffeepause|
-|11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br>11:15 Uhr: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>"Nutzung alternativer Metriken in VZG-Reposis" - Kathleen Neumann (VZG)<br><br>"Metriken bei Copernicus Publications. Was verraten die Zahlen (und was nicht?)" - Xenia van Edig (Copernicus Publications) |        
+|11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br><br>11:15 Uhr: "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br><br>**11:45 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br> „Metrics @ Copernicus Publications, What numbers tell and what not …” - Xenia van Edig (Copernicus Publications)<br><br>“Nutzung alternativer Metriken in VZG-Repositorien” - Kathleen Neumann (Verbundzentrale des GBV (VZG))<br><br>„Einbindung von \*metrics in EconStor“ - Jan Weiland (ZBW)<br><br>"Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (VZG)<br><br>“Einbindung von Metriken in Göttingen Research Online (GRO) - Daniel Beucke (SUB Göttingen)|        
 |12:30 - 13:30 Uhr|Mittagspause|Mittagspause|  
-|13:30 - 15:00 Uhr|Vorstellung der Projektergebnisse - Vorträge von den Projektpartnern SUB Göttingen, VZG, Gesis, ZBW|Vorstellung der Ergebnisse aus der Gruppenarbeit/Abschluss|      
-|15:00 - 15:30 Uhr|Postersession| |     
+|13:30 - 15:15 Uhr|Vorstellung der Projektergebnisse - Vorträge von den Projektpartnern SUB Göttingen, VZG, Gesis, ZBW|Vorstellung der Ergebnisse aus der Gruppenarbeit/Abschluss|      
+|15:15 - 15:30 Uhr|Postersession<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen und Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Christine Schima-Vogt (SUB Göttingen)| |     
 |15:30 - 16:00 Uhr|Kaffeepause| |      
 |16:00 - 17:30 Uhr|Gruppenarbeit| |  
-|19:00 Uhr|Workshop-Dinner (Selbstzahler)| |   
+|19:00 Uhr|Workshop-Dinner - [Augusta](https://www.restaurant-augusta.de/) (Selbstzahler)| |   
 
 
 <br>
