@@ -85,3 +85,7 @@ For accomodation in Göttingen we recommend the following hotels:
 **[Eden Hotel](https://www.eden-hotel.de/)**  
 
 <br> 
+## Locations
+<br>
+<iframe src="https://www.google.com/maps/d/embed?mid=1cRUKFm7IkAdRJv9abaP1g_RetWFUuXPD" width="640" height="480"></iframe>
+<br>
