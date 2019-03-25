@@ -53,7 +53,7 @@ How can we create a responsible practice with metrics?
   
 |Time / Day|Wednesday, March 27|Thursday, March 28|   
 |:-------|:---|:---|  
-|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi) - “Open Science, Open Metrics and Research Evaluation”.**<br><br>*Further \*metrics-related projects*<br><br>9:45 h "The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)<br><br>10:05 h “Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich“ - Andreas Meier (FZ Jülich)|  
+|9 - 10:30 h| |**9 h Keynote 2: Catriona MacCallum (Hindawi) - “Open Science, Open Metrics and Research Evaluation”.**<br><br>*\*metrics-related projects*<br><br>9:45 h "The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)<br><br>10:05 h “Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich“ - Andreas Meier (FZ Jülich)|  
 |10:30 - 11 h| |Coffee break|  
 |11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br><br>11:15 h "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br><br>**11:45 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>11 h "Metrics @ Copernicus Publications, What numbers tell and what not …" - Xenia van Edig (Copernicus Publications)<br><br>11:20 h "Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (Compound Centre of GBV (VZG))<br><br>11:40 h "Einbindung von \*metrics in EconStor" - Jan Weiland (ZBW)<br><br>12:00 h "Einbindung von Metriken in Göttingen Research Online (GRO)" - Daniel Beucke (SUB Göttingen)|            
 |12:30 - 13:30 h|Lunch break|Lunch break|  
