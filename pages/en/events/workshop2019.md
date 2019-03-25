@@ -57,8 +57,8 @@ How can we create a responsible practice with metrics?
 |10:30 - 11 h| |Coffee break|  
 |11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br><br>11:15 h "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br><br>**11:45 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>11 h "Metrics @ Copernicus Publications, What numbers tell and what not …" - Xenia van Edig (Copernicus Publications)<br><br>11:20 h "Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (Compound Centre of GBV (VZG))<br><br>11:40 h "Einbindung von \*metrics in EconStor" - Jan Weiland (ZBW)<br><br>12:00 h "Einbindung von Metriken in Göttingen Research Online (GRO)" - Daniel Beucke (SUB Göttingen)|            
 |12:30 - 13:30 h|Lunch break|Lunch break|  
-|13:30 - 15 h|Presentation of project results - Presentations by the project partners SUB Göttingen, VZG, Gesis, ZBW|Presentation of the results from the break out groups/Wrap Up|      
-|15 - 15:30 h|Poster session<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen and Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Christine Schima-Vogt (SUB Göttingen)| |     
+|13:30 - 15:15 h|Presentation of project results - Presentations by the project partners SUB Göttingen, VZG, Gesis, ZBW|Presentation of the results from the break out groups/Wrap Up|      
+|15:15 - 15:30 h|Poster session<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen and Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Christine Schima-Vogt (SUB Göttingen)| |     
 |15:30 - 16 h|Coffee break| |      
 |16 - 17:30 h|Breakout groups| |   
 |19:00h|Workshop Dinner - [Augusta](https://www.restaurant-augusta.de/en/home-page/) (self-paid)| |  
