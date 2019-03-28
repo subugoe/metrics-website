@@ -89,3 +89,46 @@ Zur Unterkunft in Göttingen empfehlen wir Ihnen folgende Hotels:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRUKFm7IkAdRJv9abaP1g_RetWFUuXPD" width="640" height="480"></iframe>
 <br>
+
+## Präsentationen  
+  
+**Keynote**
+  
+Joe Wass - The role of open scholoarly infrastructure in metrics  
+  
+**Presentation of project results**
+  
+Astrid Orth - [\*metrics Project summary and outlook]({{sitebase.url}}/downloads/2019-03 metrics-Intro.pptx) 
+  
+Maxie Gottschling - [\*metrics Project SUB results]({{sitebase.url}}/downloads/2019-03 metrics-SUB.pptx)
+
+Julius Stropel - [\*metrics from a Technical Point of View]({{sitebase.url}}/downloads/metrics_goe_stropel_03-2019.pptx)  
+  
+Katrin Weller, Olya Zagovora - [Which social media interactions indicate positive opinions about cited publications? A comparison of user survey and sentiment analysis]({{sitebase.url}}/downloads/Zagovora Altmetrics 2018 Poster Final FINAL.pdf) 
+  
+Steffen Lemke - [The \*metrics-project's user studies: How researchers percieve and use metrics]({{sitebase.url}}/downloads/steffen_lemke_metrics-in-transition-workshop.pptx)    
+  
+**Approaches and Ideas**
+
+Isabella Peters - [Approaches to measuring openness]({{sitebase.url}}/downloads/Peters_Approaches to measuring openness_Göttingen_2019_final.pptx) 
+  
+**\*metrics-related projects**
+  
+Svantje Lilienthal, Grischa Fraumann - [The ROSI Project]({{sitebase.url}}/downloads/2019-03-28_presentation_rosi.pdf)    
+  
+Andreas Meier - [Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich]({{sitebase.url}}/downloads/Workshop Göttingen AM.pptx)
+  
+**Integration of \*metrics in services**
+  
+Xenia van Edig - [Metrics @ Copernicus Publications: What numbers tell and what not...]({{sitebase.url}}/downloads/metrics-vanEdig_2019-03-28.pptx)  
+  
+Kathleen Neumann - [Nutzung alternativer Metriken in VZG-Repositorien]({{sitebase.url}}/downloads/20190328-KNeumann-Nutzung_alternativer_Metriken.pptx) 
+  
+Jan Weiland - [Einbindung von \*metrics in EconStor]({{sitebase.url}}/downloads/2019-03-28-EconStor-metrics-Abschluss-WS-SUB-Gö.pptx)  
+  
+Daniel Beucke - [Einbindung von Metriken in Göttingen Research Online (GRO)]({{sitebase.url}}/downloads/20190328-metricsWS-GRO-Beucke.pptx)  
+  
+  <br>
+  
+  
+
