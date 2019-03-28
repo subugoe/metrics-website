@@ -89,3 +89,45 @@ Zur Unterkunft in Göttingen empfehlen wir Ihnen folgende Hotels:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1cRUKFm7IkAdRJv9abaP1g_RetWFUuXPD" width="640" height="480"></iframe>
 <br>
+
+## Präsentationen  
+  
+**Keynote**
+  
+Joe Wass - The role of open scholoarly infrastructure in metrics  
+  
+**Presentation of project results**
+  
+Astrid Orth - \*metrics Project summary and outlook  
+  
+Maxie Gottschling - \*metrics Project SUB results
+
+Julius Stropel - \*metrics from a Technical Point of View  
+  
+Katrin Weller, Olya Zagovora - Which social media interactions indicate positive opinions about cited publications? A comparison of user survey and sentiment analysis  
+  
+Steffen Lemke - The \*metrics-project's user studies: How researchers percieve and use metrics  
+  
+**Approaches and Ideas**
+
+Isabella Peters - Approaches to measuring openness  
+  
+**\*metrics-related projects**
+  
+Svantje Lilienthal, Grischa Fraumann - The ROSI Project  
+  
+Andreas Meier - Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich  
+  
+**Integration of \*metrics in services**
+  
+Xenia van Edig - Metrics @ Copernicus Publications: What numbers tell and what not...  
+  
+Kathleen Neumann - Nutzung alternativer Metriken in VZG-Repositorien  
+  
+Jan Weiland - Einbindung von \*metrics in EconStor  
+  
+Daniel Beucke - Einbindung von Metriken in Göttingen Research Online (GRO)  
+  
+  
+  
+
