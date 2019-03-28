@@ -128,6 +128,7 @@ Jan Weiland - [Einbindung von \*metrics in EconStor]({{sitebase.url}}/downloads/
   
 Daniel Beucke - [Einbindung von Metriken in Göttingen Research Online (GRO)]({{sitebase.url}}/downloads/20190328-metricsWS-GRO-Beucke.pptx)  
   
+  <br>
   
   
 
