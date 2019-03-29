@@ -58,7 +58,7 @@ Wie gelingt ein verantwortungsbewusster Umgang mit Metriken?
 |11:00 - 12:30 Uhr|11 Uhr Eröffnung - Dr. Wolfram Horstmann (Direktor SUB Göttingen)<br><br>**11:15 Uhr Keynote 1: Joe Wass (Crossref) - "The role of open scholoarly infrastructure in metrics"**|*Einbindung von \*metrics in Services*<br><br>11 Uhr "Metrics @ Copernicus Publications, What numbers tell and what not …" - Xenia van Edig (Copernicus Publications)<br><br>11:20 Uhr "Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (Verbundzentrale des GBV (VZG))<br><br>11:40 Uhr "Einbindung von \*metrics in EconStor" - Jan Weiland (ZBW)<br><br>12:00 Uhr "Einbindung von Metriken in Göttingen Research Online (GRO)" - Daniel Beucke (SUB Göttingen)|        
 |12:30 - 13:30 Uhr|Mittagspause|Mittagspause|  
 |13:30 - 15:15 Uhr|Vorstellung der Projektergebnisse - Vorträge von den Projektpartnern SUB Göttingen, VZG, Gesis, ZBW|Vorstellung der Ergebnisse aus der Gruppenarbeit/Abschluss|      
-|15:15 - 15:30 Uhr|Postersession<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen und Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Christine Schima-Vogt (SUB Göttingen)| |     
+|15:15 - 15:30 Uhr|Postersession<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen und Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Ali Reza Sajedi (SUB Göttingen)| |     
 |15:30 - 16:00 Uhr|Kaffeepause| |      
 |16:00 - 17:30 Uhr|Gruppenarbeit| |  
 |19:00 Uhr|Workshop-Dinner - [Augusta](https://www.restaurant-augusta.de/) (Selbstzahler)| |   
