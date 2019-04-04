@@ -17,119 +17,32 @@ alt: "*Metrics in Transition Workshop 2019"
 ![Abschluss-Workshop]({{ site.url }}/img/events/Abschlussworkshop_en.png "*metrics final workshop"){: style="min-width: 100%"}
  <br>
  <br>
-The \*metrics project  invites you and everyone interested in \*metrics to its final workshop which will take place in the Historical Building of Göttingen State and University Library.
 
-On March 27 & 28, 2019 the project team will present the results of 2 years work and would like to discuss the topic further with the community. Moreover the actual research in this field will be presented and cooperation networks for sustainability and further development of the services should be initiated.  
+On March 27 & 28, 2019 the project team presented the results of 2 years work and discussed the topic further with the community. Moreover the actual research in this field was presented and cooperation networks for sustainability and further development of the services have been initiated. We were glad to welcome about 40 attendees in Göttingen and would like to give thanks for the innovational collaboration.
 
-We are happy to present our two **keynote speakers**:
-   
-### Joe Wass and Catriona MacCallum.  
+We'd like to especially thank our keynote speaker **Joe Wass**, as well as all those who held presentations. Below you can find our **program with all presentations**.
+  
+## Program  
 
-![Keynotes]({{ site.url }}/img/events/Keynotes_WS2019.jpg "Keynotes"){: style="min-width: 100%"}
-<br>
-<br>
-Joe Wass is Principal R&D Engineer and works in Crossref Labs, cooking up new products and services and finding new things to do with Crossref's data. He is technical lead on the Event Data project, a system for collecting and distributing events, assertions and links that occur around scholarly publications. This data is collected from a number of destinations across the web, and can be put to a wide range of uses, including \*metrics.
+|Time / Date|Wednesday, 27. March |Thursday, 28. March|   
+|:------|:---|:---|  
+|9:00 - 10:30 h| |9 h Dr. Isabella Peters (ZBW) - [Approaches to measuring openness]({{sitebase.url}}/downloads/Peters_Approaches to measuring openness_Göttingen_2019_final.pptx)<br><br>*\*Metrics-bezogene Projekte*<br><br> 9:45 h Svantje Lilienthal, Grischa Fraumann (TIB Hannover) - [The ROSI Project]({{sitebase.url}}/downloads/2019-03-28_presentation_rosi.pdf)<br><br> 10:05 h Andreas Meier (FZ Jülich) - [Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich]({{sitebase.url}}/downloads/Workshop Göttingen AM.pptx)|  
+|10:30 - 11:00 h | |Coffee Break|
+|11:00 - 12:30 h |11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br><br>**11:15 h Keynote 1: Joe Wass (Crossref) - The role of open scholoarly infrastructure in metrics**|*Integration of \*metrics in services*<br><br>11 h Xenia van Edig (Copernicus Publications) - [Metrics @ Copernicus Publications: What numbers tell and what not...]({{sitebase.url}}/downloads/metrics-vanEdig_2019-03-28.pptx)<br><br>11:20 h Kathleen Neumann (Verbundzentrale des VZG (GBV)) - [Nutzung alternativer Metriken in VZG-Repositorien]({{sitebase.url}}/downloads/20190328-KNeumann-Nutzung_alternativer_Metriken.pptx)<br><br>11:40 h Jan Weiland (ZBW) - [Einbindung von \*metrics in EconStor]({{sitebase.url}}/downloads/2019-03-28-EconStor-metrics-Abschluss-WS-SUB-Gö.pptx)<br><br>12:00 h Daniel Beucke (SUB Göttingen) - [Einbindung von Metriken in Göttingen Research Online (GRO)]({{sitebase.url}}/downloads/20190328-metricsWS-GRO-Beucke.pptx)|        
+|12:30 - 13:30 h |Lunch Break|Lunch Break|  
+|13:30 - 15:15 h |Presentation of project results:<br><br>Astrid Orth - [\*metrics Project Intro]({{sitebase.url}}/downloads/2019-03%20metrics-Intro.pptx)<br><br>Maxie Gottschling - [\*metrics Project SUB results]({{sitebase.url}}/downloads/2019-03 metrics-SUB.pptx)<br><br>Julius Stropel - [\*metrics from a Technical Point of View]({{sitebase.url}}/downloads/metrics_goe_stropel_03-2019.pptx)<br><br>Katrin Weller, Olya Zagovora - [Which social media interactions indicate positive opinions about cited publications? A comparison of user survey and sentiment analysis]({{sitebase.url}}/downloads/Zagovora Altmetrics 2018 Poster Final FINAL.pdf)<br><br>Steffen Lemke - [The \*metrics-project's user studies: How researchers percieve and use metrics]({{sitebase.url}}/downloads/steffen_lemke_metrics-in-transition-workshop.pptx)<br><br>Astrid Orth - [\*metrics Project Summary]({{sitebase.url}}/downloads/2019-03%20metrics-Summary.pptx) |Presentation of group work results<br><br>Abschluss|      
+|15:15 - 15:30 h|Poster session<br><br>Jochen Schirrwagen and Andreas Czerniak (Universitätbibliothek Bielefeld) - [Comprehensive Open Metrics for Repositories]({{sitebase.url}}/downloads/metrics_openaire_final.pdf)<br><br>Ali Reza Sajedi (SUB Göttingen) - [Tracking- und Reporting-Service 'CounterBike']({{sitebase.url}}/downloads/CounterBike_slide.pdf)| |     
+|15:30 - 16:00 h|Coffee Break| |      
+|16:00 - 17:30 h|[Group work]({{sitebase.url}}/downloads/2019-03%20metrics-Groupwork.pptx)<br><br>Group 1: Producers and users of alternative metrics – lessons learnt for creation of novel indicators<br><br>Group 2: Services for usage and alternative metrics –   a national perspective<br><br>[Group 3: Tech-Check - Inspect our \*metrics services]({{sitebase.url}}/downloads/2019-03%20metrics-Group3-Tech-Check.pptx)| |  
+|19:00 h|Workshop-Dinner - [Augusta](https://www.restaurant-augusta.de/) (self-paid)| |   
 
-Catriona MacCallum is Director of Open Science at Hindawi. She worked i.a. as editor for PLOS and is currently Chair of the OASPA Policy Committee and a member of the Advisory Boards of OpenAire and the Royal Society (Publishing).
 
-   <br> 
-   
-## Registration
-  
-You may find the **registration form** [here](https://docs.google.com/forms/d/e/1FAIpQLSdigHX9aK--jC7lPbnNBNEvE3bkBSTrsUfMvMIM3btmSQ-xuQ/viewform?usp=sf_link)  
-  
-To make further planning more convenient for us we would like you to **register until March 12, 2019!**
-<br> 
-## Poster Call
-We invite workshop participants to submit a poster on the topic \*metrics. Contents could be:  
-  
-How do altmetrics work? How does my library/institution implement them in their service?  
-How do altmetrics supplement traditional metrics?  
-How can we create a responsible practice with metrics?  
-  
-**Please submit your poster abstract (max. 200 words) until ~~March 1~~ March 8 via the registration form.**  
-<br>
-## Programme  
-  
-|Time / Day|Wednesday, March 27|Thursday, March 28|   
-|:-------|:---|:---|  
-|9 - 10:30 h| |9 h "Approaches to measuring openness" - Prof. Dr. Isabella Peters (ZBW)<br><br>*\*metrics-related projects*<br><br>9:45 h "The ROSI Project" - Svantje Lilienthal/Grischa Fraumann (TIB Hannover)<br><br>10:05 h “Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich“ - Andreas Meier (FZ Jülich)|  
-|10:30 - 11 h| |Coffee break|  
-|11 - 12:30 h|11 h Opening - Dr. Wolfram Horstmann (Director SUB Göttingen)<br><br>**11:15 h Keynote 1: "The role of open scholoarly infrastructure in metrics" - Joe Wass (Crossref)**|*Integration of \*metrics in services*<br><br>11 h "Metrics @ Copernicus Publications, What numbers tell and what not …" - Xenia van Edig (Copernicus Publications)<br><br>11:20 h "Nutzung alternativer Metriken in VZG-Repositorien" - Kathleen Neumann (Compound Centre of GBV (VZG))<br><br>11:40 h "Einbindung von \*metrics in EconStor" - Jan Weiland (ZBW)<br><br>12:00 h "Einbindung von Metriken in Göttingen Research Online (GRO)" - Daniel Beucke (SUB Göttingen)|            
-|12:30 - 13:30 h|Lunch break|Lunch break|  
-|13:30 - 15:15 h|Presentation of project results - Presentations by the project partners SUB Göttingen, VZG, Gesis, ZBW|Presentation of the results from the break out groups/Wrap Up|      
-|15:15 - 15:30 h|Poster session<br><br>"Comprehensive Open Metrics for Repositories" – Jochen Schirrwagen and Andreas Czerniak (Universitätbibliothek Bielefeld)<br><br>"Tracking- und Reporting-Service 'CounterBike'" - Ali Reza Sajedi (SUB Göttingen)| |     
-|15:30 - 16 h|Coffee break| |      
-|16 - 17:30 h|Breakout groups| |   
-|19:00h|Workshop Dinner - [Augusta](https://www.restaurant-augusta.de/en/home-page/) (self-paid)| |  
 
-<br>
 
-## Important Dates and Deadlines:  
-  
-Poster abstract submission: ~~March 1~~ March 8   
-Notification of authors: ~~March 8~~ March 12      
-Registration ends: March 12    
-Submission of camera-ready posters: March 22   
-<br>
-## Accomodation  
-
-For accomodation in Göttingen we recommend the following hotels:  
-  
-**[Hotel Central.](https://www.hotel-central.com/willkommen_de.html)** For accomodation in Hotel central, a limited number of rooms has been set aside for you to access until February 28 under the keyword "Metrics". 
-  
-**[Leinehotel](https://www.leinehotel-goe.de/)**
-  
-**[Hotel Astoria](https://www.astoria-goettingen.de/)**  
-  
-**[Eden Hotel](https://www.eden-hotel.de/)**  
-
-<br> 
-## Locations
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1cRUKFm7IkAdRJv9abaP1g_RetWFUuXPD" width="640" height="480"></iframe>
-<br>
-  
-## Presentations  
-  
-**Keynote**
-  
-Joe Wass - The role of open scholoarly infrastructure in metrics  
-  
-**Presentation of project results**
-  
-Astrid Orth - [\*metrics Project summary and outlook]({{sitebase.url}}/downloads/2019-03 metrics-Intro.pptx) 
-  
-Maxie Gottschling - [\*metrics Project SUB results]({{sitebase.url}}/downloads/2019-03 metrics-SUB.pptx)
-
-Julius Stropel - [\*metrics from a Technical Point of View]({{sitebase.url}}/downloads/metrics_goe_stropel_03-2019.pptx)  
-  
-Katrin Weller, Olya Zagovora - [Which social media interactions indicate positive opinions about cited publications? A comparison of user survey and sentiment analysis]({{sitebase.url}}/downloads/Zagovora Altmetrics 2018 Poster Final FINAL.pdf) 
-  
-Steffen Lemke - [The \*metrics-project's user studies: How researchers percieve and use metrics]({{sitebase.url}}/downloads/steffen_lemke_metrics-in-transition-workshop.pptx)    
-  
-**Approaches and Ideas**
-
-Isabella Peters - [Approaches to measuring openness]({{sitebase.url}}/downloads/Peters_Approaches to measuring openness_Göttingen_2019_final.pptx) 
-  
-**\*metrics-related projects**
-  
-Svantje Lilienthal, Grischa Fraumann - [The ROSI Project]({{sitebase.url}}/downloads/2019-03-28_presentation_rosi.pdf)    
-  
-Andreas Meier - [Altmetrics: Nutzung, Eindrücke und Erfahrungen am FZ Jülich]({{sitebase.url}}/downloads/Workshop Göttingen AM.pptx)
-  
-**Integration of \*metrics in services**
-  
-Xenia van Edig - [Metrics @ Copernicus Publications: What numbers tell and what not...]({{sitebase.url}}/downloads/metrics-vanEdig_2019-03-28.pptx)  
-  
-Kathleen Neumann - [Nutzung alternativer Metriken in VZG-Repositorien]({{sitebase.url}}/downloads/20190328-KNeumann-Nutzung_alternativer_Metriken.pptx) 
-  
-Jan Weiland - [Einbindung von \*metrics in EconStor]({{sitebase.url}}/downloads/2019-03-28-EconStor-metrics-Abschluss-WS-SUB-Gö.pptx)  
-  
-Daniel Beucke - [Einbindung von Metriken in Göttingen Research Online (GRO)]({{sitebase.url}}/downloads/20190328-metricsWS-GRO-Beucke.pptx)  
-  
-  <br>
-  
   
 
+
+  
+
+  
 
