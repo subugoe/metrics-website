@@ -35,4 +35,4 @@ As a recommendation she gave the participants the opportunity to examine the app
 ![Group Work](https://metrics-project.net/img/events/metrics_in_transition_IMG_20190327_170209.jpg){: style="min-width: 25%"}
   
 All presentations and documents are available at the [workshop page](https://metrics-project.net/en/events/workshop2019/).
-You can find more pictures under [Impressions](2019-04-17-impressions-metrics-in-transition-workshop-en.md).
+You can find more pictures under [Impressions](2019-04-17-impressions-metrics-in-transition-workshop-en).
