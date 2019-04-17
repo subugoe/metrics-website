@@ -8,8 +8,9 @@ parent: news
 ref: impressions-metrics-in-transition-workshop
 ---
 
-<!-- Start editing content here-->
 
+<!-- Start editing content here-->
+Test
   
 {:.img--decoration-blue}
 ![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 25%"}  
