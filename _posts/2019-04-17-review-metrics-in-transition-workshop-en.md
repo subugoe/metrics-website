@@ -2,7 +2,7 @@
 layout: post
 title: Review: *Metrics in Transition Workshop 
 categories: news
-permalink: /en/news/2019-04-17-review-metrics-in-transition-workshop
+permalink: /en/news/2019-04-17-review-metrics-in-transition-workshop-en
 lang: en
 parent: news
 ref: review-metrics-in-transition-workshop
