@@ -10,6 +10,11 @@ ref: review-metrics-in-transition-workshop
 
 <!-- Start editing content here-->
 
+Test  
+  
+{:.img--decoration-blue}
+![Attendees](https://metrics-project.net/img/events/Metrics_in_transitionIMG_6649_mini.jpg){: style="min-width: 25%"}   
+   
 Am 27. & 28. März 2019 fand mit “Metrics In Transition” der Abschlussworkshop des \*metrics-Projektes an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) statt. Die knapp 40 Teilnehmer\*innen kamen im Historischen Gebäude zur Präsentation der Projektergebnisse sowie weiteren spannenden Vorträgen rund um das Thema Wissenschaftsevaluation und alternative Metriken zusammen.
   
 {:.img--decoration-blue}
