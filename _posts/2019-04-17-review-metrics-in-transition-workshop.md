@@ -2,7 +2,7 @@
 layout: post
 title: Review: *Metrics in Transition Workshop 
 categories: news
-permalink: /de/news/2019-04-17-review-metrics-in-transition-workshop
+permalink: /de/meldungen/2019-04-17-review-metrics-in-transition-workshop
 lang: de
 parent: news
 ref: review-metrics-in-transition-workshop
@@ -45,5 +45,5 @@ Als Empfehlung gab sie den Teilnehmenden mit auf den Weg, die Anwendbarkeit von 
 ![Group Work](https://metrics-project.net/img/events/metrics_in_transition_IMG_20190327_170209.jpg){: style="min-width: 25%"}
   
 Alle Vorträge und Dokumente sind auf der[ Workshop-Webseite](https://metrics-project.net/de/veranstaltungen/workshop2019/) verfügbar. 
-Mehr Fotos sind unter [Impressionen](2019-04-17-impressions-metrics-in-transition-workshop) zu finden.
+Mehr Fotos sind unter [Impressionen](https://metrics-project.net/de/meldungen/2019-04-17-impressions-metrics-in-transition-workshop) zu finden.
 

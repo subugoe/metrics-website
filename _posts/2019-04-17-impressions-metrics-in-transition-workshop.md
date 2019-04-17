@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Impressionen: \*Metrics in Transition Workshop 
+title: Impressionen *Metrics in Transition Workshop 
 categories: news
-permalink: /de/news/2019-04-17-impressions-metrics-in-transition-workshop
+permalink: /de/meldungen/2019-04-17-impressions-metrics-in-transition-workshop
 lang: de
 parent: news
 ref: impressions-metrics-in-transition-workshop
 ---
 
 
-<!-- Start editing content here-->
-Test
-  
+
+<!-- Start editing content here--> 
 {:.img--decoration-blue}
 ![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 25%"}  
   
