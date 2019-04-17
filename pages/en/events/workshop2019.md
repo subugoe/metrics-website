@@ -36,7 +36,7 @@ We'd like to especially thank our keynote speaker **Joe Wass**, as well as all t
 |16:00 - 17:30 h|[Group work]({{sitebase.url}}/downloads/2019-03%20metrics-Groupwork.pptx)<br><br>Group 1: Producers and users of alternative metrics – lessons learnt for creation of novel indicators<br><br>Group 2: Services for usage and alternative metrics –   a national perspective<br><br>Group 3: Tech-Check - Inspect our \*metrics services| |  
 |19:00 h|Workshop-Dinner - [Augusta](https://www.restaurant-augusta.de/) (self-paid)| |   
 
-**Pictures** of the event ar available under [Impressions.](2019-04-17-impressions-metrics-in-transition-workshop-en)
+**Pictures** of the event ar available under [Impressions.](https://metrics-project.net/en/news/2019-04-17-impressions-metrics-in-transition-workshop-en)
 
 
 
