@@ -13,24 +13,24 @@ ref: review-metrics-in-transition-workshop
 Am 27. & 28. März 2019 fand mit “Metrics In Transition” der Abschlussworkshop des \*metrics-Projektes an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) statt. Die knapp 40 Teilnehmer\*innen kamen im Historischen Gebäude zur Präsentation der Projektergebnisse sowie weiteren spannenden Vorträgen rund um das Thema Wissenschaftsevaluation und alternative Metriken zusammen.
   
 {:.img--decoration-blue}
-![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 25%"}  
+![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 5%"}  
   
 Nach der Eröffnung durch Bibliotheksdirektor Prof. Dr. Wolfram Horstmann sprach Hauptredner Joe Wass von Crossref über die Rolle von offenen Wissenschaftsinfrastrukturen bei Metriken.   
   
 {:.img--decoration-blue}
-![Joe Wass](https://metrics-project.net/img/events/Metrics_in_transition_IMG_6628.jpg){: style="min-width: 25%"}  
+![Joe Wass](https://metrics-project.net/img/events/Metrics_in_transition_IMG_6628.jpg){: style="min-width: 5%"}  
   
 Wass stellte das neueste Tool von Crossref - Eventdata - vor, welches im Netz Erwähnungen in bestimmten Quellen (z.B. Twitter, Wikipedia, Reddit) aufgrund von Links zu DOI-basierten Publikationen sammelt. Im derzeitigen Stadium ist die Community dazu eingeladen, die Daten für ihre Zwecke auszuwerten und Ideen für weiterführende Services einzubringen. 
 Anschließend präsentierten die \*metrics-Projektpartner die Ergebnisse des Projektes. Neben Berichten über die Ergebnisse der durchgeführten Nutzerstudien sowie Auswertungen von Daten aus bestimmten sozialen Medien wurde auch der vom Projekt entwickelte Crawler, der “Metrician”, vorgestellt.  
   
   {:.img--decoration-blue}
-![Presentation](https://metrics-project.net/img/events/Metrics_in_Transition_IMG_1995.JPG){: style="min-width: 25%"}  
+![Presentation](https://metrics-project.net/img/events/Metrics_in_Transition_IMG_1995.JPG){: style="min-width: 5%"}  
   
   {:.img--decoration-blue}
-![Astrid Orth](https://metrics-project.net/img/events/Metrics_in_transitionIMG_6649.jpg){: style="min-width: 25%"}   
+![Astrid Orth](https://metrics-project.net/img/events/Metrics_in_transitionIMG_6649.jpg){: style="min-width: 5%"}   
   
   {:.img--decoration-blue}
-![Steffen Lemke](https://metrics-project.net/img/events/metrics_in_transition_IMG_6640.jpg){: style="min-width: 25%"} 
+![Steffen Lemke](https://metrics-project.net/img/events/metrics_in_transition_IMG_6640.jpg){: style="min-width: 5%"} 
   
   {:.img--decoration-blue}
 ![Katrin Weller](https://metrics-project.net/img/events/metrics_in_transition_IMG_6643.jpg){: style="min-width: 25%"}  
