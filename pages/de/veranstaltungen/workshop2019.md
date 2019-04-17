@@ -37,6 +37,7 @@ Besonders bedanken wir uns ebenfalls bei **Joe Wass** für seine Keynote, ebenso
 |16:00 - 17:30 Uhr|[Gruppenarbeit]({{sitebase.url}}/downloads/2019-03%20metrics-Groupwork.pptx)<br><br>Gruppe 1: Producers and users of alternative metrics – lessons learnt for creation of novel indicators<br><br>Gruppe 2: Services for usage and alternative metrics –   a national perspective<br><br>Gruppe 3: Tech-Check - Inspect our \*metrics services | |
 |19:00 Uhr|Workshop-Dinner - [Augusta](https://www.restaurant-augusta.de/) (Selbstzahler)| |   
 
+**Fotos** von dem Event sind unter [Impressionen](https://metrics-project.net/de/meldungen/2019-04-17-impressions-metrics-in-transition-workshop) zu finden.
 
 
 
