@@ -5,7 +5,7 @@ categories: news
 permalink: /de/news/2019-04-17-impressions-metrics-in-transition-workshop-en
 lang: de
 parent: news
-ref: Impressionen: *Metrics in Transition Workshop
+ref: impressions-metrics-in-transition-workshop
 ---
 
 <!-- Start editing content here-->
