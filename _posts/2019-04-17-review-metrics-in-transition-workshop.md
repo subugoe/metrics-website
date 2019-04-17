@@ -44,6 +44,6 @@ Als Empfehlung gab sie den Teilnehmenden mit auf den Weg, die Anwendbarkeit von 
   {:.img--decoration-blue}
 ![Group Work](https://metrics-project.net/img/events/metrics_in_transition_IMG_20190327_170209.jpg){: style="min-width: 25%"}
   
-Alle Vorträge und Dokumente sind auf der[ Workshop-Webseite](https://metrics-project.net/en/events/workshop2019/) verfügbar. 
-Mehr Fotos sind unter [Impressionen](...) zu finden
+Alle Vorträge und Dokumente sind auf der[ Workshop-Webseite](https://metrics-project.net/de/veranstaltungen/workshop2019/) verfügbar. 
+Mehr Fotos sind unter [Impressionen](...) zu finden.
 
