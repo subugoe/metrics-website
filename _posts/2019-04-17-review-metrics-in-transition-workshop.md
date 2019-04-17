@@ -13,7 +13,7 @@ ref: review-metrics-in-transition-workshop
 Am 27. & 28. März 2019 fand mit “Metrics In Transition” der Abschlussworkshop des \*metrics-Projektes an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) statt. Die knapp 40 Teilnehmer\*innen kamen im Historischen Gebäude zur Präsentation der Projektergebnisse sowie weiteren spannenden Vorträgen rund um das Thema Wissenschaftsevaluation und alternative Metriken zusammen.
   
 {:.img--decoration-blue}
-![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 100px"}  
+![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style=width: 100px"}  
   
 Nach der Eröffnung durch Bibliotheksdirektor Prof. Dr. Wolfram Horstmann sprach Hauptredner Joe Wass von Crossref über die Rolle von offenen Wissenschaftsinfrastrukturen bei Metriken.   
   
