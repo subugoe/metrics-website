@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impressions: *Metrics in Transition Workshop 
+title: Impressions: \*Metrics in Transition Workshop 
 categories: news
 permalink: /en/news/2019-04-17-impressions-metrics-in-transition-workshop-en
 lang: en
