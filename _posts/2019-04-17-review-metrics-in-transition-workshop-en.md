@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: \*Metrics in Transition Workshop 
+title: Review: Metrics In Transition Workshop 
 categories: news
 permalink: /en/news/2019-04-17-review-metrics-in-transition-workshop-en
 lang: en
