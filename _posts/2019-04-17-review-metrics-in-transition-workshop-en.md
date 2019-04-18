@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: *Metrics in Transition Workshop 
+title: Review: \*Metrics in Transition Workshop 
 categories: news
 permalink: /en/news/2019-04-17-review-metrics-in-transition-workshop-en
 lang: en
@@ -12,12 +12,12 @@ ref: review-metrics-in-transition-workshop
 {:.img--decoration-blue}
 ![Attendees](https://metrics-project.net/img/events/metrics_in_transition_IMG_6683.jpg){: style="min-width: 25%"}  
   
-On 27 & 28 March 2019 the final workshop of the *metrics project "Metrics In Transition" took place at the Göttingen State and University Library (SUB Göttingen). About 40 participants gathered in the historical building for the presentation of the project results as well as to hear further exciting talks about research evaluation and alternative metrics.
+On 27 & 28 March 2019 the final workshop of the \*metrics project "Metrics In Transition" took place at the Göttingen State and University Library (SUB Göttingen). About 40 participants gathered in the historical building for the presentation of the project results as well as to hear further exciting talks about research evaluation and alternative metrics.
 After the opening by library director Prof. Dr. Wolfram Horstmann, keynote speaker Joe Wass from Crossref talked about the role of open science infrastructures in metrics. Wass presented Crossref's latest tool - Eventdata - which collects online mentions from specific sources (e.g. Twitter, Wikipedia, Reddit) based on links to DOI-based publications. At this stage, the community is invited to evaluate the data for its own purposes and contribute ideas for further services.
-The *metrics project partners then presented the results of the project. In addition to reports on the results of the user studies carried out and evaluations of data from certain social media, the crawler developed by the project, the "Metrician", was also presented.
+The \*metrics project partners then presented the results of the project. In addition to reports on the results of the user studies carried out and evaluations of data from certain social media, the crawler developed by the project, the "Metrician", was also presented.
 After the poster session, in which the OpenAIRE Usage Metrics Service and the Counter-Bike tracking and reporting service were presented, the first workshop day ended with 3 breakout groups. The teams discussed the idea of a national provider of usage statistics and alternative metrics, the producers and users of alternative metrics, and evaluated the technical services developed in the project.
 The second day started with a presentation by Prof. Dr. Isabella Peters from the project partner ZBW on approaches for measuring openness, which asked the question whether an evaluation in the open science field is meaningful at all and if there is an aspirable ending.
-Afterwards, exciting projects on alternative metrics were presented, including the ROSI project, which will ideally continue the efforts from the *metrics project at the TIB Hannover.
+Afterwards, exciting projects on alternative metrics were presented, including the ROSI project, which will ideally continue the efforts from the \*metrics project at the TIB Hannover.
 Afterwards, various representatives of publishers, library networks and repositories presented the implementation of metrics into their services. Further approaches were presented in various discussions following the presentations. For example, the question arises who benefits from metrics and how their usability can be improved.  Challenges include the variety of different persistent identifier systems used for the same work, and different versions of the same work. Another criticism of social media metrics: Do we really want an evaluation of our science system with highly manipulative systems that are intransparent and privately owned? Jasmin Schmitz of the ZB Med says: "We have failed if Altmetrics only become a new impact factor. It is better to learn to read "traces of use".
 
 Finally, the results of the group discussions were presented, which allow interesting conclusions but also raise new questions. The group on the development of a national statistical service put forward the thesis that such a service would achieve comparability, among other things, by creating an incentive system for Open Access publishing. As prerequisites, transparency, metadata quality, sustainability, scalability and comparability were mentioned. The discussion leaders will take the topic to the next meeting of DINI AG "Electronic Publishing", but will also consider whether and how it could be tackled in a European or international context. Infrastructures like OpenAIRE with support from COAR would be suitable for this.
