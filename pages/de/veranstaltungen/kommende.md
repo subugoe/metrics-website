@@ -14,9 +14,12 @@ alt: "Kommende Veranstaltungen"
 
 Auf den folgenden Veranstaltungen kann man Kollegen vom \*metrics-Projekt antreffen:
 
-### Bibliothekskongress: 18.-21. März 2019, Leipzig {#Bkongress}  
-Im März findet der [7. Bibliothekskongress](https://www.bid-kongress-leipzig.de/index.php?id=1) unter dem Motto "Bibliotheken verändern" statt, bei dem Mitglieder des \*metrics-Projekts gleich zwei Beiträge zum Programm beisteuern:  
-Am 18. März halten [Astrid Orth, Steffen Lemke und Maryam Mehrazar](https://metrics-project.net/de/uber_uns/team/) die Präsentation [Traditionell oder alternativ: wie Forschende Metriken nutzen, verstehen und selbst anwenden](http://www.professionalabstracts.com/bid2019/iplanner/#/presentation/96) und am 20. März findet das [Hands-on Lab digital: Der Mensch im Mittelpunkt - und was kommt drumherum?](http://www.professionalabstracts.com/bid2019/iplanner/#/session/120) unter der Leitung von [Astrid Orth, Daniel Beucke](https://metrics-project.net/de/uber_uns/team/) und [Ben McLeish](https://www.altmetric.com/about-us/people/ben-mcleish/) statt. 
+###   Open Repositories 2019: 10.-13. Juni 2019, Hamburg {#ORep}  
   
-### \*Metrics in Transition - \*metrics Abschlussworkshop: 27.-28. März 2019, Göttingen   
-Am 27. & 28. März 2019 stellt das \*metrics-Team die Ergebnisse des Projektes vor und möchte mit der Community weitere Denkansätze zum Thema Metriken diskutieren. Desweiteren wird über den aktuellen Forschungsstand informiert und Kooperationsnetze für die Nachhaltigkeit und Fortentwicklung der Services initiiert. Bleiben Sie [hier](https://metrics-project.net/de/veranstaltungen/workshop2019/) auf dem Laufenden.   
+Die diesjährige [Open Repositories](https://or2019.blogs.uni-hamburg.de/) macht sich "All the User needs" zum Thema. 
+In Zusammenarbeit mit Jan Weiland und Wolfgang Riese von der ZBW werden die \*metrics-Teammitglieder [Astrid Orth, Maryam Mehrazar und Julius Stropel](https://metrics-project.net/de/uber_uns/team/) am 13. Juni eine Präsentation mit dem Titel ["Relevance and Challenges of Altmetrics for Repositories - answers from the \*metrics project"](https://www.conftool.net/or2019/index.php?page=browseSessions&form_room=1) vorstellen.
+  
+###   17th International Conference on Scientometrics and Infometrics: 2.-5. September 2019, Rom {#SSI19}
+  
+Im September diesen Jahres wird die von der Sapienza Universität veranstaltete [ISSI Konferenz](https://www.issi2019.org/) stattfinden. Ziel ist es, neue Methoden, Richtungen und Theorien der Wissenschaften rund um die Themenbereiche informetrics, bibliometrics, scientometrics, webometrics und altmetrics vorzustellen und zur Diskussion dieser anzuregen. [Steffen Lemke](https://metrics-project.net/de/uber_uns/team/) wird sein Paper namens "Coping with Altmetrics’ Heterogeneity – A Survey on Social Media Platforms’ Usage Purposes and Target Groups for Researchers" präsentieren.  
+  
