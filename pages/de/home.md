@@ -49,8 +49,8 @@ alt: "Webseite des *metrics Projektes"
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
   
-* 2019-03- 18-21 \| [Bibliothekskongress]({{site.url}}/de/veranstaltungen/kommende/#Bkongress)  
-* 2019-03- 27-28 \| [\*Metrics in Transition Workshop]({{site.url}}/de/veranstaltungen/workshop2019/)  
+* 2019-06- 10-13 \| [Open Repositories]({{site.url}}/de/veranstaltungen/kommende/#ORep)  
+* 2019-09- 02-05 \| [ 17th International Conference on Scientometrics and Infometrics]({{site.url}}/de/veranstaltungen/kommende/#SSI19)  
     
 <!-- Stop editing content here -->
 </div>

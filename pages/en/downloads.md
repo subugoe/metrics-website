@@ -12,9 +12,11 @@ symbol: "download"
 ---
 <!-- Start editing content here -->
 <br/>
+  
 *All our publications can also be found on [Zenodo](https://zenodo.org/communities/metrics-project?page=1&size=20)*
 
 <br/>
+  
 ## Publications  
   
 * Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. “When You Use Social Media You Are Not Working”: Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. https://doi.org/10.3389/frma.2018.00039.
@@ -26,7 +28,12 @@ symbol: "download"
 
 
 <br/>
+
 ## Presentations  
+
+German Library Congress 2019
+* Astrid Orth, Steffen Lemke, Maryam Mehrazar - [Traditionell oder alternativ: Wie Forschende Metriken nutzen, verstehen und selbst anwenden](https://doi.org/10.5281/zenodo.2654509)  
+* Astrid Orth, Daniel Beucke, Ben McLeish - [Nutzung von Social-Media bei Forschenden](https://doi.org/10.5281/zenodo.2654498)
   
 ASIS&T 2018  
 * Steffen Lemke – [Are There Different Types of Online Research Impact?]({{sitebase.url}}/downloads/Are%20There%20Different%20Types%20of%20Online%20Research%20Impact.pptx) 
