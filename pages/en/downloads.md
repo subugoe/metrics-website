@@ -27,6 +27,10 @@ symbol: "download"
 
 <br/>
 ## Presentations  
+
+Bibliothekskongress 2019
+* Astrid Orth, Steffen Lemke, Maryam Mehrazar - [Traditionell oder alternativ: Wie Forschende Metriken nutzen, verstehen und selbst anwenden](https://doi.org/10.5281/zenodo.2654509)  
+* Astrid Orth, Daniel Beucke, Ben McLeish - [Nutzung von Social-Media bei Forschenden](https://doi.org/10.5281/zenodo.2654498)
   
 ASIS&T 2018  
 * Steffen Lemke – [Are There Different Types of Online Research Impact?]({{sitebase.url}}/downloads/Are%20There%20Different%20Types%20of%20Online%20Research%20Impact.pptx) 
