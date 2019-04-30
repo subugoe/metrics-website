@@ -54,8 +54,8 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <div class="featurebox__content" markdown="1">
 <!-- Start editing content here -->
   
-* 2019-03- 18-21 \| [German Library Congress]({{site.url}}/en/events/upcoming/#Bkongress)  
-* 2019-03- 27-28 \| [\*Metrics in Transition Workshop]({{site.url}}/en/events/workshop2019/)  
+* 2019-06- 10-13 \| [Open Repositories]({{site.url}}/en/events/upcoming/#ORep)  
+* 2019-09- 02-05 \| [ISSI Conference]({{site.url}}/en/events/upcomin/#SSI19)  
   
 <!-- Stop editing here -->
 </div>
