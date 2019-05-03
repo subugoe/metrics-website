@@ -29,7 +29,15 @@ symbol: "download"
 <br/>
 
 ## Präsentationen    
-
+  
+\*Metrics in Transition Workshop  
+* Astrid Orth - [\*metrics Project Intro]({{sitebase.url}}/downloads/2019-03%20metrics-Intro.pptx)  
+* Maxie Gottschling - [\*metrics Project SUB results]({{sitebase.url}}/downloads/2019-03 metrics-SUB.pptx)  
+* Julius Stropel - [\*metrics from a Technical Point of View]({{sitebase.url}}/downloads/metrics_goe_stropel_03-2019.pptx)  
+* Katrin Weller, Olya Zagovora - [Which social media interactions indicate positive opinions about cited publications? A comparison of user survey and sentiment analysis]({{sitebase.url}}/downloads/Zagovora Altmetrics 2018 Poster Final FINAL.pdf)  
+* Steffen Lemke - [The \*metrics-project's user studies: How researchers percieve and use metrics]({{sitebase.url}}/downloads/steffen_lemke_metrics-in-transition-workshop.pptx)  
+* Astrid Orth - [\*metrics Project Summary]({{sitebase.url}}/downloads/2019-03%20metrics-Summary.pptx)  
+  
 Bibliothekskongress 2019
 * Astrid Orth, Steffen Lemke, Maryam Mehrazar - [Traditionell oder alternativ: Wie Forschende Metriken nutzen, verstehen und selbst anwenden](https://doi.org/10.5281/zenodo.2654509)  
 * Astrid Orth, Daniel Beucke, Ben McLeish - [Nutzung von Social-Media bei Forschenden](https://doi.org/10.5281/zenodo.2654498)
