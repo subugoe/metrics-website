@@ -55,7 +55,9 @@ Welcome to the website of the DFG funded project **\*metrics** (**ME**asuring **
 <!-- Start editing content here -->
   
 * 2019-06- 10-13 \| [Open Repositories]({{site.url}}/en/events/upcoming/#ORep)  
-* 2019-09- 02-05 \| [ISSI Conference]({{site.url}}/en/events/upcomin/#SSI19)  
+* 2019-06- 19-21 \| [OAI11 - CERN-UNIGE Workshop on Innovations in Scholarly Communication]({{site.url}}/en/events/upcoming/#OAI11)  
+* 2019-09- 02-05 \| [17th International Conference on Scientometrics and Infometrics]({{site.url}}/en/events/upcoming/#ISSI19)  
+* 2019-09- 30-10- 02 \| [Open Access Days 2019]({{site.url}}/en/events/upcoming/#OAT19)  
   
 <!-- Stop editing here -->
 </div>
