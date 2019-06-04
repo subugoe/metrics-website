@@ -50,7 +50,9 @@ alt: "Webseite des *metrics Projektes"
 <!-- Start editing content here -->
   
 * 2019-06- 10-13 \| [Open Repositories]({{site.url}}/de/veranstaltungen/kommende/#ORep)  
-* 2019-09- 02-05 \| [ 17th International Conference on Scientometrics and Infometrics]({{site.url}}/de/veranstaltungen/kommende/#SSI19)  
+* 2019-06- 19-21 \| [OAI11 - CERN-UNIGE Workshop on Innovations in Scholarly Communication]({{site.url}}/de/veranstaltungen/kommende/#OAI11)  
+* 2019-09- 02-05 \| [17th International Conference on Scientometrics and Infometrics]({{site.url}}/de/veranstaltungen/kommende/#ISSI19)
+* 2019-09- 30-10- 02 \| [Open-Access-Tage 2019]({{site.url}}/de/veranstaltungen/kommende/#OAT19)  
     
 <!-- Stop editing content here -->
 </div>
