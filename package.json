@@ -12,7 +12,7 @@
     "live-server": "^1.2",
     "node-sass": "^4.9.0",
     "nodemon": "^1.17.5",
-    "ntl": "^3.0.0",
+    "ntl": "^4.0.0",
     "postcss": "^6.0.22",
     "postcss-cli": "^5",
     "pretty-exceptions": "^1.4.0",
