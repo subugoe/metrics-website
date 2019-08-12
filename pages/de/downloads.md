@@ -22,6 +22,7 @@ symbol: "download"
   
 * Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 215-219. DOI: https://doi.org/10.1145/3201064.3201101
 
+Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2018. Are There Different Types of Online Research Impact?. In L. Freund (Ed.), Proceedings of the Association for Information Science and Technology (pp. 282– 289.) Hoboken, NJ: Wiley. DOI: https://doi.org/10.1002/pra2.2018.14505501031
 
 * Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 11-15. DOI: https://doi.org/10.1145/3201064.3201097
 
@@ -57,6 +58,7 @@ Bibliothekartag 2018
 
 WebSci2018
 * Olga Zagovora - [Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
+* Maryam Mehrazar - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media.] (https://dl.acm.org/citation.cfm?doid=3201064.3201101)
 
 Open Metrics Seminar
 * Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
