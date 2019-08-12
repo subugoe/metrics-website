@@ -59,6 +59,7 @@ Bibliothekartag 2018
 
 WebSci2018
 * Olga Zagovora - [Collective Attention towards Scientists and Research Topics](https://www.slideshare.net/OlgaZagovora1/collective-attention-towards-scientists-and-research-topics)
+* Maryam Mehrazar - [Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media.] (https://dl.acm.org/citation.cfm?doid=3201064.3201101)
 
 Open Metrics Seminar
 * Steffen Lemke - [Open Metrics: Originators and their Perceptions](https://doi.org/10.5281/zenodo.1254924)
