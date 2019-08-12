@@ -19,13 +19,15 @@ symbol: "download"
   
 ## Publications  
   
-* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. “When You Use Social Media You Are Not Working”: Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. https://doi.org/10.3389/frma.2018.00039.
+* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. "When You Use Social Media You Are Not Working": Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. https://doi.org/10.3389/frma.2018.00039.
 
-* Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 215-219. DOI: https://doi.org/10.1145/3201064.3201101
+* Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 215-219). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3201064.3201101
 
-Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2018. Are There Different Types of Online Research Impact?. In L. Freund (Ed.), Proceedings of the Association for Information Science and Technology (pp. 282– 289.) Hoboken, NJ: Wiley. DOI: https://doi.org/10.1002/pra2.2018.14505501031
+* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2018. Are There Different Types of Online Research Impact?. In L. Freund (Ed.), Proceedings of the Association for Information Science and Technology (pp. 282– 289.) Hoboken, NJ: Wiley. DOI: https://doi.org/10.1002/pra2.2018.14505501031
 
-* Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18). ACM, New York, NY, USA, 11-15. DOI: https://doi.org/10.1145/3201064.3201097
+* Olga Zagovora, Katrin Weller, Milan Janosov, Claudia Wagner, Isabella Peters. 2018. What increases (social) media attention: Research impact, author prominence or title attractiveness? In P. Wouters (Ed.), Proceedings of the 23rd International Conference on Science and Technology Indicators (pp. 1182-1190). Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands.  https://openaccess.leidenuniv.nl/bitstream/handle/1887/65362/STI2018_paper_199.pdf?sequence=1
+
+* Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 11-15). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3201064.3201097
 
 
 <br/>
