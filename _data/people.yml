@@ -92,9 +92,9 @@
 - name: Katrin Weller
   urls:
     de:
-      - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
+      - https://www.gesis.org/institut/mitarbeiterverzeichnis/person/katrin.weller
     en:
-      - https://www.gesis.org/en/institute/staff/person/?tx_gextstaffdir_staffdirectory[email]=katrin.weller%40gesis.org
+      - https://www.gesis.org/en/institute/staff/person/katrin.weller
   mail: Katrin.Weller@gesis.org
 
 - name: Olga Zagovora
