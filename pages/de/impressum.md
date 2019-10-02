@@ -40,7 +40,7 @@ E-Mail: bargheer(at)sub.uni-goettingen.de
 
 ## Umsatzsteuer-Identifikationsnummer
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE152336201  
+Umsatzsteuer-Identifikationsnummer der Georg-August-Universität Göttingen gemäß § 27 a Umsatzsteuergesetz: DE 286 005 408  
 
 ## Haftungsausschluss  
 
