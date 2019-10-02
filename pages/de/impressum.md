@@ -23,7 +23,7 @@ E-Mail: sekretariat(at)sub.uni-goettingen.de
 
 ## Vertreter
 
-Die Niedersächsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Ulrike Beisiegel gesetzlich vertreten.  
+Die Niedersächsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin (kommissarisch) Dr. Valérie Schüller (Vizepräsidentin für Finanzen und Personal) gesetzlich vertreten.  
 
 ## Zuständige Aufsichtsbehörde
 
