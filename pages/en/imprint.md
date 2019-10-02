@@ -41,8 +41,8 @@ E-mail: bargheer(at)sub.uni-goettingen.de
 
 ## VAT identification number  
 
-VAT identification number in accordance with Section 27(a) of the German Value Added Tax Act:  
-DE152336201  
+VAT identification number of the University of Göttingen in accordance with Section 27(a) of the German Value Added Tax Act:  
+DE 286 005 408  
 
 ## Disclaimer
 
