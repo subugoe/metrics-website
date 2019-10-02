@@ -23,7 +23,7 @@ E-mail: sekretariat(at)sub.uni-goettingen.de
 
 ## Representatives  
 
-Göttingen State and University Library is headed by Dr Wolfram Horstmann. The library is a central institution of the University of Göttingen. The University of Göttingen is a public body. It is legally represented by its president, Prof. Dr Ulrike Beisiegel.  
+Göttingen State and University Library is headed by Dr Wolfram Horstmann. The library is a central institution of the University of Göttingen. The University of Göttingen is a public public law corporation. It is legally represented by its acting President Dr. Valérie Schüller (Vice President Finance and Human Resources).  
 
 ## Competent supervisory authority  
 
