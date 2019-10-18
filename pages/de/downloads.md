@@ -33,7 +33,7 @@ symbol: "download"
 
 ## Konferenzen und Workshops
 
-# 2019
+### 2019
 *Open Access Tage 2019: 30. September - 2. Oktober 2019, Hannover*
 * Maxie Gottschling; Astrid Orth - Reliability and perception of open metrics (Poster)
 * Olaf Siegert - Altmetrische Nutzungsdaten für Repositorien - Erfahrungen aus einem Pilotprojekt in den Wirtschaftswissenschaften (Vortrag)
@@ -69,7 +69,7 @@ symbol: "download"
 *LIS Bibliometrics Forum: Open Metrics and Measuring Openness (LisBib19), 29. Januar 2019, London (GB)*
 * Isabella Peters - Measuring openness: Why measure openness and how do we do it? (Session Keynote)
 
-# 2018
+### 2018
 *Workshop Im Wikiversum wirken, Bibliothek für Bildungsgeschichtliche Forschung, DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, 12. Dezember 2018, Berlin*
 * Astrid Orth - Traditionelle und alternative Metriken im System der Wissenschaftskommunikation und die sich wandelnde Definition von Impact
 * Astrid Orth, Olga Zagovora - Fallbeispiele für alternative Messgrößen und die Anwendung von Indikatoren
@@ -121,8 +121,7 @@ symbol: "download"
 *Open Science Conference 2018: 13.-14. März 2018, Berlin*
 * Isabella Peters - ???
 
-# 2017
-
+### 2017
 *4:AM - Altmetrics Conference 2017 & Altmetrics17 Workshop: 26. - 29. September 2017, Toronto, Kanada*
 * Maryam Mehrazar - [Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf) (Poster) 
 * Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf) (Vortrag)
