@@ -35,21 +35,21 @@ symbol: "download"
 
 ### 2019
 **Open Access Tage 2019: 30. September - 2. Oktober 2019, Hannover**
-* Maxie Gottschling; Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/2019-07-08 Poster OAT19_final.pdf) (Poster)
-* Olaf Siegert - [Altmetrische Nutzungsdaten für Repositorien - Erfahrungen aus einem Pilotprojekt in den Wirtschaftswissenschaften]({{sitebase.url}}/downloads/ZBW-Altmetrische Nutzungsdaten für Repositorien.pdf) (Vortrag)
+* Maxie Gottschling; Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/201909_Poster_OAT19_final.pdf) (Poster)
+* Olaf Siegert - [Altmetrische Nutzungsdaten für Repositorien - Erfahrungen aus einem Pilotprojekt in den Wirtschaftswissenschaften]({{sitebase.url}}/downloads/201909_OAT_ZBW.pdf) (Vortrag)
 
 **Open Science Fair 2019: 16.-18. September 2019, Porto (Portugal)**
-* Maxie Gottschling, Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/OSFair 2019 metrics Poster.pdf) (Poster)
+* Maxie Gottschling, Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/201909_OSFair_metrics_ Poster.pdf) (Poster)
 
 **Science Slam at European Symposium on Societal Challenges in Computational Social Science (eurocss 2019): 2.-4. September 2019, Zürich (Schweiz)**
 * Katrin Weller: Sex, Fear and Death - Looking at Science through the Lense of YouTube. 
 
 **17th International Conference on Scientometrics and Infometrics (ISSI 2019): 2.-5. September 2019, Rom (Italien)**
-* Steffen Lemke, Isabella Peters - [Coping with Altmetrics’ Heterogeneity – A Survey on Social Media Platforms’ Usage Purposes and Target Groups for Researchers]({{sitebase.url}}/downloads/Coping with Altmetrics Heterogeneity_final (1).pdf) (Vortrag)
-* Maryam Mehrazar, Hadas Shema, Steffen Lemke, Isabella Peters - [Why do researchers from Economics and Social Sciences cite online? Insights from an exploratory survey]({{sitebase.url}}/downloads/2019-09 issi-poster.pdf) (Poster)
+* Steffen Lemke, Isabella Peters - [Coping with Altmetrics’ Heterogeneity – A Survey on Social Media Platforms’ Usage Purposes and Target Groups for Researchers]({{sitebase.url}}/downloads/201909_issi_steffen.pdf) (Vortrag)
+* Maryam Mehrazar, Hadas Shema, Steffen Lemke, Isabella Peters - [Why do researchers from Economics and Social Sciences cite online? Insights from an exploratory survey]({{sitebase.url}}/downloads/201909_issi_poster.pdf) (Poster)
 
 **OAI11 - CERN-UNIGE Workshop on Innovations in Scholarly Communication: 19.-21. Juni 2019, Genf (Schweiz)**
-* Astrid Orth - [Open Careers need Open Metrics]({{sitebase.url}}/downloads/2019-06-10 Poster OAI11 Orth_v3.pdf) (Poster)
+* Astrid Orth - [Open Careers need Open Metrics]({{sitebase.url}}/downloads/20190610_Poster_OAI11_final.pdf) (Poster)
 
 **Open Repositories 2019: 10.-13. Juni 2019, Hamburg**
 * Maryam Mehrazar, Jan Weiland, Wolfgang Riese, Julius Stropel, Astrid Orth - [Relevance and Challenges of Altmetrics for Repositories – answers from the \*metrics project]({{sitebase.url}}/downloads/2019-06_metrics-OR19.pdf) (Vortrag)
@@ -67,7 +67,7 @@ symbol: "download"
 * Astrid Orth, Daniel Beucke, Ben McLeish - [Nutzung von Social-Media bei Forschenden](https://doi.org/10.5281/zenodo.2654498)
 
 **LIS Bibliometrics Forum: Open Metrics and Measuring Openness (LisBib19), 29. Januar 2019, London (GB)**
-* Isabella Peters - [Measuring openness - Why measure openness and how do we do it?]({{sitebase.url}}/downloads/Peters_How to measure openness_LIS_London_2019.pdf) (Session Keynote)
+* Isabella Peters - [Measuring openness - Why measure openness and how do we do it?]({{sitebase.url}}/downloads/20190129_Peters_LIS_London.pdf) (Session Keynote)
 
 ### 2018
 **Workshop Im Wikiversum wirken, Bibliothek für Bildungsgeschichtliche Forschung, DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, 12. Dezember 2018, Berlin**
