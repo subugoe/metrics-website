@@ -52,7 +52,7 @@ symbol: "download"
 * Astrid Orth - [Open Careers need Open Metrics]({{sitebase.url}}/downloads/20190610_Poster_OAI11_final.pdf) (Poster)
 
 **Open Repositories 2019: 10.-13. Juni 2019, Hamburg**
-* Maryam Mehrazar, Jan Weiland, Wolfgang Riese, Julius Stropel, Astrid Orth - [Relevance and Challenges of Altmetrics for Repositories – answers from the \*metrics project]({{sitebase.url}}/downloads/2019-06_metrics-OR19.pdf) (Vortrag)
+* Maryam Mehrazar, Jan Weiland, Wolfgang Riese, Julius Stropel, Astrid Orth - [Relevance and Challenges of Altmetrics for Repositories – answers from the \*metrics project]({{sitebase.url}}/downloads/201906_metrics_OR19.pdf) (Vortrag)
 
 **\*Metrics in Transition Workshop: 27.-28. März 2019, Göttingen**  
 * Astrid Orth - [\*metrics Project Intro]({{sitebase.url}}/downloads/2019-03%20metrics-Intro.pptx)  
