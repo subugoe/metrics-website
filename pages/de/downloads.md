@@ -67,7 +67,7 @@ symbol: "download"
 * Astrid Orth, Daniel Beucke, Ben McLeish - [Nutzung von Social-Media bei Forschenden](https://doi.org/10.5281/zenodo.2654498)
 
 **LIS Bibliometrics Forum: Open Metrics and Measuring Openness (LisBib19), 29. Januar 2019, London (GB)**
-* Isabella Peters - [Measuring openness: Why measure openness and how do we do it?]({{sitebase.url}}/downloads/Peters_How to measure openness_LIS_London_2019.pdf) (Session Keynote)
+* Isabella Peters - [Measuring openness - Why measure openness and how do we do it?]({{sitebase.url}}/downloads/Peters_How to measure openness_LIS_London_2019.pdf) (Session Keynote)
 
 ### 2018
 **Workshop Im Wikiversum wirken, Bibliothek für Bildungsgeschichtliche Forschung, DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation, 12. Dezember 2018, Berlin**
