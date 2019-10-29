@@ -130,14 +130,14 @@ symbol: "download"
 * Daniel Beucke, Diana Lindner, Astrid Orth - \*metrics-Workshop - ["Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf) (workshop presentation)
 
 **CSS Summer School 2017, 24-29 Jul 2017, Sardinia (Italy)**
-* Olga Zagovora - Gender Bias and Altmetrics (Lightning Talk)
-* Anupama Aggarwal, Adela Fofiu, Milan Janosov, Lara Minkus, Olga Zagovora - Will Your Paper Get Hyped? (presentation) 
+* Olga Zagovora - [Gender Bias and Altmetrics]({{sitebase.url}}/downloads/CSS_SummerSchool_LightningTalk_Olga.pdf) (Lightning Talk)
+* Anupama Aggarwal, Adela Fofiu, Milan Janosov, Lara Minkus, Olga Zagovora - [Will Your Paper Get Hyped?]({{sitebase.url}}/downloads/CSS_SummerSchool_slides_Olga.pdf) (presentation) 
 
 **LIBER 2017: 5-7 July 2017, Patras (Greece)**
 * Sarah K. Coombs & Isabella Peters - [Presentation of LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) 
 
 **WebSci 2017, 26-28 June 2017, New York (USA)**
-* Olga Zagovora, Fabian Flöck, and Claudia Wagner - The Gendered Presentation of Professions on Wikipedia (presentation)
+* Olga Zagovora, Fabian Flöck, and Claudia Wagner - [Redirected from “female journalist”: The Gendered Presentation of Professions on Wikipedia]({{sitebase.url}}/downloads/websci17_slides_Olga.pdf) (presentation)
 
 **3rd Open Science Meet-up Göttingen Campus,  20 June 2017, Göttingen (Germany)**
 * Astrid Orth, Daniel Beucke - Impact metrics & researcher profiles (presentation)
