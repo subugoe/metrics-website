@@ -79,7 +79,7 @@ symbol: "download"
 * Steffen Lemke – [Are There Different Types of Online Research Impact?]({{sitebase.url}}/downloads/Are%20There%20Different%20Types%20of%20Online%20Research%20Impact.pptx)
 
 **5:AM: 26. - 27. September 2018, London (UK)**
-* Olga Zagovora et al. - Which Social Media Interactions Indicate Positive Opinions About Cited Publications? (Poster)
+* Olga Zagovora et al. - [Which Social Media Interactions Indicate Positive Opinions About Cited Publications?]({{sitebase.url}}/downloads/Zagovora_5am_Poster.pdf) (Poster)
 
 **Altmetrics18 Workshop, 25. September 2018, London (UK), London (UK)**
 * Olga Zagovora, Katrin Weller - YouTube videos as a place for public discussion of science
@@ -90,13 +90,13 @@ symbol: "download"
 
 **STI 2018: 12.-14. September 2018, Leiden (Niederlande)**
 * Katrin Weller, Isabella Peters, Astrid Orth -  Challenges of Social Media Data for Bibliometrics (Special Track)
-* Olga Zagovora, Katrin Weller, Milan Janosov, Claudia Wagner, Isabella Peters - What increases (social) media attention: Research impact, author prominence or title attractiveness? (Vortrag)
+* Olga Zagovora, Katrin Weller, Milan Janosov, Claudia Wagner, Isabella Peters - [What increases (social) media attention: Research impact, author prominence or title attractiveness?](http://hdl.handle.net/1887/65362) (Vortrag)
 
 **Workshop on Open Citations: 3. - 5. September 2018, Bologna (Italien)**
 * Astrid Orth, Steffen Lemke - [How do citation-based and alternative metrics benefit each other?]({{ sitebase.url }}/downloads/metrics_poster_download.pdf)
 
 **EuroCRIS 2018: 13.-15. Juni 2018, Umea, Schweden**
-* Daniel Beucke - \*metrics MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS (Poster)
+* Daniel Beucke - [\*metrics MEasuring The Reliability and perceptions of Indicators for interactions with sCientific productS]({{ sitebase.url }}/downloads/metrics_poster.pdf) (Poster)
 
 **Bibliothekartag 2018: 12. - 15. Juni 2018, Berlin**
 * Astrid Orth - Wahrnehmung und Transparenz offener Metriken [(Präsentation)](https://opus4.kobv.de/opus4-bib-info/files/3656/2018-06+BibTag_Berlin_Vortrag_Orth.pdf)[(abstract)]({{ sitebase.url }}/downloads/bibtag18_abstract_wahrnehmung_und_transparanz.pdf)
@@ -116,10 +116,8 @@ symbol: "download"
 * Steffen Lemke, Maryam Mehrazar - [User- and Usage Studies in the metrics Project](https://doi.org/10.5281/zenodo.1283183)
 
 **Dimensions Bibliometric Meeting: 16.-17. April 2018, Reading (GB)**
-* Isabella Peters - ???
+* Isabella Peters - Contexts of \*metrics
 
-**Open Science Conference 2018: 13.-14. März 2018, Berlin**
-* Isabella Peters - ???
 
 ### 2017
 **4:AM - Altmetrics Conference 2017 & Altmetrics17 Workshop: 26. - 29. September 2017, Toronto, Kanada**
