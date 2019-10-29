@@ -122,20 +122,20 @@ symbol: "download"
 ### 2017
 **4:AM - Altmetrics Conference 2017 & Altmetrics17 Workshop: 26. - 29. September 2017, Toronto, Kanada**
 * Maryam Mehrazar - [Exploring the Meaning and Perception of Altmetrics.]({{ sitebase.url }}/downloads/metrics_4am_poster.pdf) (Poster) 
-* Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{ sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf) (Vortrag)
+* Steffen Lemke - [Evaluating altmetrics acts through their creators – how to advance?]({{sitebase.url}}/downloads/altmetrics17_presentation_steffen_lemke.pdf) (Vortrag)
 
 **Open-Access-Tage 2017: 11.-13. September 2017, Dresden**
 * Daniel Beucke, Diana Lindner, Astrid Orth - \*metrics-Workshop - ["Wie vermessen ist das Vermessen wissenschaftlicher Kommunikation?"]({{ sitebase.url }}/downloads/oat2017_metrics_vermessen_slides.pdf)
 
 **CSS Summer School 2017, 24.-29. Juli 2017, Sardinien**
-* Olga Zagovora - Gender Bias and Altmetrics (Lightning Talk)
-* Anupama Aggarwal, Adela Fofiu, Milan Janosov, Lara Minkus, Olga Zagovora - Will Your Paper Get Hyped? (Vorstellung des Miniprojekts) 
+* Olga Zagovora - [Gender Bias and Altmetrics]({{sitebase.url}}/downloads/CSS_SummerSchool_LightningTalk_Olga.pdf) (Lightning Talk)
+* Anupama Aggarwal, Adela Fofiu, Milan Janosov, Lara Minkus, Olga Zagovora - [Will Your Paper Get Hyped?]({{sitebase.url}}/downloads/CSS_SummerSchool_slides_Olga.pdf) (Vorstellung des Miniprojekts) 
 
 **LIBER 2017: 5.-7. Juli 2017, Patras**
 * Sarah K. Coombs & Isabella Peters - [Präsentation vom LIBER Metrics Working Group Workshop]({{ sitebase.url }}/downloads/liber2017_metrics_workshop.pdf) 
 
 **WebSci 2017, 26.-28. Juni 2017, New York**
-* Olga Zagovora, Fabian Flöck, and Claudia Wagner - (Weitergeleitet von Journalistin): The Gendered Presentation of Professions on Wikipedia (Vortrag)
+* Olga Zagovora, Fabian Flöck, and Claudia Wagner - [(Weitergeleitet von Journalistin): The Gendered Presentation of Professions on Wikipedia]({{sitebase.url}}/downloads/websci17_slides_Olga.pdf) (Vortrag)
 
 **3rd Open Science Meet-up Göttingen Campus,  20 Juni 2017, Göttingen**
 * Astrid Orth, Daniel Beucke - Impact metrics & researcher profiles (Vortrag, Moderation)
