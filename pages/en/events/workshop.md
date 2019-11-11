@@ -20,6 +20,7 @@ On May 14-15, 2018 our Repository Metrics Workshop „Road To New Metrics“ too
 
 ## Monday, May 14th 2018
 - Fenner, Martin. [Open Metrics as Part of Persistent Identifier Infrastructure](http://doi.org/10.5281/zenodo.1250026).
+- de Virgilio, Francesco. HIRMEOS: a collaborative perspective on altmetrics for monographs. 
 - Giesler, Martin. [Social Media: The New Gatekeeper](http://doi.org/10.5281/zenodo.1250028).
 - Lindner, Diana, Gill, Julian, & Orth, Astrid. [metrics Project & Social Media Registry (SoMeR)](http://doi.org/10.5281/zenodo.1250032).
 - Stropel, Julius. [Technical Implementation of Information Gathering](http://doi.org/10.5281/zenodo.1250034).
