@@ -19,15 +19,15 @@ symbol: "download"
   
 ## Publications  
   
-* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. "When You Use Social Media You Are Not Working": Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. https://doi.org/10.3389/frma.2018.00039.
+* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. "When You Use Social Media You Are Not Working": Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. <https://doi.org/10.3389/frma.2018.00039>.
 
-* Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 215-219). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3201064.3201101
+* Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 215-219). ACM, New York, NY, USA. DOI: <https://doi.org/10.1145/3201064.3201101>
 
-* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2018. Are There Different Types of Online Research Impact?. In L. Freund (Ed.), Proceedings of the Association for Information Science and Technology (pp. 282– 289.) Hoboken, NJ: Wiley. DOI: https://doi.org/10.1002/pra2.2018.14505501031
+* Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2018. Are There Different Types of Online Research Impact?. In L. Freund (Ed.), Proceedings of the Association for Information Science and Technology (pp. 282– 289.) Hoboken, NJ: Wiley. DOI: <https://doi.org/10.1002/pra2.2018.14505501031>
 
-* Olga Zagovora, Katrin Weller, Milan Janosov, Claudia Wagner, Isabella Peters. 2018. What increases (social) media attention: Research impact, author prominence or title attractiveness? In P. Wouters (Ed.), Proceedings of the 23rd International Conference on Science and Technology Indicators (pp. 1182-1190). Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands.  https://openaccess.leidenuniv.nl/bitstream/handle/1887/65362/STI2018_paper_199.pdf?sequence=1
+* Olga Zagovora, Katrin Weller, Milan Janosov, Claudia Wagner, Isabella Peters. 2018. What increases (social) media attention: Research impact, author prominence or title attractiveness? In P. Wouters (Ed.), Proceedings of the 23rd International Conference on Science and Technology Indicators (pp. 1182-1190). Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands.  <https://openaccess.leidenuniv.nl/bitstream/handle/1887/65362/STI2018_paper_199.pdf?sequence=1>
 
-* Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 11-15). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3201064.3201097
+* Claudia Wagner, Olga Zagovora, Tatiana Sennikova, and Fariba Karimi. 2018. Collective Attention towards Scientists and Research Topics. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 11-15). ACM, New York, NY, USA. DOI: <https://doi.org/10.1145/3201064.3201097>
 
 
 <br/>
@@ -37,24 +37,24 @@ symbol: "download"
 
 ### 2019
 **Open Access Days 2019: 30 September - 2 October 2019, Hannover (Germany)**
-* Maxie Gottschling; Astrid Orth - Reliability and perception of open metrics (Poster)
-* Olaf Siegert - Altmetrische Nutzungsdaten für Repositorien - Erfahrungen aus einem Pilotprojekt in den Wirtschaftswissenschaften (Vortrag)
+* Maxie Gottschling; Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/201909_Poster_OAT19_final.pdf) (poster)
+* Olaf Siegert - [Altmetrische Nutzungsdaten für Repositorien - Erfahrungen aus einem Pilotprojekt in den Wirtschaftswissenschaften]({{sitebase.url}}/downloads/201909_OAT_ZBW.pdf) (presentation)
 
 **Open Science Fair 2019: 16-18 September 2019, Porto (Portugal)**
-* Maxie Gottschling, Astrid Orth - Reliability and perception of open metrics (poster)
+* Maxie Gottschling, Astrid Orth - [Reliability and perception of open metrics]({{sitebase.url}}/downloads/201909_OSFair_metrics_ Poster.pdf) (poster)
 
 **Science Slam at European Symposium on Societal Challenges in Computational Social Science (eurocss 2019): 2-4 September 2019, Zürich (Switzerland)**
 * Katrin Weller: Sex, Fear and Death - Looking at Science through the Lense of YouTube. 
 
 **17th International Conference on Scientometrics and Infometrics (ISSI 2019): 2-5 September 2019, Rome (Italy)**
-* Steffen Lemke, Isabella Peters - Coping with Altmetrics’ Heterogeneity – A Survey on Social Media Platforms’ Usage Purposes and Target Groups for Researchers (presentation)
-* Maryam Mehrazar, Hadas Shema, Steffen Lemke, Isabella Peters - Why do researchers from Economics and Social Sciences cite online? Insights from an exploratory survey (poster)
+* Steffen Lemke, Isabella Peters - [Coping with Altmetrics’ Heterogeneity – A Survey on Social Media Platforms’ Usage Purposes and Target Groups for Researchers]({{sitebase.url}}/downloads/201909_issi_steffen.pdf) (presentation)
+* Maryam Mehrazar, Hadas Shema, Steffen Lemke, Isabella Peters - [Why do researchers from Economics and Social Sciences cite online? Insights from an exploratory survey]({{sitebase.url}}/downloads/201909_issi_poster.pdf) (poster)
 
 **OAI11 - CERN-UNIGE Workshop on Innovations in Scholarly Communication: 19-21 June 2019, Geneva (Switzerland)**
-* Astrid Orth - Open Careers need Open Metrics (poster)
+* Astrid Orth - [Open Careers need Open Metrics]({{sitebase.url}}/downloads/20190610_Poster_OAI11_final.pdf) (poster)
 
 **Open Repositories 2019: 10-13 June 2019, Hamburg (Germany)**
-* Maryam Mehrazar, Jan Weiland, Wolfgang Riese, Julius Stropel, Astrid Orth - Relevance and Challenges of Altmetrics for Repositories – answers from the *metrics project (presentation)
+* Maryam Mehrazar, Jan Weiland, Wolfgang Riese, Julius Stropel, Astrid Orth - [Relevance and Challenges of Altmetrics for Repositories – answers from the \*metrics project]({{sitebase.url}}/downloads/201906_metrics_OR19.pdf) (presentation)
 
 **\*Metrics in Transition Workshop: 27-28 March 2019, Göttingen (Germany)**  
 * Astrid Orth - [\*metrics Project Intro]({{sitebase.url}}/downloads/2019-03%20metrics-Intro.pptx)  
