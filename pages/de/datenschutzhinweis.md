@@ -20,7 +20,7 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für
 
 ## Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 ### Name und Kontaktdaten des Verantwortlichen
-Prof. Dr. Ulrike Beisiegel  
+Dr. Valérie Schüller    
 Wilhelmsplatz 1   
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
@@ -43,7 +43,7 @@ Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung
 Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person ist, erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind.
 Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der unser Unternehmen unterliegt, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage.
 Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
-Ihre Daten werden auf Grundlage von Art. 6 Abs. 1 lit. d DSGVO dafür erhoben, um Ihr Anliegen zu bearbeiten und gleichzeitig die Wahrnehmung unserer Aufgaben zu ermöglichen, die im öffentlichen Interesse liegen.
+Ihre Daten werden auf Grundlage von Art. 6 Abs. 1 lit. e DSGVO dafür erhoben, um Ihr Anliegen zu bearbeiten und gleichzeitig die Wahrnehmung unserer Aufgaben zu ermöglichen, die im öffentlichen Interesse liegen.
 Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unserer Einrichtung oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung. Dies ist immer dann der Fall, wenn Sie mit uns über die angegebene E-Mail-Adresse in Kontakt treten. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran auch das erforderliche berechtigte Interesse an der Verarbeitung der Daten.
 
 ## Empfänger der personenbezogenen Daten
