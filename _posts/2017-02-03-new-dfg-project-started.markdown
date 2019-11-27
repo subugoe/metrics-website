@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\*metrics – MEasuring The Reliability and perceptions of Indicators for
+title: "*metrics – MEasuring The Reliability and perceptions of Indicators for
 interactions with sCientific productS"
 categories: news
 permalink: /en/news/2017-new-dfg-project-started/
