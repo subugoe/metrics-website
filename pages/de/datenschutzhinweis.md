@@ -20,7 +20,7 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für
 
 ## Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 ### Name und Kontaktdaten des Verantwortlichen
-Der Präsident
+Der Präsident  
 Prof. Dr. Reinhard Jahn     
 Wilhelmsplatz 1   
 37073 Göttingen  
