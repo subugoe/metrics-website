@@ -20,12 +20,13 @@ Sämtliche personenbezogenen Daten werden nur solange gespeichert, wie dies für
 
 ## Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person
 ### Name und Kontaktdaten des Verantwortlichen
-Dr. Valérie Schüller    
+Der Präsident
+Prof. Dr. Reinhard Jahn     
 Wilhelmsplatz 1   
 37073 Göttingen  
 +49 551 39 - 21000 (Tel.)  
 +49 551 39 - 1821000 (Fax)  
-praesidentin@uni-goettingen.de  
+praesident@uni-goettingen.de  
 
 ### Kontaktdaten des betrieblichen Datenschutzbeauftragen
 Prof. Dr. Andreas Wiebe  
