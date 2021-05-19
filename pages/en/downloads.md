@@ -19,6 +19,8 @@ symbol: "download"
   
 ## Publications  
   
+* Steffen Lemke, Olga Zagovora, Kathrin Weller, Astrid Orth, Daniel Beucke, Julius Stropel, Isabella Peters. 2020. \*metrics: Recommendations from the DFG \*metrics Project for “Measuring The Reliability and perceptions of Indicators for interactions with scientific products”. DINI Schriften 19-en. Deutsche Initiative für Netzwerkinformationen e.V. DOI:  <https://doi.org/10.18452/22242.2>.
+
 * Steffen Lemke, Maryam Mehrazar, Athanasios Mazarakis, Isabella Peters. 2019. "When You Use Social Media You Are Not Working": Barriers for the Use of Metrics in Social Sciences. Frontiers in Research Metrics and Analytics 3 (2019): 39. <https://doi.org/10.3389/frma.2018.00039>.
 
 * Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, and Isabella Peters. 2018. Can We Count on Social Media Metrics?: First Insights into the Active Scholarly Use of Social Media. In Proceedings of the 10th ACM Conference on Web Science (WebSci '18) (pp. 215-219). ACM, New York, NY, USA. DOI: <https://doi.org/10.1145/3201064.3201101>
