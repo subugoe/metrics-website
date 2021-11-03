@@ -57,7 +57,7 @@ ref: impressions-metrics-in-transition-workshop
 ![Group Work](https://metrics-project.net/img/events/metrics_in_transition_IMG_20190327_170315.jpg){: style="min-width: 25%"}   
     
    {:.img--decoration-blue}
-![Steffen Lemke](https://metrics-project.net/img/metrics_in_transition_IMG_6692.jpg){: style="min-width: 25%"}   
+![Steffen Lemke](https://metrics-project.net/img/events/metrics_in_transition_IMG_6692.jpg){: style="min-width: 25%"}   
     
    {:.img--decoration-blue}
 ![Group Work](https://metrics-project.net/img/events/metrics_in_transition_IMG_20190327_170209.jpg){: style="min-width: 25%"}
